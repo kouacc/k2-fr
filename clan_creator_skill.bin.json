@@ -1,0 +1,1786 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 163,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 96,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "category": "1",
+    "use_cost": "0",
+    "explanation": "1",
+    "effect": "0",
+    "effect0": "1",
+    "effect1": "1",
+    "cost": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "category": 2,
+    "use_cost": -1,
+    "explanation": 0,
+    "effect": -1,
+    "effect0": 2,
+    "effect1": 2,
+    "cost": 3
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "category": 0,
+    "use_cost": -1,
+    "explanation": 12,
+    "effect": -1,
+    "effect0": 0,
+    "effect1": 0,
+    "cost": 6
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    3,
+    5,
+    4,
+    2,
+    8,
+    6,
+    7
+  ],
+  "0": {
+    "": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "bomb": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "flying_cross_chop": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "flying_cross_chop_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "drop_kick": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "drop_kick_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "diving_head": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "diving_head_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "stun_kick": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "stun_kick_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "kaiten_lariat": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "kaiten_lariat_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "bakugeki": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "Healing": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "Healing_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "recovery": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "offensive": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "tyouhatu_A": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "tyouhatu_B": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "daisyuugou": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "bibirase": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "muscleparty": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "rain_maker": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "Love_of_the_warrior": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "tranquilo": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "ytr": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "violent_bull": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "cozy_crash": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "rolling_slash": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "gokurennki_daifugaku": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "goutai": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "offensive_toujoukai": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "reserve00": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "reserve01": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "reserve02": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "reserve03": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "reserve04": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "reserve05": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "reserve06": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "reserve07": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "reserve08": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "reserve09": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "reserve10": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "reserve11": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "reserve12": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "reserve13": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "reserve14": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "reserve15": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "reserve16": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "reserve17": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "reserve18": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "reserve19": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "reserve20": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "taigun_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "rocket_launcher_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "dojima_dragon": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "skill_00": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "skill_01": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "boost_attack": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "skill_02": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "skill_03": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "skill_04": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "skill_05": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "skill_06": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "skill_07": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "skill_08": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "boost_defense": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "skill_10": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "skill_11": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "skill_12": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "skill_13": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "skill_14": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "skill_15": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "skill_16": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "skill_17": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "skill_18": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "skill_19": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "tornado_s": {
+      "name": "Essence de la tornade",
+      "category": 11,
+      "explanation": "Invoque une tornade qui repousse les ennemis\r\ndans les environs pendant 3 secondes.\r\n\r\n(Coût : 1 500)",
+      "effect0": 4,
+      "effect1": 0,
+      "cost": 1500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "78": {
+    "tornado_m": {
+      "name": "Magicien brillant",
+      "category": 11,
+      "explanation": "Invoque une énorme tornade et inflige des dégâts\r\nimportants aux ennemis dans les environs.\r\n(Coût : 2 500)",
+      "effect0": 5,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "79": {
+    "thunder_s": {
+      "name": "Essence du châtiment",
+      "category": 11,
+      "explanation": "Invoque des éclairs féroces et inflige des dommages\r\nparalysants aux ennemis dans la zone environnante.\r\n(Coût : 1 500)",
+      "effect0": 6,
+      "effect1": 0,
+      "cost": 1500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "80": {
+    "thunder_m": {
+      "name": "Dragon ascendant",
+      "category": 11,
+      "explanation": "Invoque des éclairs féroces et inflige\r\ndes dégâts paralysants importants aux ennemis dans\r\nla zone environnante. (Coût : 2 500)",
+      "effect0": 7,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "81": {
+    "skill_20": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "skill_21": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "fire_s": {
+      "name": "Essence de la tempête de feu",
+      "category": 11,
+      "explanation": "Invoque une tornade de feu et inflige des dégâts\r\nde brûlure aux ennemis dans la zone environnante.\r\n(Coût : 1 500)",
+      "effect0": 8,
+      "effect1": 0,
+      "cost": 1500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "84": {
+    "fire_m": {
+      "name": "Dragon flamboyant",
+      "category": 11,
+      "explanation": "Invoque une tornade de feu et inflige des dégâts\r\nmajeurs aux ennemis qui se trouvent dans les\r\nenvirons. (Coût : 2 500)",
+      "effect0": 9,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "85": {
+    "skill_22": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "86": {
+    "skill_23": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "87": {
+    "skill_24": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "88": {
+    "skill_25": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "89": {
+    "skill_26": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "90": {
+    "skill_27": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "91": {
+    "skill_28": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "92": {
+    "skill_29": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "93": {
+    "skill_30": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "94": {
+    "skill_31": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "95": {
+    "skill_32": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "96": {
+    "bomb_normal": {
+      "name": "Essence des explosifs",
+      "category": 2,
+      "explanation": "Disperse des bombes dans les environs\r\net fait exploser les ennemis dans une explosion massive.\r\n(Coût : 1 000)",
+      "effect0": 11,
+      "effect1": 0,
+      "cost": 1000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "97": {
+    "bomb_numb": {
+      "name": "Essence des bombes paralysantes",
+      "category": 2,
+      "explanation": "Dispersez des bombes paralysantes dans les environs\r\net infligez des dégâts paralysants aux ennemis proches.\r\n(Coût : 1 100)",
+      "effect0": 12,
+      "effect1": 0,
+      "cost": 1100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "98": {
+    "bomb_fire": {
+      "name": "Essence du molotov",
+      "category": 2,
+      "explanation": "Répands des cocktails Molotov dans les environs\r\net inflige des dégâts de brûlure aux ennemis proches.\r\n(Coût : 1 100)",
+      "effect0": 13,
+      "effect1": 0,
+      "cost": 1100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "99": {
+    "base_Healing": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "100": {
+    "base_Healing_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "101": {
+    "boost_attack_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "102": {
+    "boost_attack_short": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "103": {
+    "boost_attack_short_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "104": {
+    "speed_up": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "105": {
+    "speed_up_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "106": {
+    "speed_down": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "107": {
+    "speed_down_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "108": {
+    "boost_defense_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "109": {
+    "boost_defense_short": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "110": {
+    "boost_defense_short_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "111": {
+    "base_defense": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "112": {
+    "base_defense_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "113": {
+    "stun": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "114": {
+    "stun_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "115": {
+    "boost_attack_defense": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "116": {
+    "boost_attack_defense_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "117": {
+    "Inspiration": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "118": {
+    "Inspiration_kiwami": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "119": {
+    "Sacrifice": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "120": {
+    "ichibachi": {
+      "name": "Essence de la chance",
+      "category": 11,
+      "explanation": "Utilise de façon aléatoire l'une des essences suivantes :\r\nSoins authentiques, explosions, molotov, bombes\r\nparalysantes, foudre, tornade, tempête de feu,\r\nfumée paralysante. (Coût : 1 000)",
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 1000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "121": {
+    "Burn out": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "122": {
+    "Good luck": {
+      "name": "Essence de la bonne chance",
+      "category": 5,
+      "explanation": "1,5x l'argent gagné entre les vagues ennemies.\r\n(Coût : 800)",
+      "effect0": 47,
+      "effect1": 0,
+      "cost": 800,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "123": {
+    "hungman": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "124": {
+    "Energy_saving": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "125": {
+    "Energy-saving_konjo": {
+      "category": 0,
+      "effect0": 0,
+      "effect1": 0,
+      "cost": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "126": {
+    "katuage": {
+      "name": "Essence du racket",
+      "category": 5,
+      "explanation": "Les ennemis laissent tomber 5 fois de l'argent\r\npendant 30 secondes. (Coût : 100)",
+      "effect0": 48,
+      "effect1": 0,
+      "cost": 100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "127": {
+    "healing_s": {
+      "name": "Essence de la guérison",
+      "category": 10,
+      "explanation": "Guérit 25% de la santé de tous les alliés.\r\n(Coût : 1 500)",
+      "effect0": 27,
+      "effect1": 0,
+      "cost": 1500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "128": {
+    "healing_m": {
+      "name": "Vraie essence de la guérison",
+      "category": 10,
+      "explanation": "Guérit 50% de la santé de tous les alliés.\r\n(Coût : 2 500)",
+      "effect0": 28,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "129": {
+    "base_Healing_s": {
+      "name": "Essence de la réparation",
+      "category": 10,
+      "explanation": "Répare 10% de durabilité pour tous les équipements.\r\n(Coût : 3 000)",
+      "effect0": 43,
+      "effect1": 0,
+      "cost": 3000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "130": {
+    "base_Healing_m": {
+      "name": "Vraie essence de la réparation",
+      "category": 10,
+      "explanation": "Répare 30% de durabilité pour tous les équipements.\r\n(Coût : 6 000)",
+      "effect0": 44,
+      "effect1": 0,
+      "cost": 6000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "131": {
+    "boost_attack_s": {
+      "name": "Essence de l'attaque",
+      "category": 7,
+      "explanation": "1,5x l'attaque pour tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
+      "effect0": 29,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "132": {
+    "boost_attack_m": {
+      "name": "Vraie essence de l'attaque",
+      "category": 7,
+      "explanation": "1,5x l'attaque pour tous les alliés pendant\r\n45 secondes.(Coût : 2 500)",
+      "effect0": 30,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "133": {
+    "boost_attack_short_s": {
+      "name": "Essence de l'assaut",
+      "category": 7,
+      "explanation": "Attaque 3x pour tous les alliés pendant 15 secondes. (Coût : 2 000)",
+      "effect0": 31,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "134": {
+    "boost_attack_short_m": {
+      "name": "Vraie essence de l'assaut",
+      "category": 7,
+      "explanation": "Attaque 5x pour tous les alliés pendant\r\n15 secondes. (Coût : 2 500)",
+      "effect0": 32,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "135": {
+    "speed_up_s": {
+      "name": "Essence du sprint",
+      "category": 12,
+      "explanation": "Vitesse accrue pour tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
+      "effect0": 39,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "136": {
+    "speed_up_m": {
+      "name": "Vraie essence du sprint",
+      "category": 12,
+      "explanation": "Vitesse accrue pour tous les alliés pendant\r\n45 secondes. (Coût : 2 500)",
+      "effect0": 40,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "137": {
+    "speed_down_s": {
+      "name": "Essence de mélasse",
+      "category": 13,
+      "explanation": "Vitesse réduite pour tous les ennemis pendant\r\n30 secondes. (Coût : 2 000)",
+      "effect0": 41,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "138": {
+    "speed_down_m": {
+      "name": "Vraie essence de mélasse",
+      "category": 13,
+      "explanation": "Vitesse réduite pour tous les ennemis pendant\r\n30 secondes. (Coût : 2 500)",
+      "effect0": 42,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "139": {
+    "boost_defense_s": {
+      "name": "Essence de la défense",
+      "category": 8,
+      "explanation": "3x la défense de tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
+      "effect0": 33,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "140": {
+    "boost_defense_m": {
+      "name": "Vraie essence de la défense",
+      "category": 8,
+      "explanation": "3x la défense de tous les alliés pendant\r\n45 secondes. (Coût : 2 500)",
+      "effect0": 34,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "141": {
+    "boost_defense_short_s": {
+      "name": "Essence de coeur de fer",
+      "category": 8,
+      "explanation": "5x la défense de tous les alliés pendant\r\n15 secondes. (Coût : 2 000)",
+      "effect0": 35,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "142": {
+    "boost_defense_short_m": {
+      "name": "Vraie essence de coeur de fer",
+      "category": 8,
+      "explanation": "5x la défense de tous les alliés pendant\r\n15 secondes. (Coût : 2 500)",
+      "effect0": 36,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "143": {
+    "base_defense_s": {
+      "name": "Essence de la fortification",
+      "category": 8,
+      "explanation": "Les ennemis infligent 50 % de dégâts d'équipement\r\nen moins pendant 30 secondes.\r\n(Coût : 2 500)",
+      "effect0": 45,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "144": {
+    "base_defense_m": {
+      "name": "Vraie essence de la fortification",
+      "category": 8,
+      "explanation": "Les ennemis infligent 50 % de dégâts d'équipement\r\nen moins pendant 30 secondes.\r\n(Coût : 4 000)",
+      "effect0": 46,
+      "effect1": 0,
+      "cost": 4000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "145": {
+    "stun_s": {
+      "name": "Essence de la fumée paralysante",
+      "category": 11,
+      "explanation": "Remplit la zone environnante de fumée\r\npendant 10 secondes. Les ennemis qui entrent en\r\ncontact avec la fumée s'évanouissent.\r\n(Coût : 2 500)",
+      "effect0": 53,
+      "effect1": 0,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "146": {
+    "stun_m": {
+      "name": "Vraie essence de la paralysie",
+      "category": 11,
+      "explanation": "Remplit la zone environnante de fumée\r\npendant 10 secondes. Les ennemis qui entrent en\r\ncontact avec la fumée s'évanouissent.\r\n (Coût : 3 500)",
+      "effect0": 54,
+      "effect1": 0,
+      "cost": 3500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "147": {
+    "boost_attack_defense_s": {
+      "name": "Essence des muscles",
+      "category": 7,
+      "explanation": "1,5x attaque et 3x défense pour tous les alliés\r\npendant 30 secondes.\r\n(Coût : 3 000)",
+      "effect0": 29,
+      "effect1": 33,
+      "cost": 3000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "148": {
+    "boost_attack_defense_m": {
+      "name": "Boost de puissance",
+      "category": 7,
+      "explanation": "1,5x attaque et 3x défense pour tous les alliés\r\npendant 45 secondes.\r\n(Coût : 4 000)",
+      "effect0": 30,
+      "effect1": 34,
+      "cost": 4000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "149": {
+    "inspiration_s": {
+      "name": "Essence de l'inspiration",
+      "category": 9,
+      "explanation": "1,5x l'attaque et l'invincibilité pour tous les\r\nalliés pendant 15 secondes.\r\n(Coût : 2 500)",
+      "effect0": 37,
+      "effect1": 17,
+      "cost": 2500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "150": {
+    "Inspiration_m": {
+      "name": "Charisme noir",
+      "category": 9,
+      "explanation": "3x l'attaque et l'invincibilité pour toutes\r\nles personnes pendant 15 secondes.\r\n(Coût : 4 500)",
+      "effect0": 38,
+      "effect1": 17,
+      "cost": 4500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "151": {
+    "sacrifice": {
+      "name": "Essence de la richesse",
+      "category": 5,
+      "explanation": "3x l'argent gagné en ramassant de l'argent\r\npendant 30 secondes.  (Coût : 100)",
+      "effect0": 49,
+      "effect1": 0,
+      "cost": 100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "152": {
+    "energy_saving": {
+      "name": "Essence de l'écolo : Compétence",
+      "category": 5,
+      "explanation": "L'utilisation d'une compétence coûte 50% de\r\nmoins d'argent pendant 30 secondes.\r\n(Coût : 500)",
+      "effect0": 50,
+      "effect1": 0,
+      "cost": 500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "153": {
+    "energy-saving_konjo": {
+      "name": "Essence de l'écolo : Esprit",
+      "category": 5,
+      "explanation": "L'élévation de l'esprit coûte 50% de moins\r\nd'argent pendant 30 secondes.  (Coût : 1 000)",
+      "effect0": 51,
+      "effect1": 0,
+      "cost": 1000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "154": {
+    "healing_tana": {
+      "name": "Je t'aime !",
+      "category": 10,
+      "explanation": "Soigne 40% de la santé de tous les alliés.\r\n(Coût : 2 000)",
+      "effect0": 55,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "155": {
+    "speed_down_naito": {
+      "name": "Tranquilo !",
+      "category": 13,
+      "explanation": "Réduit la vitesse de tous les ennemis pendant\r\n40 secondes. (Coût : 2 100)",
+      "effect0": 56,
+      "effect1": 0,
+      "cost": 2100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "156": {
+    "tornado_majima": {
+      "name": "Tornade du dragon",
+      "category": 11,
+      "explanation": "Invoque une tornade qui souffle les ennemis\r\ndans les environs pendant 5 secondes.\r\n(Coût : 1 700)",
+      "effect0": 4,
+      "effect1": 0,
+      "cost": 1700,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "157": {
+    "tornado_majima_m": {
+      "name": "Le chien fou frappe",
+      "category": 11,
+      "explanation": "Invoque une énorme tornade et inflige des dégâts\r\nimportants aux ennemis dans les environs.\r\n(Coût : 2 000)",
+      "effect0": 5,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "158": {
+    "thunder_kiryu": {
+      "name": "Dragon de Dojima",
+      "category": 11,
+      "explanation": "Invoque des éclairs féroces et inflige des dégâts\r\nd'étourdissement importants aux ennemis dans la\r\nzone environnante. (Coût : 2 000)",
+      "effect0": 7,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "159": {
+    "boost_attack_defense_sayama": {
+      "name": "Chasseuse de Yakuza",
+      "category": 7,
+      "explanation": "1,5x attaque et 3x défense pour tous les alliés\r\npendant 45 secondes.\r\n(Coût : 3 500)",
+      "effect0": 30,
+      "effect1": 34,
+      "cost": 3500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "160": {
+    "fire_ryuji": {
+      "name": "Dragon du Kansai",
+      "category": 11,
+      "explanation": "Invoque une tornade de feu et inflige des dégâts\r\nmajeurs aux ennemis qui se trouvent dans les\r\nenvirons. (Coût : 2 000)",
+      "effect0": 9,
+      "effect1": 0,
+      "cost": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "161": {
+    "Inspiration_daigo": {
+      "name": "Charisme du futur",
+      "category": 9,
+      "explanation": "3x l'attaque et l'invincibilité pour toutes\r\nles personnes pendant 15 secondes.\r\n(Coût : 4 000)",
+      "effect0": 38,
+      "effect1": 17,
+      "cost": 4000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "162": {
+    "sacrifice_okada": {
+      "name": "Essence du Rainmaker",
+      "category": 5,
+      "explanation": "5x l'argent gagné en ramassant de l'argent\r\npendant 30 secondes.  (Coût : 500)",
+      "effect0": 57,
+      "effect1": 0,
+      "cost": 500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 14,
+  "COLUMN_COUNT": 8,
+  "TEXT_COUNT": 10,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "timeline_category": "0",
+    "clock": "0",
+    "information": "1",
+    "close_clock": "1",
+    "open_timeline": "1",
+    "open_clock": "1",
+    "close_timeline": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "timeline_category": -1,
+    "clock": -1,
+    "information": 0,
+    "close_clock": 0,
+    "open_timeline": 2,
+    "open_clock": 0,
+    "close_timeline": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "timeline_category": -1,
+    "clock": -1,
+    "information": 12,
+    "close_clock": 2,
+    "open_timeline": 0,
+    "open_clock": 2,
+    "close_timeline": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    7,
+    4,
+    3
+  ],
+  "0": {
+    "": {
+      "close_clock": 0,
+      "open_timeline": 0,
+      "open_clock": 0,
+      "close_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "league_status_01": {
+      "information": "N/A",
+      "close_clock": 8,
+      "open_timeline": 29,
+      "open_clock": 1,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "league_status_02": {
+      "information": "Participe à la Ligue Fresh.",
+      "close_clock": 9,
+      "open_timeline": 29,
+      "open_clock": 8,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "3": {
+    "league_status_03": {
+      "information": "Peut se battre pour le titre de la Ligue Fresh.",
+      "close_clock": 17,
+      "open_timeline": 29,
+      "open_clock": 9,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "4": {
+    "league_status_04": {
+      "information": "Participe à la Ligue Paradise.",
+      "close_clock": 18,
+      "open_timeline": 29,
+      "open_clock": 17,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "5": {
+    "league_status_05": {
+      "information": "Peut se battre pour le titre de la Ligue Paradise.",
+      "close_clock": 25,
+      "open_timeline": 29,
+      "open_clock": 18,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "6": {
+    "league_status_06": {
+      "information": "Participe à la Ligue Executive.",
+      "close_clock": 26,
+      "open_timeline": 29,
+      "open_clock": 25,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "7": {
+    "league_status_07": {
+      "information": "Peut se battre pour le titre de la Ligue Executive.",
+      "close_clock": 31,
+      "open_timeline": 29,
+      "open_clock": 26,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "8": {
+    "league_status_08": {
+      "information": "Participe à la Ligue Millionaire.",
+      "close_clock": 32,
+      "open_timeline": 29,
+      "open_clock": 31,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "9": {
+    "league_status_09": {
+      "information": "Peut se battre pour le titre de la Ligue Millionnaire.",
+      "close_clock": 37,
+      "open_timeline": 29,
+      "open_clock": 32,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "10": {
+    "league_status_10": {
+      "information": "Peut tenter le Match final.",
+      "close_clock": 38,
+      "open_timeline": 29,
+      "open_clock": 37,
+      "close_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "11": {
+    "league_status_11": {
+      "information": "N/A",
+      "close_clock": 0,
+      "open_timeline": 29,
+      "open_clock": 42,
+      "close_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "12": {
+    "league_status_12": {
+      "close_clock": 0,
+      "open_timeline": 0,
+      "open_clock": 0,
+      "close_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "13": {
+    "league_status_13": {
+      "close_clock": 0,
+      "open_timeline": 0,
+      "open_clock": 0,
+      "close_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  }
+}

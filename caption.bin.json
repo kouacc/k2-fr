@@ -1,0 +1,4440 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 364,
+  "COLUMN_COUNT": 7,
+  "TEXT_COUNT": 20,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name_texture_id": "1",
+    "daimon_texture_id": "1",
+    "type": "1",
+    "message": "1",
+    "player": "1",
+    "hide_localized_text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name_texture_id": 1,
+    "daimon_texture_id": 1,
+    "type": 2,
+    "message": 0,
+    "player": 2,
+    "hide_localized_text": 6
+  },
+  "columnTypes2": {
+    "": -1,
+    "name_texture_id": 1,
+    "daimon_texture_id": 1,
+    "type": 0,
+    "message": 12,
+    "player": 0,
+    "hide_localized_text": 11
+  },
+  "COLUMN_INDICES": [
+    0,
+    3,
+    1,
+    2,
+    4,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "awano": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "nishiki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "yakuza": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "majima": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "kurosyozoku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "kurosyozokuta": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "ayashiiotokotachi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "garawarutachi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "tachiwarutachi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "yanky": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "chinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "defeat_convini": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "go_saijyokai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "chase": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "search_himei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "search_kanban": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "search_shuemei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "ayashiiotokotachi_l": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "hostkuzure": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "chapter01": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "chapter02": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "chapter03": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "chapter04": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "chapter05": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "chapter06": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "chapter07": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "chapter08": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "chapter09": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "chapter10": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "chapter11": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "chapter12": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "chapter13": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "ayashiiotoko": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "garawaru": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "machigang": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "machijuninn": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "youmeikumiin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "zousen": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "amonjyo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "bousouzoku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "saikyokai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "jinguon": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "someyaikka": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "yopparai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "rensyu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "defeat_otte": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "delivery_jikannai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "go_deguchi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "goeiseyo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "nagumo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "han": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "iwami": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "koshimizu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "masuzoe": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "someya": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "nagumo1": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "search_yuta": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "kurosyozoku_hira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "ajiagaiisoge": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "akiyamajouhou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "angoubasyo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "angoujyouhou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "ayashiiotoko_tsuka": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "go_ajia": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "go_apahoteru": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "go_apahoteru6": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "go_arupusu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "go_biruokujyou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "go_bochi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "go_ferinoriba": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "go_gesuidou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "go_hijyouguchi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "go_hiroseikka": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "go_jidoukouen": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "go_jimusyo2": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "go_keisatubyouin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "go_kiyomi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "go_moreno": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "go_newserena": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "go_okanoue": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "go_oukabiru": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "go_ropuwei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "go_ryunan": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "84": {
+    "go_suigun": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "85": {
+    "go_sky": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "86": {
+    "go_sunadokei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "87": {
+    "go_sutadasuto": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "88": {
+    "go_tokoya": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "89": {
+    "go_tougenkyou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "90": {
+    "go_toujyoukai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "91": {
+    "go_toutobyouin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "92": {
+    "go_yakkyoku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "93": {
+    "harutodakkan": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "94": {
+    "hiroseikkaisoge": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "95": {
+    "hirosenoheya": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "96": {
+    "jikogenba": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "97": {
+    "jimusyo2": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "98": {
+    "kiyomikyuusyutsu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "99": {
+    "kodomojyohou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "100": {
+    "konbinibentou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "101": {
+    "machidejyouhou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "102": {
+    "miruku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "103": {
+    "saijyoukai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "104": {
+    "search_hirose": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "105": {
+    "search_matsunaga": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "106": {
+    "search_nagumo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "107": {
+    "search_rou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "108": {
+    "someyaoe": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "109": {
+    "search_yuuta": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "110": {
+    "han_hosuto": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "111": {
+    "hirose": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "112": {
+    "matsunaga": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "113": {
+    "tagashirausami": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "114": {
+    "machichinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "115": {
+    "yopparaiyakuza": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "116": {
+    "saioukanbuedo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "117": {
+    "akiyama": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "118": {
+    "saioukouseiin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "119": {
+    "jinguonha": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "120": {
+    "ayashiiotoko_l": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "121": {
+    "sandaazu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "122": {
+    "onomichisuikyaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "123": {
+    "youmeimasuzoe": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "124": {
+    "toujyousomeyaikka": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "125": {
+    "tougenchinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "126": {
+    "youmeikumiin_l": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "127": {
+    "nazonoshikaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "128": {
+    "iwamizousen": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "129": {
+    "toujyoukumiin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "130": {
+    "nanpashi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "131": {
+    "kappurugari": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "132": {
+    "narazumono": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "133": {
+    "chuugokumafia": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "134": {
+    "houkama": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "135": {
+    "nazonootoko": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "136": {
+    "toorima": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "137": {
+    "padv": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "message": "Aventure Premium",
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "138": {
+    "tachiwaru": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "139": {
+    "mafia": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "140": {
+    "gyangu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "141": {
+    "nigero": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "142": {
+    "justiszan": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "143": {
+    "justis": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "144": {
+    "amongun": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "145": {
+    "satsuki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "146": {
+    "6naitou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "147": {
+    "6kojima": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "148": {
+    "6tenzan": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "149": {
+    "6tanahashi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "150": {
+    "6yano": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "151": {
+    "6okada": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "152": {
+    "sodachi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "153": {
+    "saigo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "154": {
+    "usami": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "155": {
+    "same": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "156": {
+    "6tenzankojima": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "157": {
+    "chapter14": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "158": {
+    "chapter15": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "159": {
+    "chapter16": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "160": {
+    "oumishikaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "161": {
+    "kchinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "162": {
+    "machigorotsuki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "163": {
+    "daigo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "164": {
+    "schinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "165": {
+    "oumirengo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "166": {
+    "goryu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "167": {
+    "help_goda": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "168": {
+    "ryuuji": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "169": {
+    "nazoshikaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "170": {
+    "robson": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "171": {
+    "gary": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "172": {
+    "majima2": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "173": {
+    "16bit": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "174": {
+    "nashino": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "175": {
+    "search_daigo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "176": {
+    "kim": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "177": {
+    "kpeople": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "178": {
+    "defeat_nazo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "179": {
+    "hayashi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "180": {
+    "nishiki2": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "181": {
+    "shindo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "182": {
+    "satoshi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "183": {
+    "kishi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "184": {
+    "jinguonotoko": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "185": {
+    "nazobigman": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "186": {
+    "nazos": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "187": {
+    "ezaki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "188": {
+    "go_tensyu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "189": {
+    "tiger": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "190": {
+    "jinguonha2": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "191": {
+    "jinguonkurahashi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "192": {
+    "kintaishin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "193": {
+    "gondawara": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "194": {
+    "fakekiryushinji": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "195": {
+    "bthunder": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "196": {
+    "nagutte": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "197": {
+    "ooba": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "198": {
+    "komaki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "199": {
+    "akazuya": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "200": {
+    "ajiro": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "201": {
+    "asango": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "202": {
+    "ajoe": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "203": {
+    "search_dojima_daigo": {
+      "name_texture_id": 2830,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "204": {
+    "go_oumi": {
+      "name_texture_id": 2825,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "205": {
+    "search_aoi": {
+      "name_texture_id": 2829,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "206": {
+    "carry_sayama": {
+      "name_texture_id": 2824,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "207": {
+    "meat_canary": {
+      "name_texture_id": 2828,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "208": {
+    "go_tojokai": {
+      "name_texture_id": 2827,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "209": {
+    "go_sai": {
+      "name_texture_id": 2826,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "210": {
+    "go_amano": {
+      "name_texture_id": 2873,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "211": {
+    "go_tsukamoto": {
+      "name_texture_id": 2877,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "212": {
+    "go_mtower": {
+      "name_texture_id": 2875,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "213": {
+    "go_togenkyo": {
+      "name_texture_id": 2876,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "214": {
+    "search_shindo": {
+      "name_texture_id": 2880,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "215": {
+    "search_keima": {
+      "name_texture_id": 2878,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "216": {
+    "go_aoi": {
+      "name_texture_id": 2874,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "217": {
+    "search_sayama": {
+      "name_texture_id": 2879,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "218": {
+    "": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "219": {
+    "": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "220": {
+    "go_grand": {
+      "name_texture_id": 3731,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "221": {
+    "go_jimusyo": {
+      "name_texture_id": 3805,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "222": {
+    "go_odyssey": {
+      "name_texture_id": 3766,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "223": {
+    "go_uematsu": {
+      "name_texture_id": 3732,
+      "daimon_texture_id": 0,
+      "type": 4,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "224": {
+    "narikin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "225": {
+    "teamer": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "226": {
+    "iibuchi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "227": {
+    "kanzaki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "228": {
+    "kawamura": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "229": {
+    "ayashiiotokota": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "230": {
+    "buono_isozaki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "231": {
+    "chouno": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "232": {
+    "choushuu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "233": {
+    "fujinami": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "234": {
+    "garawaruta": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "235": {
+    "gekitai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "236": {
+    "gorotsuki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "237": {
+    "k_boss": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "238": {
+    "k_chinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 279
+    }
+  },
+  "239": {
+    "kanzaki_teshita": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 316
+    }
+  },
+  "240": {
+    "komaki_lesson": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 328
+    }
+  },
+  "241": {
+    "kurahashi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 348
+    }
+  },
+  "242": {
+    "kyouteki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 350
+    }
+  },
+  "243": {
+    "mouko": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 352
+    }
+  },
+  "244": {
+    "mutou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 355
+    }
+  },
+  "245": {
+    "nazogaikokujin": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "246": {
+    "nazomen": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "247": {
+    "oumi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 361
+    }
+  },
+  "248": {
+    "oumi_shikaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "249": {
+    "s_boss": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "250": {
+    "s_chinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "251": {
+    "sotenbori": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "252": {
+    "tachiwaruta": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "253": {
+    "tenryu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "254": {
+    "uematu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "255": {
+    "colors": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "256": {
+    "jaka": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "257": {
+    "kaishi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "258": {
+    "tenshukaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "259": {
+    "chapter_01": {
+      "name_texture_id": 222,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 1 : Lettre de sang",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "260": {
+    "chapter_02": {
+      "name_texture_id": 223,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 2 : Le Dragon du Kansai",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "261": {
+    "chapter_03": {
+      "name_texture_id": 224,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 3 : La Chasseuse de Yakuzas",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "262": {
+    "chapter_04": {
+      "name_texture_id": 225,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 4 : Les Quatre Rois d'Omi",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "263": {
+    "chapter_05": {
+      "name_texture_id": 226,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 5 : Passé Enfoui",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "264": {
+    "chapter_06": {
+      "name_texture_id": 227,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 6 : Complots",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "265": {
+    "chapter_07": {
+      "name_texture_id": 228,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 7 : La Menace Extérieure",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "266": {
+    "chapter_08": {
+      "name_texture_id": 229,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 8 : Suspect",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "267": {
+    "chapter_09": {
+      "name_texture_id": 230,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 9 : L'Invasion Omi",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 278
+    }
+  },
+  "268": {
+    "chapter_10": {
+      "name_texture_id": 231,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 10 : Survivants",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 280
+    }
+  },
+  "269": {
+    "chapter_11": {
+      "name_texture_id": 232,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 11 : Le Credo de Fer",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 281
+    }
+  },
+  "270": {
+    "chapter_12": {
+      "name_texture_id": 233,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 12 : Le Château d'Osaka",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 282
+    }
+  },
+  "271": {
+    "chapter_13": {
+      "name_texture_id": 235,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 13 : Règlement de comptes",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 283
+    }
+  },
+  "272": {
+    "chapter_14": {
+      "name_texture_id": 2768,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 14 : La marche de Go-Ryu",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 284
+    }
+  },
+  "273": {
+    "chapter_15": {
+      "name_texture_id": 2769,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 15 : Sang et liens",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 285
+    }
+  },
+  "274": {
+    "chapter_16": {
+      "name_texture_id": 2770,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Chapitre 16 : Décision",
+      "player": 1,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 286
+    }
+  },
+  "275": {
+    "chapter_17": {
+      "name_texture_id": 3829,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Saga Majima 1 : Réforme du clan Tojo",
+      "player": 3,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 287
+    }
+  },
+  "276": {
+    "chapter_18": {
+      "name_texture_id": 3830,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Saga Majima 2 : Fils Prodige",
+      "player": 3,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 288
+    }
+  },
+  "277": {
+    "chapter_19": {
+      "name_texture_id": 3831,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Saga Majima 3 : Le Chien Fou de Shimano",
+      "player": 3,
+      "hide_localized_text": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 289
+    }
+  },
+  "278": {
+    "bc_eb_m_jinguon": {
+      "name_texture_id": 748,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 290
+    }
+  },
+  "279": {
+    "bc_eb_m_kpeople": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 291
+    }
+  },
+  "280": {
+    "bc_eb_m_narikin": {
+      "name_texture_id": 3767,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 292
+    }
+  },
+  "281": {
+    "bc_eb_m_nazomen": {
+      "name_texture_id": 3768,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 293
+    }
+  },
+  "282": {
+    "bc_eb_s_chinpira": {
+      "name_texture_id": 769,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 294
+    }
+  },
+  "283": {
+    "bc_eb_s_teamer": {
+      "name_texture_id": 3769,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 295
+    }
+  },
+  "284": {
+    "bc_eb_s_yakuza": {
+      "name_texture_id": 776,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 296
+    }
+  },
+  "285": {
+    "bc_sb_l_gary": {
+      "name_texture_id": 2845,
+      "daimon_texture_id": 2884,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 297
+    }
+  },
+  "286": {
+    "bc_sb_l_goryu": {
+      "name_texture_id": 3733,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 298
+    }
+  },
+  "287": {
+    "bc_sb_l_hayashi": {
+      "name_texture_id": 2846,
+      "daimon_texture_id": 2883,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 299
+    }
+  },
+  "288": {
+    "bc_sb_l_iibuchi": {
+      "name_texture_id": 3734,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 300
+    }
+  },
+  "289": {
+    "bc_sb_l_kanzaki": {
+      "name_texture_id": 3735,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 301
+    }
+  },
+  "290": {
+    "bc_sb_l_kawamura": {
+      "name_texture_id": 3736,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 302
+    }
+  },
+  "291": {
+    "bc_sb_l_majima": {
+      "name_texture_id": 80,
+      "daimon_texture_id": 2884,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 303
+    }
+  },
+  "292": {
+    "bc_sb_l_nishiki": {
+      "name_texture_id": 3737,
+      "daimon_texture_id": 2882,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 304
+    }
+  },
+  "293": {
+    "bc_sb_l_robson": {
+      "name_texture_id": 2848,
+      "daimon_texture_id": 2884,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 305
+    }
+  },
+  "294": {
+    "bc_sb_l_ryuuji": {
+      "name_texture_id": 2849,
+      "daimon_texture_id": 2881,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 306
+    }
+  },
+  "295": {
+    "bc_sb_l_shindo": {
+      "name_texture_id": 2850,
+      "daimon_texture_id": 2882,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 307
+    }
+  },
+  "296": {
+    "bc_sb_m_16bit": {
+      "name_texture_id": 2851,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 356
+    }
+  },
+  "297": {
+    "bc_sb_m_ajiro": {
+      "name_texture_id": 2852,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 308
+    }
+  },
+  "298": {
+    "bc_sb_m_akazuya": {
+      "name_texture_id": 2854,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 309
+    }
+  },
+  "299": {
+    "bc_sb_m_amonjyo": {
+      "name_texture_id": 1053,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 310
+    }
+  },
+  "300": {
+    "bc_sb_m_asango": {
+      "name_texture_id": 2855,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 311
+    }
+  },
+  "301": {
+    "bc_sb_m_ayashiiotoko": {
+      "name_texture_id": 237,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 312
+    }
+  },
+  "302": {
+    "bc_sb_m_ayashiiotokota": {
+      "name_texture_id": 94,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 313
+    }
+  },
+  "303": {
+    "bc_sb_m_bthunder": {
+      "name_texture_id": 2856,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 314
+    }
+  },
+  "304": {
+    "bc_sb_m_buono_isozaki": {
+      "name_texture_id": 3738,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 315
+    }
+  },
+  "305": {
+    "bc_sb_m_chouno": {
+      "name_texture_id": 3739,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 317
+    }
+  },
+  "306": {
+    "bc_sb_m_choushuu": {
+      "name_texture_id": 3740,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 318
+    }
+  },
+  "307": {
+    "bc_sb_m_chuugokumafia": {
+      "name_texture_id": 626,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 319
+    }
+  },
+  "308": {
+    "bc_sb_m_daigo": {
+      "name_texture_id": 2857,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 357
+    }
+  },
+  "309": {
+    "bc_sb_m_ezaki": {
+      "name_texture_id": 3770,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 320
+    }
+  },
+  "310": {
+    "bc_sb_m_fakekiryushinji": {
+      "name_texture_id": 2859,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 321
+    }
+  },
+  "311": {
+    "bc_sb_m_fujinami": {
+      "name_texture_id": 3744,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 358
+    }
+  },
+  "312": {
+    "bc_sb_m_garawaru": {
+      "name_texture_id": 238,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 322
+    }
+  },
+  "313": {
+    "bc_sb_m_garawaruta": {
+      "name_texture_id": 95,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 323
+    }
+  },
+  "314": {
+    "bc_sb_m_gekitai": {
+      "name_texture_id": 3771,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 324
+    }
+  },
+  "315": {
+    "bc_sb_m_gondawara": {
+      "name_texture_id": 2860,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 325
+    }
+  },
+  "316": {
+    "bc_sb_m_gorotsuki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 326
+    }
+  },
+  "317": {
+    "bc_sb_m_help_goda": {
+      "name_texture_id": 2863,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 327
+    }
+  },
+  "318": {
+    "bc_sb_m_jinguon": {
+      "name_texture_id": 255,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 329
+    }
+  },
+  "319": {
+    "bc_sb_m_jinguonha": {
+      "name_texture_id": 628,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 330
+    }
+  },
+  "320": {
+    "bc_sb_m_k_boss": {
+      "name_texture_id": 3749,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 331
+    }
+  },
+  "321": {
+    "bc_sb_m_k_chinpira": {
+      "name_texture_id": 3775,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 332
+    }
+  },
+  "322": {
+    "bc_sb_m_kanzaki_teshita": {
+      "name_texture_id": 3746,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 333
+    }
+  },
+  "323": {
+    "bc_sb_m_kim": {
+      "name_texture_id": 2865,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 334
+    }
+  },
+  "324": {
+    "bc_sb_m_kishi": {
+      "name_texture_id": 3747,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 335
+    }
+  },
+  "325": {
+    "bc_sb_m_komaki": {
+      "name_texture_id": 2867,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 336
+    }
+  },
+  "326": {
+    "bc_sb_m_komaki_lesson": {
+      "name_texture_id": 3772,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 337
+    }
+  },
+  "327": {
+    "bc_sb_m_kurahashi": {
+      "name_texture_id": 3774,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 338
+    }
+  },
+  "328": {
+    "bc_sb_m_kyouteki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 339
+    }
+  },
+  "329": {
+    "bc_sb_m_mouko": {
+      "name_texture_id": 3777,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 340
+    }
+  },
+  "330": {
+    "bc_sb_m_mutou": {
+      "name_texture_id": 3750,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 341
+    }
+  },
+  "331": {
+    "bc_sb_m_nagutte": {
+      "name_texture_id": 2868,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 342
+    }
+  },
+  "332": {
+    "bc_sb_m_nashino": {
+      "name_texture_id": 3751,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 343
+    }
+  },
+  "333": {
+    "bc_sb_m_nazobigman": {
+      "name_texture_id": 3806,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 344
+    }
+  },
+  "334": {
+    "bc_sb_m_nazogaikokujin": {
+      "name_texture_id": 3778,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 345
+    }
+  },
+  "335": {
+    "bc_sb_m_nazomen": {
+      "name_texture_id": 3779,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 346
+    }
+  },
+  "336": {
+    "bc_sb_m_nazonoshikaku": {
+      "name_texture_id": 3780,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 347
+    }
+  },
+  "337": {
+    "bc_sb_m_ooba": {
+      "name_texture_id": 2870,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 359
+    }
+  },
+  "338": {
+    "bc_sb_m_oumi": {
+      "name_texture_id": 3781,
+      "daimon_texture_id": 2883,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 360
+    }
+  },
+  "339": {
+    "bc_sb_m_oumi_shikaku": {
+      "name_texture_id": 3782,
+      "daimon_texture_id": 2883,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 349
+    }
+  },
+  "340": {
+    "bc_sb_m_s_boss": {
+      "name_texture_id": 3753,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 351
+    }
+  },
+  "341": {
+    "bc_sb_m_s_chinpira": {
+      "name_texture_id": 3784,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 353
+    }
+  },
+  "342": {
+    "bc_sb_m_satoshi": {
+      "name_texture_id": 3783,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 354
+    }
+  },
+  "343": {
+    "bc_sb_m_search_daigo": {
+      "name_texture_id": 2871,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 362
+    }
+  },
+  "344": {
+    "bc_sb_m_sotenbori": {
+      "name_texture_id": 3807,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "345": {
+    "bc_sb_m_tachiwaru": {
+      "name_texture_id": 3785,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "346": {
+    "bc_sb_m_tachiwaruta": {
+      "name_texture_id": 96,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "347": {
+    "bc_sb_m_tenryu": {
+      "name_texture_id": 3754,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "348": {
+    "bc_sb_m_uematu": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "349": {
+    "bc_sb_s_chinpira": {
+      "name_texture_id": 104,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "350": {
+    "bc_sb_s_colors": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "351": {
+    "bc_sb_s_jaka": {
+      "name_texture_id": 3787,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "352": {
+    "bc_sb_s_kaishi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "353": {
+    "bc_sb_s_nazonootoko": {
+      "name_texture_id": 651,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "354": {
+    "bc_sb_s_yakuza": {
+      "name_texture_id": 92,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "355": {
+    "bc_sb_tenshukaku": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "356": {
+    "bc_sb_m_colors": {
+      "name_texture_id": 3741,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "357": {
+    "bc_sb_m_kpeople": {
+      "name_texture_id": 3773,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "358": {
+    "bc_sb_m_k_gorotsuki": {
+      "name_texture_id": 3776,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "359": {
+    "bc_sb_m_tenshukaku": {
+      "name_texture_id": 3786,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "360": {
+    "bc_sb_m_uematsu": {
+      "name_texture_id": 3755,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "361": {
+    "": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "362": {
+    "bc_sb_s_teamer": {
+      "name_texture_id": 5634,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "363": {
+    "bc_sb_m_intruders": {
+      "name_texture_id": 6029,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "player": 0,
+      "hide_localized_text": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 363
+    }
+  }
+}

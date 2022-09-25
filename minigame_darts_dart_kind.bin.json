@@ -1,0 +1,122 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 5,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 8,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "aim": "1",
+    "stability": "1",
+    "cursor_radius": "0",
+    "good_timing": "1",
+    "best_timing": "1",
+    "asset_id": "1",
+    "name": "1",
+    "cursor_radius_multiply": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "aim": 0,
+    "stability": 0,
+    "cursor_radius": -1,
+    "good_timing": 7,
+    "best_timing": 7,
+    "asset_id": 1,
+    "name": 0,
+    "cursor_radius_multiply": 7
+  },
+  "columnTypes2": {
+    "": -1,
+    "aim": 12,
+    "stability": 12,
+    "cursor_radius": -1,
+    "good_timing": 9,
+    "best_timing": 9,
+    "asset_id": 1,
+    "name": 12,
+    "cursor_radius_multiply": 9
+  },
+  "COLUMN_INDICES": [
+    0,
+    3,
+    7,
+    1,
+    2,
+    8,
+    4,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "good_timing": 0.0,
+      "best_timing": 0.0,
+      "asset_id": 0,
+      "cursor_radius_multiply": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "dart_rookie": {
+      "aim": "C",
+      "stability": "C",
+      "good_timing": 0.05000000074505806,
+      "best_timing": 0.03500000014901161,
+      "asset_id": 1301,
+      "name": "Fléchettes débutant",
+      "cursor_radius_multiply": 1.0800000429153442,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "dart_intermidiate": {
+      "aim": "B",
+      "stability": "B",
+      "good_timing": 0.07000000029802322,
+      "best_timing": 0.03500000014901161,
+      "asset_id": 1708,
+      "name": "Fléchettes standard",
+      "cursor_radius_multiply": 1.0800000429153442,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "dart_veteran": {
+      "aim": "A",
+      "stability": "A",
+      "good_timing": 0.10499999672174454,
+      "best_timing": 0.03500000014901161,
+      "asset_id": 1709,
+      "name": "Fléchettes Expert",
+      "cursor_radius_multiply": 1.0399999618530273,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "dart_paul": {
+      "aim": "S",
+      "stability": "S",
+      "good_timing": 0.10499999672174454,
+      "best_timing": 0.699999988079071,
+      "asset_id": 1716,
+      "name": "Fléchettes Grand Maître",
+      "cursor_radius_multiply": 1.0399999618530273,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  }
+}

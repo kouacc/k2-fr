@@ -1,0 +1,3224 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 268,
+  "COLUMN_COUNT": 8,
+  "TEXT_COUNT": 709,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "word1": "1",
+    "flag1": "1",
+    "word2": "1",
+    "flag2": "1",
+    "word3": "1",
+    "flag3": "1",
+    "time_limit": "0"
+  },
+  "columnTypes": {
+    "": -1,
+    "word1": 0,
+    "flag1": 2,
+    "word2": 0,
+    "flag2": 2,
+    "word3": 0,
+    "flag3": 2,
+    "time_limit": -1
+  },
+  "columnTypes2": {
+    "": -1,
+    "word1": 12,
+    "flag1": 0,
+    "word2": 12,
+    "flag2": 0,
+    "word3": 12,
+    "flag3": 0,
+    "time_limit": -1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    7,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_select_01": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_select_02": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "test_select_03": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "aoyama01_select01": {
+      "word1": "Kazuma",
+      "flag1": 13,
+      "word2": "ne sont pas extraordinaires",
+      "flag2": 14,
+      "word3": "a beaucoup de",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "5": {
+    "aoyama01_select02": {
+      "word1": "mais je ferai de mon mieux !",
+      "flag1": 14,
+      "word2": "superbes modèles !",
+      "flag2": 15,
+      "word3": "Kiryu !",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "6": {
+    "aoyama01_select03": {
+      "word1": "J'ai hâte",
+      "flag1": 15,
+      "word2": "J'ai peur de ne pas",
+      "flag2": 13,
+      "word3": "Tu es bien plus mignonne",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "7": {
+    "aoyama01_select04": {
+      "word1": "être capable de capturer",
+      "flag1": 13,
+      "word2": "en personne que sur",
+      "flag2": 14,
+      "word3": "de prendre",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "8": {
+    "aoyama01_select05": {
+      "word1": "ta beauté.",
+      "flag1": 13,
+      "word2": "les photos.",
+      "flag2": 14,
+      "word3": "de belles photos aujourd'hui.",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "9": {
+    "aoyama01_select06": {
+      "word1": "Je suis honoré",
+      "flag1": 13,
+      "word2": "Je suis un peu nerveux",
+      "flag2": 14,
+      "word3": "C'est le moyen idéal pour",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "10": {
+    "aoyama01_select07": {
+      "word1": "à cause de la beauté",
+      "flag1": 14,
+      "word2": "s'améliorer",
+      "flag2": 15,
+      "word3": "d'avoir la chance",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "11": {
+    "aoyama01_select08": {
+      "word1": "d'être avec toi aujourd'hui.",
+      "flag1": 13,
+      "word2": "de mon modèle.",
+      "flag2": 14,
+      "word3": "en matière de photographie.",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "12": {
+    "aoyama01_select09": {
+      "word1": "Ta chevelure lisse",
+      "flag1": 14,
+      "word2": "Je ne peux pas détacher mes",
+      "flag2": 15,
+      "word3": "Cette blouse",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "13": {
+    "aoyama01_select10": {
+      "word1": "yeux de cette",
+      "flag1": 15,
+      "word2": "lie l'ensemble du look",
+      "flag2": 14,
+      "word3": "transparente",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "14": {
+    "aoyama01_select11": {
+      "word1": "me coupe le souffle.",
+      "flag1": 13,
+      "word2": "jupe serrée.",
+      "flag2": 15,
+      "word3": "ensemble.",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "15": {
+    "aoyama01_select12": {
+      "word1": "C'est un peu",
+      "flag1": 14,
+      "word2": "Tu peux",
+      "flag2": 15,
+      "word3": "Je pense que tu",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "16": {
+    "aoyama01_select13": {
+      "word1": "faire mieux",
+      "flag1": 15,
+      "word2": "devrais montrer",
+      "flag2": 13,
+      "word3": "trop réservé",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "17": {
+    "aoyama01_select14": {
+      "word1": "un peu plus de peau.",
+      "flag1": 13,
+      "word2": "à mon goût.",
+      "flag2": 14,
+      "word3": "que ça.",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "18": {
+    "aoyama01_select15": {
+      "word1": "Tu es plus",
+      "flag1": 15,
+      "word2": "Je ne suis pas sûr",
+      "flag2": 14,
+      "word3": "N'importe quel homme aurait",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "19": {
+    "aoyama01_select16": {
+      "word1": "des pensées perverses",
+      "flag1": 13,
+      "word2": "perspicace",
+      "flag2": 15,
+      "word3": "de ce que tu veux dire",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "20": {
+    "aoyama01_select17": {
+      "word1": "que je ne le pensais.",
+      "flag1": 15,
+      "word2": "par là.",
+      "flag2": 14,
+      "word3": "avec toi en face de lui.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "21": {
+    "aoyama01_select18": {
+      "word1": "Je ne peux pas arrêter de",
+      "flag1": 14,
+      "word2": "Je suis sûr que tes épaules",
+      "flag2": 15,
+      "word3": "Je veux voir",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "22": {
+    "aoyama01_select19": {
+      "word1": "regarder",
+      "flag1": 14,
+      "word2": "te font mal à force de porter",
+      "flag2": 15,
+      "word3": "un peu plus",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "23": {
+    "aoyama01_select20": {
+      "word1": "ces choses toute la journée.",
+      "flag1": 15,
+      "word2": "ta poitrine.",
+      "flag2": 14,
+      "word3": "de ton décolleté.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "24": {
+    "aoyama01_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "25": {
+    "aoyama02_select01": {
+      "word1": "à me passer",
+      "flag1": 15,
+      "word2": "je te crois, mais",
+      "flag2": 14,
+      "word3": "une très bonne",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "26": {
+    "aoyama02_select02": {
+      "word1": "merci.",
+      "flag1": 14,
+      "word2": "de la pommade.",
+      "flag2": 15,
+      "word3": "menteuse.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "27": {
+    "aoyama02_select03": {
+      "word1": "Est-ce que je t'ai",
+      "flag1": 14,
+      "word2": "Tu es si mignonne",
+      "flag2": 15,
+      "word3": "Désolé",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "28": {
+    "aoyama02_select04": {
+      "word1": "quand tu es",
+      "flag1": 15,
+      "word2": "mis",
+      "flag2": 14,
+      "word3": "je ne t'ai",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "29": {
+    "aoyama02_select05": {
+      "word1": "pas cru.",
+      "flag1": 13,
+      "word2": "en colère ?",
+      "flag2": 14,
+      "word3": "en colère.",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "30": {
+    "aoyama02_select06": {
+      "word1": "Je suis amoureux",
+      "flag1": 14,
+      "word2": "Tu es plus",
+      "flag2": 15,
+      "word3": "Je suis prêt",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "31": {
+    "aoyama02_select07": {
+      "word1": "de",
+      "flag1": 14,
+      "word2": "impliqué que",
+      "flag2": 15,
+      "word3": "pour tout ce que",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "32": {
+    "aoyama02_select08": {
+      "word1": "la dernière fois, Hikaru.",
+      "flag1": 15,
+      "word2": "tu me lanceras, Hikaru.",
+      "flag2": 13,
+      "word3": "ton corps, Hikaru.",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "33": {
+    "aoyama02_select09": {
+      "word1": "Oh je vais",
+      "flag1": 14,
+      "word2": "J'espère",
+      "flag2": 15,
+      "word3": "Est-ce que c'est",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "34": {
+    "aoyama02_select10": {
+      "word1": "te mettre dans l'ambiance",
+      "flag1": 14,
+      "word2": "que tu es prête à",
+      "flag2": 15,
+      "word3": "une sorte de",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "35": {
+    "aoyama02_select11": {
+      "word1": "défi ?",
+      "flag1": 13,
+      "word2": "d'accord.",
+      "flag2": 14,
+      "word3": "être emballée !",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "36": {
+    "aoyama02_select12": {
+      "word1": "Attire-moi au plus",
+      "flag1": 15,
+      "word2": "Regarde-moi",
+      "flag2": 14,
+      "word3": "Ouvre",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "37": {
+    "aoyama02_select13": {
+      "word1": "profond de ton",
+      "flag1": 15,
+      "word2": "avec tes",
+      "flag2": 14,
+      "word3": "tes",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "38": {
+    "aoyama02_select14": {
+      "word1": "yeux pétillants.",
+      "flag1": 14,
+      "word2": "incroyable décolleté.",
+      "flag2": 15,
+      "word3": "jambes fines.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "39": {
+    "aoyama02_select15": {
+      "word1": "C'est honnêtement",
+      "flag1": 14,
+      "word2": "Cette vue",
+      "flag2": 15,
+      "word3": "Il n'y a pas moyen",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "40": {
+    "aoyama02_select16": {
+      "word1": "je peux me concentrer",
+      "flag1": 13,
+      "word2": "un peu",
+      "flag2": 14,
+      "word3": "est absolument",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "41": {
+    "aoyama02_select17": {
+      "word1": "comme ça.",
+      "flag1": 13,
+      "word2": "<font_kind=yakuza_italic>trop</font_kind> sexy.",
+      "flag2": 14,
+      "word3": "explosive.",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "42": {
+    "aoyama02_select18": {
+      "word1": "Je ne peux pas",
+      "flag1": 14,
+      "word2": "Ils sont si bons,",
+      "flag2": 15,
+      "word3": "Tu es très mignonne",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "43": {
+    "aoyama02_select19": {
+      "word1": "m'empêcher de regarder",
+      "flag1": 14,
+      "word2": "mon désir",
+      "flag2": 15,
+      "word3": "quand tu es",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "44": {
+    "aoyama02_select20": {
+      "word1": "est solide comme la roche.",
+      "flag1": 15,
+      "word2": "ton tendre décolleté.",
+      "flag2": 14,
+      "word3": "en colère.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "45": {
+    "aoyama02_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "46": {
+    "aoyama03_select01": {
+      "word1": "séance photo",
+      "flag1": 16,
+      "word2": "prendre des photos de toi",
+      "flag2": 17,
+      "word3": "si j'étais de retour",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "47": {
+    "aoyama03_select02": {
+      "word1": "m'encourageant.",
+      "flag1": 17,
+      "word2": "au lycée.",
+      "flag2": 18,
+      "word3": "soit très spéciale !",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "48": {
+    "aoyama03_select03": {
+      "word1": "Qu'est-ce que tu veux dire",
+      "flag1": 17,
+      "word2": "Dis-moi,",
+      "flag2": 18,
+      "word3": "De quoi",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "49": {
+    "aoyama03_select04": {
+      "word1": "as-tu besoin",
+      "flag1": 16,
+      "word2": "ce que tu vas",
+      "flag2": 17,
+      "word3": "dis-moi,",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "50": {
+    "aoyama03_select05": {
+      "word1": "faire ?",
+      "flag1": 16,
+      "word2": "exactement ?",
+      "flag2": 17,
+      "word3": "dis-moi !",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "51": {
+    "aoyama03_select06": {
+      "word1": "Je veux",
+      "flag1": 17,
+      "word2": "Tu vas",
+      "flag2": 18,
+      "word3": "Je parie",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "52": {
+    "aoyama03_select07": {
+      "word1": "voir",
+      "flag1": 17,
+      "word2": "changer",
+      "flag2": 18,
+      "word3": "que tu vas",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "53": {
+    "aoyama03_select08": {
+      "word1": "t'étirer !",
+      "flag1": 16,
+      "word2": "un décolleté !",
+      "flag2": 17,
+      "word3": "ton maquillage ?",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "54": {
+    "aoyama03_select09": {
+      "word1": "Peut-être que je devrais",
+      "flag1": 16,
+      "word2": "Il est important",
+      "flag2": 17,
+      "word3": "Tu peux",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "55": {
+    "aoyama03_select10": {
+      "word1": "de s'échauffer",
+      "flag1": 17,
+      "word2": "aider à soulager",
+      "flag2": 18,
+      "word3": "prendre des photos",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "56": {
+    "aoyama03_select11": {
+      "word1": "avant une séance d'entraînement intense.",
+      "flag1": 17,
+      "word2": "ma tension, aussi ?",
+      "flag2": 18,
+      "word3": "pendant que tu t'étires.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "57": {
+    "aoyama03_select12": {
+      "word1": "Mets-y",
+      "flag1": 16,
+      "word2": "Qu'y a-t-il de si difficile",
+      "flag2": 17,
+      "word3": "Tu veux",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "58": {
+    "aoyama03_select13": {
+      "word1": "tout ton",
+      "flag1": 16,
+      "word2": "à se",
+      "flag2": 17,
+      "word3": "que je te donne",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "59": {
+    "aoyama03_select14": {
+      "word1": "pencher en avant ?",
+      "flag1": 17,
+      "word2": "un coup de main ?",
+      "flag2": 18,
+      "word3": "coeur !",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "60": {
+    "aoyama03_select15": {
+      "word1": "Je peux",
+      "flag1": 18,
+      "word2": "Je ne pensais pas",
+      "flag2": 16,
+      "word3": "Tu ne peux pas",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "61": {
+    "aoyama03_select16": {
+      "word1": "m'embêter",
+      "flag1": 17,
+      "word2": "prendre des photos",
+      "flag2": 18,
+      "word3": "que tu étais",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "62": {
+    "aoyama03_select17": {
+      "word1": "du genre taquin.",
+      "flag1": 16,
+      "word2": "et t'en tirer comme ça !",
+      "flag2": 17,
+      "word3": "d'une seule main.",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "63": {
+    "aoyama03_select18": {
+      "word1": "Je ne peux pas prendre de",
+      "flag1": 17,
+      "word2": "N'en fais pas trop",
+      "flag2": 18,
+      "word3": "L ! O ! V ! E !",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "64": {
+    "aoyama03_select19": {
+      "word1": "Charmant !",
+      "flag1": 16,
+      "word2": "bonnes photos quand",
+      "flag2": 17,
+      "word3": "et ne te blesse pas,",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "65": {
+    "aoyama03_select20": {
+      "word1": "d'accord ?",
+      "flag1": 18,
+      "word2": "Hikaru !",
+      "flag2": 16,
+      "word3": "tu bouges aussi vite.",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "66": {
+    "aoyama03_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "67": {
+    "aoyama04_select01": {
+      "word1": "va faire",
+      "flag1": 18,
+      "word2": "à une séance photo extraordinaire,",
+      "flag2": 16,
+      "word3": "de t'entendre",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "68": {
+    "aoyama04_select02": {
+      "word1": "m'appeler Maître.",
+      "flag1": 17,
+      "word2": "comme toujours.",
+      "flag2": 16,
+      "word3": "de très belles photos.",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "69": {
+    "aoyama04_select03": {
+      "word1": "Ne t'inquiète pas,",
+      "flag1": 17,
+      "word2": "De quoi",
+      "flag2": 16,
+      "word3": "Je ne peux pas détacher",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "70": {
+    "aoyama04_select04": {
+      "word1": "je vais prendre",
+      "flag1": 17,
+      "word2": "mes yeux de",
+      "flag2": 18,
+      "word3": "veux-tu que je",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "71": {
+    "aoyama04_select05": {
+      "word1": "ton décolleté.",
+      "flag1": 18,
+      "word2": "tellement de photos !",
+      "flag2": 17,
+      "word3": "prenne des photos exactement ?",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "72": {
+    "aoyama04_select06": {
+      "word1": "J'ai aimé ça",
+      "flag1": 18,
+      "word2": "J'ai l'impression que",
+      "flag2": 17,
+      "word3": "Tu pourrais",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "73": {
+    "aoyama04_select07": {
+      "word1": "mon coeur",
+      "flag1": 17,
+      "word2": " tellement, que j'en",
+      "flag2": 18,
+      "word3": "déclencher une guerre",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "74": {
+    "aoyama04_select08": {
+      "word1": "a été embrassé !",
+      "flag1": 17,
+      "word2": "perds la tête.",
+      "flag2": 18,
+      "word3": "avec cette pose.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "75": {
+    "aoyama04_select09": {
+      "word1": "Allongée sur",
+      "flag1": 18,
+      "word2": "Enlever",
+      "flag2": 17,
+      "word3": "Nettoyer",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "76": {
+    "aoyama04_select10": {
+      "word1": "le sol",
+      "flag1": 16,
+      "word2": "le lit",
+      "flag2": 18,
+      "word3": "tes vêtements",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "77": {
+    "aoyama04_select11": {
+      "word1": "attendant ton Maître.",
+      "flag1": 18,
+      "word2": "et faire la lessive.",
+      "flag2": 17,
+      "word3": "avec un chiffon à poussière.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "78": {
+    "aoyama04_select12": {
+      "word1": "Tu sais,",
+      "flag1": 17,
+      "word2": "Le nettoyage rend",
+      "flag2": 18,
+      "word3": "J'aimerais que",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "79": {
+    "aoyama04_select13": {
+      "word1": "on a presque l'impression",
+      "flag1": 17,
+      "word2": "ton maître",
+      "flag2": 18,
+      "word3": "tu laves mon",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "80": {
+    "aoyama04_select14": {
+      "word1": "coeur aussi.",
+      "flag1": 16,
+      "word2": "très heureux.",
+      "flag2": 18,
+      "word3": "que tu es une vraie domestique.",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "81": {
+    "aoyama04_select15": {
+      "word1": "C'est gentil",
+      "flag1": 18,
+      "word2": "Ton maître",
+      "flag2": 17,
+      "word3": "Je vous remercie",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "82": {
+    "aoyama04_select16": {
+      "word1": "du fond",
+      "flag1": 16,
+      "word2": "de ta part",
+      "flag2": 18,
+      "word3": "a une grande",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "83": {
+    "aoyama04_select17": {
+      "word1": "récompense pour toi.",
+      "flag1": 17,
+      "word2": "de laver mon plancher.",
+      "flag2": 18,
+      "word3": "du coeur, Madame.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "84": {
+    "aoyama04_select18": {
+      "word1": "J'aurais pu",
+      "flag1": 17,
+      "word2": "La mignonnerie",
+      "flag2": 18,
+      "word3": "J'essayais juste",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "85": {
+    "aoyama04_select19": {
+      "word1": "de",
+      "flag1": 16,
+      "word2": "a coulé sur moi",
+      "flag2": 18,
+      "word3": "jurer que je",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "86": {
+    "aoyama04_select20": {
+      "word1": "comme une vague d'extase...",
+      "flag1": 18,
+      "word2": "rêvais...",
+      "flag2": 17,
+      "word3": "me ressaisir...",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "87": {
+    "aoyama04_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "88": {
+    "aoyama05_select01": {
+      "word1": "trouvé",
+      "flag1": 21,
+      "word2": "de se concentrer avec",
+      "flag2": 20,
+      "word3": "d'avoir cette",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "89": {
+    "aoyama05_select02": {
+      "word1": "ça ?",
+      "flag1": 21,
+      "word2": "toi là-dedans.",
+      "flag2": 20,
+      "word3": "opportunité.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "90": {
+    "aoyama05_select03": {
+      "word1": "Je perds",
+      "flag1": 20,
+      "word2": "Je me sens comme",
+      "flag2": 19,
+      "word3": "Je ne veux pas",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "91": {
+    "aoyama05_select04": {
+      "word1": "la tête",
+      "flag1": 20,
+      "word2": "cligner",
+      "flag2": 21,
+      "word3": "un cerf",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "92": {
+    "aoyama05_select05": {
+      "word1": "des yeux.",
+      "flag1": 21,
+      "word2": "dans les phares.",
+      "flag2": 19,
+      "word3": "ici.",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "93": {
+    "aoyama05_select06": {
+      "word1": "Tes seins",
+      "flag1": 21,
+      "word2": "Ne cesse jamais",
+      "flag2": 20,
+      "word3": "Commençons",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "94": {
+    "aoyama05_select07": {
+      "word1": "de regarder dans",
+      "flag1": 20,
+      "word2": "tombent",
+      "flag2": 21,
+      "word3": "par une pose",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "95": {
+    "aoyama05_select08": {
+      "word1": "mes yeux.",
+      "flag1": 20,
+      "word2": "de ton maillot de bain.",
+      "flag2": 21,
+      "word3": "super sexy.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "96": {
+    "aoyama05_select09": {
+      "word1": "Tu sais",
+      "flag1": 19,
+      "word2": "Les courbes",
+      "flag2": 21,
+      "word3": "C'est ta",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "97": {
+    "aoyama05_select10": {
+      "word1": "vraiment ce que",
+      "flag1": 19,
+      "word2": "de ton corps",
+      "flag2": 21,
+      "word3": "pose",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "98": {
+    "aoyama05_select11": {
+      "word1": "sont incroyables.",
+      "flag1": 21,
+      "word2": "préférée, Hikaru ?",
+      "flag2": 20,
+      "word3": "j'aime.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "99": {
+    "aoyama05_select12": {
+      "word1": "Ces petits",
+      "flag1": 20,
+      "word2": "On a presque",
+      "flag2": 21,
+      "word3": "N'hésite pas à",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "100": {
+    "aoyama05_select13": {
+      "word1": "pourraient se répandre",
+      "flag1": 20,
+      "word2": "fini. Juste",
+      "flag2": 21,
+      "word3": "l'enlever si",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "101": {
+    "aoyama05_select14": {
+      "word1": "accroche-toi.",
+      "flag1": 21,
+      "word2": "si tu ne fais pas attention.",
+      "flag2": 20,
+      "word3": "c'est trop serré.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "102": {
+    "aoyama05_select15": {
+      "word1": "Honnêtement,",
+      "flag1": 19,
+      "word2": "C'est impressionnant",
+      "flag2": 20,
+      "word3": "Être embarrassé",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "103": {
+    "aoyama05_select16": {
+      "word1": "je suis assez",
+      "flag1": 19,
+      "word2": "est une grande partie",
+      "flag2": 21,
+      "word3": "comme c'est facile",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "104": {
+    "aoyama05_select17": {
+      "word1": "gêné, aussi.",
+      "flag1": 19,
+      "word2": "de ce truc de séance photo.",
+      "flag2": 21,
+      "word3": "tu le fais paraître.",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "105": {
+    "aoyama05_select18": {
+      "word1": "Retiens-toi...",
+      "flag1": 19,
+      "word2": "Est-ce que tu...",
+      "flag2": 21,
+      "word3": "Tout peut",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "106": {
+    "aoyama05_select19": {
+      "word1": "Tu <font_kind=yakuza_italic>dois</font_kind> te",
+      "flag1": 19,
+      "word2": "essaye de",
+      "flag2": 21,
+      "word3": "arriver après",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "107": {
+    "aoyama05_select20": {
+      "word1": "me séduire ?",
+      "flag1": 21,
+      "word2": "que je me sois penché...",
+      "flag2": 20,
+      "word3": "retenir, Kiryu !",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "108": {
+    "aoyama05_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "109": {
+    "aoyama06_select01": {
+      "word1": "belle nuance",
+      "flag1": 20,
+      "word2": "être ta",
+      "flag2": 21,
+      "word3": "je suis vraiment",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "110": {
+    "aoyama06_select02": {
+      "word1": "un habitué maintenant...",
+      "flag1": 19,
+      "word2": "de vert !",
+      "flag2": 20,
+      "word3": "forme finale !",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "111": {
+    "aoyama06_select03": {
+      "word1": "Cette séance photo",
+      "flag1": 21,
+      "word2": "Je ne peux pas",
+      "flag2": 20,
+      "word3": "Je suis si heureux",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "112": {
+    "aoyama06_select04": {
+      "word1": "me plaindre",
+      "flag1": 20,
+      "word2": "va durer",
+      "flag2": 21,
+      "word3": "d'avoir décidé",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "113": {
+    "aoyama06_select05": {
+      "word1": "d'être spécial.",
+      "flag1": 20,
+      "word2": "toute la nuit !",
+      "flag2": 21,
+      "word3": "de revenir !",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "114": {
+    "aoyama06_select06": {
+      "word1": "Faisons de",
+      "flag1": 20,
+      "word2": "Montre-moi",
+      "flag2": 21,
+      "word3": "Je vais",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "115": {
+    "aoyama06_select07": {
+      "word1": "tout ce que",
+      "flag1": 21,
+      "word2": "tout donner ",
+      "flag2": 19,
+      "word3": "cette séance photo",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "116": {
+    "aoyama06_select08": {
+      "word1": "tu as, Hikaru !",
+      "flag1": 21,
+      "word2": "moi aussi !",
+      "flag2": 19,
+      "word3": "un moment inoubliable !",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "117": {
+    "aoyama06_select09": {
+      "word1": "Tu ferais mieux",
+      "flag1": 19,
+      "word2": "Je vais",
+      "flag2": 21,
+      "word3": "Peux-tu",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "118": {
+    "aoyama06_select10": {
+      "word1": "de ne pas",
+      "flag1": 19,
+      "word2": "vraiment",
+      "flag2": 21,
+      "word3": "être plus",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "119": {
+    "aoyama06_select11": {
+      "word1": "précise ?",
+      "flag1": 20,
+      "word2": "m'investir.",
+      "flag2": 21,
+      "word3": "te moquer de moi !",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "120": {
+    "aoyama06_select12": {
+      "word1": "Tu fais",
+      "flag1": 20,
+      "word2": "Je ne sais",
+      "flag2": 21,
+      "word3": "Je ne peux",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "121": {
+    "aoyama06_select13": {
+      "word1": "plus le",
+      "flag1": 21,
+      "word2": "plus où",
+      "flag2": 19,
+      "word3": "de la buée",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "122": {
+    "aoyama06_select14": {
+      "word1": "supporter !",
+      "flag1": 21,
+      "word2": "chercher !",
+      "flag2": 19,
+      "word3": "sur mon appareil photo !",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "123": {
+    "aoyama06_select15": {
+      "word1": "Tu es tellement",
+      "flag1": 20,
+      "word2": "Attention,",
+      "flag2": 21,
+      "word3": "Mon appareil photo",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "124": {
+    "aoyama06_select16": {
+      "word1": "implacablement",
+      "flag1": 20,
+      "word2": "ton string de bikini",
+      "flag2": 21,
+      "word3": "va",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "125": {
+    "aoyama06_select17": {
+      "word1": "sexy, Hikaru !",
+      "flag1": 20,
+      "word2": "se détache !",
+      "flag2": 21,
+      "word3": "exploser !",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "126": {
+    "aoyama06_select18": {
+      "word1": "J'ai",
+      "flag1": 20,
+      "word2": "Ça va être",
+      "flag2": 21,
+      "word3": "Je t'accepte",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "127": {
+    "aoyama06_select19": {
+      "word1": "avec chaque fibre",
+      "flag1": 19,
+      "word2": "la meilleure",
+      "flag2": 21,
+      "word3": "attendu",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "128": {
+    "aoyama06_select20": {
+      "word1": "de mon être !",
+      "flag1": 19,
+      "word2": "photo jamais prise !",
+      "flag2": 21,
+      "word3": "ce moment !",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "129": {
+    "aoyama06_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "130": {
+    "hashimoto01_select01": {
+      "word1": "Kazuma",
+      "flag1": 14,
+      "word2": "mais j'ai hâte",
+      "flag2": 13,
+      "word3": "mignonnerie",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "131": {
+    "hashimoto01_select02": {
+      "word1": "Kiryu.",
+      "flag1": 14,
+      "word2": "me rend nerveux.",
+      "flag2": 15,
+      "word3": "de faire la séance d'aujourd'hui.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "132": {
+    "hashimoto01_select03": {
+      "word1": "Je continuerai à photographier",
+      "flag1": 14,
+      "word2": "Je suis prêt",
+      "flag2": 15,
+      "word3": "Autant que je veux ?",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "133": {
+    "hashimoto01_select04": {
+      "word1": "jusqu'à ce que mon",
+      "flag1": 14,
+      "word2": "C'est une",
+      "flag2": 13,
+      "word3": "pour tout",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "134": {
+    "hashimoto01_select05": {
+      "word1": "appareil photo se casse !",
+      "flag1": 14,
+      "word2": "ce que tu vas me jeter dessus.",
+      "flag2": 15,
+      "word3": "très bonne affaire.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "135": {
+    "hashimoto01_select06": {
+      "word1": "Je suis d'accord",
+      "flag1": 13,
+      "word2": "Toute pose",
+      "flag2": 15,
+      "word3": "Je pense que",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "136": {
+    "hashimoto01_select07": {
+      "word1": "avec tout",
+      "flag1": 13,
+      "word2": "que tu fais",
+      "flag2": 15,
+      "word3": "j'aimerais",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "137": {
+    "hashimoto01_select08": {
+      "word1": "une pose sexy.",
+      "flag1": 14,
+      "word2": "sera étonnante.",
+      "flag2": 15,
+      "word3": "ce que tu aimes.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "138": {
+    "hashimoto01_select09": {
+      "word1": "Si c'est le début,",
+      "flag1": 14,
+      "word2": "Je n'avais jamais réalisé",
+      "flag2": 15,
+      "word3": "Une pose étonnante",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "139": {
+    "hashimoto01_select10": {
+      "word1": "à quel point ce serait facile",
+      "flag1": 15,
+      "word2": "dès",
+      "flag2": 13,
+      "word3": "je ne peux pas attendre",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "140": {
+    "hashimoto01_select11": {
+      "word1": "avec un modèle aussi talentueux.",
+      "flag1": 15,
+      "word2": "le départ.",
+      "flag2": 13,
+      "word3": "la fin.",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "141": {
+    "hashimoto01_select12": {
+      "word1": "Et si",
+      "flag1": 14,
+      "word2": "Quand tu dis \"plus\"...",
+      "flag2": 15,
+      "word3": "Je veux",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "142": {
+    "hashimoto01_select13": {
+      "word1": "tu montrais",
+      "flag1": 14,
+      "word2": "que veux-tu",
+      "flag2": 15,
+      "word3": "voir ton expression",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "143": {
+    "hashimoto01_select14": {
+      "word1": "dire exactement ?",
+      "flag1": 15,
+      "word2": "un peu plus ta poitrine ?",
+      "flag2": 14,
+      "word3": "la plus séduisante.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "144": {
+    "hashimoto01_select15": {
+      "word1": "Attends !",
+      "flag1": 15,
+      "word2": "Whoa... Cette pose",
+      "flag2": 14,
+      "word3": "La plupart des hommes aiment les seins.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "145": {
+    "hashimoto01_select16": {
+      "word1": "est si",
+      "flag1": 14,
+      "word2": "Je dois prendre",
+      "flag2": 15,
+      "word3": "C'est comme ça",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "146": {
+    "hashimoto01_select17": {
+      "word1": "sexy !",
+      "flag1": 14,
+      "word2": "une photo de cette pose !",
+      "flag2": 15,
+      "word3": "que le monde fonctionne.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "147": {
+    "hashimoto01_select18": {
+      "word1": "Essaie quelque chose",
+      "flag1": 15,
+      "word2": "Essaies-tu",
+      "flag2": 14,
+      "word3": "Je ne pourrais jamais",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "148": {
+    "hashimoto01_select19": {
+      "word1": "refuser",
+      "flag1": 13,
+      "word2": "d'encore plus sexy",
+      "flag2": 15,
+      "word3": "de",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "149": {
+    "hashimoto01_select20": {
+      "word1": "une offre comme celle-là !",
+      "flag1": 13,
+      "word2": "pour moi.",
+      "flag2": 15,
+      "word3": "me séduire ?",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "150": {
+    "hashimoto01_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "151": {
+    "hashimoto02_select01": {
+      "word1": "pratiquer mes",
+      "flag1": 14,
+      "word2": "te voir,",
+      "flag2": 15,
+      "word3": "une merveilleuse,",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "152": {
+    "hashimoto02_select02": {
+      "word1": "talents de photographe.",
+      "flag1": 14,
+      "word2": "Rina.",
+      "flag2": 15,
+      "word3": "merveilleuse chose.",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "153": {
+    "hashimoto02_select03": {
+      "word1": "Hrgh !",
+      "flag1": 15,
+      "word2": "C'est juste",
+      "flag2": 13,
+      "word3": "C'est...",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "154": {
+    "hashimoto02_select04": {
+      "word1": "Tu as vu",
+      "flag1": 15,
+      "word2": "pas...",
+      "flag2": 14,
+      "word3": "comme tu le dis,",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "155": {
+    "hashimoto02_select05": {
+      "word1": "directement à travers moi...",
+      "flag1": 15,
+      "word2": "ma dame...",
+      "flag2": 13,
+      "word3": "vrai...",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "156": {
+    "hashimoto02_select06": {
+      "word1": "Bien,",
+      "flag1": 14,
+      "word2": "Je suis mature",
+      "flag2": 15,
+      "word3": "Je ne veux pas",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "157": {
+    "hashimoto02_select07": {
+      "word1": "allons-y",
+      "flag1": 14,
+      "word2": "dans plus",
+      "flag2": 15,
+      "word3": "mettre la charrue",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "158": {
+    "hashimoto02_select08": {
+      "word1": "avant les boeufs.",
+      "flag1": 13,
+      "word2": "doucement.",
+      "flag2": 14,
+      "word3": "d'un sens.",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "159": {
+    "hashimoto02_select09": {
+      "word1": "Je veux",
+      "flag1": 15,
+      "word2": "Si sexy !",
+      "flag2": 13,
+      "word3": "Tu es belle",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "160": {
+    "hashimoto02_select10": {
+      "word1": "Si mignon !",
+      "flag1": 13,
+      "word2": "même quand",
+      "flag2": 14,
+      "word3": "te garder",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "161": {
+    "hashimoto02_select11": {
+      "word1": "tu boudes !",
+      "flag1": 14,
+      "word2": "pour moi tout seul !",
+      "flag2": 15,
+      "word3": "Si sexy, si mignon !",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "162": {
+    "hashimoto02_select12": {
+      "word1": "Et si tu",
+      "flag1": 13,
+      "word2": "Peut-être que tu",
+      "flag2": 14,
+      "word3": "Pourquoi ne pas",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "163": {
+    "hashimoto02_select13": {
+      "word1": "enlever ta",
+      "flag1": 15,
+      "word2": "poussais tes",
+      "flag2": 13,
+      "word3": "devrais montrer",
+      "flag3": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "164": {
+    "hashimoto02_select14": {
+      "word1": "tes jambes fines !",
+      "flag1": 14,
+      "word2": "chemise ?",
+      "flag2": 15,
+      "word3": "seins l'un contre l'autre ?",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "165": {
+    "hashimoto02_select15": {
+      "word1": "Tu ne peux pas",
+      "flag1": 14,
+      "word2": "Je ne vais pas",
+      "flag2": 15,
+      "word3": "S'il te plaît, Rina !",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "166": {
+    "hashimoto02_select16": {
+      "word1": "te laisser",
+      "flag1": 15,
+      "word2": "me faire ça",
+      "flag2": 14,
+      "word3": "Je t'en",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "167": {
+    "hashimoto02_select17": {
+      "word1": "me taquiner comme ça !",
+      "flag1": 15,
+      "word2": "après avoir fait tout ce chemin !",
+      "flag2": 14,
+      "word3": "supplie !",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "168": {
+    "hashimoto02_select18": {
+      "word1": "J'ai attendu",
+      "flag1": 13,
+      "word2": "On dirait que",
+      "flag2": 14,
+      "word3": "Montre-moi",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "169": {
+    "hashimoto02_select19": {
+      "word1": "chaque centimètre",
+      "flag1": 15,
+      "word2": "tu sais",
+      "flag2": 14,
+      "word3": "ça toute",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "170": {
+    "hashimoto02_select20": {
+      "word1": "ma vie !",
+      "flag1": 13,
+      "word2": "juste ce que j'aime.",
+      "flag2": 14,
+      "word3": "de ton corps, Rina !",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "171": {
+    "hashimoto02_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "172": {
+    "hashimoto03_select01": {
+      "word1": "tout ce dont j'ai",
+      "flag1": 16,
+      "word2": "au monde",
+      "flag2": 18,
+      "word3": "peut-être",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "173": {
+    "hashimoto03_select02": {
+      "word1": "toujours rêvé.",
+      "flag1": 16,
+      "word2": "que j'aime plus.",
+      "flag2": 18,
+      "word3": "trop sexy pour moi.",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "174": {
+    "hashimoto03_select03": {
+      "word1": "Je ne peux pas",
+      "flag1": 16,
+      "word2": "Tu ne manques",
+      "flag2": 17,
+      "word3": "Merci d'être",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "175": {
+    "hashimoto03_select04": {
+      "word1": "jamais de",
+      "flag1": 17,
+      "word2": "toujours",
+      "flag2": 18,
+      "word3": "exprimer à quel point",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "176": {
+    "hashimoto03_select05": {
+      "word1": "si énergique.",
+      "flag1": 18,
+      "word2": "m'impressionner, Rina.",
+      "flag2": 17,
+      "word3": "je suis reconnaissant.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "177": {
+    "hashimoto03_select06": {
+      "word1": "Il y a une",
+      "flag1": 18,
+      "word2": "Mes mains",
+      "flag2": 17,
+      "word3": "Mon coeur",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "178": {
+    "hashimoto03_select07": {
+      "word1": "bat",
+      "flag1": 16,
+      "word2": "n'arrêtent pas",
+      "flag2": 17,
+      "word3": "sensation de gonflement",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "179": {
+    "hashimoto03_select08": {
+      "word1": "si vite.",
+      "flag1": 16,
+      "word2": "de trembler.",
+      "flag2": 17,
+      "word3": "dans mon pantalon.",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "180": {
+    "hashimoto03_select09": {
+      "word1": "Assure-toi",
+      "flag1": 17,
+      "word2": "Je vais",
+      "flag2": 18,
+      "word3": "Fais-moi plaisir",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "181": {
+    "hashimoto03_select10": {
+      "word1": "que tu regardes bien",
+      "flag1": 17,
+      "word2": "exploser",
+      "flag2": 18,
+      "word3": "avec ta",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "182": {
+    "hashimoto03_select11": {
+      "word1": "d'excitation !",
+      "flag1": 18,
+      "word2": "meilleure pose !",
+      "flag2": 16,
+      "word3": "la caméra !",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "183": {
+    "hashimoto03_select12": {
+      "word1": "J'ai réussi",
+      "flag1": 16,
+      "word2": "C'est difficile de",
+      "flag2": 17,
+      "word3": "Tu n'es pas seulement",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "184": {
+    "hashimoto03_select13": {
+      "word1": "belle, tu es",
+      "flag1": 18,
+      "word2": "à prendre des",
+      "flag2": 16,
+      "word3": "détourner mes",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "185": {
+    "hashimoto03_select14": {
+      "word1": "yeux.",
+      "flag1": 17,
+      "word2": "incroyable !",
+      "flag2": 18,
+      "word3": "photos incroyables.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "186": {
+    "hashimoto03_select15": {
+      "word1": "Laisse-moi voir",
+      "flag1": 17,
+      "word2": "Penche-toi en avant",
+      "flag2": 18,
+      "word3": "Tourne-toi et",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "187": {
+    "hashimoto03_select16": {
+      "word1": "et rapproche tes",
+      "flag1": 18,
+      "word2": "ce qu'il y a entre",
+      "flag2": 17,
+      "word3": "sors tes",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "188": {
+    "hashimoto03_select17": {
+      "word1": "seins !",
+      "flag1": 18,
+      "word2": "tes jambes.",
+      "flag2": 17,
+      "word3": "fesses !",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "189": {
+    "hashimoto03_select18": {
+      "word1": "Je ne peux pas",
+      "flag1": 18,
+      "word2": "Ça fait mal",
+      "flag2": 16,
+      "word3": "Je suis bien",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "190": {
+    "hashimoto03_select19": {
+      "word1": "avec des photos",
+      "flag1": 17,
+      "word2": "m'en empêcher, Rina.",
+      "flag2": 18,
+      "word3": "parce que",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "191": {
+    "hashimoto03_select20": {
+      "word1": "Tu es juste trop sexy !",
+      "flag1": 18,
+      "word2": "normales, aussi !",
+      "flag2": 17,
+      "word3": "c'est vrai.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "192": {
+    "hashimoto03_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "193": {
+    "hashimoto04_select01": {
+      "word1": "ton",
+      "flag1": 18,
+      "word2": "pour Noël",
+      "flag2": 17,
+      "word3": "ça veut dire que tu",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "194": {
+    "hashimoto04_select02": {
+      "word1": "renne.",
+      "flag1": 18,
+      "word2": "c'est toi.",
+      "flag2": 17,
+      "word3": "as un cadeau pour moi ?",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "195": {
+    "hashimoto04_select03": {
+      "word1": "Tes seins",
+      "flag1": 18,
+      "word2": "Je peux",
+      "flag2": 17,
+      "word3": "Je suis honoré",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "196": {
+    "hashimoto04_select04": {
+      "word1": "en prendre",
+      "flag1": 17,
+      "word2": "tombent",
+      "flag2": 18,
+      "word3": "de recevoir",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "197": {
+    "hashimoto04_select05": {
+      "word1": "de ta chemise !",
+      "flag1": 18,
+      "word2": "un tel cadeau.",
+      "flag2": 16,
+      "word3": "plus d'un ?",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "198": {
+    "hashimoto04_select06": {
+      "word1": "Ce n'était pas",
+      "flag1": 18,
+      "word2": "Tu veux bien",
+      "flag2": 16,
+      "word3": "Attends,",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "199": {
+    "hashimoto04_select07": {
+      "word1": "mon appareil photo",
+      "flag1": 17,
+      "word2": "assez long",
+      "flag2": 18,
+      "word3": "me donner",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "200": {
+    "hashimoto04_select08": {
+      "word1": "une autre chance !?",
+      "flag1": 16,
+      "word2": "n'était pas prêt !",
+      "flag2": 17,
+      "word3": "du tout !",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "201": {
+    "hashimoto04_select09": {
+      "word1": "Gardes tes blagues",
+      "flag1": 18,
+      "word2": "Je tiendrai le coup",
+      "flag2": 16,
+      "word3": "Je vais m'en sortir.",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "202": {
+    "hashimoto04_select10": {
+      "word1": "aussi longtemps que nécessaire",
+      "flag1": 16,
+      "word2": "Mon endurance",
+      "flag2": 17,
+      "word3": "pour toi",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "203": {
+    "hashimoto04_select11": {
+      "word1": "Mon endurance",
+      "flag1": 17,
+      "word2": "la prochaine fois.",
+      "flag2": 18,
+      "word3": "pour toi, Rina.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "204": {
+    "hashimoto04_select12": {
+      "word1": "Ton sourire",
+      "flag1": 17,
+      "word2": "J'espère que le Père Noël",
+      "flag2": 18,
+      "word3": "Je n'avais jamais réalisé",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "205": {
+    "hashimoto04_select13": {
+      "word1": "que le Père Noël était",
+      "flag1": 16,
+      "word2": "est",
+      "flag2": 17,
+      "word3": "connaît quelques",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "206": {
+    "hashimoto04_select14": {
+      "word1": "si sexy...",
+      "flag1": 16,
+      "word2": "incroyable.",
+      "flag2": 17,
+      "word3": "bonnes poses.",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "207": {
+    "hashimoto04_select15": {
+      "word1": "Tu peux venir",
+      "flag1": 18,
+      "word2": "Ça te plaît ?",
+      "flag2": 17,
+      "word3": "Il n'y a pas un homme",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "208": {
+    "hashimoto04_select16": {
+      "word1": "dans ma maison",
+      "flag1": 18,
+      "word2": "Je l'adore,",
+      "flag2": 17,
+      "word3": "vivant qui",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "209": {
+    "hashimoto04_select17": {
+      "word1": "Rina !",
+      "flag1": 17,
+      "word2": "quand tu veux.",
+      "flag2": 18,
+      "word3": "n'aimerait pas ça.",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "210": {
+    "hashimoto04_select18": {
+      "word1": "Merci pour",
+      "flag1": 17,
+      "word2": "Je peux en avoir un autre",
+      "flag2": 18,
+      "word3": "C'est",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "211": {
+    "hashimoto04_select19": {
+      "word1": "le meilleur",
+      "flag1": 16,
+      "word2": "tous les",
+      "flag2": 17,
+      "word3": "cadeau si je promets",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "212": {
+    "hashimoto04_select20": {
+      "word1": "Noël de tous les temps !",
+      "flag1": 16,
+      "word2": "souvenirs, Père Noël !",
+      "flag2": 17,
+      "word3": "d'être sage l'année prochaine ?",
+      "flag3": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "213": {
+    "hashimoto04_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "214": {
+    "hashimoto05_select01": {
+      "word1": "est d'un",
+      "flag1": 20,
+      "word2": "rebondissent",
+      "flag2": 21,
+      "word3": "est toujours aussi",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "215": {
+    "hashimoto05_select02": {
+      "word1": "belle et brillante, Rina.",
+      "flag1": 19,
+      "word2": "blanc si pur.",
+      "flag2": 20,
+      "word3": "comme des petits fous aujourd'hui.",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "216": {
+    "hashimoto05_select03": {
+      "word1": "J'ai",
+      "flag1": 21,
+      "word2": "Je suis si heureux",
+      "flag2": 19,
+      "word3": "C'est la",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "217": {
+    "hashimoto05_select04": {
+      "word1": "d'avoir décidé de",
+      "flag1": 19,
+      "word2": "vraie récompense",
+      "flag2": 20,
+      "word3": "une \"surprise\"",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "218": {
+    "hashimoto05_select05": {
+      "word1": "de la persévérance !",
+      "flag1": 20,
+      "word2": "pour toi aussi.",
+      "flag2": 21,
+      "word3": "revenir.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "219": {
+    "hashimoto05_select06": {
+      "word1": "Je suis surpris",
+      "flag1": 20,
+      "word2": "Je ne veux jamais",
+      "flag2": 21,
+      "word3": "Tu as",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "220": {
+    "hashimoto05_select07": {
+      "word1": "le plus",
+      "flag1": 19,
+      "word2": "à quel point",
+      "flag2": 20,
+      "word3": "arrêter",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "221": {
+    "hashimoto05_select08": {
+      "word1": "de prendre des photos de toi.",
+      "flag1": 21,
+      "word2": "beau des corps.",
+      "flag2": 19,
+      "word3": "c'est révélateur.",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "222": {
+    "hashimoto05_select09": {
+      "word1": "Je ne peux pas m'en empêcher.",
+      "flag1": 19,
+      "word2": "C'est parce que",
+      "flag2": 20,
+      "word3": "Je suppose que je suis",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "223": {
+    "hashimoto05_select10": {
+      "word1": "tu portes",
+      "flag1": 20,
+      "word2": "juste un",
+      "flag2": 21,
+      "word3": "Ton corps me rend",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "224": {
+    "hashimoto05_select11": {
+      "word1": "un maillot de bain si léger.",
+      "flag1": 20,
+      "word2": "vilain garçon.",
+      "flag2": 21,
+      "word3": "tout excité, Rina.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "225": {
+    "hashimoto05_select12": {
+      "word1": "Il est temps",
+      "flag1": 19,
+      "word2": "Montre-moi",
+      "flag2": 20,
+      "word3": "Donne-moi un",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "226": {
+    "hashimoto05_select13": {
+      "word1": "avant-goût de ces",
+      "flag1": 21,
+      "word2": "de faire le vide dans mon esprit",
+      "flag2": 19,
+      "word3": "ta pose",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "227": {
+    "hashimoto05_select14": {
+      "word1": "cuisses juteuses.",
+      "flag1": 21,
+      "word2": "et de me concentrer sur les photos.",
+      "flag2": 19,
+      "word3": "la plus sexy possible.",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "228": {
+    "hashimoto05_select15": {
+      "word1": "Tu es même",
+      "flag1": 20,
+      "word2": "Cette pose est",
+      "flag2": 21,
+      "word3": "Ah,",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "229": {
+    "hashimoto05_select16": {
+      "word1": "plus impliquée",
+      "flag1": 20,
+      "word2": "juste si...",
+      "flag2": 21,
+      "word3": "un vrai",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "230": {
+    "hashimoto05_select17": {
+      "word1": "audacieuse !",
+      "flag1": 21,
+      "word2": "classique de Gravure !",
+      "flag2": 19,
+      "word3": "que d'habitude, Rina.",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "231": {
+    "hashimoto05_select18": {
+      "word1": "S'arrêter n'est",
+      "flag1": 21,
+      "word2": "Je dois encore",
+      "flag2": 19,
+      "word3": "Ce n'est pas trop",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "232": {
+    "hashimoto05_select19": {
+      "word1": "plus",
+      "flag1": 21,
+      "word2": "prendre au moins",
+      "flag2": 19,
+      "word3": "stimulant... Ce n'est pas",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "233": {
+    "hashimoto05_select20": {
+      "word1": "assez stimulant !",
+      "flag1": 20,
+      "word2": "une option !",
+      "flag2": 21,
+      "word3": "10 autres photos !",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "234": {
+    "hashimoto05_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "235": {
+    "hashimoto06_select01": {
+      "word1": "léo...",
+      "flag1": 21,
+      "word2": "censé me concentrer",
+      "flag2": 19,
+      "word3": "la reine",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "236": {
+    "hashimoto06_select02": {
+      "word1": "pard !?",
+      "flag1": 21,
+      "word2": "de la jungle !",
+      "flag2": 20,
+      "word3": "avec toi dans cette tenue ?",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "237": {
+    "hashimoto06_select03": {
+      "word1": "Tu sais,",
+      "flag1": 21,
+      "word2": "Ne sois",
+      "flag2": 20,
+      "word3": "Je pense",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "238": {
+    "hashimoto06_select04": {
+      "word1": "les animaux ne portent",
+      "flag1": 21,
+      "word2": "que tu en montres",
+      "flag2": 19,
+      "word3": "pas timide",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "239": {
+    "hashimoto06_select05": {
+      "word1": "avec moi maintenant !",
+      "flag1": 20,
+      "word2": "aucun vêtement du tout...",
+      "flag2": 21,
+      "word3": "juste assez.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "240": {
+    "hashimoto06_select06": {
+      "word1": "Je suis si heureux",
+      "flag1": 20,
+      "word2": "Et si",
+      "flag2": 21,
+      "word3": "C'est difficile de",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "241": {
+    "hashimoto06_select07": {
+      "word1": "nous faisions",
+      "flag1": 21,
+      "word2": "dire à quel point",
+      "flag2": 19,
+      "word3": "d'avoir atteint",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "242": {
+    "hashimoto06_select08": {
+      "word1": "des heures supplémentaires aujourd'hui !?",
+      "flag1": 21,
+      "word2": "ce point avec toi.",
+      "flag2": 20,
+      "word3": "j'aime ça.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "243": {
+    "hashimoto06_select09": {
+      "word1": "Je pense que tu peux",
+      "flag1": 21,
+      "word2": "Je peux encore...",
+      "flag2": 20,
+      "word3": "Je suis en train d'éclater",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "244": {
+    "hashimoto06_select10": {
+      "word1": "imaginer ce que",
+      "flag1": 21,
+      "word2": "aux",
+      "flag2": 19,
+      "word3": "tenir bon !",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "245": {
+    "hashimoto06_select11": {
+      "word1": "ça va faire.",
+      "flag1": 21,
+      "word2": "Juste un peu plus longtemps !",
+      "flag2": 20,
+      "word3": "coutures ici...",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "246": {
+    "hashimoto06_select12": {
+      "word1": "Qui sait ce qui va",
+      "flag1": 19,
+      "word2": "Ne dis pas",
+      "flag2": 21,
+      "word3": "Tu es courageuse",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "247": {
+    "hashimoto06_select13": {
+      "word1": "que je ne t'ai",
+      "flag1": 21,
+      "word2": "pour me tester",
+      "flag2": 20,
+      "word3": "se passer si tu continues",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "248": {
+    "hashimoto06_select14": {
+      "word1": "comme ça.",
+      "flag1": 20,
+      "word2": "pas prévenu... !",
+      "flag2": 21,
+      "word3": "à rebondir comme ça !",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "249": {
+    "hashimoto06_select15": {
+      "word1": "C'est la chose la plus",
+      "flag1": 21,
+      "word2": "Il n'y a rien",
+      "flag2": 20,
+      "word3": "Quelque chose de profond",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "250": {
+    "hashimoto06_select16": {
+      "word1": " en moi est",
+      "flag1": 19,
+      "word2": "excitante",
+      "flag2": 21,
+      "word3": "de mieux qu'une",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "251": {
+    "hashimoto06_select17": {
+      "word1": "que j'ai jamais vue.",
+      "flag1": 21,
+      "word2": "cougar sexy.",
+      "flag2": 20,
+      "word3": "sur le point de sortir.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "252": {
+    "hashimoto06_select18": {
+      "word1": "Je n'ai",
+      "flag1": 19,
+      "word2": "Montre-moi",
+      "flag2": 21,
+      "word3": "Es-tu sûre ?",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "253": {
+    "hashimoto06_select19": {
+      "word1": "aucune raison",
+      "flag1": 19,
+      "word2": "ta vraie",
+      "flag2": 21,
+      "word3": "Tu es vraiment,",
+      "flag3": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "254": {
+    "hashimoto06_select20": {
+      "word1": "forme, Rina.",
+      "flag1": 21,
+      "word2": "<font_kind=yakuza_italic>vraiment</font_kind> sûre ?",
+      "flag2": 20,
+      "word3": "de refuser.",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "255": {
+    "hashimoto06_select21": {
+      "flag1": 0,
+      "flag2": 0,
+      "flag3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "256": {
+    "aoyama01_select00": {
+      "word1": "Mon nom est",
+      "flag1": 13,
+      "word2": "Mes compétences en photographie",
+      "flag2": 14,
+      "word3": "Wow, ce magasin",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "257": {
+    "aoyama02_select00": {
+      "word1": "Tu n'as pas",
+      "flag1": 15,
+      "word2": "Je ne suis pas sûr",
+      "flag2": 14,
+      "word3": "Tu n'es pas",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "258": {
+    "aoyama03_select00": {
+      "word1": "Je me sens comme",
+      "flag1": 18,
+      "word2": "J'adorerais",
+      "flag2": 17,
+      "word3": "Faisons en sorte que cette",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "259": {
+    "aoyama04_select00": {
+      "word1": "Cette tenue",
+      "flag1": 18,
+      "word2": "J'ai hâte d'assister",
+      "flag2": 16,
+      "word3": "C'est un peu embarrassant",
+      "flag3": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "260": {
+    "aoyama05_select00": {
+      "word1": "C'est difficile",
+      "flag1": 20,
+      "word2": "Où as-tu",
+      "flag2": 21,
+      "word3": "Je suis honoré",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "261": {
+    "aoyama06_select00": {
+      "word1": "C'est une si",
+      "flag1": 20,
+      "word2": "Ce doit",
+      "flag2": 21,
+      "word3": "On dirait que",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "262": {
+    "hashimoto01_select00": {
+      "word1": "Mon nom est",
+      "flag1": 14,
+      "word2": "C'est nouveau pour moi,",
+      "flag2": 13,
+      "word3": "Toute cette",
+      "flag3": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "263": {
+    "hashimoto02_select00": {
+      "word1": "Je voulais juste",
+      "flag1": 15,
+      "word2": "Je suis juste ici pour",
+      "flag2": 14,
+      "word3": "La Gravure est",
+      "flag3": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "264": {
+    "hashimoto03_select00": {
+      "word1": "C'est honnêtement",
+      "flag1": 17,
+      "word2": "Il n'y a rien",
+      "flag2": 18,
+      "word3": "C'est",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "265": {
+    "hashimoto04_select00": {
+      "word1": "Je serais volontiers",
+      "flag1": 18,
+      "word2": "Tout ce que je veux",
+      "flag2": 17,
+      "word3": "Si tu es le Père Noël,",
+      "flag3": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "266": {
+    "hashimoto05_select00": {
+      "word1": "Ta peau bronzée",
+      "flag1": 19,
+      "word2": "Ce maillot de bain",
+      "flag2": 20,
+      "word3": "Tes seins",
+      "flag3": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "267": {
+    "hashimoto06_select00": {
+      "word1": "Tu pourrais être",
+      "flag1": 20,
+      "word2": "Imprimé...",
+      "flag2": 21,
+      "word3": "Comment suis-je",
+      "flag3": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  }
+}

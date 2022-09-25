@@ -1,0 +1,537 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 37,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 20,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "name_left": "1",
+    "particle": "1",
+    "track_parameter": "1",
+    "color": "1",
+    "strike_gap_offset_x": "1",
+    "strike_gap_offset_y": "1",
+    "strike_gap_rotation": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "name_left": 0,
+    "particle": 1,
+    "track_parameter": 2,
+    "color": 0,
+    "strike_gap_offset_x": 7,
+    "strike_gap_offset_y": 7,
+    "strike_gap_rotation": 7
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "name_left": 12,
+    "particle": 1,
+    "track_parameter": 0,
+    "color": 12,
+    "strike_gap_offset_x": 9,
+    "strike_gap_offset_y": 9,
+    "strike_gap_rotation": 9
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "0": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "lexus2_fastball": {
+      "name": "Balle rapide",
+      "particle": 4358,
+      "track_parameter": 17,
+      "color": "batting_pitch_white",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "21": {
+    "lexus2_twoseam": {
+      "name": "Deux coutures",
+      "particle": 4358,
+      "track_parameter": 17,
+      "color": "batting_pitch_white",
+      "strike_gap_offset_x": 0.5,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "22": {
+    "lexus2_oneseam": {
+      "name": "Une couture",
+      "particle": 4358,
+      "track_parameter": 17,
+      "color": "batting_pitch_white",
+      "strike_gap_offset_x": 0.5,
+      "strike_gap_offset_y": -0.5,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "23": {
+    "lexus2_slider": {
+      "name": "Balle glissante",
+      "particle": 4359,
+      "track_parameter": 18,
+      "color": "batting_pitch_red",
+      "strike_gap_offset_x": -1.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "24": {
+    "lexus2_cutball": {
+      "name": "Balle coupée",
+      "particle": 4359,
+      "track_parameter": 18,
+      "color": "batting_pitch_red",
+      "strike_gap_offset_x": -0.5,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "25": {
+    "lexus2_curve": {
+      "name": "Balle courbe",
+      "particle": 4359,
+      "track_parameter": 18,
+      "color": "batting_pitch_red",
+      "strike_gap_offset_x": -1.0,
+      "strike_gap_offset_y": -1.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "26": {
+    "lexus2_fork": {
+      "name": "Balle fourchette",
+      "particle": 4360,
+      "track_parameter": 19,
+      "color": "batting_pitch_light_blue",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": -0.5,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "27": {
+    "lexus2_splitter": {
+      "name": "Balle fronde",
+      "particle": 4360,
+      "track_parameter": 19,
+      "color": "batting_pitch_light_blue",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": -0.5,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "28": {
+    "lexus2_changeup": {
+      "name": "Changement de vitesse",
+      "particle": 4360,
+      "track_parameter": 19,
+      "color": "batting_pitch_light_blue",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": -1.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "29": {
+    "lexus2_sinker": {
+      "name": "Balle tombante",
+      "name_left": "Balle tire-bouchon",
+      "particle": 8285,
+      "track_parameter": 20,
+      "color": "batting_pitch_yellow",
+      "strike_gap_offset_x": 1.0,
+      "strike_gap_offset_y": -1.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "30": {
+    "lexus2_shuuto": {
+      "name": "Tir",
+      "particle": 8285,
+      "track_parameter": 20,
+      "color": "batting_pitch_yellow",
+      "strike_gap_offset_x": 1.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "31": {
+    "lexus2_gyro": {
+      "name": "Gyroball",
+      "particle": 4358,
+      "track_parameter": 17,
+      "color": "batting_pitch_white",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "32": {
+    "lexus2_Hfastball": {
+      "name": "Balle rapide",
+      "particle": 4358,
+      "track_parameter": 17,
+      "color": "batting_pitch_white",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "33": {
+    "lexus2_hop": {
+      "name": "Aigle en vol",
+      "particle": 8287,
+      "track_parameter": 23,
+      "color": "batting_pitch_white",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 1.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "34": {
+    "lexus2_roll": {
+      "name": "Rêve Américain",
+      "particle": 8287,
+      "track_parameter": 23,
+      "color": "batting_pitch_red",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": -8.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "35": {
+    "lexus2_Lfastball": {
+      "name": "Balle rapide de la liberté",
+      "particle": 8287,
+      "track_parameter": 17,
+      "color": "batting_pitch_red",
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "36": {
+    "": {
+      "particle": 0,
+      "track_parameter": 0,
+      "strike_gap_offset_x": 0.0,
+      "strike_gap_offset_y": 0.0,
+      "strike_gap_rotation": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  }
+}

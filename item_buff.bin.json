@@ -1,0 +1,264 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 25,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 24,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "param": "1",
+    "name": "1",
+    "ui_frame": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "param": 7,
+    "name": 0,
+    "ui_frame": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "param": 9,
+    "name": 12,
+    "ui_frame": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "0": {
+    "": {
+      "param": 0.0,
+      "ui_frame": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "attack_up": {
+      "param": 0.0,
+      "name": "Attack Boost",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "2": {
+    "defense_up": {
+      "param": -0.20000000298023224,
+      "name": "Defense Boost",
+      "ui_frame": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "3": {
+    "exp_muscle_up": {
+      "param": 1.2000000476837158,
+      "name": "Strength EXP Boost",
+      "ui_frame": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "4": {
+    "exp_quickness_up": {
+      "param": 1.2000000476837158,
+      "name": "Agility EXP Boost",
+      "ui_frame": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "5": {
+    "exp_guts_up": {
+      "param": 1.2000000476837158,
+      "name": "Spirit EXP Boost",
+      "ui_frame": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "6": {
+    "exp_technique_up": {
+      "param": 1.2000000476837158,
+      "name": "Technique EXP Boost",
+      "ui_frame": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "7": {
+    "exp_charm_up": {
+      "param": 1.2000000476837158,
+      "name": "Charm EXP Boost",
+      "ui_frame": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "8": {
+    "money_up": {
+      "param": 3.0,
+      "name": "Money Boost",
+      "ui_frame": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "9": {
+    "stamina_up": {
+      "param": 0.0,
+      "name": "Stamina Boost",
+      "ui_frame": 10,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "10": {
+    "exp_all_up": {
+      "param": 1.100000023841858,
+      "name": "All EXP Boost",
+      "ui_frame": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "11": {
+    "minigame_exp_up": {
+      "param": 1.5,
+      "name": "Minigame EXP Boost",
+      "ui_frame": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "12": {
+    "battle_exp_up": {
+      "param": 1.5,
+      "name": "Battle EXP Boost",
+      "ui_frame": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "13": {
+    "encount_up": {
+      "param": 0.0,
+      "name": "Encounter Rate Up",
+      "ui_frame": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "14": {
+    "encount_down": {
+      "param": 0.0,
+      "name": "Encounter Rate Down",
+      "ui_frame": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "15": {
+    "attack_up_large": {
+      "param": 1.2999999523162842,
+      "name": "Attack Boost (Large)",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "16": {
+    "attack_up_small": {
+      "param": 1.100000023841858,
+      "name": "Attack Boost (Small)",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "17": {
+    "reaction_up": {
+      "param": 5.0,
+      "name": "Knockback Boost",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "18": {
+    "stun_up": {
+      "param": 0.0,
+      "name": "Knockout Boost",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "19": {
+    "defense_up_large": {
+      "param": -0.30000001192092896,
+      "name": "Defense Boost (Large)",
+      "ui_frame": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "20": {
+    "defense_up_small": {
+      "param": -0.10000000149011612,
+      "name": "Defense Boost (Small)",
+      "ui_frame": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "21": {
+    "guard_break": {
+      "param": -0.10000000149011612,
+      "name": "Guard Break",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "hact_damage_up": {
+      "param": 0.0,
+      "name": "Heat Action Damage Boost",
+      "ui_frame": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "reaction_down": {
+      "param": 0.0,
+      "name": "Knockback Resistance Boost",
+      "ui_frame": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "weapon_damage_down": {
+      "param": -0.5,
+      "name": "Blade/Gun Resistance Boost",
+      "ui_frame": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  }
+}

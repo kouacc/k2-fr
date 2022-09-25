@@ -1,0 +1,138 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 11,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 10,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "character_id": "1",
+    "list_index": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "character_id": 1,
+    "list_index": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "character_id": 1,
+    "list_index": 2
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "0": {
+    "": {
+      "character_id": 0,
+      "list_index": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "cos_kam_nor": {
+      "name": "Style Kamurocho",
+      "character_id": 3,
+      "list_index": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "cos_mou": {
+      "name": "Costume funéraire",
+      "character_id": 2687,
+      "list_index": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "cos_naked": {
+      "name": "Torse nu",
+      "character_id": 9398,
+      "list_index": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "cos_kara": {
+      "name": "Fun in the Sun",
+      "character_id": 5609,
+      "list_index": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "cos_geinin": {
+      "name": "Comédien",
+      "character_id": 13517,
+      "list_index": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "cos_CI": {
+      "name": "Gérant de cabaret",
+      "character_id": 12276,
+      "list_index": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "cos_nemaki": {
+      "name": "Pyjamas",
+      "character_id": 9397,
+      "list_index": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "cos_helmet": {
+      "name": "Casque Majima Construction",
+      "character_id": 13519,
+      "list_index": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "cos_gold": {
+      "name": "Costume doré",
+      "character_id": 13518,
+      "list_index": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "cos_cancel": {
+      "name": "Annuler",
+      "character_id": 0,
+      "list_index": 10,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  }
+}

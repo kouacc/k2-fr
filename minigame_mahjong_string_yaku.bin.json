@@ -1,0 +1,437 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 58,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 57,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "pinfu": {
+      "text": "Tout suite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "ton": {
+      "text": "Higashi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "dabuton": {
+      "text": "Double Est",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "nan": {
+      "text": "Sud",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "dabunan": {
+      "text": "Double Sud",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "sha": {
+      "text": "Ouest",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "dabusha": {
+      "text": "Double Ouest",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "pe": {
+      "text": "Nord",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "dabupe": {
+      "text": "Double Nord",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "haku": {
+      "text": "Dragon blanc",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "hatsu": {
+      "text": "Dragon vert",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "chun": {
+      "text": "Dragon rouge",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "tanyao": {
+      "text": "Tout ordinaire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "iipeiko": {
+      "text": "Double suite pure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "riichi": {
+      "text": "Riichi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "ippatsu": {
+      "text": "Ippatsu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "tsumo": {
+      "text": "Tout caché tiré",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "rinshankaihou": {
+      "text": "Finir sur un carré",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "haiteiraoyue": {
+      "text": "Fond de la rivière - Tsumo",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "houteiraoyui": {
+      "text": "Fond de la rivière - Ron",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "chanta": {
+      "text": "Extrémités et honneurs partout",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "honroutou": {
+      "text": "Tout honneur et extrémité",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "ikkitsuukan": {
+      "text": "Grande suite pure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "toitoi": {
+      "text": "Tout brelan",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "sanankou": {
+      "text": "Trois brelans cachés",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "sanrenkou": {
+      "text": "Trois pons consécutifs",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "sankantsu": {
+      "text": "Trois carrés",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "chiitoitsu": {
+      "text": "Sept paires",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "sanshokudoujyun": {
+      "text": "Triple suite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "sanshokudoukoku": {
+      "text": "Triple brelan",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "shousangen": {
+      "text": "Trois petits dragons",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "doubleriichi": {
+      "text": "Double riichi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "jyunchan": {
+      "text": "Extrémités partout",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "honitsu": {
+      "text": "Semi pure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "ryanpeikou": {
+      "text": "Double suite pure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "chinitsu": {
+      "text": "Main pure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "tsuuiisou": {
+      "text": "Tout honneurs",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "ryuuiisou": {
+      "text": "Main verte",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "chuurenpoutou": {
+      "text": "Neuf portes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "jyunseichuurenpoutou": {
+      "text": "Neuf portes pures",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "suuankou": {
+      "text": "Quatre brelans cachés",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "suuankoutanki": {
+      "text": "Quatre brelans cachés avec attente unique",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "suukantsu": {
+      "text": "Quatre carrés",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "daisangen": {
+      "text": "Trois grands dragons",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "daisuusii": {
+      "text": "Quatre grands vents",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "shousuusii": {
+      "text": "Quatre petits vents",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "chinroutou": {
+      "text": "Tout extrémités",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "tenho": {
+      "text": "Bénédiction du ciel",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "chiihou": {
+      "text": "Bénédiction de la terre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "kokusimusou": {
+      "text": "Treize orphelins",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "jyunseikokusimusou": {
+      "text": "Treize orphelins purs",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "siisanpuutaa": {
+      "text": "Treize brisés",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "dora": {
+      "text": "Dora",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "renhou": {
+      "text": "Bénédiction de l'homme",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "chankan": {
+      "text": "Voler un carré",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "daisharin": {
+      "text": "Grande roue",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "nagasimangan": {
+      "text": "Défausse d'extrémités",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  }
+}

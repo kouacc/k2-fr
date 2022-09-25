@@ -1,0 +1,508 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 24,
+  "COLUMN_COUNT": 14,
+  "TEXT_COUNT": 34,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "cp": "0",
+    "icon": "1",
+    "explanation": "1",
+    "sexy": "1",
+    "beauty": "1",
+    "cute": "1",
+    "funny": "1",
+    "money": "1",
+    "complete": "1",
+    "cast_id": "1",
+    "open_clock": "1",
+    "open_timeline": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "cp": -1,
+    "icon": 1,
+    "explanation": 0,
+    "sexy": 3,
+    "beauty": 3,
+    "cute": 3,
+    "funny": 3,
+    "money": 10,
+    "complete": 2,
+    "cast_id": 2,
+    "open_clock": 0,
+    "open_timeline": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "cp": -1,
+    "icon": 1,
+    "explanation": 12,
+    "sexy": 6,
+    "beauty": 6,
+    "cute": 6,
+    "funny": 6,
+    "money": 7,
+    "complete": 0,
+    "cast_id": 0,
+    "open_clock": 2,
+    "open_timeline": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    9,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    12
+  ],
+  "0": {
+    "": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "style_01": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "style_02": {
+      "name": "Standard",
+      "icon": 3642,
+      "explanation": "Sa coiffure par défaut.　",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 2,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "style_03": {
+      "name": "Standard",
+      "icon": 3640,
+      "explanation": "Sa coiffure par défaut.　",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 3,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "style_04": {
+      "name": "Standard",
+      "icon": 3637,
+      "explanation": "Sa coiffure par défaut.　",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 4,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "style_05": {
+      "name": "Standard",
+      "icon": 3652,
+      "explanation": "Sa coiffure par défaut.　",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 5,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "style_06": {
+      "name": "Standard",
+      "icon": 3656,
+      "explanation": "Sa coiffure par défaut.　",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 6,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "style_07": {
+      "name": "Standard",
+      "icon": 3641,
+      "explanation": "Sa coiffure par défaut.　",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 7,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "style_08": {
+      "name": "Chignon bouclé",
+      "icon": 3635,
+      "explanation": "Coiffure classique qui réhausse la beauté d'une fille.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": 0,
+      "funny": -1,
+      "money": 10000,
+      "complete": 2,
+      "cast_id": 0,
+      "open_clock": 8,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "style_09": {
+      "name": "Hôtesse",
+      "icon": 3645,
+      "explanation": "Un style élégant et superbe, très populaire\r\nparmi les hôtesses.",
+      "sexy": 1,
+      "beauty": 1,
+      "cute": -2,
+      "funny": 0,
+      "money": 15000,
+      "complete": 3,
+      "cast_id": 0,
+      "open_clock": 8,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "style_10": {
+      "name": "Court",
+      "icon": 3649,
+      "explanation": "Ce style frais et populaire donne un air gentil.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 1,
+      "funny": -1,
+      "money": 20000,
+      "complete": 4,
+      "cast_id": 0,
+      "open_clock": 8,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "style_11": {
+      "name": "Mi-long",
+      "icon": 3643,
+      "explanation": "Adoptez le style d'une fille gentille et sympa.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": 0,
+      "funny": -1,
+      "money": 30000,
+      "complete": 5,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "style_12": {
+      "name": "Double queue de cheval",
+      "icon": 3654,
+      "explanation": "Un look innocent qui plaît à certains.",
+      "sexy": -1,
+      "beauty": -1,
+      "cute": 1,
+      "funny": 1,
+      "money": 40000,
+      "complete": 6,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "style_13": {
+      "name": "Queue de cheval",
+      "icon": 3647,
+      "explanation": "Un style intemporel. Peut rappeler aux clients\r\nleurs béguins de lycée.",
+      "sexy": -1,
+      "beauty": 0,
+      "cute": 1,
+      "funny": 0,
+      "money": 50000,
+      "complete": 7,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "style_14": {
+      "name": "Coupe longue droite",
+      "icon": 3651,
+      "explanation": "Un style classique synonyme de\r\nféminité et de beauté.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": -1,
+      "funny": 0,
+      "money": 60000,
+      "complete": 8,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "style_15": {
+      "name": "Boucles de princesse",
+      "icon": 3639,
+      "explanation": "Ce style est autant apprécié des femmes mûres\r\nque des jeunes filles.",
+      "sexy": 1,
+      "beauty": 0,
+      "cute": -1,
+      "funny": 0,
+      "money": 100000,
+      "complete": 9,
+      "cast_id": 0,
+      "open_clock": 25,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "style_16": {
+      "name": "Tresses",
+      "icon": 3646,
+      "explanation": "Revivez l'époque de votre premier amour !",
+      "sexy": -1,
+      "beauty": -1,
+      "cute": 1,
+      "funny": 1,
+      "money": 150000,
+      "complete": 10,
+      "cast_id": 0,
+      "open_clock": 25,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "style_17": {
+      "name": "Coupe d'idole",
+      "icon": 3636,
+      "explanation": "Un style rendu populaire par une célèbre idole.\r\nDe nombreuses écolières essaient de l'imiter.",
+      "sexy": -2,
+      "beauty": -1,
+      "cute": 2,
+      "funny": -1,
+      "money": 200000,
+      "complete": 11,
+      "cast_id": 0,
+      "open_clock": 25,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "style_18": {
+      "name": "Long tendance",
+      "icon": 3653,
+      "explanation": "Une coupe avec une frange très à la mode\r\ndans les années 80.",
+      "sexy": 1,
+      "beauty": 1,
+      "cute": -1,
+      "funny": -1,
+      "money": 300000,
+      "complete": 12,
+      "cast_id": 0,
+      "open_clock": 31,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "style_19": {
+      "name": "Double chignon",
+      "icon": 3644,
+      "explanation": "Un style mignon qui crée un impact visuel fort.",
+      "sexy": -2,
+      "beauty": -1,
+      "cute": 1,
+      "funny": 2,
+      "money": 350000,
+      "complete": 13,
+      "cast_id": 0,
+      "open_clock": 31,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "style_20": {
+      "name": "Diadème",
+      "icon": 3648,
+      "explanation": "Une version moderne d'un grand classique.",
+      "sexy": 0,
+      "beauty": 2,
+      "cute": -2,
+      "funny": 0,
+      "money": 500000,
+      "complete": 14,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "style_21": {
+      "name": "Demi-queue",
+      "icon": 3655,
+      "explanation": "Simple et sophistiqué à la fois.",
+      "sexy": -1,
+      "beauty": 1,
+      "cute": 1,
+      "funny": -1,
+      "money": 500000,
+      "complete": 15,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "style_22": {
+      "name": "Relevé",
+      "icon": 3638,
+      "explanation": "Un style féminin et mignon prisé\r\ndes jeunes femmes.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": 1,
+      "funny": -2,
+      "money": 500000,
+      "complete": 16,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "style_23": {
+      "name": "Côté glamour",
+      "icon": 3650,
+      "explanation": "Met en valeur le charme féminin d'une jeune fille.\r\nÉlégant et mignon.",
+      "sexy": -1,
+      "beauty": 1,
+      "cute": 1,
+      "funny": -1,
+      "money": 500000,
+      "complete": 17,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  }
+}

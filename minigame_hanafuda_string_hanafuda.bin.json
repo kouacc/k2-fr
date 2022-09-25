@@ -1,0 +1,744 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 102,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 96,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "empty": {
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "s_HanafudaEnemyName_weak": {
+      "text": "Tanekasu l'endiablé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "s_HanafudaEnemyName_normal": {
+      "text": "Aoyama l'infâme",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "s_HanafudaEnemyName_strong": {
+      "text": "Tanuki le timbré",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "s_HanafudaEnemyName_alien": {
+      "text": "Aoki l'illuminé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "s_Hanafuda_TsukimiHanami": {
+      "text": "Lune et saké/Fleurs de cerisier et saké",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "s_Hanahuda_MonthNum": {
+      "text": "Manches",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "s_Hanafuda_MonthFormat3": {
+      "text": "Mois ${count_a}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "s_Hanafuda_PointFormat": {
+      "text": "${count} pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "s_Hanafuda_PointFormat3": {
+      "text": "${count} pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "s_Hanafuda_SumPointFormat": {
+      "text": "Total : ${count} pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "s_Hanafuda_SumPointFormatx2": {
+      "text": "Total : ${count} x 2 = ${count_sum} pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "s_Hanafuda_Gokou": {
+      "text": "Cinq lumières",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "s_Hanafuda_Shikou": {
+      "text": "Quatres lumières",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "s_Hanafuda_AmeShikou": {
+      "text": "Quatre lumières de pluie",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "s_Hanafuda_Sankou": {
+      "text": "Trois lumières",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "s_Hanafuda_Hanamisake": {
+      "text": "Fleurs de cerisier et saké",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "s_Hanafuda_Tsukimisake": {
+      "text": "Lune et saké",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "s_Hanafuda_InoShikaCho": {
+      "text": "Sanglier, cerf, papillon",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "s_Hanafuda_Akatan": {
+      "text": "Rubans à poésie rouges",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "s_Hanafuda_Aotan": {
+      "text": "Rubans à poésie bleus",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "s_Hanafuda_Tane": {
+      "text": "Variété",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "s_Hanafuda_Tan": {
+      "text": "Rubans à poésie",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "s_Hanafuda_Kasu": {
+      "text": "Normales",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "s_Hanafuda_Teshi": {
+      "text": "Carré",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "s_Hanafuda_Kuttuki": {
+      "text": "Quatres paires",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "s_Hanafuda_Syun": {
+      "text": "Saisons",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "s_Hanafuda_Result": {
+      "text": "Résultats",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "s_Hanafuda_ResultNum": {
+      "text": "Parties à ${count} manches",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "s_Hanafuda_YouWin": {
+      "text": "Victoire !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "s_Hanafuda_YouLose": {
+      "text": "Défaite !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "s_Hanafuda_Draw": {
+      "text": "Égalité.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "s_Hanafuda_BetPoint": {
+      "text": "Parier",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "s_Hanafuda_ResultPoint": {
+      "text": "Total : ${count1} x ${count2} = ${count_sum} pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "s_Hanafuda_SelectRule": {
+      "text": "Changez les paramètres.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "s_Hanafuda_DecideParent": {
+      "text": "Choisissez une carte pour déterminer le donneur.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "s_Hanafuda_YouParent": {
+      "text": "Vous êtes le donneur.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "s_Hanafuda_YouChild": {
+      "text": "Votre adversaire est le donneur.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "s_Hanafuda_ParentChange": {
+      "text": "Aucune main formée. Le donneur change.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "s_Hanafuda_GameStart": {
+      "text": "Commencer partie",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "s_Hanafuda_RuleChange": {
+      "text": "Changer paramètres",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "s_Hanafuda_RuleShow": {
+      "text": "Voir les règles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "s_Hanafuda_AttributeShow": {
+      "text": "Mains",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "s_Hanafuda_DecideReturn": {
+      "text": "<Sign:D> OK <Sign:C> Retour",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "s_Hanafuda_Return": {
+      "text": "<Sign:C> Retour",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "s_Hanafuda_Mochiten": {
+      "text": "Vos points",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "s_Hanafuda_Level": {
+      "text": "Difficulté",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "s_Hanafuda_SevenOver": {
+      "text": "Double pts pour 7+",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "s_Hanafuda_RuleCheck": {
+      "text": "Vérifier paramètres",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "s_Hanafuda_RuleExplain": {
+      "text": "Règles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "s_Hanafuda_Attribute": {
+      "text": "Voir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "s_Hanafuda_Close": {
+      "text": "Fermer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "s_Hanafuda_YesKoiKoi": {
+      "text": "Dire Koi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "s_Hanafuda_NoKoiKoi": {
+      "text": "Ne pas dire Koi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "s_Hanafuda_Continue": {
+      "text": "Rejouer au koi-koi ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "s_Hanafuda_End": {
+      "text": "Quitter",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "s_Hanafuda_Warning": {
+      "text": "Vous n'avez pas assez de points pour jouer.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "s_Hanafuda_Kansuji_1": {
+      "text": "Janvier",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "s_Hanafuda_Kansuji_2": {
+      "text": "Février",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "s_Hanafuda_Kansuji_3": {
+      "text": "Mars",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "s_Hanafuda_Kansuji_4": {
+      "text": "Avril",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "s_Hanafuda_Kansuji_5": {
+      "text": "Mai",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "s_Hanafuda_Kansuji_6": {
+      "text": "Juin",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "s_Hanafuda_Kansuji_7": {
+      "text": "Juillet",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "s_Hanafuda_Kansuji_8": {
+      "text": "Août",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "s_Hanafuda_Kansuji_9": {
+      "text": "Septembre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "s_Hanafuda_Kansuji_10": {
+      "text": "Octobre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "s_Hanafuda_Kansuji_11": {
+      "text": "Novembre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "s_Hanafuda_Kansuji_12": {
+      "text": "Décembre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "s_Hanafuda_Release_Level_strong": {
+      "text": "Niveau avancé débloqué.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "s_Hanafuda_Release_Level_alien": {
+      "text": "Niveau expert débloqué.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "s_Hanafuda_YakuIchiran": {
+      "text": "Mains",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "s_Hanafuda_Sakazuki_Kazu": {
+      "text": "Modificateur de normales",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "s_Hanafuda_Guide": {
+      "text": "Guide des mains",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "s_Hanafuda_Anatano": {
+      "text": "Vous aurez bientôt ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "s_Hanafuda_Aiteno": {
+      "text": "Votre adversaire aura bientôt ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "s_Hanafuda_Seiritu": {
+      "text": ".",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "s_Hanafuda_Sonota": {
+      "text": "Autres",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "s_Hanafuda_AttributePossible": {
+      "text": "Possible",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "s_Hanafuda_AttributeFormed": {
+      "text": "Formée",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "s_Hanafuda_AttributeImpossible": {
+      "text": "Impossible",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "s_Hanafuda_ChangeKiku_FormedKasu": {
+      "text": "Coupe de saké comptée comme normale ? (Formez des mains normales.)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "s_Hanafuda_ChangeKiku_AddKasu": {
+      "text": "Coupe de saké comptée comme normale ? (Les cartes normales passeront de ${count_b} à ${count_a} points.)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "84": {
+    "s_Hanafuda_ChangeKiku_Suru": {
+      "text": "Oui",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "85": {
+    "s_Hanafuda_ChangeKiku_Shinai": {
+      "text": "Non",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "86": {
+    "s_Hanafuda_WindowClose": {
+      "text": "Fermer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "87": {
+    "s_Hanafuda_MenuLevel_weak": {
+      "text": "Débutant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "88": {
+    "s_Hanafuda_MenuLevel_noraml": {
+      "text": "Intermédiaire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "89": {
+    "s_Hanafuda_MenuLevel_strong": {
+      "text": "Avancé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "90": {
+    "s_Hanafuda_MenuLevel_alien": {
+      "text": "Expert",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "91": {
+    "s_Hanafuda_MenuLevelExplain_weak": {
+      "text": "Il vous faut au moins 200 points pour jouer en Débutant.\r\nGains : 10 x différence de score.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "92": {
+    "s_Hanafuda_MenuLevelExplain_normal": {
+      "text": "Il vous faut au moins 800 points pour jouer en Intermédiaire.\r\nGains : 10 x différence de score.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "93": {
+    "s_Hanafuda_MenuLevelExplain_strong": {
+      "text": "Il vous faut au moins 1 400 points pour jouer en Avancé.\r\nGains : 10 x différence de score.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "94": {
+    "s_Hanafuda_MenuLevelExplain_alien": {
+      "text": "Il vous faut au moins 2 000 points pour jouer en Expert.\r\nGains : 100 x différence de score.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "95": {
+    "s_Hanafuda_NoMoney": {
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 200 points.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "96": {
+    "s_hanafuda_disable_item": {
+      "text": "L'effet de la carte hanafuda de la chance est terminé.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "97": {
+    "s_Hanafuda_Teshi_YouWin": {
+      "text": "Vous avez un carré. Vous avez gagné !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "98": {
+    "s_Hanafuda_Kuttuki_YouWin": {
+      "text": "Vous avez quatre paires. Vous avez gagné !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "99": {
+    "s_Hanafuda_Teshi_YouLose": {
+      "text": "L'adversaire a un carré. Vous avez perdu.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "100": {
+    "s_Hanafuda_Kuttuki_YouLose": {
+      "text": "L'adversaire a quatre paires. Vous avez perdu.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "101": {
+    "s_Hanafuda_Space": {
+      "text": "; ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  }
+}

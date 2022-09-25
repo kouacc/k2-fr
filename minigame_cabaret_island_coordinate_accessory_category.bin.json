@@ -1,0 +1,157 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 11,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 21,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "explanation": "1",
+    "min_deg": "1",
+    "max_deg": "1",
+    "color_explanation": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "explanation": 0,
+    "min_deg": 7,
+    "max_deg": 7,
+    "color_explanation": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "explanation": 12,
+    "min_deg": 9,
+    "max_deg": 9,
+    "color_explanation": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "0": {
+    "": {
+      "min_deg": 0.0,
+      "max_deg": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "hair": {
+      "name": "Accessoires cheveux",
+      "explanation": "Changez d'accessoire pour cheveux.",
+      "min_deg": -180.0,
+      "max_deg": 180.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "glasses": {
+      "name": "Lunettes",
+      "explanation": "Changez de lunettes.",
+      "min_deg": -30.0,
+      "max_deg": 30.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "earrings": {
+      "name": "Boucles d'oreilles",
+      "explanation": "Changez de boucles d'oreilles.",
+      "min_deg": -30.0,
+      "max_deg": 30.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "necklace": {
+      "name": "Colliers",
+      "explanation": "Changez de collier.",
+      "min_deg": -30.0,
+      "max_deg": 30.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "nail": {
+      "name": "Ongles",
+      "explanation": "Changez de vernis à ongles.",
+      "min_deg": -15.0,
+      "max_deg": 15.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "ring": {
+      "name": "Bagues",
+      "explanation": "Changez de bague.",
+      "min_deg": -10.0,
+      "max_deg": 10.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "watches": {
+      "name": "Montres",
+      "explanation": "Changez de montre.",
+      "min_deg": -5.0,
+      "max_deg": 5.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "bracelet": {
+      "name": "Bracelets",
+      "explanation": "Changez de bracelet.",
+      "min_deg": -10.0,
+      "max_deg": 10.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "perfume": {
+      "name": "Parfums",
+      "explanation": "Changez de parfum.",
+      "min_deg": -30.0,
+      "max_deg": 30.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "dress": {
+      "name": "Robes",
+      "explanation": "Changez de robe.",
+      "min_deg": -180.0,
+      "max_deg": 180.0,
+      "color_explanation": "Changez de couleur de robe.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  }
+}

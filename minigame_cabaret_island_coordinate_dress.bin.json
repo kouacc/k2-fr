@@ -1,0 +1,624 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 31,
+  "COLUMN_COUNT": 14,
+  "TEXT_COUNT": 43,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "cp": "0",
+    "icon": "1",
+    "explanation": "1",
+    "sexy": "1",
+    "beauty": "1",
+    "cute": "1",
+    "funny": "1",
+    "money": "1",
+    "complete": "1",
+    "cast_id": "1",
+    "open_clock": "1",
+    "open_timeline": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "cp": -1,
+    "icon": 1,
+    "explanation": 0,
+    "sexy": 3,
+    "beauty": 3,
+    "cute": 3,
+    "funny": 3,
+    "money": 10,
+    "complete": 2,
+    "cast_id": 2,
+    "open_clock": 0,
+    "open_timeline": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "cp": -1,
+    "icon": 1,
+    "explanation": 12,
+    "sexy": 6,
+    "beauty": 6,
+    "cute": 6,
+    "funny": 6,
+    "money": 7,
+    "complete": 0,
+    "cast_id": 0,
+    "open_clock": 2,
+    "open_timeline": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    9,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    12
+  ],
+  "0": {
+    "": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "dress_01": {
+      "name": "Standard",
+      "icon": 3608,
+      "explanation": "La robe d'origine de Koyuki.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 2,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "dress_02": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "dress_03": {
+      "name": "Standard",
+      "icon": 3605,
+      "explanation": "La robe d'origine de Kana.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 3,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "4": {
+    "dress_04": {
+      "name": "Standard",
+      "icon": 3597,
+      "explanation": "La robe d'origine de Aika.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 4,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "5": {
+    "dress_05": {
+      "name": "Standard",
+      "icon": 3618,
+      "explanation": "La robe d'origine de Shoko.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 5,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "6": {
+    "dress_06": {
+      "name": "Standard",
+      "icon": 3621,
+      "explanation": "La robe d'origine de Yua.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 6,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "7": {
+    "dress_07": {
+      "name": "Standard",
+      "icon": 3607,
+      "explanation": "La robe d'origine de Kirara.",
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 7,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "8": {
+    "dress_08": {
+      "name": "Épaule unique",
+      "icon": 3615,
+      "explanation": "Un design à épaules nues qui respire\r\nle sexy.",
+      "sexy": 1,
+      "beauty": 0,
+      "cute": -1,
+      "funny": 0,
+      "money": 10000,
+      "complete": 8,
+      "cast_id": 0,
+      "open_clock": 8,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "9": {
+    "dress_09": {
+      "name": "Robe Sexy",
+      "icon": 3617,
+      "explanation": "Une robe classique qui augmente\r\nle facteur sexy.",
+      "sexy": 1,
+      "beauty": 0,
+      "cute": 0,
+      "funny": -1,
+      "money": 15000,
+      "complete": 9,
+      "cast_id": 0,
+      "open_clock": 8,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "10": {
+    "dress_10": {
+      "name": "Robe mini-jupe",
+      "icon": 3613,
+      "explanation": "Cette robe met magnifiquement en valeur\r\nles jambes de celle qui la porte.",
+      "sexy": 0,
+      "beauty": -1,
+      "cute": 1,
+      "funny": 0,
+      "money": 20000,
+      "complete": 10,
+      "cast_id": 0,
+      "open_clock": 8,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "11": {
+    "dress_11": {
+      "name": "Pièce unique charmante",
+      "icon": 3610,
+      "explanation": "Cette robe accentue son côté mignon.",
+      "sexy": -1,
+      "beauty": 0,
+      "cute": 1,
+      "funny": 0,
+      "money": 50000,
+      "complete": 11,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "12": {
+    "dress_12": {
+      "name": "Top nu ceinturé",
+      "icon": 3599,
+      "explanation": "Simple, mais qui fait ressortir les qualités\r\nféminines d'un adulte.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": -1,
+      "funny": 0,
+      "money": 60000,
+      "complete": 12,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "13": {
+    "dress_13": {
+      "name": "Dos nu long",
+      "icon": 3609,
+      "explanation": "Une robe élégante et chic qui donne\r\nune impression de calme.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": 0,
+      "funny": -1,
+      "money": 70000,
+      "complete": 13,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "14": {
+    "dress_14": {
+      "name": "Cheongsam",
+      "icon": 3603,
+      "explanation": "Cette robe amusante vous emmène dans des\r\ncontrées lointaines.",
+      "sexy": -1,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 1,
+      "money": 80000,
+      "complete": 14,
+      "cast_id": 0,
+      "open_clock": 17,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "15": {
+    "dress_15": {
+      "name": "Tailleur à épaulettes",
+      "icon": 3606,
+      "explanation": "Un costume tendance avec des épaulettes pour quand\r\nvous êtes vraiment sérieux.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": -2,
+      "funny": 1,
+      "money": 100000,
+      "complete": 15,
+      "cast_id": 0,
+      "open_clock": 25,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "16": {
+    "dress_16": {
+      "name": "Bodycon",
+      "icon": 3600,
+      "explanation": "Une robe bodycon pour les reines du disco.\r\nC'est l'assurance de mettre de l'ambiance.  ",
+      "sexy": 1,
+      "beauty": -1,
+      "cute": -1,
+      "funny": 1,
+      "money": 150000,
+      "complete": 16,
+      "cast_id": 0,
+      "open_clock": 25,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "17": {
+    "dress_17": {
+      "name": "Robe bodycon",
+      "icon": 3601,
+      "explanation": "Robe droite qui souligne la silhouette. Tout simplement.",
+      "sexy": 1,
+      "beauty": 1,
+      "cute": -1,
+      "funny": -1,
+      "money": 180000,
+      "complete": 17,
+      "cast_id": 0,
+      "open_clock": 25,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "18": {
+    "dress_18": {
+      "name": "Robe d'idole adorable",
+      "icon": 3602,
+      "explanation": "Basé sur le costume de scène d'une idole populaire.\r\nSurcharge de mignonnerie.",
+      "sexy": -1,
+      "beauty": -2,
+      "cute": 2,
+      "funny": 1,
+      "money": 250000,
+      "complete": 18,
+      "cast_id": 0,
+      "open_clock": 31,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "19": {
+    "dress_19": {
+      "name": "Délinquant",
+      "icon": 3598,
+      "explanation": "Vêtements basés sur la série télévisée à succès\r\n\"Yo-Yo Detective Yoko\".",
+      "sexy": -1,
+      "beauty": 1,
+      "cute": -2,
+      "funny": 2,
+      "money": 300000,
+      "complete": 19,
+      "cast_id": 0,
+      "open_clock": 31,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "20": {
+    "dress_20": {
+      "name": "Robe de Yuki",
+      "icon": 3623,
+      "explanation": "Une robe légendaire portée par la superbe\r\nYuki à ses débuts en tant qu'hôtesse.",
+      "sexy": 0,
+      "beauty": 1,
+      "cute": 1,
+      "funny": -1,
+      "money": 500000,
+      "complete": 20,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "21": {
+    "dress_21": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "22": {
+    "dress_22": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "23": {
+    "dress_23": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "24": {
+    "dress_24": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "25": {
+    "dress_25": {
+      "icon": 0,
+      "sexy": 0,
+      "beauty": 0,
+      "cute": 0,
+      "funny": 0,
+      "money": 0,
+      "complete": 0,
+      "cast_id": 0,
+      "open_clock": 0,
+      "open_timeline": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "26": {
+    "dress_26": {
+      "name": "Yukata",
+      "icon": 3622,
+      "explanation": "Tenue japonaise traditionnelle portée durant les festivals.",
+      "sexy": 1,
+      "beauty": 1,
+      "cute": -1,
+      "funny": -1,
+      "money": 700000,
+      "complete": 26,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "dress_27": {
+      "name": "Bikini",
+      "icon": 3614,
+      "explanation": "Plage ! Bébés ! Maillots de bain ! Ce modèle\r\nest sûr d'attirer les regards.",
+      "sexy": 2,
+      "beauty": -2,
+      "cute": -2,
+      "funny": 2,
+      "money": 1000000,
+      "complete": 27,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "dress_28": {
+      "name": "Tenue de soubrette",
+      "icon": 3612,
+      "explanation": "Votre maître va sûrement craquer pour vous...\r\net vos clients aussi.",
+      "sexy": -2,
+      "beauty": -1,
+      "cute": 1,
+      "funny": 2,
+      "money": 1000000,
+      "complete": 28,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "dress_29": {
+      "name": "Uniforme de gym",
+      "icon": 3619,
+      "explanation": "Il est facile de bouger dans cette tenue confortable\r\net nostalgique. Les hommes l'adorent !",
+      "sexy": -2,
+      "beauty": -2,
+      "cute": 2,
+      "funny": 2,
+      "money": 1000000,
+      "complete": 29,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "dress_30": {
+      "name": "Uniforme d'écolière",
+      "icon": 5074,
+      "explanation": "Revivez votre premier coup de foudre avec cet\r\nuniforme d'écolière incroyablement mignon !",
+      "sexy": -2,
+      "beauty": -1,
+      "cute": 2,
+      "funny": 1,
+      "money": 1000000,
+      "complete": 30,
+      "cast_id": 0,
+      "open_clock": 37,
+      "open_timeline": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  }
+}

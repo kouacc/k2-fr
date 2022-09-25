@@ -1,0 +1,1882 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 278,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 181,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "arms_name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "arms_name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "arms_name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "_": {
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "_e382a2e383b3e38397": {
+      "arms_name": "Ampli",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "3": {
+    "_e38186e38195e3818ee381aee381ace38184e38190e3828be381bf": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "_e382a8e382b9e38397e383ace38383e382bde3839ee382b7e383b3": {
+      "arms_name": "Machine à espresso",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "5": {
+    "_e3818ae38197e381bce3828ae382a6e382a9e383bce3839ee383bc": {
+      "arms_name": "Chauffe-serviettes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "6": {
+    "_e382ace382b9e382b3e383b3e383ad": {
+      "arms_name": "Cusinière à gaz",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "7": {
+    "_e382ace382b9e3839ce383b3e38399": {
+      "arms_name": "Bouteille de gaz",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "8": {
+    "_e382abe38397e382bbe383abe38388e382a4": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "_e382abe383a9e383b3e38393e38383e38388e3838ae382a4e38395": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "_e382afe38383e382b7e383a7e383b3e38389e383a9e383a0": {
+      "arms_name": "Amortisseur de choc",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "11": {
+    "_e3818fe381bee381aee381ace38184e38190e3828be381bf": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "_e382b3e383bce38392e383bce382b5e383bce38390e383bc": {
+      "arms_name": "Cafetière",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "13": {
+    "_e382b3e383bce38392e383bce383a1e383bce382abe383bc": {
+      "arms_name": "Machine à café",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "14": {
+    "_e382b3e383bce383b3": {
+      "arms_name": "Cône de signalisation",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "15": {
+    "_e382b4e3839fe7aeb1": {
+      "arms_name": "Poubelle",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "16": {
+    "_e382b3e383b3e382afe383aae383bce38388e38396e383ade38383e382af": {
+      "arms_name": "Parpaing",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "17": {
+    "_e382b5e382a4e383b3e3839de383bce383ab": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "_e382b5e38383e382abe383bce3839ce383bce383ab": {
+      "arms_name": "Ballon de foot",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "19": {
+    "_e382b5e38396e3839ee382b7e383b3e382ace383b3": {
+      "arms_name": "Pistolet-mitrailleur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "20": {
+    "_e382b7e382a7e382a4e382abe383bc": {
+      "arms_name": "Shaker à cocktail",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "21": {
+    "_e382b8e383a7e382a6e383ad": {
+      "arms_name": "Arrosoir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "22": {
+    "_e382b9e38384e383bce383ab": {
+      "arms_name": "Tabouret",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "23": {
+    "_e382b9e38394e383bce382abe383bc": {
+      "arms_name": "Haut-parleur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "24": {
+    "_e382b9e3839de38383e38388e383a9e382a4e38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "_e382bde38395e382a1": {
+      "arms_name": "Sofa",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "26": {
+    "_e382bde38395e382a1e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "_e382bfe382a4e383a4": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "_e38380e383b3e3839ce383bce383abe7aeb1": {
+      "arms_name": "Boîte en carton",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "29": {
+    "_e38387e382a3e382b9e38397e383ace382a4e382afe383bce383a9e383bc": {
+      "arms_name": "Glacière",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "30": {
+    "_e38386e383bce38396e383ab": {
+      "arms_name": "Table",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "31": {
+    "_e38386e382b9e38388e98a83": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "_e38386e383ace38393": {
+      "arms_name": "TV",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "33": {
+    "_e38389e382b9": {
+      "arms_name": "Dague",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "34": {
+    "_e38389e383a9e383a0e7bcb6": {
+      "arms_name": "Bidon en acier",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "35": {
+    "_e38389e383aae383b3e382afe382b5e383bce38390e383bc": {
+      "arms_name": "Distributeur de boisson",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "36": {
+    "_e3838ae382a4e38395": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "_e38390e383bce383ab": {
+      "arms_name": "Pied-de-biche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "38": {
+    "_e38390e382b9e382b1e38383e38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "_e38391e382bde382b3e383b3": {
+      "arms_name": "Ordinateur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "40": {
+    "_e3838fe383b3e3839ee383bc": {
+      "arms_name": "Marteau",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "41": {
+    "_e38393e383bce383abe6a8bd": {
+      "arms_name": "Fût de bière",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "42": {
+    "_e38393e383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "_e38397e383a9e382b9e38381e38383e382afe382b1e383bce382b9": {
+      "arms_name": "Caisse en plastique",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "44": {
+    "_e38397e383ace383bce38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "_e38395e383ade383bce38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "_e3839ae38383e38388e3839ce38388e383ab": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "_e38399e383b3e38381": {
+      "arms_name": "Banc",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "48": {
+    "_e3839de38383e38388": {
+      "arms_name": "Pot",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "49": {
+    "_e3839ee382b0e383a9e382a4e38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "_e383a2e3838be382bfe383bc": {
+      "arms_name": "Moniteur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "51": {
+    "_e383a9e383b3e38397": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "_e383a9e383b3e38397e382b9e382bfe383b3e38389": {
+      "arms_name": "Lampadaire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "53": {
+    "_e383ace382b3e383bce38389e38397e383ace382a4e383a4e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "_e383ade382b1e38383e38388e383a9e383b3e38381e383a3e383bc": {
+      "arms_name": "Lance-roquettes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "55": {
+    "_e383afe382b4e383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "_e6a485e5ad90": {
+      "arms_name": "Chaise",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "57": {
+    "_e58cbbe79982e6a99fe599a8": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "_e4b880e69697e7bcb6": {
+      "arms_name": "Bidon de 18 litres",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "59": {
+    "_e5a38ae3828ce3819fe38393e383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "_e5a38ae3828ce3819fe38399e383b3e38381": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "_e781b0e79abf": {
+      "arms_name": "Cendrier",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "62": {
+    "_e589b2e3828ce3819fe38393e383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "_e79c8be69dbf": {
+      "arms_name": "Pancarte",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "64": {
+    "_e7bcb6": {
+      "arms_name": "Canette",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "65": {
+    "_e8a6b3e89189e6a48de789a9": {
+      "arms_name": "Plante",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "66": {
+    "_e7899be58880": {
+      "arms_name": "Couteau de boucher",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "67": {
+    "_e5b7a8e5a4a7e382b3e383bce383b3": {
+      "arms_name": "Cône géant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "68": {
+    "_e98791e5b19ee38390e38383e38388": {
+      "arms_name": "Batte métallique",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "69": {
+    "_e98791e6a78c": {
+      "arms_name": "Marteau",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "70": {
+    "_e68bb3e98a83": {
+      "arms_name": "Pistolet",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "71": {
+    "_e5b7a5e4ba8be79c8be69dbf": {
+      "arms_name": "Panneau de construction",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "72": {
+    "_e7a1ace79083": {
+      "arms_name": "Balle de baseball",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "73": {
+    "_e58298e7ab8be381a6": {
+      "arms_name": "Porte-parapluies",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "74": {
+    "_e5ad90e4be9be382b7e383bce38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "_e4ba8be58b99e794a8e59381": {
+      "arms_name": "Fournitures de bureau",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "76": {
+    "_e887aae8bba2e8bb8a": {
+      "arms_name": "Vélo",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "77": {
+    "_e8bb8ae6a485e5ad90": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "_e981aee696ade6a1bf": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "_e6898be6a6b4e5bcbe": {
+      "arms_name": "Grenade",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "80": {
+    "_e98592e6a8bd": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "_e9878de79fb3": {
+      "arms_name": "Lest",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "82": {
+    "_e5b08fe789a9": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "83": {
+    "_e69dbee89189e69d96": {
+      "arms_name": "Béquilles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "84": {
+    "_e6b688e781abe599a8": {
+      "arms_name": "Extincteur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "85": {
+    "_e7828ae9a3afe599a8": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "86": {
+    "_e5afb8e883b4": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "87": {
+    "_e8a3bde6b0b7e6a99f": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "88": {
+    "_e99d92e7ab9ce58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "89": {
+    "_e8a296e69cba": {
+      "arms_name": "Bureau",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "90": {
+    "_e58fb0e8bb8a": {
+      "arms_name": "Chariot",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "91": {
+    "_e6a39a": {
+      "arms_name": "Étagère",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "92": {
+    "_e4b8ade88fafe98d8b": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "93": {
+    "_e4b8ade88fafe58c85e4b881": {
+      "arms_name": "Couteau chinois",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "94": {
+    "_e98984e38391e382a4e38397": {
+      "arms_name": "Tuyau en fer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "95": {
+    "_e98984e69dbf": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "96": {
+    "_e99bbbe6b097e3839de38383e38388": {
+      "arms_name": "Bouilloire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "97": {
+    "_e99bbbe5ad90e383ace383b3e382b8": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "98": {
+    "_e88289e5a18a": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "99": {
+    "_e697a5e69cace58880": {
+      "arms_name": "Katana",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "100": {
+    "_e799bae99bbbe6a99f": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "101": {
+    "_e6b0b7e38390e382b1e38384": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "102": {
+    "_e9a2a8e59182e6a1b6": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "103": {
+    "_e7b289e8a28b": {
+      "arms_name": "Sac de poudre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "104": {
+    "_e696b9e59091e68c87e7a4bae69dbf": {
+      "arms_name": "Panneau de direction",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "105": {
+    "_e69ca8e58880": {
+      "arms_name": "Katana en bois",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "106": {
+    "_e8bcb8e6b6b2e3839de383b3e38397": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "107": {
+    "_e8aa98e5b08ee6a392": {
+      "arms_name": "Bâton de signalisation",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "108": {
+    "_e5a3ba": {
+      "arms_name": "Vase",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "109": {
+    "_e887aae692aee3828ae6a392": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "110": {
+    "_e7aeb8": {
+      "arms_name": "Baguettes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "111": {
+    "_416d6f6e2044726f6e65": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "112": {
+    "_e4ba9ce99680e68e83e999a4e383ade3839c": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "113": {
+    "_e382bde383bce382b8e383bce78886e5bcbe": {
+      "arms_name": "Bombe Soji",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "114": {
+    "_e382abe383aae382b9e38386e382a3e38383e382af": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "115": {
+    "_e382b7e383a7e38383e38388e382ace383b3": {
+      "arms_name": "Fusil de chasse",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "116": {
+    "_e38388e383b3e38395e382a1e383bc": {
+      "arms_name": "Tonfa",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "117": {
+    "_e383a1e383aae382b1e383b3e382b5e38383e382af": {
+      "arms_name": "Coup-de-poing américain",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "118": {
+    "_e6a78d": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "119": {
+    "_e6a392": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "120": {
+    "_e98ea7e6ab83": {
+      "arms_name": "Support d'armure ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "121": {
+    "_e79abf": {
+      "arms_name": "Plat",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "122": {
+    "_e79abfe7ab8be381a6": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "123": {
+    "_e9acbce7828ee381aee38389e382b9": {
+      "arms_name": "Dague du feu démoniaque",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "124": {
+    "_e4babae5bda2": {
+      "arms_name": "Poupée",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "125": {
+    "_e7abb9e381aee6a392": {
+      "arms_name": "Bâton de bambou",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "126": {
+    "_e9acbce7828ee381aee6a8a1e980a0e58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "127": {
+    "_e782b9e6bbb4e6a392": {
+      "arms_name": "Stand IV",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "128": {
+    "_e784a1e98a98e381aee58880": {
+      "arms_name": "Katana sans nom",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "129": {
+    "_e5a696e5888020e6a5b5": {
+      "arms_name": "Lame démoniaque Kiwami",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "130": {
+    "_efbc88e4bbaeefbc89e38197e381b3e3828ce38388e383b3e38395e382a1e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "131": {
+    "_e6a5b5e3839ee382b7e383b3e382ace383b3": {
+      "arms_name": "Mitrailleuse Kiwami",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "132": {
+    "_efbc88e4bbaeefbc89444c43e383ade382b1e38383e38388e383a9e383b3e38381e383a3e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "133": {
+    "_e5ae89e789a9e381aee382b9e382bfe383b3e382ace383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "134": {
+    "_e5ae89e789a9e381aee3838ae382a4e38395": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "135": {
+    "_e5ae89e789a9e381aee58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "136": {
+    "_e5ae89e789a9e381aee69ca8e58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "137": {
+    "_e694b9e980a0e6898be6a6b4e5bcbe": {
+      "arms_name": "Grenade modifiée",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "138": {
+    "_e58fa4e381b3e3819fe38390e383bce383ab": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "139": {
+    "_e88d92e38184e4bd9ce3828ae381aee99d92e7ab9ce58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "140": {
+    "_e98c86e381b3e3819fe383ade383b3e382b0e98984e38391e382a4e38397": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "141": {
+    "_e98c86e381b3e3819fe98984e38391e382a4e38397": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "142": {
+    "_e4bdbfe38184e8bebce38293e381a0e3838fe383b3e3839ee383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "143": {
+    "_e6898be8a3bde381aee383a9e382a4e38388e3838be383b3e382b0e383bbe3839ce383a0": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "144": {
+    "_e6898be8a3bde381aee99683e58589e5bcbe": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "145": {
+    "_e58887e3828ce591b3e381aee890bde381a1e3819fe38389e382b9": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "146": {
+    "_e7b297e69cabe381aae4bd9ce3828ae381aee6898be6a6b4e5bcbe": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "147": {
+    "_e7b297e69cabe381aae6a78d": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "148": {
+    "_e5b9b4e5ada3e381aee585a5e381a3e3819fe382a2e382a4e382a2e383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "149": {
+    "_e5b9b4e5ada3e381aee585a5e381a3e3819fe98791e5b19ee38390e38383e38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "150": {
+    "_e4bdbfe38184e8bebce38293e381a0e38388e383b3e38395e382a1e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "151": {
+    "_e6898be8a3bde381aee694b9e980a0e383a2e38387e383abe382ace383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "152": {
+    "_e7b297e682aae381aae68bb3e98a83": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "153": {
+    "_efbc88e4bbaeefbc89e8a38fe8bcb8e585a5e383bbe382b4e383bce383abe38387e383b3e382b7e383a3e38395e38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "154": {
+    "_e382a2e382a4e382a2e383b3": {
+      "arms_name": "Club de golf",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "155": {
+    "_e382b9e383a9e38383e38391e383bc": {
+      "arms_name": "Blackjack",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "156": {
+    "_e38393e383bce383abe793b6": {
+      "arms_name": "Bouteille de bière",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "157": {
+    "_e38396e383a9e38383e382afe382b7e383a3e38395e38388": {
+      "arms_name": "Club à manche noir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "158": {
+    "_e383afe382a4e383b3e3839ce38388e383ab": {
+      "arms_name": "Bouteille de vin",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "159": {
+    "_e789b9e6ae8ae8ada6e6a392": {
+      "arms_name": "Bâton de police spécial",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "160": {
+    "_e789b9e680a7e789b9e6ae8ae8ada6e6a392": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "161": {
+    "_efbc88e4bbaeefbc89e5bea1e7a681e588b6e383bbe694b9e980a0e9ad94e589a358": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "162": {
+    "_efbc88e4bbaeefbc89e5bea1e7a681e588b6e383bbe4bb95e8bebce381bfe382b0e383ade383bce38396": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "163": {
+    "_efbc88e4bbaeefbc89e5bea1e7a681e588b6e383bbe784bce5a4b7e382b7e383a7e38383e38388e382ace383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "164": {
+    "_efbc88e4bbaeefbc89e5bea1e7a681e588b6e383bbe6af92e5a197e3828ae5b08fe5a4aae58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "165": {
+    "_efbc88e4bbaeefbc89e8a38fe8bcb8e585a5e383bbe99798e9ad82e38390e38383e38388": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "166": {
+    "_efbc91efbc90efbc90e3839de383b3e38389e3839ee382a4e3839ce382a6e383ab": {
+      "arms_name": "Boule de Bowling de 100 Lb.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "167": {
+    "_e382b9e382bfe383b3e382ace383b3": {
+      "arms_name": "Taser",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "168": {
+    "_e3838ee382b3e382aee383aa": {
+      "arms_name": "Scie",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "169": {
+    "_e38395e382a9e38388e383b3e38396e383ace383bce38389efbcb2efbca7": {
+      "arms_name": "Lame photon RG",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "170": {
+    "_e3839ae383b3e38381": {
+      "arms_name": "Pince",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "171": {
+    "_e3839ee382a4e3839ce382a6e383ab": {
+      "arms_name": "Boule de bowling",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "172": {
+    "_e383a9e382a4e38388e3838be383b3e382b0e383bbe3839ce383a0": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "173": {
+    "_e383ade383b3e382b0e98984e38391e382a4e38397": {
+      "arms_name": "Long tuyau de fer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "174": {
+    "_e694b9e980a0e382a2e382a4e383ade383b3": {
+      "arms_name": "Fer à repasser modifié",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "175": {
+    "_e694b9e980a0e382b3e383b3e383ad": {
+      "arms_name": "Cuisinière modifiée",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "176": {
+    "_e694b9e980a0e383a9e382a4e382bfe383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "177": {
+    "_e6a8abe381aee69ca8e58880": {
+      "arms_name": "Katana en bois de chêne",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "178": {
+    "_e9acbce7828ee381aee88487e5b7ae": {
+      "arms_name": "Lame du feu démoniaque",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "179": {
+    "_e697a7e5b89de59bbde8bb8de6898be6a6b4e5bcbe": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "180": {
+    "_e98791e6a392": {
+      "arms_name": "Club en fer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "181": {
+    "_e58fa4e381b3e3819fe99d92e9be8de58880": {
+      "arms_name": "Vieux sabre chinois",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "182": {
+    "_e58fa4e789a7e5aeb6e4bc9de781abe7b884e98a83": {
+      "arms_name": "Pistolet à mèche de Komaki",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "183": {
+    "_e5bea1e888b9e381aee5b08fe5a4aae58880": {
+      "arms_name": "Kodachi de Mifune",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "184": {
+    "_e9ab98e59ca7e382b9e382bfe383b3e382ace383b3": {
+      "arms_name": "Taser à haute tension",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "185": {
+    "_e5899be58a9be3838ae38383e382afe383ab": {
+      "arms_name": "Poignets de force",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "186": {
+    "_e6aebae899abe589a4": {
+      "arms_name": "Insecticide",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "187": {
+    "_e7b4abe9bb92e6a8b9e381aee69ca8e58880": {
+      "arms_name": "Épée en bois sombre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "188": {
+    "_e9a3bee3828ae789a9e381aee6a78d": {
+      "arms_name": "Lance décorative",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "189": {
+    "_e9a39fe58d93e5a1a9": {
+      "arms_name": "Salière",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "190": {
+    "_e7a59ee6a8b9e381aee69ca8e58880": {
+      "arms_name": "Katana en bois sacré",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "191": {
+    "_e99683e58589e5bcbe": {
+      "arms_name": "Grenade assourdissante",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "192": {
+    "_e7b584e995b7e381aee38390e38383e38388": {
+      "arms_name": "Batte du Patriarche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "193": {
+    "_e7b584e995b7e381aee3839ee382a4e3839ce382a6e383ab": {
+      "arms_name": "Boule de bowling du Patriarche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "194": {
+    "_e995b7e38389e382b9": {
+      "arms_name": "Longue dague",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "195": {
+    "_e98984e6a78d": {
+      "arms_name": "Lance en fer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "196": {
+    "_e8ac8ee381aee6b3a8e5b084e599a8": {
+      "arms_name": "Seringue mystérieuse",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "197": {
+    "_e5bf8de88085e381aee38389e382b9": {
+      "arms_name": "Dague de ninja",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "198": {
+    "_e585abe8a792e6a392": {
+      "arms_name": "Poteau cannelé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "199": {
+    "_e9a39be381b3e587bae38197e3838ae382a4e38395": {
+      "arms_name": "Couteau rétractable",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "200": {
+    "_e5908de58880e5bdb1e6b395e5b8ab": {
+      "arms_name": "Katana Silhouette",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "201": {
+    "_e5908de58880e6a19ce590b9e99baa": {
+      "arms_name": "Katana Tempête matinale",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "202": {
+    "_e5a696e58880e5a699e69c88": {
+      "arms_name": "Lame démoniaque Myogetsu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "203": {
+    "_e5a696e58880e784a1e69c88": {
+      "arms_name": "Lame démoniaque Mugetsu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "204": {
+    "_e58a89e5aeb6e381aee99d92e9be8de58880": {
+      "arms_name": "Sabre chinois Liu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "205": {
+    "_e9be8de381aee98984e68bb3": {
+      "arms_name": "Poing de fer du dragon",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "206": {
+    "_efbc88e4bbaeefbc89e5bea1e7a681e588b6e383bbe38395e382a9e38388e383b3e38396e383ace383bce3838957": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "207": {
+    "_efbc88e4bbaeefbc89e8a38fe8bcb8e585a5e383bbe694b9e980a0e38388e383b3e38395e382a1e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "208": {
+    "_efbc88e4bbaeefbc89e8a38fe8bcb8e585a5e383bbe6988fe79da1e68bb3e98a83": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "209": {
+    "_efbca4efbcafefbcb2efbca1efbca7efbcafefbcaeefbc8defbcb3efbcb0": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "210": {
+    "_e38380e38396e383abe382b7e383a3e38395e38388": {
+      "arms_name": "Double hampe",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "211": {
+    "_e38380e38396e383abe382b9e382bfe383b3": {
+      "arms_name": "Double taser",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "212": {
+    "_e38380e38396e383abe382b9e38391e382a4e382abe383bc": {
+      "arms_name": "Double Spiker",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "213": {
+    "_e38380e38396e383abe38395e382a1e382a4e383a4e383bc": {
+      "arms_name": "Double feu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "214": {
+    "_e5bf9ce9be8de381aee38388e383b3e38395e382a1e383bc": {
+      "arms_name": "Tonfa Yinglong",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "215": {
+    "_e694b9e980a0e383a2e38387e383abe382ace383b3": {
+      "arms_name": "Pistolet factice modifié",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "216": {
+    "_e9aab8e381aee38388e383b3e38395e382a1e383bc": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "217": {
+    "_e697a7e5bc8fe382aae383bce38388e68bb3e98a83": {
+      "arms_name": "Pistolet antique",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "218": {
+    "_e5b9bbe381aee38388e383b3e38395e382a1e383bc": {
+      "arms_name": "Tonfa illusoire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "219": {
+    "_e58f8ce7ab9ce381aee38390e38381": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "220": {
+    "_e5af86e980a0e382b5e38396e3839ee382b7e383b3e382ace383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "221": {
+    "_e5af86e980a0e383ade382b1e38383e38388e383a9e383b3e38381e383a3e383bc": {
+      "arms_name": "Lance-roquettes illégal",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "222": {
+    "_e9ab91e9ab8fe381aee38388e383b3e38395e382a1e383bc": {
+      "arms_name": "Tonfa crâne",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "223": {
+    "_e280bbe69caae4bdbfe794a8": {
+      "arms_name": "*Unused",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "224": {
+    "_e4b880e58d87e793b6": {
+      "arms_name": "Bouteille d'1.8 litres",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "225": {
+    "_e589b2e3828ce3819fe793b6": {
+      "arms_name": "Bouteille cassé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "226": {
+    "_e69f84e69d93": {
+      "arms_name": "Louche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "227": {
+    "_e995b7e6a485e5ad90": {
+      "arms_name": "Canapé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "228": {
+    "_e38391e382a4e38397e6a485e5ad90": {
+      "arms_name": "Chaise à tuyaux",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "229": {
+    "_e88ab1e793b6": {
+      "arms_name": "Vase à fleurs",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "230": {
+    "_e69caae4bdbfe794a8": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "231": {
+    "_e4bd9ce6a5ade794a8e383ade383b3e382b0e98984e38391e382a4e38397": {
+      "arms_name": "Tuyau de construction",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "232": {
+    "_e98195e6b395e694b9e980a0e8ada6e6a392": {
+      "arms_name": "Bâton de police modifié illégalement",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "233": {
+    "_e781abe7b884e98a83": {
+      "arms_name": "Fusil à mèche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "234": {
+    "_e4bdbfe38184e8bebce38293e381a0e7899be58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "235": {
+    "_e7b297e682aae381aae382b7e383a7e38383e38388e382ace383b3": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "236": {
+    "_e7b297e682aae381aae697a7e5b89de59bbde8bb8de6898be6a6b4e5bcbe": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "237": {
+    "_e280bbe382afe383a9e383b3e382afe383aae382a8e382a4e382bfe383bce5b082e794a8": {
+      "arms_name": "*Clan Creator",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "238": {
+    "_e280bbe38399e383bce382b9": {
+      "arms_name": "*Base",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "239": {
+    "_e280bbe695b5e5b082e794a8": {
+      "arms_name": "*Enemy",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "240": {
+    "_e280bbe784a1e99990e6ada6e599a8": {
+      "arms_name": "*Infinite Weapon",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "241": {
+    "_e382b9e382bfe383b3e382b0e383ace3838de383bce38389": {
+      "arms_name": "Grenade assourdissante",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "242": {
+    "_e383a2e38387e383a0": {
+      "arms_name": "Modem",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "243": {
+    "_e694b9e980a0e38390e383bce3838ae383bc": {
+      "arms_name": "Brûleur modifié",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "244": {
+    "_e6898be8a3bde381aee382b9e382bfe383b3e382b0e383ace3838de383bce38389": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "245": {
+    "_e5a696e58880e69d91e6ada3": {
+      "arms_name": "Lame démoniaque Muramasa",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "246": {
+    "_e99bb7e98181e381aee38389e382b9": {
+      "arms_name": "Dague du tonnerre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "247": {
+    "_efbca4efbcb2efbca1efbca7efbcafefbcaeefbc8defbcb3efbcb0": {
+      "arms_name": "Dragon-SP",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "248": {
+    "_efbca7e383bbefbca2e383bbefbca8e383bbefbca7": {
+      "arms_name": "G-B-H-G",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "249": {
+    "_e382b4e383bce383abe38387e383b3e382b7e383a3e38395e38388": {
+      "arms_name": "Club de l'Arbre d'Or",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "250": {
+    "_e5bea1e7a681e588b6e383bbe6af92e5a197e3828ae5b08fe5a4aae58880": {
+      "arms_name": "Kodachi empoisonné illégal",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "251": {
+    "_e6988fe79da1e98a83": {
+      "arms_name": "Inducteur de coma",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "252": {
+    "_e591aae38184e381aee38388e383b3e38395e382a1e383bc": {
+      "arms_name": "Tonfa maudit",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "253": {
+    "_e8b5a4e69ca8e381aee382afe383a9e38396": {
+      "arms_name": "Club de Albatross Akagi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "254": {
+    "_e99798e9ad82e38390e38383e38388": {
+      "arms_name": "Batte pleine de passion",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "255": {
+    "_e9ad94e98a83e38395e382a1e382a4e383a4e383bce3839ce383bce383ab": {
+      "arms_name": "Pistolet boule de feu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "256": {
+    "_e8a38fe8bcb8e585a5e383bbe694b9e980a0e38388e383b3e38395e382a1e383bc": {
+      "arms_name": "Tonfa modifié de contrebande",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "257": {
+    "_e38395e382a9e38388e383b3e38396e383ace383bce3838957": {
+      "arms_name": "Lame photon W",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "258": {
+    "_e8a5bfe6b48be381aee79bbe": {
+      "arms_name": "Bouclier occidental",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "259": {
+    "_e998b2e5bcbee382b7e383bce383abe38389": {
+      "arms_name": "Bouclier pare-balles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "260": {
+    "_e9ad94e589a3e382abe382b0e38384e38381": {
+      "arms_name": "Katana magique",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "261": {
+    "_e784bce5a4b7e6898be6a6b4e5bcbe": {
+      "arms_name": "Grenade incendiaire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "262": {
+    "_e7b297e682aae381aae784bce5a4b7e6898be6a6b4e5bcbe": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "263": {
+    "_e789b9e8a3bde789b9e6ae8ae8ada6e6a392": {
+      "arms_name": "Bâton de police électrique",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "264": {
+    "_e38194e8a492e7be8ee98a83": {
+      "arms_name": "Pistolet à prix",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "265": {
+    "_e5ae9de58880e6ae8be5bdb1": {
+      "arms_name": "Katana précieux",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "266": {
+    "_e88d92e38184e4bd9ce3828ae381aee99d92e9be8de58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "267": {
+    "_e99d92e9be8de58880": {
+      "arms_name": "Sabre chinois",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "268": {
+    "_e58f8ce9be8de381aee38390e38381": {
+      "arms_name": "Bâtons du Dragon ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "269": {
+    "_e58880": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "270": {
+    "_e38396e383a9e383b3e38389e98791e5b19ee38390e38383e38388": {
+      "arms_name": "Batte métallique de marque",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "271": {
+    "_e98195e6b395e694b9e980a0e383a2e38387e383abe382ace383b3": {
+      "arms_name": "Pistolet factice modifié illégalement",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "272": {
+    "_e98bade588a9e381aae3838ae382a4e38395": {
+      "arms_name": "Couteau tranchant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "273": {
+    "_e98bade588a9e381aae995b7e38389e382b9": {
+      "arms_name": "Longue dague tranchante",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "274": {
+    "_e9ab98e7b49ae7899be58880": {
+      "arms_name": "Couteau de boucher de luxe",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "275": {
+    "_e4b888e5a4abe381aae38390e383bce383ab": {
+      "arms_name": "Pied-de-biche robuste",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "276": {
+    "_e4b888e5a4abe381aae98984e38391e382a4e38397": {
+      "arms_name": "Tuyau en fer robuste",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "277": {
+    "_e7b289e7a095e794a8e3838fe383b3e3839ee383bc": {
+      "arms_name": "Marteau broyeur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  }
+}

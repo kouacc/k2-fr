@@ -1,0 +1,164 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 19,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 18,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "message": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "message": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "battle_win_num": {
+      "message": "Batailles gagnées",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "now_rank": {
+      "message": "Bonus de rang",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "hact_use_num": {
+      "message": "Actions Heat utilisées",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "hp_bonus": {
+      "message": "Bonus de santé restante",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "n_kaisen": {
+      "message": "Round ${num}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "junkessyou": {
+      "message": "Demi-finales",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "kessyou": {
+      "message": "Finale",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "battle_royal": {
+      "message": "Free-for-all",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "syouri": {
+      "message": "${num} W",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "misyouri": {
+      "message": "Défaite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "point": {
+      "message": "${num} pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "kai": {
+      "message": "${num}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "kaisen1": {
+      "message": "Round 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "kaisen2": {
+      "message": "Round 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "kaisen3": {
+      "message": "Round 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "kaisen4": {
+      "message": "Round 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "kaisen5": {
+      "message": "Round 5",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "localize_title": {
+      "message": "${taikaimei}\r\n${kaisensuu}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  }
+}

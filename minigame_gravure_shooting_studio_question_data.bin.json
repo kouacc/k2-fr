@@ -1,0 +1,1834 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 130,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 84,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "question": "1",
+    "appearance_timing": "1",
+    "time_limit": "1",
+    "choice1": "1",
+    "choice2": "1",
+    "choice3": "1",
+    "choice4": "1",
+    "choice5": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "question": 0,
+    "appearance_timing": 7,
+    "time_limit": 7,
+    "choice1": 1,
+    "choice2": 1,
+    "choice3": 1,
+    "choice4": 1,
+    "choice5": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "question": 12,
+    "appearance_timing": 9,
+    "time_limit": 9,
+    "choice1": 1,
+    "choice2": 1,
+    "choice3": 1,
+    "choice4": 1,
+    "choice5": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "0": {
+    "": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_question_01": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_question_02": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "test_question_03": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "aoyana_question_00": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "aoyana_question_01": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "aoyana_question_02": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "aoyana_question_03": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "aoyana_question_04": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "aoyana_question_05": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "aoyana_question_06": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "aoyana_question_07": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "aoyana_question_08": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "aoyana_question_09": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "aoyana_question_10": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "aoyana_question_11": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "aoyana_question_12": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "aoyana_question_13": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "aoyana_question_14": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "aoyana_question_15": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "aoyana_question_16": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "aoyana_question_17": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "aoyana_question_18": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "aoyana_question_19": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "aoyana_question_20": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "aoyana_question_21": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "aoyana_question_22": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "aoyana_question_23": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "aoyana_question_24": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "aoyana_question_25": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "aoyana_question_26": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "aoyana_question_27": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "aoyana_question_28": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "aoyana_question_29": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "aoyana_question_30": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "aoyana_question_31": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "aoyana_question_32": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "aoyana_question_33": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "aoyana_question_34": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "aoyana_question_35": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "aoyana_question_36": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "aoyana_question_37": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "aoyana_question_38": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "aoyana_question_39": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "aoyana_question_40": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "aoyana_question_41": {
+      "appearance_timing": 0.0,
+      "time_limit": 0.0,
+      "choice1": 0,
+      "choice2": 0,
+      "choice3": 0,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "aoyama_question_00": {
+      "question": "Bonjour ! Je m'appelle Hikaru !",
+      "appearance_timing": 9.0,
+      "time_limit": 11.0,
+      "choice1": 256,
+      "choice2": 4,
+      "choice3": 5,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "aoyama_question_01": {
+      "question": "Je vais tout donner, alors amusons-nous !",
+      "appearance_timing": 8.0,
+      "time_limit": 11.0,
+      "choice1": 6,
+      "choice2": 7,
+      "choice3": 8,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "aoyama_question_02": {
+      "question": "Bonne affaire, vous ne pensez pas ?",
+      "appearance_timing": 9.5,
+      "time_limit": 11.0,
+      "choice1": 9,
+      "choice2": 10,
+      "choice3": 11,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "aoyama_question_03": {
+      "question": "De quoi ai-je l'air ?",
+      "appearance_timing": 9.0,
+      "time_limit": 11.0,
+      "choice1": 12,
+      "choice2": 13,
+      "choice3": 14,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "aoyama_question_04": {
+      "question": "Qu'en pensez-vous ?",
+      "appearance_timing": 7.0,
+      "time_limit": 11.0,
+      "choice1": 15,
+      "choice2": 16,
+      "choice3": 17,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "aoyama_question_05": {
+      "question": "Vous devez penser à quelque chose de pervers.",
+      "appearance_timing": 11.0,
+      "time_limit": 12.0,
+      "choice1": 18,
+      "choice2": 19,
+      "choice3": 20,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "aoyama_question_06": {
+      "question": "Cela vous convient-il ?",
+      "appearance_timing": 11.0,
+      "time_limit": 11.0,
+      "choice1": 21,
+      "choice2": 22,
+      "choice3": 23,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "aoyama_question_07": {
+      "question": "Je me souviens de vous.",
+      "appearance_timing": 10.0,
+      "time_limit": 10.0,
+      "choice1": 257,
+      "choice2": 25,
+      "choice3": 26,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "aoyama_question_08": {
+      "question": "Mais je me souviens <font_kind=yakuza_italic>vraiment</font_kind> de vous...",
+      "appearance_timing": 7.5,
+      "time_limit": 10.0,
+      "choice1": 27,
+      "choice2": 28,
+      "choice3": 29,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "aoyama_question_09": {
+      "question": "Que dites-vous de ça ?",
+      "appearance_timing": 11.0,
+      "time_limit": 10.0,
+      "choice1": 30,
+      "choice2": 31,
+      "choice3": 32,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "aoyama_question_10": {
+      "question": "Mais il faut que vous me mettiez dans l'ambiance. Compris ?",
+      "appearance_timing": 7.0,
+      "time_limit": 9.0,
+      "choice1": 33,
+      "choice2": 34,
+      "choice3": 35,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "aoyama_question_11": {
+      "question": "Faites-moi savoir si vous avez des requêtes.",
+      "appearance_timing": 9.0,
+      "time_limit": 10.0,
+      "choice1": 36,
+      "choice2": 37,
+      "choice3": 38,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "aoyama_question_12": {
+      "question": "J'ai confiance en cette pose.",
+      "appearance_timing": 12.0,
+      "time_limit": 9.0,
+      "choice1": 39,
+      "choice2": 40,
+      "choice3": 41,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "aoyama_question_13": {
+      "question": "Hé, quel genre de photos prenez-vous ? Je serai vraiment en colère si elles ne sont pas bonnes !",
+      "appearance_timing": 9.0,
+      "time_limit": 10.0,
+      "choice1": 42,
+      "choice2": 43,
+      "choice3": 44,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "aoyama_question_14": {
+      "question": "C'est ce que je vais porter aujourd'hui !",
+      "appearance_timing": 9.5,
+      "time_limit": 10.0,
+      "choice1": 258,
+      "choice2": 46,
+      "choice3": 47,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "aoyama_question_15": {
+      "question": "Je dois faire quelque chose.",
+      "appearance_timing": 8.0,
+      "time_limit": 10.0,
+      "choice1": 48,
+      "choice2": 49,
+      "choice3": 50,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "aoyama_question_16": {
+      "question": "Si vous êtes correct... Je vous donnerai quelque chose de spécial.",
+      "appearance_timing": 8.0,
+      "time_limit": 10.0,
+      "choice1": 51,
+      "choice2": 52,
+      "choice3": 53,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "aoyama_question_17": {
+      "question": "Je dois me détendre avant de faire de l'exercice.",
+      "appearance_timing": 7.0,
+      "time_limit": 9.0,
+      "choice1": 54,
+      "choice2": 55,
+      "choice3": 56,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "aoyama_question_18": {
+      "question": "Les étirements ne sont pas faciles pour moi.",
+      "appearance_timing": 7.599999904632568,
+      "time_limit": 9.0,
+      "choice1": 57,
+      "choice2": 58,
+      "choice3": 59,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "aoyama_question_19": {
+      "question": "Oh, mais je suppose que vous avez les mains pleines...",
+      "appearance_timing": 7.099999904632568,
+      "time_limit": 9.0,
+      "choice1": 60,
+      "choice2": 61,
+      "choice3": 62,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "aoyama_question_20": {
+      "question": "Prenez beaucoup de photos ! C'est parti !",
+      "appearance_timing": 6.199999809265137,
+      "time_limit": 8.5,
+      "choice1": 63,
+      "choice2": 64,
+      "choice3": 65,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "aoyama_question_21": {
+      "question": "Je suis une domestique aujourd'hui !",
+      "appearance_timing": 14.0,
+      "time_limit": 9.0,
+      "choice1": 259,
+      "choice2": 67,
+      "choice3": 68,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "aoyama_question_22": {
+      "question": "Prenez beaucoup de photos aujourd'hui !",
+      "appearance_timing": 9.5,
+      "time_limit": 9.0,
+      "choice1": 69,
+      "choice2": 70,
+      "choice3": 71,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "aoyama_question_23": {
+      "question": "Amour ! Amour ! Baiser !",
+      "appearance_timing": 8.100000381469727,
+      "time_limit": 9.0,
+      "choice1": 72,
+      "choice2": 73,
+      "choice3": 74,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "aoyama_question_24": {
+      "question": "Hmmm... Quelle pose je devrais faire ensuite ?",
+      "appearance_timing": 10.199999809265137,
+      "time_limit": 9.0,
+      "choice1": 75,
+      "choice2": 76,
+      "choice3": 77,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "aoyama_question_25": {
+      "question": "Je vais rendre les choses encore plus étincelantes !",
+      "appearance_timing": 10.0,
+      "time_limit": 10.0,
+      "choice1": 78,
+      "choice2": 79,
+      "choice3": 80,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "aoyama_question_26": {
+      "question": "N'oubliez pas de me remercier, Maître !",
+      "appearance_timing": 10.0,
+      "time_limit": 10.0,
+      "choice1": 81,
+      "choice2": 82,
+      "choice3": 83,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "aoyama_question_27": {
+      "question": "Avez-vous pris de bonnes photos ?",
+      "appearance_timing": 9.0,
+      "time_limit": 8.0,
+      "choice1": 84,
+      "choice2": 85,
+      "choice3": 86,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "aoyama_question_28": {
+      "question": "Cette fois, je suis en maillot de bain d'école !",
+      "appearance_timing": 9.0,
+      "time_limit": 9.0,
+      "choice1": 260,
+      "choice2": 88,
+      "choice3": 89,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "aoyama_question_29": {
+      "question": "Qu'en pensez-vous ?",
+      "appearance_timing": 9.0,
+      "time_limit": 9.0,
+      "choice1": 90,
+      "choice2": 91,
+      "choice3": 92,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "aoyama_question_30": {
+      "question": "Juste... prenez beaucoup de photos pour moi, ok ?",
+      "appearance_timing": 9.0,
+      "time_limit": 9.0,
+      "choice1": 93,
+      "choice2": 94,
+      "choice3": 95,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "aoyama_question_31": {
+      "question": "Que dites-vous de ça pour commencer ?",
+      "appearance_timing": 10.5,
+      "time_limit": 9.0,
+      "choice1": 96,
+      "choice2": 97,
+      "choice3": 98,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "aoyama_question_32": {
+      "question": "Ça devient un peu serré...",
+      "appearance_timing": 13.0,
+      "time_limit": 9.0,
+      "choice1": 99,
+      "choice2": 100,
+      "choice3": 101,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "aoyama_question_33": {
+      "question": "C'est un peu embarrassant !",
+      "appearance_timing": 11.0,
+      "time_limit": 9.0,
+      "choice1": 102,
+      "choice2": 103,
+      "choice3": 104,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "aoyama_question_34": {
+      "question": "Pourquoi vous ne vous penchez pas un peu plus ?",
+      "appearance_timing": 5.099999904632568,
+      "time_limit": 9.0,
+      "choice1": 105,
+      "choice2": 106,
+      "choice3": 107,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "aoyama_question_35": {
+      "question": "J'ai trouvé en moi la force de porter un bikini aujourd'hui !",
+      "appearance_timing": 13.0,
+      "time_limit": 9.0,
+      "choice1": 261,
+      "choice2": 109,
+      "choice3": 110,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "aoyama_question_36": {
+      "question": "Je ne porte pas ça d'habitude... mais vous êtes <font_kind=yakuza_italic>spécial</font_kind>.",
+      "appearance_timing": 8.0,
+      "time_limit": 9.0,
+      "choice1": 111,
+      "choice2": 112,
+      "choice3": 113,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "aoyama_question_37": {
+      "question": "Je vais vraiment tout donner.",
+      "appearance_timing": 13.0,
+      "time_limit": 9.0,
+      "choice1": 114,
+      "choice2": 115,
+      "choice3": 116,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "84": {
+    "aoyama_question_38": {
+      "question": "Je pourrais faire un petit <font_kind=yakuza_italic>supplément</font_kind> pour vous.",
+      "appearance_timing": 10.0,
+      "time_limit": 9.0,
+      "choice1": 117,
+      "choice2": 118,
+      "choice3": 119,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "85": {
+    "aoyama_question_39": {
+      "question": "Cette pose vous convient-elle ?",
+      "appearance_timing": 10.0,
+      "time_limit": 9.0,
+      "choice1": 120,
+      "choice2": 121,
+      "choice3": 122,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "86": {
+    "aoyama_question_40": {
+      "question": "Que diriez-vous de... ça ?",
+      "appearance_timing": 13.0,
+      "time_limit": 9.0,
+      "choice1": 123,
+      "choice2": 124,
+      "choice3": 125,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "87": {
+    "aoyama_question_41": {
+      "question": "C'est parti !",
+      "appearance_timing": 9.0,
+      "time_limit": 9.0,
+      "choice1": 126,
+      "choice2": 127,
+      "choice3": 128,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "88": {
+    "hashimoto_question_00": {
+      "question": "Enchantée d'vous rencontrer !",
+      "appearance_timing": 7.199999809265137,
+      "time_limit": 10.0,
+      "choice1": 262,
+      "choice2": 130,
+      "choice3": 131,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "89": {
+    "hashimoto_question_01": {
+      "question": "Prenez toutes les photos que vous voulez, d'accord ?",
+      "appearance_timing": 8.100000381469727,
+      "time_limit": 11.0,
+      "choice1": 132,
+      "choice2": 133,
+      "choice3": 134,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "90": {
+    "hashimoto_question_02": {
+      "question": "Des poses qu'vous attendez ?",
+      "appearance_timing": 6.400000095367432,
+      "time_limit": 11.0,
+      "choice1": 135,
+      "choice2": 136,
+      "choice3": 137,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "91": {
+    "hashimoto_question_03": {
+      "question": "Et si on commençait par ça ?",
+      "appearance_timing": 10.600000381469727,
+      "time_limit": 10.0,
+      "choice1": 138,
+      "choice2": 139,
+      "choice3": 140,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "92": {
+    "hashimoto_question_04": {
+      "question": "Peut-être que je peux vous en montrer un peu plus.",
+      "appearance_timing": 9.0,
+      "time_limit": 12.0,
+      "choice1": 141,
+      "choice2": 142,
+      "choice3": 143,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "93": {
+    "hashimoto_question_05": {
+      "question": "Bon sang, les hommes sont si prévisibles.",
+      "appearance_timing": 9.100000381469727,
+      "time_limit": 10.0,
+      "choice1": 144,
+      "choice2": 145,
+      "choice3": 146,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "94": {
+    "hashimoto_question_06": {
+      "question": "Vous en voulez plus ?",
+      "appearance_timing": 7.5,
+      "time_limit": 8.0,
+      "choice1": 147,
+      "choice2": 148,
+      "choice3": 149,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "95": {
+    "hashimoto_question_07": {
+      "question": "Vous commencez à aimer tous ces trucs de gravure ?",
+      "appearance_timing": 10.0,
+      "time_limit": 12.0,
+      "choice1": 263,
+      "choice2": 151,
+      "choice3": 152,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "96": {
+    "hashimoto_question_08": {
+      "question": "C'est le genre de choses que vous recherchez <font_kind=yakuza_italic>vraiment</font_kind>, non ?",
+      "appearance_timing": 13.0,
+      "time_limit": 11.0,
+      "choice1": 153,
+      "choice2": 154,
+      "choice3": 155,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "97": {
+    "hashimoto_question_09": {
+      "question": "Vous semblez être un homme mûr. Je me trompe ?",
+      "appearance_timing": 9.699999809265137,
+      "time_limit": 10.0,
+      "choice1": 156,
+      "choice2": 157,
+      "choice3": 158,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "98": {
+    "hashimoto_question_10": {
+      "question": "Il faut que je m'y mette !",
+      "appearance_timing": 10.0,
+      "time_limit": 11.0,
+      "choice1": 159,
+      "choice2": 160,
+      "choice3": 161,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "99": {
+    "hashimoto_question_11": {
+      "question": "Alors, quel genre de pose voulez-vous ?",
+      "appearance_timing": 7.0,
+      "time_limit": 11.0,
+      "choice1": 162,
+      "choice2": 163,
+      "choice3": 164,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "100": {
+    "hashimoto_question_12": {
+      "question": "Je n'ai pas dit que j'allais le faire !",
+      "appearance_timing": 15.0,
+      "time_limit": 11.0,
+      "choice1": 165,
+      "choice2": 166,
+      "choice3": 167,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "101": {
+    "hashimoto_question_13": {
+      "question": "Alors, pour cette pose... Que dites-vous de ça ?",
+      "appearance_timing": 13.0,
+      "time_limit": 10.0,
+      "choice1": 168,
+      "choice2": 169,
+      "choice3": 170,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "102": {
+    "hashimoto_question_14": {
+      "question": "Alors ? Vous aimez les lapins ?",
+      "appearance_timing": 10.0,
+      "time_limit": 10.0,
+      "choice1": 264,
+      "choice2": 172,
+      "choice3": 173,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "103": {
+    "hashimoto_question_15": {
+      "question": "J'ai tenu ma promesse, alors maintenant vous devez me remercier.",
+      "appearance_timing": 13.0,
+      "time_limit": 10.0,
+      "choice1": 174,
+      "choice2": 175,
+      "choice3": 176,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "104": {
+    "hashimoto_question_16": {
+      "question": "Vous êtes impatient de commencer à photographier, hein ?",
+      "appearance_timing": 10.0,
+      "time_limit": 10.0,
+      "choice1": 177,
+      "choice2": 178,
+      "choice3": 179,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "105": {
+    "hashimoto_question_17": {
+      "question": "Prenez toutes les photos que vous voulez !",
+      "appearance_timing": 13.0,
+      "time_limit": 10.0,
+      "choice1": 180,
+      "choice2": 181,
+      "choice3": 182,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "106": {
+    "hashimoto_question_18": {
+      "question": "Je me demande si c'est elles sont bonnes.",
+      "appearance_timing": 12.0,
+      "time_limit": 10.0,
+      "choice1": 183,
+      "choice2": 184,
+      "choice3": 185,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "107": {
+    "hashimoto_question_19": {
+      "question": "Alors... peut-être que je peux vous donner d'autres poses !",
+      "appearance_timing": 13.0,
+      "time_limit": 11.0,
+      "choice1": 186,
+      "choice2": 187,
+      "choice3": 188,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "108": {
+    "hashimoto_question_20": {
+      "question": "Oh là là, si exigeant.",
+      "appearance_timing": 14.0,
+      "time_limit": 10.0,
+      "choice1": 189,
+      "choice2": 190,
+      "choice3": 191,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "109": {
+    "hashimoto_question_21": {
+      "question": "Je me suis achetée un costume de Père Noël aujourd'hui !",
+      "appearance_timing": 10.0,
+      "time_limit": 10.0,
+      "choice1": 265,
+      "choice2": 193,
+      "choice3": 194,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "110": {
+    "hashimoto_question_22": {
+      "question": "Que diriez-vous... d'une photo sexy pour vous ?",
+      "appearance_timing": 8.699999809265137,
+      "time_limit": 8.5,
+      "choice1": 195,
+      "choice2": 196,
+      "choice3": 197,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "111": {
+    "hashimoto_question_23": {
+      "question": "Et c'est fait ! Vous en avez eu !?",
+      "appearance_timing": 13.0,
+      "time_limit": 10.0,
+      "choice1": 198,
+      "choice2": 199,
+      "choice3": 200,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "112": {
+    "hashimoto_question_24": {
+      "question": "Combien de temps pouvez-vous tenir ?",
+      "appearance_timing": 13.0,
+      "time_limit": 9.0,
+      "choice1": 201,
+      "choice2": 202,
+      "choice3": 203,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "113": {
+    "hashimoto_question_25": {
+      "question": "Je ne sais pas grand-chose sur le Père Noël. Vous aimez ça ?",
+      "appearance_timing": 15.0,
+      "time_limit": 9.0,
+      "choice1": 204,
+      "choice2": 205,
+      "choice3": 206,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "114": {
+    "hashimoto_question_26": {
+      "question": "Vous voulez que le Père Noël descende dans votre cheminée ?",
+      "appearance_timing": 13.5,
+      "time_limit": 8.0,
+      "choice1": 207,
+      "choice2": 208,
+      "choice3": 209,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "115": {
+    "hashimoto_question_27": {
+      "question": "Le voici !",
+      "appearance_timing": 17.0,
+      "time_limit": 10.0,
+      "choice1": 210,
+      "choice2": 211,
+      "choice3": 212,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "116": {
+    "hashimoto_question_28": {
+      "question": "Merci beaucoup d'être venu !",
+      "appearance_timing": 14.0,
+      "time_limit": 9.0,
+      "choice1": 266,
+      "choice2": 214,
+      "choice3": 215,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "117": {
+    "hashimoto_question_29": {
+      "question": "J'ai pensé que vous méritiez une récompense. Pour avoir été si persistant.",
+      "appearance_timing": 12.0,
+      "time_limit": 9.0,
+      "choice1": 216,
+      "choice2": 217,
+      "choice3": 218,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "118": {
+    "hashimoto_question_30": {
+      "question": "Vous ne trouvez pas que mon maillot de bain est mignon ?",
+      "appearance_timing": 11.0,
+      "time_limit": 9.0,
+      "choice1": 219,
+      "choice2": 220,
+      "choice3": 221,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "119": {
+    "hashimoto_question_31": {
+      "question": "Qu'est-ce que je vais faire de vous ?",
+      "appearance_timing": 9.199999809265137,
+      "time_limit": 9.0,
+      "choice1": 222,
+      "choice2": 223,
+      "choice3": 224,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "120": {
+    "hashimoto_question_32": {
+      "question": "Allez-y, continuez à photographier.",
+      "appearance_timing": 9.100000381469727,
+      "time_limit": 9.0,
+      "choice1": 225,
+      "choice2": 226,
+      "choice3": 227,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "121": {
+    "hashimoto_question_33": {
+      "question": "Dans ce cas, qu'est-ce que ça fait pour vous ?",
+      "appearance_timing": 15.0,
+      "time_limit": 9.0,
+      "choice1": 228,
+      "choice2": 229,
+      "choice3": 230,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "122": {
+    "hashimoto_question_34": {
+      "question": "Vous voulez vous arrêter ?",
+      "appearance_timing": 12.0,
+      "time_limit": 9.0,
+      "choice1": 231,
+      "choice2": 232,
+      "choice3": 233,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "123": {
+    "hashimoto_question_35": {
+      "question": "J'ai un bikini très sexy pour vous aujourd'hui !",
+      "appearance_timing": 8.199999809265137,
+      "time_limit": 9.0,
+      "choice1": 267,
+      "choice2": 235,
+      "choice3": 236,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "124": {
+    "hashimoto_question_36": {
+      "question": "Peut-être que j'en montre trop... ?",
+      "appearance_timing": 7.0,
+      "time_limit": 9.0,
+      "choice1": 237,
+      "choice2": 238,
+      "choice3": 239,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "125": {
+    "hashimoto_question_37": {
+      "question": "Allez, dites-m'en plus !",
+      "appearance_timing": 7.0,
+      "time_limit": 9.0,
+      "choice1": 240,
+      "choice2": 241,
+      "choice3": 242,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "126": {
+    "hashimoto_question_38": {
+      "question": "Mais je me demande ce que cette pose va vous faire...",
+      "appearance_timing": 10.0,
+      "time_limit": 9.0,
+      "choice1": 243,
+      "choice2": 244,
+      "choice3": 245,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "127": {
+    "hashimoto_question_39": {
+      "question": "Ça vous dérange si je tente le coup ?",
+      "appearance_timing": 8.0,
+      "time_limit": 9.0,
+      "choice1": 246,
+      "choice2": 247,
+      "choice3": 248,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "128": {
+    "hashimoto_question_40": {
+      "question": "Alors ? Et vous ?",
+      "appearance_timing": 15.0,
+      "time_limit": 9.0,
+      "choice1": 249,
+      "choice2": 250,
+      "choice3": 251,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "129": {
+    "hashimoto_question_41": {
+      "question": "Vous voulez que je vous donne la vraie affaire ?",
+      "appearance_timing": 16.0,
+      "time_limit": 9.0,
+      "choice1": 252,
+      "choice2": 253,
+      "choice3": 254,
+      "choice4": 0,
+      "choice5": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  }
+}

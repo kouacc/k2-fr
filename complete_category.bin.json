@@ -1,0 +1,101 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 9,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 6,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "adventure": {
+      "name": "Aventure",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "battle": {
+      "name": "Combat",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "substory": {
+      "name": "Quêtes secondaires",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "playspot": {
+      "name": "Mini-jeux",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "clan_creator": {
+      "name": "Clan Creator",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "omizu": {
+      "name": "Cabaret Grand Prix",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  }
+}

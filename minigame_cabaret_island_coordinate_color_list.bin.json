@@ -1,0 +1,4227 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 279,
+  "COLUMN_COUNT": 12,
+  "TEXT_COUNT": 249,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "hue": "1",
+    "saturation": "1",
+    "lightness": "0",
+    "explanation": "1",
+    "r": "1",
+    "g": "1",
+    "b": "1",
+    "a": "1",
+    "luminance": "1",
+    "alpha": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "hue": 7,
+    "saturation": 7,
+    "lightness": -1,
+    "explanation": 0,
+    "r": 2,
+    "g": 2,
+    "b": 2,
+    "a": 2,
+    "luminance": 7,
+    "alpha": 7
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "hue": 9,
+    "saturation": 9,
+    "lightness": -1,
+    "explanation": 12,
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0,
+    "luminance": 9,
+    "alpha": 9
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    4,
+    5,
+    2,
+    3,
+    10,
+    11,
+    6,
+    7,
+    8,
+    9
+  ],
+  "0": {
+    "": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_color_01": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_color_02": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "test_color_03": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "test_color_04": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "test_color_05": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "test_color_06": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "test_color_07": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "test_color_08": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "test_color_09": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "test_color_10": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "test_color_11": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "test_color_12": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "test_color_13": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "test_color_14": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "test_color_15": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "test_color_16": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "test_color_17": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "color_01": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "color_02": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "color_03": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "color_04": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "color_05": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "color_06": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "color_07": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "color_08": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "color_09": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "color_10": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "color_11": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "color_12": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0,
+      "luminance": 0.0,
+      "alpha": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "color_hair_01": {
+      "name": "(Hair color 1)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "color_hair_02": {
+      "name": "(Hair color 2)",
+      "hue": 0.11999999731779099,
+      "saturation": 0.23000000417232513,
+      "r": 92,
+      "g": 69,
+      "b": 67,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "color_hair_03": {
+      "name": "(Hair color 3)",
+      "hue": 0.10000000149011612,
+      "saturation": 0.46000000834465027,
+      "r": 102,
+      "g": 70,
+      "b": 57,
+      "a": 255,
+      "luminance": 0.11999999731779099,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "color_hair_04": {
+      "name": "(Hair color 4)",
+      "hue": 0.10999999940395355,
+      "saturation": 0.36000001430511475,
+      "r": 174,
+      "g": 142,
+      "b": 116,
+      "a": 255,
+      "luminance": 0.2800000011920929,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "color_hair_05": {
+      "name": "(Hair color 5)",
+      "hue": 1.0,
+      "saturation": 0.3799999952316284,
+      "r": 62,
+      "g": 29,
+      "b": 37,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "color_hair_06": {
+      "name": "(Hair color 6)",
+      "hue": 0.9900000095367432,
+      "saturation": 0.27000001072883606,
+      "r": 96,
+      "g": 61,
+      "b": 73,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "color_hair_07": {
+      "name": "(Hair color 7)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.44999998807907104,
+      "r": 123,
+      "g": 68,
+      "b": 68,
+      "a": 255,
+      "luminance": 0.17000000178813934,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "color_hair_08": {
+      "name": "(Hair color 8)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.5099999904632568,
+      "r": 181,
+      "g": 107,
+      "b": 103,
+      "a": 255,
+      "luminance": 0.30000001192092896,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "color_hair_09": {
+      "name": "(Hair color 9)",
+      "hue": 0.2199999988079071,
+      "saturation": 0.27000001072883606,
+      "r": 55,
+      "g": 45,
+      "b": 40,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "color_hair_10": {
+      "name": "(Hair color 10)",
+      "hue": 0.2199999988079071,
+      "saturation": 0.30000001192092896,
+      "r": 83,
+      "g": 70,
+      "b": 61,
+      "a": 255,
+      "luminance": 0.09000000357627869,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "color_hair_11": {
+      "name": "(Hair color 11)",
+      "hue": 0.2199999988079071,
+      "saturation": 0.30000001192092896,
+      "r": 122,
+      "g": 113,
+      "b": 97,
+      "a": 255,
+      "luminance": 0.11999999731779099,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "color_hair_12": {
+      "name": "(Hair color 12)",
+      "hue": 0.18000000715255737,
+      "saturation": 0.46000000834465027,
+      "r": 142,
+      "g": 127,
+      "b": 86,
+      "a": 255,
+      "luminance": 0.20000000298023224,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "color_hair_13": {
+      "name": "(Hair color 13)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.6899999976158142,
+      "r": 37,
+      "g": 18,
+      "b": 11,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "color_hair_14": {
+      "name": "(Hair color 14)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.699999988079071,
+      "r": 63,
+      "g": 34,
+      "b": 22,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "color_hair_15": {
+      "name": "(Hair color 15)",
+      "hue": 0.07000000029802322,
+      "saturation": 0.699999988079071,
+      "r": 96,
+      "g": 51,
+      "b": 34,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "color_hair_16": {
+      "name": "(Hair color 16)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.6299999952316284,
+      "r": 182,
+      "g": 133,
+      "b": 95,
+      "a": 255,
+      "luminance": 0.20000000298023224,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "color_hair_17": {
+      "name": "(Hair color 17)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.6600000262260437,
+      "r": 44,
+      "g": 16,
+      "b": 16,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "color_hair_18": {
+      "name": "(Hair color 18)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.6600000262260437,
+      "r": 49,
+      "g": 18,
+      "b": 17,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "color_hair_19": {
+      "name": "(Hair color 19)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.6000000238418579,
+      "r": 104,
+      "g": 48,
+      "b": 42,
+      "a": 255,
+      "luminance": 0.14000000059604645,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "color_hair_20": {
+      "name": "(Hair color 20)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.3499999940395355,
+      "r": 178,
+      "g": 123,
+      "b": 122,
+      "a": 255,
+      "luminance": 0.2199999988079071,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "color_hair_21": {
+      "name": "(Hair color 21)",
+      "hue": 0.6600000262260437,
+      "saturation": 0.44999998807907104,
+      "r": 38,
+      "g": 28,
+      "b": 43,
+      "a": 255,
+      "luminance": 0.009999999776482582,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "color_hair_22": {
+      "name": "(Hair color 22)",
+      "hue": 0.6399999856948853,
+      "saturation": 0.47999998927116394,
+      "r": 49,
+      "g": 41,
+      "b": 68,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "color_hair_23": {
+      "name": "(Hair color 23)",
+      "hue": 0.6399999856948853,
+      "saturation": 0.3100000023841858,
+      "r": 71,
+      "g": 60,
+      "b": 97,
+      "a": 255,
+      "luminance": 0.15000000596046448,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "color_hair_24": {
+      "name": "(Hair color 24)",
+      "hue": 0.6200000047683716,
+      "saturation": 0.11999999731779099,
+      "r": 150,
+      "g": 137,
+      "b": 160,
+      "a": 255,
+      "luminance": 0.25,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "color_eyebrows_01": {
+      "name": "(Eyebrows 1) Default Black",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "55": {
+    "color_eyebrows_02": {
+      "name": "(Eyebrows 2)",
+      "hue": 0.11999999731779099,
+      "saturation": 0.27000001072883606,
+      "r": 92,
+      "g": 69,
+      "b": 67,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "56": {
+    "color_eyebrows_03": {
+      "name": "(Eyebrows 3)",
+      "hue": 0.10000000149011612,
+      "saturation": 0.7300000190734863,
+      "r": 102,
+      "g": 70,
+      "b": 57,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "57": {
+    "color_eyebrows_04": {
+      "name": "(Eyebrows 4)",
+      "hue": 0.10999999940395355,
+      "saturation": 0.550000011920929,
+      "r": 174,
+      "g": 142,
+      "b": 116,
+      "a": 255,
+      "luminance": 0.09000000357627869,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "58": {
+    "color_eyebrows_05": {
+      "name": "(Eyebrows 5)",
+      "hue": 1.0,
+      "saturation": 0.3799999952316284,
+      "r": 62,
+      "g": 29,
+      "b": 37,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "59": {
+    "color_eyebrows_06": {
+      "name": "(Eyebrows 6)",
+      "hue": 0.9900000095367432,
+      "saturation": 0.27000001072883606,
+      "r": 96,
+      "g": 61,
+      "b": 73,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "60": {
+    "color_eyebrows_07": {
+      "name": "(Eyebrows 7)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.5,
+      "r": 123,
+      "g": 68,
+      "b": 68,
+      "a": 255,
+      "luminance": 0.09000000357627869,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "61": {
+    "color_eyebrows_08": {
+      "name": "(Eyebrows 8)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.6499999761581421,
+      "r": 181,
+      "g": 107,
+      "b": 103,
+      "a": 255,
+      "luminance": 0.11999999731779099,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "62": {
+    "color_eyebrows_09": {
+      "name": "(Eyebrows 9)",
+      "hue": 0.2199999988079071,
+      "saturation": 0.3100000023841858,
+      "r": 55,
+      "g": 45,
+      "b": 40,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "63": {
+    "color_eyebrows_10": {
+      "name": "(Eyebrows 10)",
+      "hue": 0.2199999988079071,
+      "saturation": 0.3700000047683716,
+      "r": 83,
+      "g": 70,
+      "b": 61,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "64": {
+    "color_eyebrows_11": {
+      "name": "(Eyebrows 11)",
+      "hue": 0.2199999988079071,
+      "saturation": 0.49000000953674316,
+      "r": 122,
+      "g": 113,
+      "b": 97,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "65": {
+    "color_eyebrows_12": {
+      "name": "(Eyebrows 12)",
+      "hue": 0.18000000715255737,
+      "saturation": 0.4399999976158142,
+      "r": 142,
+      "g": 127,
+      "b": 86,
+      "a": 255,
+      "luminance": 0.07000000029802322,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "66": {
+    "color_eyebrows_13": {
+      "name": "(Eyebrows 13)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.6499999761581421,
+      "r": 37,
+      "g": 18,
+      "b": 11,
+      "a": 255,
+      "luminance": 0.019999999552965164,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "67": {
+    "color_eyebrows_14": {
+      "name": "(Eyebrows 14)",
+      "hue": 0.05999999865889549,
+      "saturation": 0.7300000190734863,
+      "r": 63,
+      "g": 34,
+      "b": 22,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "68": {
+    "color_eyebrows_15": {
+      "name": "(Eyebrows 15)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.699999988079071,
+      "r": 96,
+      "g": 51,
+      "b": 34,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "69": {
+    "color_eyebrows_16": {
+      "name": "(Eyebrows 16)",
+      "hue": 0.05999999865889549,
+      "saturation": 0.6299999952316284,
+      "r": 182,
+      "g": 133,
+      "b": 95,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "70": {
+    "color_eyebrows_17": {
+      "name": "(Eyebrows 17)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.6600000262260437,
+      "r": 44,
+      "g": 16,
+      "b": 16,
+      "a": 255,
+      "luminance": 0.019999999552965164,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "71": {
+    "color_eyebrows_18": {
+      "name": "(Eyebrows 18)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.7400000095367432,
+      "r": 49,
+      "g": 18,
+      "b": 17,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "72": {
+    "color_eyebrows_19": {
+      "name": "(Eyebrows 19)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.6600000262260437,
+      "r": 104,
+      "g": 48,
+      "b": 42,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "73": {
+    "color_eyebrows_20": {
+      "name": "(Eyebrows 20)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.6100000143051147,
+      "r": 178,
+      "g": 123,
+      "b": 122,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "74": {
+    "color_eyebrows_21": {
+      "name": "(Eyebrows 21)",
+      "hue": 0.6600000262260437,
+      "saturation": 0.5899999737739563,
+      "r": 38,
+      "g": 28,
+      "b": 43,
+      "a": 255,
+      "luminance": 0.009999999776482582,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "75": {
+    "color_eyebrows_22": {
+      "name": "(Eyebrows 22)",
+      "hue": 0.6399999856948853,
+      "saturation": 0.47999998927116394,
+      "r": 49,
+      "g": 41,
+      "b": 68,
+      "a": 255,
+      "luminance": 0.019999999552965164,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "76": {
+    "color_eyebrows_23": {
+      "name": "(Eyebrows 23)",
+      "hue": 0.6800000071525574,
+      "saturation": 0.33000001311302185,
+      "r": 71,
+      "g": 60,
+      "b": 97,
+      "a": 255,
+      "luminance": 0.07000000029802322,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "77": {
+    "color_eyebrows_24": {
+      "name": "(Eyebrows 24)",
+      "hue": 0.6200000047683716,
+      "saturation": 0.25999999046325684,
+      "r": 150,
+      "g": 137,
+      "b": 160,
+      "a": 255,
+      "luminance": 0.09000000357627869,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "78": {
+    "color_eyelash_01": {
+      "name": "(Eyelashes 1) Default Black",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "79": {
+    "color_eyelash_02": {
+      "name": "(Eyelashes 2)",
+      "hue": 0.07999999821186066,
+      "saturation": 0.8999999761581421,
+      "r": 61,
+      "g": 37,
+      "b": 20,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "80": {
+    "color_eyelash_03": {
+      "name": "(Eyelashes 3)",
+      "hue": 0.0,
+      "saturation": 0.9700000286102295,
+      "r": 76,
+      "g": 13,
+      "b": 16,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "81": {
+    "color_eyelash_04": {
+      "name": "(Eyelashes 4)",
+      "hue": 0.6000000238418579,
+      "saturation": 0.699999988079071,
+      "r": 46,
+      "g": 37,
+      "b": 64,
+      "a": 255,
+      "luminance": 0.07000000029802322,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "82": {
+    "color_eyelash_05": {
+      "name": "(Eyelashes 5)",
+      "hue": 0.8899999856948853,
+      "saturation": 0.8500000238418579,
+      "r": 189,
+      "g": 136,
+      "b": 166,
+      "a": 255,
+      "luminance": 0.38999998569488525,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "83": {
+    "color_eyelash_06": {
+      "name": "(Eyelashes 6)",
+      "hue": 0.8299999833106995,
+      "saturation": 0.8899999856948853,
+      "r": 102,
+      "g": 24,
+      "b": 88,
+      "a": 255,
+      "luminance": 0.11999999731779099,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "84": {
+    "color_eyelash_07": {
+      "name": "(Eyelashes 7)",
+      "hue": 0.0,
+      "saturation": 0.9800000190734863,
+      "r": 80,
+      "g": 8,
+      "b": 11,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "85": {
+    "color_eyelash_08": {
+      "name": "(Eyelashes 8)",
+      "hue": 0.550000011920929,
+      "saturation": 1.0,
+      "r": 25,
+      "g": 71,
+      "b": 101,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "86": {
+    "color_eyelashes_01": {
+      "name": "(Eyeliner 1)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "87": {
+    "color_eyelashes_02": {
+      "name": "(Eyeliner 2)",
+      "hue": 0.05000000074505806,
+      "saturation": 1.0,
+      "r": 53,
+      "g": 16,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "88": {
+    "color_eyelashes_03": {
+      "name": "(Eyeliner 3)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 38,
+      "g": 38,
+      "b": 38,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "89": {
+    "color_eyelashes_04": {
+      "name": "(Eyeliner 4)",
+      "hue": 0.6299999952316284,
+      "saturation": 0.44999998807907104,
+      "r": 17,
+      "g": 22,
+      "b": 45,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "90": {
+    "color_eyelashes_05": {
+      "name": "(Eyeliner 5)",
+      "hue": 0.10999999940395355,
+      "saturation": 0.6100000143051147,
+      "r": 72,
+      "g": 54,
+      "b": 17,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "91": {
+    "color_eyelashes_06": {
+      "name": "(Eyeliner 6)",
+      "hue": 0.8799999952316284,
+      "saturation": 1.0,
+      "r": 167,
+      "g": 0,
+      "b": 114,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "92": {
+    "color_eyelashes_07": {
+      "name": "(Eyeliner 7)",
+      "hue": 0.6299999952316284,
+      "saturation": 0.30000001192092896,
+      "r": 61,
+      "g": 70,
+      "b": 115,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "93": {
+    "color_eyelashes_08": {
+      "name": "(Eyeliner 8)",
+      "hue": 0.5099999904632568,
+      "saturation": 0.9800000190734863,
+      "r": 1,
+      "g": 116,
+      "b": 126,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "94": {
+    "color_eye shadow_01": {
+      "name": "(Eye Shadow 1)",
+      "hue": 0.05000000074505806,
+      "saturation": 0.47999998927116394,
+      "r": 250,
+      "g": 210,
+      "b": 208,
+      "a": 255,
+      "luminance": 0.28999999165534973,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "95": {
+    "color_eye shadow_02": {
+      "name": "(Eye Shadow 2)",
+      "hue": 0.07999999821186066,
+      "saturation": 0.5299999713897705,
+      "r": 167,
+      "g": 143,
+      "b": 139,
+      "a": 255,
+      "luminance": 0.14000000059604645,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "96": {
+    "color_eye shadow_03": {
+      "name": "(Eye Shadow 3)",
+      "hue": 0.05999999865889549,
+      "saturation": 0.4399999976158142,
+      "r": 75,
+      "g": 54,
+      "b": 58,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "97": {
+    "color_eye shadow_04": {
+      "name": "(Eye Shadow 4)",
+      "hue": 0.019999999552965164,
+      "saturation": 0.28999999165534973,
+      "r": 147,
+      "g": 118,
+      "b": 115,
+      "a": 255,
+      "luminance": 0.11999999731779099,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "98": {
+    "color_eye shadow_05": {
+      "name": "(Eye Shadow 5)",
+      "hue": 0.05000000074505806,
+      "saturation": 0.6499999761581421,
+      "r": 110,
+      "g": 65,
+      "b": 59,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "99": {
+    "color_eye shadow_06": {
+      "name": "(Eye Shadow 6)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.699999988079071,
+      "r": 93,
+      "g": 39,
+      "b": 31,
+      "a": 255,
+      "luminance": 0.07000000029802322,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "100": {
+    "color_eye shadow_07": {
+      "name": "(Eye Shadow 7)",
+      "hue": 0.019999999552965164,
+      "saturation": 0.9300000071525574,
+      "r": 69,
+      "g": 13,
+      "b": 5,
+      "a": 255,
+      "luminance": 0.019999999552965164,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "101": {
+    "color_eye shadow_08": {
+      "name": "(Eye Shadow 8)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.5699999928474426,
+      "r": 226,
+      "g": 188,
+      "b": 146,
+      "a": 255,
+      "luminance": 0.1599999964237213,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "102": {
+    "color_eye shadow_09": {
+      "name": "(Eye Shadow 9)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.6800000071525574,
+      "r": 169,
+      "g": 129,
+      "b": 85,
+      "a": 255,
+      "luminance": 0.12999999523162842,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "103": {
+    "color_eye shadow_10": {
+      "name": "(Eye Shadow 10)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.7300000190734863,
+      "r": 112,
+      "g": 75,
+      "b": 30,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "104": {
+    "color_eye shadow_11": {
+      "name": "(Eye Shadow 11)",
+      "hue": 0.10000000149011612,
+      "saturation": 0.949999988079071,
+      "r": 66,
+      "g": 42,
+      "b": 3,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "105": {
+    "color_eye shadow_12": {
+      "name": "(Eye Shadow 12)",
+      "hue": 0.9900000095367432,
+      "saturation": 0.1899999976158142,
+      "r": 230,
+      "g": 187,
+      "b": 189,
+      "a": 255,
+      "luminance": 0.2199999988079071,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "106": {
+    "color_eye shadow_13": {
+      "name": "(Eye Shadow 13)",
+      "hue": 0.9800000190734863,
+      "saturation": 0.38999998569488525,
+      "r": 222,
+      "g": 136,
+      "b": 145,
+      "a": 255,
+      "luminance": 0.25,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "107": {
+    "color_eye shadow_14": {
+      "name": "(Eye Shadow 14)",
+      "hue": 0.9800000190734863,
+      "saturation": 0.6299999952316284,
+      "r": 167,
+      "g": 62,
+      "b": 73,
+      "a": 255,
+      "luminance": 0.1899999976158142,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "108": {
+    "color_eye shadow_15": {
+      "name": "(Eye Shadow 15)",
+      "hue": 1.0,
+      "saturation": 0.9599999785423279,
+      "r": 178,
+      "g": 34,
+      "b": 34,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "109": {
+    "color_eye shadow_16": {
+      "name": "(Eye Shadow 16)",
+      "hue": 0.9300000071525574,
+      "saturation": 0.7400000095367432,
+      "r": 247,
+      "g": 168,
+      "b": 201,
+      "a": 255,
+      "luminance": 0.3499999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "110": {
+    "color_eye shadow_17": {
+      "name": "(Eye Shadow 17)",
+      "hue": 0.9300000071525574,
+      "saturation": 0.46000000834465027,
+      "r": 231,
+      "g": 124,
+      "b": 169,
+      "a": 255,
+      "luminance": 0.2199999988079071,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "111": {
+    "color_eye shadow_18": {
+      "name": "(Eye Shadow 18)",
+      "hue": 0.9300000071525574,
+      "saturation": 0.800000011920929,
+      "r": 190,
+      "g": 38,
+      "b": 101,
+      "a": 255,
+      "luminance": 0.15000000596046448,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "112": {
+    "color_eye shadow_19": {
+      "name": "(Eye Shadow 19)",
+      "hue": 0.9100000262260437,
+      "saturation": 0.9800000190734863,
+      "r": 204,
+      "g": 13,
+      "b": 112,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "113": {
+    "color_eye shadow_20": {
+      "name": "(Eye Shadow 20)",
+      "hue": 0.8600000143051147,
+      "saturation": 0.3100000023841858,
+      "r": 220,
+      "g": 151,
+      "b": 209,
+      "a": 255,
+      "luminance": 0.18000000715255737,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "114": {
+    "color_eye shadow_21": {
+      "name": "(Eye Shadow 21)",
+      "hue": 0.8600000143051147,
+      "saturation": 0.5699999928474426,
+      "r": 172,
+      "g": 73,
+      "b": 156,
+      "a": 255,
+      "luminance": 0.17000000178813934,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "115": {
+    "color_eye shadow_22": {
+      "name": "(Eye Shadow 22)",
+      "hue": 0.8600000143051147,
+      "saturation": 0.75,
+      "r": 133,
+      "g": 33,
+      "b": 117,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "116": {
+    "color_eye shadow_23": {
+      "name": "(Eye Shadow 23)",
+      "hue": 0.8600000143051147,
+      "saturation": 1.0,
+      "r": 88,
+      "g": 0,
+      "b": 74,
+      "a": 255,
+      "luminance": 0.019999999552965164,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "117": {
+    "color_eye shadow_24": {
+      "name": "(Eye Shadow 24)",
+      "hue": 0.7799999713897705,
+      "saturation": 0.1599999964237213,
+      "r": 199,
+      "g": 177,
+      "b": 211,
+      "a": 255,
+      "luminance": 0.20000000298023224,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "118": {
+    "color_eye shadow_25": {
+      "name": "(Eye Shadow 25)",
+      "hue": 0.7300000190734863,
+      "saturation": 0.27000001072883606,
+      "r": 137,
+      "g": 119,
+      "b": 164,
+      "a": 255,
+      "luminance": 0.12999999523162842,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "119": {
+    "color_eye shadow_26": {
+      "name": "(Eye Shadow 26)",
+      "hue": 0.7300000190734863,
+      "saturation": 0.49000000953674316,
+      "r": 100,
+      "g": 72,
+      "b": 141,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "120": {
+    "color_eye shadow_27": {
+      "name": "(Eye Shadow 27)",
+      "hue": 0.7400000095367432,
+      "saturation": 0.7900000214576721,
+      "r": 57,
+      "g": 27,
+      "b": 100,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "121": {
+    "color_eye shadow_28": {
+      "name": "(Eye Shadow 28)",
+      "hue": 0.4000000059604645,
+      "saturation": 0.15000000596046448,
+      "r": 190,
+      "g": 207,
+      "b": 197,
+      "a": 255,
+      "luminance": 0.18000000715255737,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "122": {
+    "color_eye shadow_29": {
+      "name": "(Eye Shadow 29)",
+      "hue": 0.46000000834465027,
+      "saturation": 0.10000000149011612,
+      "r": 154,
+      "g": 157,
+      "b": 156,
+      "a": 255,
+      "luminance": 0.18000000715255737,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "123": {
+    "color_eye shadow_30": {
+      "name": "(Eye Shadow 30)",
+      "hue": 0.5,
+      "saturation": 0.44999998807907104,
+      "r": 73,
+      "g": 96,
+      "b": 96,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "124": {
+    "color_eye shadow_31": {
+      "name": "(Eye Shadow 31)",
+      "hue": 0.5,
+      "saturation": 0.8999999761581421,
+      "r": 7,
+      "g": 83,
+      "b": 83,
+      "a": 255,
+      "luminance": 0.05999999865889549,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "125": {
+    "color_eye shadow_32": {
+      "name": "(Eye Shadow 32)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "126": {
+    "color_contacts_01": {
+      "name": "(Color Contacts 1)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.17000000178813934,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "127": {
+    "color_contacts_02": {
+      "name": "(Color Contacts 2)",
+      "hue": 0.05999999865889549,
+      "saturation": 0.9700000286102295,
+      "r": 39,
+      "g": 15,
+      "b": 1,
+      "a": 255,
+      "luminance": 0.15000000596046448,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "128": {
+    "color_contacts_03": {
+      "name": "(Color Contacts 3)",
+      "hue": 0.9700000286102295,
+      "saturation": 0.9100000262260437,
+      "r": 47,
+      "g": 4,
+      "b": 12,
+      "a": 255,
+      "luminance": 0.18000000715255737,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "129": {
+    "color_contacts_04": {
+      "name": "(Color Contacts 4)",
+      "hue": 0.11999999731779099,
+      "saturation": 0.8600000143051147,
+      "r": 53,
+      "g": 39,
+      "b": 7,
+      "a": 255,
+      "luminance": 0.20999999344348907,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "130": {
+    "color_contacts_05": {
+      "name": "(Color Contacts 5)",
+      "hue": 0.3799999952316284,
+      "saturation": 0.25999999046325684,
+      "r": 132,
+      "g": 164,
+      "b": 140,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "131": {
+    "color_contacts_06": {
+      "name": "(Color Contacts 6)",
+      "hue": 0.3799999952316284,
+      "saturation": 0.75,
+      "r": 40,
+      "g": 133,
+      "b": 79,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "132": {
+    "color_contacts_07": {
+      "name": "(Color Contacts 7)",
+      "hue": 0.5299999713897705,
+      "saturation": 0.36000001430511475,
+      "r": 113,
+      "g": 139,
+      "b": 145,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "133": {
+    "color_contacts_08": {
+      "name": "(Color Contacts 8)",
+      "hue": 0.550000011920929,
+      "saturation": 0.8299999833106995,
+      "r": 56,
+      "g": 121,
+      "b": 165,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "134": {
+    "color_contacts_09": {
+      "name": "(Color Contacts 9)",
+      "hue": 0.7699999809265137,
+      "saturation": 0.30000001192092896,
+      "r": 154,
+      "g": 103,
+      "b": 156,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "135": {
+    "color_contacts_10": {
+      "name": "(Color Contacts 10)",
+      "hue": 0.7900000214576721,
+      "saturation": 0.8899999856948853,
+      "r": 112,
+      "g": 35,
+      "b": 119,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "136": {
+    "color_contacts_11": {
+      "name": "(Color Contacts 11)",
+      "hue": 0.9100000262260437,
+      "saturation": 0.6200000047683716,
+      "r": 167,
+      "g": 43,
+      "b": 118,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "137": {
+    "color_contacts_12": {
+      "name": "(Color Contacts 12)",
+      "hue": 0.07999999821186066,
+      "saturation": 0.550000011920929,
+      "r": 144,
+      "g": 72,
+      "b": 72,
+      "a": 255,
+      "luminance": 0.49000000953674316,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "138": {
+    "color_contacts_13": {
+      "name": "(Color Contacts 13)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.7699999809265137,
+      "r": 217,
+      "g": 170,
+      "b": 111,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "139": {
+    "color_contacts_14": {
+      "name": "(Color Contacts 14)",
+      "hue": 1.0,
+      "saturation": 0.0,
+      "r": 141,
+      "g": 140,
+      "b": 140,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "140": {
+    "color_contacts_15": {
+      "name": "(Color Contacts 15)",
+      "hue": 0.15000000596046448,
+      "saturation": 0.20999999344348907,
+      "r": 195,
+      "g": 200,
+      "b": 198,
+      "a": 255,
+      "luminance": 0.5,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "141": {
+    "color_contacts_16": {
+      "name": "(Color Contacts 16)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "142": {
+    "color_ｃheek_01": {
+      "name": "(Cheeks 1)",
+      "hue": 0.07000000029802322,
+      "saturation": 0.18000000715255737,
+      "r": 244,
+      "g": 218,
+      "b": 200,
+      "a": 255,
+      "luminance": 0.33000001311302185,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "143": {
+    "color_ｃheek_02": {
+      "name": "(Cheeks 2)",
+      "hue": 0.9900000095367432,
+      "saturation": 0.6000000238418579,
+      "r": 243,
+      "g": 196,
+      "b": 199,
+      "a": 255,
+      "luminance": 0.3400000035762787,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "144": {
+    "color_ｃheek_03": {
+      "name": "(Cheeks 3)",
+      "hue": 0.019999999552965164,
+      "saturation": 0.5199999809265137,
+      "r": 219,
+      "g": 166,
+      "b": 160,
+      "a": 255,
+      "luminance": 0.3400000035762787,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "145": {
+    "color_ｃheek_04": {
+      "name": "(Cheeks 4)",
+      "hue": 0.05000000074505806,
+      "saturation": 0.6499999761581421,
+      "r": 208,
+      "g": 158,
+      "b": 139,
+      "a": 255,
+      "luminance": 0.3400000035762787,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "146": {
+    "color_ｃheek_05": {
+      "name": "(Cheeks 5)",
+      "hue": 0.05000000074505806,
+      "saturation": 0.5799999833106995,
+      "r": 176,
+      "g": 126,
+      "b": 104,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "147": {
+    "color_ｃheek_06": {
+      "name": "(Cheeks 6)",
+      "hue": 0.05999999865889549,
+      "saturation": 0.9399999976158142,
+      "r": 254,
+      "g": 155,
+      "b": 93,
+      "a": 255,
+      "luminance": 0.18000000715255737,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "148": {
+    "color_ｃheek_07": {
+      "name": "(Cheeks 7)",
+      "hue": 0.10999999940395355,
+      "saturation": 0.9800000190734863,
+      "r": 252,
+      "g": 192,
+      "b": 76,
+      "a": 255,
+      "luminance": 0.15000000596046448,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "149": {
+    "color_ｃheek_08": {
+      "name": "(Cheeks 8)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.949999988079071,
+      "r": 213,
+      "g": 130,
+      "b": 108,
+      "a": 255,
+      "luminance": 0.18000000715255737,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "150": {
+    "color_ｃheek_09": {
+      "name": "(Cheeks 9)",
+      "hue": 0.07999999821186066,
+      "saturation": 0.8999999761581421,
+      "r": 217,
+      "g": 110,
+      "b": 83,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "151": {
+    "color_ｃheek_10": {
+      "name": "(Cheeks 10)",
+      "hue": 0.0,
+      "saturation": 0.7799999713897705,
+      "r": 226,
+      "g": 90,
+      "b": 88,
+      "a": 255,
+      "luminance": 0.1899999976158142,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "152": {
+    "color_ｃheek_11": {
+      "name": "(Cheeks 11)",
+      "hue": 0.9900000095367432,
+      "saturation": 1.0,
+      "r": 196,
+      "g": 57,
+      "b": 67,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "153": {
+    "color_ｃheek_12": {
+      "name": "(Cheeks 12)",
+      "hue": 0.9399999976158142,
+      "saturation": 0.6399999856948853,
+      "r": 224,
+      "g": 92,
+      "b": 139,
+      "a": 255,
+      "luminance": 0.23000000417232513,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "154": {
+    "color_lip_01": {
+      "name": "(Lips 1)",
+      "hue": 0.029999999329447746,
+      "saturation": 0.5699999928474426,
+      "r": 203,
+      "g": 122,
+      "b": 105,
+      "a": 255,
+      "luminance": 0.2800000011920929,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "155": {
+    "color_lip_02": {
+      "name": "(Lips 2)",
+      "hue": 0.05999999865889549,
+      "saturation": 0.7599999904632568,
+      "r": 247,
+      "g": 148,
+      "b": 99,
+      "a": 255,
+      "luminance": 0.2800000011920929,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "156": {
+    "color_lip_03": {
+      "name": "(Lips 3)",
+      "hue": 0.03999999910593033,
+      "saturation": 0.8299999833106995,
+      "r": 252,
+      "g": 110,
+      "b": 72,
+      "a": 255,
+      "luminance": 0.3400000035762787,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "157": {
+    "color_lip_04": {
+      "name": "(Lips 4)",
+      "hue": 0.019999999552965164,
+      "saturation": 0.7300000190734863,
+      "r": 237,
+      "g": 85,
+      "b": 62,
+      "a": 255,
+      "luminance": 0.41999998688697815,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "158": {
+    "color_lip_05": {
+      "name": "(Lips 5)",
+      "hue": 0.9800000190734863,
+      "saturation": 0.5,
+      "r": 203,
+      "g": 101,
+      "b": 114,
+      "a": 255,
+      "luminance": 0.4000000059604645,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "159": {
+    "color_lip_06": {
+      "name": "(Lips 6)",
+      "hue": 0.9800000190734863,
+      "saturation": 0.6600000262260437,
+      "r": 204,
+      "g": 71,
+      "b": 102,
+      "a": 255,
+      "luminance": 0.25,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "160": {
+    "color_lip_07": {
+      "name": "(Lips 7)",
+      "hue": 0.9599999785423279,
+      "saturation": 0.7900000214576721,
+      "r": 253,
+      "g": 63,
+      "b": 111,
+      "a": 255,
+      "luminance": 0.4099999964237213,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "161": {
+    "color_lip_08": {
+      "name": "(Lips 8)",
+      "hue": 0.009999999776482582,
+      "saturation": 0.9399999976158142,
+      "r": 197,
+      "g": 9,
+      "b": 36,
+      "a": 255,
+      "luminance": 0.28999999165534973,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "162": {
+    "color_lip_09": {
+      "name": "(Lips 9)",
+      "hue": 1.0,
+      "saturation": 0.8199999928474426,
+      "r": 168,
+      "g": 13,
+      "b": 31,
+      "a": 255,
+      "luminance": 0.25999999046325684,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "163": {
+    "color_lip_10": {
+      "name": "(Lips 10)",
+      "hue": 1.0,
+      "saturation": 0.8600000143051147,
+      "r": 107,
+      "g": 1,
+      "b": 24,
+      "a": 255,
+      "luminance": 0.14000000059604645,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "164": {
+    "color_lip_11": {
+      "name": "(Lips 11)",
+      "hue": 0.0,
+      "saturation": 0.9300000071525574,
+      "r": 82,
+      "g": 3,
+      "b": 1,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "165": {
+    "color_lip_12": {
+      "name": "(Lips 12)",
+      "hue": 0.9599999785423279,
+      "saturation": 0.3499999940395355,
+      "r": 52,
+      "g": 28,
+      "b": 34,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "166": {
+    "color_lip_13": {
+      "name": "(Lips 13)",
+      "hue": 0.7799999713897705,
+      "saturation": 0.4699999988079071,
+      "r": 157,
+      "g": 97,
+      "b": 183,
+      "a": 255,
+      "luminance": 0.20999999344348907,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "167": {
+    "color_lip_14": {
+      "name": "(Lips 14)",
+      "hue": 0.550000011920929,
+      "saturation": 0.44999998807907104,
+      "r": 157,
+      "g": 198,
+      "b": 217,
+      "a": 255,
+      "luminance": 0.28999999165534973,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "168": {
+    "color_lip_15": {
+      "name": "(Lips 15)",
+      "hue": 1.0,
+      "saturation": 0.11999999731779099,
+      "r": 213,
+      "g": 188,
+      "b": 188,
+      "a": 255,
+      "luminance": 0.25999999046325684,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "169": {
+    "color_lip_16": {
+      "name": "(Lips 16)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "170": {
+    "color_dress_01": {
+      "name": "(Dress 1) Koyuki",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 189,
+      "g": 223,
+      "b": 253,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "171": {
+    "color_dress_02": {
+      "name": "(Dress 2) kara",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "172": {
+    "color_dress_03": {
+      "name": "(Dress 3) Kana",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 191,
+      "b": 220,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "173": {
+    "color_hair_25": {
+      "name": "(Hair color 25)",
+      "hue": 0.12999999523162842,
+      "saturation": 0.23999999463558197,
+      "r": 242,
+      "g": 218,
+      "b": 194,
+      "a": 255,
+      "luminance": 0.44999998807907104,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "174": {
+    "color_hair_26": {
+      "name": "(Hair color 26)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "175": {
+    "color_hair_27": {
+      "name": "(Hair color 27)",
+      "hue": 0.6600000262260437,
+      "saturation": 0.0,
+      "r": 185,
+      "g": 178,
+      "b": 182,
+      "a": 255,
+      "luminance": 0.36000001430511475,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "176": {
+    "color_hair_28": {
+      "name": "(Hair color 28)",
+      "hue": 0.12999999523162842,
+      "saturation": 0.6000000238418579,
+      "r": 231,
+      "g": 215,
+      "b": 128,
+      "a": 255,
+      "luminance": 0.46000000834465027,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "177": {
+    "color_hair_29": {
+      "name": "(Hair color 29)",
+      "hue": 0.9200000166893005,
+      "saturation": 0.3799999952316284,
+      "r": 241,
+      "g": 133,
+      "b": 189,
+      "a": 255,
+      "luminance": 0.5099999904632568,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "178": {
+    "color_hair_30": {
+      "name": "(Hair color 30)",
+      "hue": 0.75,
+      "saturation": 0.25999999046325684,
+      "r": 210,
+      "g": 163,
+      "b": 225,
+      "a": 255,
+      "luminance": 0.4300000071525574,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "179": {
+    "color_hair_31": {
+      "name": "(Hair color 31)",
+      "hue": 0.6200000047683716,
+      "saturation": 0.20000000298023224,
+      "r": 149,
+      "g": 141,
+      "b": 187,
+      "a": 255,
+      "luminance": 0.4300000071525574,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "180": {
+    "color_hair_32": {
+      "name": "(Hair color 32)",
+      "hue": 0.49000000953674316,
+      "saturation": 0.6700000166893005,
+      "r": 104,
+      "g": 195,
+      "b": 196,
+      "a": 255,
+      "luminance": 0.2800000011920929,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "181": {
+    "color_eyebrows_25": {
+      "name": "(Eyebrows 25)",
+      "hue": 0.12999999523162842,
+      "saturation": 0.2800000011920929,
+      "r": 242,
+      "g": 218,
+      "b": 194,
+      "a": 255,
+      "luminance": 0.15000000596046448,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "182": {
+    "color_eyebrows_26": {
+      "name": "(Eyebrows 26)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "183": {
+    "color_eyebrows_27": {
+      "name": "(Eyebrows 27)",
+      "hue": 0.6399999856948853,
+      "saturation": 0.07000000029802322,
+      "r": 185,
+      "g": 178,
+      "b": 182,
+      "a": 255,
+      "luminance": 0.10999999940395355,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "184": {
+    "color_eyebrows_28": {
+      "name": "(Eyebrows 28)",
+      "hue": 0.09000000357627869,
+      "saturation": 0.6800000071525574,
+      "r": 231,
+      "g": 215,
+      "b": 128,
+      "a": 255,
+      "luminance": 0.11999999731779099,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "185": {
+    "color_eyebrows_29": {
+      "name": "(Eyebrows 29)",
+      "hue": 0.9700000286102295,
+      "saturation": 0.47999998927116394,
+      "r": 241,
+      "g": 133,
+      "b": 189,
+      "a": 255,
+      "luminance": 0.12999999523162842,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "186": {
+    "color_eyebrows_30": {
+      "name": "(Eyebrows 30)",
+      "hue": 0.75,
+      "saturation": 0.25999999046325684,
+      "r": 210,
+      "g": 163,
+      "b": 225,
+      "a": 255,
+      "luminance": 0.10000000149011612,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "187": {
+    "color_eyebrows_31": {
+      "name": "(Eyebrows 31)",
+      "hue": 0.6100000143051147,
+      "saturation": 0.18000000715255737,
+      "r": 149,
+      "g": 141,
+      "b": 187,
+      "a": 255,
+      "luminance": 0.09000000357627869,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "188": {
+    "color_eyebrows_32": {
+      "name": "(Eyebrows 32)",
+      "hue": 0.49000000953674316,
+      "saturation": 0.6499999761581421,
+      "r": 104,
+      "g": 195,
+      "b": 196,
+      "a": 255,
+      "luminance": 0.07999999821186066,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "189": {
+    "color_ｃheek_13": {
+      "name": "(Cheeks 13)",
+      "hue": 0.9599999785423279,
+      "saturation": 0.5,
+      "r": 239,
+      "g": 119,
+      "b": 152,
+      "a": 255,
+      "luminance": 0.30000001192092896,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "190": {
+    "color_ｃheek_14": {
+      "name": "(Cheeks 14)",
+      "hue": 0.9599999785423279,
+      "saturation": 0.4300000071525574,
+      "r": 255,
+      "g": 145,
+      "b": 168,
+      "a": 255,
+      "luminance": 0.30000001192092896,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "191": {
+    "color_ｃheek_15": {
+      "name": "(Cheeks 15)",
+      "hue": 0.9399999976158142,
+      "saturation": 0.3400000035762787,
+      "r": 255,
+      "g": 169,
+      "b": 201,
+      "a": 255,
+      "luminance": 0.33000001311302185,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "192": {
+    "color_ｃheek_16": {
+      "name": "(Cheeks 16)",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "193": {
+    "color_hair_33": {
+      "name": "(Hair color 33) Shoko",
+      "hue": 0.10000000149011612,
+      "saturation": 0.07999999821186066,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "194": {
+    "color_hair_34": {
+      "name": "(Hair color 34) Aika",
+      "hue": 0.10999999940395355,
+      "saturation": 0.5799999833106995,
+      "r": 85,
+      "g": 72,
+      "b": 63,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "195": {
+    "color_hair_35": {
+      "name": "(Hair color 35) Kirara",
+      "hue": 0.07999999821186066,
+      "saturation": 1.0,
+      "r": 53,
+      "g": 19,
+      "b": 29,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "196": {
+    "color_hair_36": {
+      "name": "(Hair color 36) Kana",
+      "hue": 0.05999999865889549,
+      "saturation": 0.8600000143051147,
+      "r": 133,
+      "g": 85,
+      "b": 54,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "197": {
+    "color_hair_37": {
+      "name": "(Hair color 37) Koyuki",
+      "hue": 0.11999999731779099,
+      "saturation": 0.7400000095367432,
+      "r": 56,
+      "g": 24,
+      "b": 15,
+      "a": 255,
+      "luminance": 0.009999999776482582,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "198": {
+    "color_hair_38": {
+      "name": "(Hair color 38) Yua",
+      "hue": 0.05999999865889549,
+      "saturation": 0.8399999737739563,
+      "r": 78,
+      "g": 36,
+      "b": 25,
+      "a": 255,
+      "luminance": 0.009999999776482582,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "199": {
+    "color_eyebrows_33": {
+      "name": "(Eyebrows 33) Shoko",
+      "hue": 0.029999999329447746,
+      "saturation": 0.029999999329447746,
+      "r": 70,
+      "g": 52,
+      "b": 46,
+      "a": 255,
+      "luminance": 0.009999999776482582,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "200": {
+    "color_eyebrows_34": {
+      "name": "(Eyebrows 34) Aika",
+      "hue": 0.10999999940395355,
+      "saturation": 0.5299999713897705,
+      "r": 83,
+      "g": 55,
+      "b": 44,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "201": {
+    "color_eyebrows_35": {
+      "name": "(Eyebrows 35) Kirara",
+      "hue": 0.05000000074505806,
+      "saturation": 0.6200000047683716,
+      "r": 100,
+      "g": 62,
+      "b": 53,
+      "a": 255,
+      "luminance": 0.03999999910593033,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "202": {
+    "color_eyebrows_36": {
+      "name": "(Eyebrows 36) Kana",
+      "hue": 0.05000000074505806,
+      "saturation": 0.800000011920929,
+      "r": 119,
+      "g": 86,
+      "b": 67,
+      "a": 255,
+      "luminance": 0.029999999329447746,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "203": {
+    "color_eyebrows_37": {
+      "name": "(Eyebrows 37) Koyuki",
+      "hue": 0.10000000149011612,
+      "saturation": 0.5199999809265137,
+      "r": 90,
+      "g": 67,
+      "b": 53,
+      "a": 255,
+      "luminance": 0.009999999776482582,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "204": {
+    "color_eyebrows_38": {
+      "name": "(Eyebrows 38) Yua",
+      "hue": 0.029999999329447746,
+      "saturation": 0.7699999809265137,
+      "r": 109,
+      "g": 70,
+      "b": 55,
+      "a": 255,
+      "luminance": 0.05000000074505806,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "205": {
+    "color_dress_04": {
+      "name": "(Dress 4) Aika",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 179,
+      "g": 130,
+      "b": 90,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "206": {
+    "color_dress_05": {
+      "name": "(Dress 5) Shoko",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 22,
+      "g": 85,
+      "b": 48,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "207": {
+    "color_dress_06": {
+      "name": "(Dress 6) Yua",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 207,
+      "g": 166,
+      "b": 227,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "208": {
+    "color_dress_07": {
+      "name": "(Dress 7) Kirara",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 95,
+      "g": 13,
+      "b": 44,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "209": {
+    "color_dress_08": {
+      "name": "(Dress 8) A_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 237,
+      "g": 199,
+      "b": 146,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "210": {
+    "color_dress_09": {
+      "name": "(Dress 8) A_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 129,
+      "g": 136,
+      "b": 149,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "211": {
+    "color_dress_10": {
+      "name": "(Dress 10) A_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 136,
+      "g": 79,
+      "b": 131,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "212": {
+    "color_dress_11": {
+      "name": "(Dress 11) A_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 153,
+      "g": 61,
+      "b": 82,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "213": {
+    "color_dress_12": {
+      "name": "(Dress 12) A_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 179,
+      "g": 188,
+      "b": 189,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "214": {
+    "color_dress_13": {
+      "name": "(Dress 13) B_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 32,
+      "g": 22,
+      "b": 29,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "215": {
+    "color_dress_14": {
+      "name": "(Dress 14) B_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 159,
+      "g": 53,
+      "b": 120,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "216": {
+    "color_dress_15": {
+      "name": "(Dress 15) B_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 214,
+      "g": 214,
+      "b": 214,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "217": {
+    "color_dress_16": {
+      "name": "(Dress 16) B_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 196,
+      "b": 222,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "218": {
+    "color_dress_17": {
+      "name": "(Dress 17) B_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 170,
+      "g": 214,
+      "b": 216,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "219": {
+    "color_dress_18": {
+      "name": "(Dress 18) C_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 99,
+      "g": 202,
+      "b": 208,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "220": {
+    "color_dress_19": {
+      "name": "(Dress 19) C_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 192,
+      "b": 205,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "221": {
+    "color_dress_20": {
+      "name": "(Dress 20) C_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 191,
+      "g": 99,
+      "b": 157,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "222": {
+    "color_dress_21": {
+      "name": "(Dress 21) C_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 56,
+      "g": 41,
+      "b": 57,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "223": {
+    "color_dress_22": {
+      "name": "(Dress 22) C_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 206,
+      "g": 29,
+      "b": 65,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "224": {
+    "color_dress_23": {
+      "name": "(Dress 23) D_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 153,
+      "b": 184,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "225": {
+    "color_dress_24": {
+      "name": "(Dress 24) D_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 246,
+      "b": 163,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "226": {
+    "color_dress_25": {
+      "name": "(Dress 25) D_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 227,
+      "g": 179,
+      "b": 244,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "227": {
+    "color_dress_26": {
+      "name": "(Dress 26) D_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 190,
+      "g": 234,
+      "b": 240,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "228": {
+    "color_dress_27": {
+      "name": "(Dress 27) D_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 213,
+      "g": 208,
+      "b": 218,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "229": {
+    "color_dress_28": {
+      "name": "(Dress 28) E_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 126,
+      "g": 22,
+      "b": 24,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "230": {
+    "color_dress_29": {
+      "name": "(Dress 29) E_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 26,
+      "g": 16,
+      "b": 96,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "231": {
+    "color_dress_30": {
+      "name": "(Dress 30) E_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 85,
+      "g": 8,
+      "b": 96,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "232": {
+    "color_dress_31": {
+      "name": "(Dress 31) E_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 205,
+      "g": 205,
+      "b": 205,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "233": {
+    "color_dress_32": {
+      "name": "(Dress 32) E_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 65,
+      "g": 78,
+      "b": 32,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "234": {
+    "color_dress_33": {
+      "name": "(Dress 33) F_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 189,
+      "g": 51,
+      "b": 131,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "235": {
+    "color_dress_34": {
+      "name": "(Dress 34) F_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 159,
+      "g": 214,
+      "b": 245,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "236": {
+    "color_dress_35": {
+      "name": "(Dress 35) F_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 210,
+      "g": 164,
+      "b": 216,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "237": {
+    "color_dress_36": {
+      "name": "(Dress 36) F_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 207,
+      "g": 239,
+      "b": 186,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "238": {
+    "color_dress_37": {
+      "name": "(Dress 37) F_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 187,
+      "g": 173,
+      "b": 171,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "239": {
+    "color_dress_38": {
+      "name": "(Dress 38) G_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 48,
+      "g": 46,
+      "b": 104,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "240": {
+    "color_dress_39": {
+      "name": "(Dress 39) G_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 130,
+      "g": 10,
+      "b": 64,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "241": {
+    "color_dress_40": {
+      "name": "(Dress 40) H_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 243,
+      "g": 178,
+      "b": 239,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "242": {
+    "color_dress_41": {
+      "name": "(Dress 41) H_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 230,
+      "g": 228,
+      "b": 229,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "243": {
+    "color_dress_42": {
+      "name": "(Dress 42) H_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 34,
+      "g": 59,
+      "b": 98,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "244": {
+    "color_dress_43": {
+      "name": "(Dress 43) H_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 159,
+      "g": 11,
+      "b": 54,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "245": {
+    "color_dress_44": {
+      "name": "(Dress 44) H_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 63,
+      "g": 63,
+      "b": 63,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "246": {
+    "color_dress_45": {
+      "name": "(Dress 45) I_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 142,
+      "g": 11,
+      "b": 60,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "247": {
+    "color_dress_46": {
+      "name": "(Dress 46) I_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 135,
+      "g": 70,
+      "b": 125,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "248": {
+    "color_dress_47": {
+      "name": "(Dress 47) I_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 55,
+      "g": 47,
+      "b": 51,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "249": {
+    "color_dress_48": {
+      "name": "(Dress 48) I_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 110,
+      "g": 66,
+      "b": 73,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "250": {
+    "color_dress_49": {
+      "name": "(Dress 49) I_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 186,
+      "g": 150,
+      "b": 109,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "251": {
+    "color_dress_50": {
+      "name": "(Dress 50) J_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 149,
+      "g": 132,
+      "b": 158,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "252": {
+    "color_dress_51": {
+      "name": "(Dress 51) J_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 232,
+      "g": 182,
+      "b": 201,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "253": {
+    "color_dress_52": {
+      "name": "(Dress 52) J_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 240,
+      "g": 231,
+      "b": 229,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "254": {
+    "color_dress_53": {
+      "name": "(Dress 53) J_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 191,
+      "g": 248,
+      "b": 248,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "255": {
+    "color_dress_54": {
+      "name": "(Dress 54) J_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 216,
+      "g": 213,
+      "b": 161,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "256": {
+    "color_dress_55": {
+      "name": "(Dress 55) K_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 95,
+      "g": 164,
+      "b": 240,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "257": {
+    "color_dress_56": {
+      "name": "(Dress 56) K_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 252,
+      "g": 252,
+      "b": 252,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "258": {
+    "color_dress_57": {
+      "name": "(Dress 57) K_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 49,
+      "g": 42,
+      "b": 42,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "259": {
+    "color_dress_58": {
+      "name": "(Dress 58) K_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 205,
+      "b": 50,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "260": {
+    "color_dress_59": {
+      "name": "(Dress 59) K_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 247,
+      "g": 65,
+      "b": 119,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "261": {
+    "color_dress_60": {
+      "name": "(Dress 60) L_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 59,
+      "g": 42,
+      "b": 90,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "262": {
+    "color_dress_61": {
+      "name": "(Dress 61) X_1 Yuki",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 209,
+      "g": 218,
+      "b": 218,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "263": {
+    "color_dress_62": {
+      "name": "(Dress 62) X_2 Ai",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 170,
+      "g": 0,
+      "b": 14,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "264": {
+    "color_dress_63": {
+      "name": "(Dress 63) X_3 Saki",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 6,
+      "g": 128,
+      "b": 18,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "265": {
+    "color_dress_64": {
+      "name": "(Dress 64) X_4 Hibiki",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 75,
+      "g": 6,
+      "b": 173,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "266": {
+    "color_dress_65": {
+      "name": "(Dress 65) X_5 Chika",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 212,
+      "g": 173,
+      "b": 0,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "267": {
+    "color_dress_66": {
+      "name": "(Dress 66) U_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 43,
+      "g": 27,
+      "b": 38,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "268": {
+    "color_dress_67": {
+      "name": "(Dress 67) U_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 214,
+      "g": 173,
+      "b": 200,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "269": {
+    "color_dress_68": {
+      "name": "(Dress 68) S_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 209,
+      "g": 17,
+      "b": 87,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "270": {
+    "color_dress_69": {
+      "name": "(Dress 69) S_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 51,
+      "g": 40,
+      "b": 58,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "271": {
+    "color_dress_70": {
+      "name": "(Dress 70) S_3",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 222,
+      "b": 251,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "272": {
+    "color_dress_71": {
+      "name": "(Dress 71) S_4",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 242,
+      "g": 242,
+      "b": 242,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "273": {
+    "color_dress_72": {
+      "name": "(Dress 72) S_5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 150,
+      "b": 33,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "274": {
+    "color_dress_73": {
+      "name": "(Dress 73) T_1",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 38,
+      "g": 26,
+      "b": 33,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "275": {
+    "color_dress_74": {
+      "name": "(Dress 74) T_2",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 107,
+      "g": 155,
+      "b": 227,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "276": {
+    "color_dress_75": {
+      "name": "(Dress 75) W",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "277": {
+    "color_dress_76": {
+      "name": "(Dress 76) V",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "278": {
+    "color_dress_77": {
+      "name": "(Dress 77) X_6 Mana",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "r": 168,
+      "g": 168,
+      "b": 168,
+      "a": 255,
+      "luminance": 0.0,
+      "alpha": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 278
+    }
+  }
+}

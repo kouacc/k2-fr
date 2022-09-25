@@ -1,0 +1,566 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 28,
+  "COLUMN_COUNT": 15,
+  "TEXT_COUNT": 6,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "character_id": "1",
+    "voice_id_0": "0",
+    "voice_id_1": "0",
+    "condition_best": "1",
+    "condition_good": "1",
+    "condition_normal": "1",
+    "condition_bad": "1",
+    "condition_worst": "1",
+    "character_id_2": "1",
+    "character_id_3": "1",
+    "voice_id": "1",
+    "voice_id_2": "1",
+    "voice_id_3": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "character_id": 1,
+    "voice_id_0": -1,
+    "voice_id_1": -1,
+    "condition_best": 3,
+    "condition_good": 3,
+    "condition_normal": 3,
+    "condition_bad": 3,
+    "condition_worst": 3,
+    "character_id_2": 1,
+    "character_id_3": 1,
+    "voice_id": 1,
+    "voice_id_2": 1,
+    "voice_id_3": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "character_id": 1,
+    "voice_id_0": -1,
+    "voice_id_1": -1,
+    "condition_best": 6,
+    "condition_good": 6,
+    "condition_normal": 6,
+    "condition_bad": 6,
+    "condition_worst": 6,
+    "character_id_2": 1,
+    "character_id_3": 1,
+    "voice_id": 1,
+    "voice_id_2": 1,
+    "voice_id_3": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    3,
+    4,
+    2,
+    10,
+    11,
+    12,
+    13,
+    14,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "0": {
+    "": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "none": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "top_menu": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "opening_preparations": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "usual_business": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "rival_competition": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "recruit": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "help": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "simulation": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "confirm_status": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "confirm_casts": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "dress_up": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "organization": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "onwer_shop_detail": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "confirm_cooperation": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "rival_infomation": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "beginner": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "familiar": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "regular": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "veteran": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "master": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "special": {
+      "character_id": 0,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 0,
+      "character_id_3": 0,
+      "voice_id": 0,
+      "voice_id_2": 0,
+      "voice_id_3": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "poverty": {
+      "name": "Pauvre",
+      "character_id": 13722,
+      "condition_best": 25,
+      "condition_good": 15,
+      "condition_normal": 10,
+      "condition_bad": 5,
+      "condition_worst": 1,
+      "character_id_2": 13723,
+      "character_id_3": 13724,
+      "voice_id": 895,
+      "voice_id_2": 896,
+      "voice_id_3": 896,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "normal": {
+      "name": "Aisé",
+      "character_id": 13717,
+      "condition_best": 35,
+      "condition_good": 25,
+      "condition_normal": 15,
+      "condition_bad": 10,
+      "condition_worst": 3,
+      "character_id_2": 13718,
+      "character_id_3": 13719,
+      "voice_id": 897,
+      "voice_id_2": 898,
+      "voice_id_3": 900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "rich": {
+      "name": "Riche",
+      "character_id": 13727,
+      "condition_best": 75,
+      "condition_good": 55,
+      "condition_normal": 35,
+      "condition_bad": 15,
+      "condition_worst": 5,
+      "character_id_2": 13728,
+      "character_id_3": 13729,
+      "voice_id": 898,
+      "voice_id_2": 899,
+      "voice_id_3": 898,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "millionaire": {
+      "name": "Magnat",
+      "character_id": 13712,
+      "condition_best": 120,
+      "condition_good": 90,
+      "condition_normal": 60,
+      "condition_bad": 30,
+      "condition_worst": 10,
+      "character_id_2": 13713,
+      "character_id_3": 13714,
+      "voice_id": 899,
+      "voice_id_2": 899,
+      "voice_id_3": 896,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "nominate": {
+      "name": "Requête",
+      "character_id": 13715,
+      "condition_best": 120,
+      "condition_good": 90,
+      "condition_normal": 60,
+      "condition_bad": 30,
+      "condition_worst": 10,
+      "character_id_2": 13716,
+      "character_id_3": 13730,
+      "voice_id": 895,
+      "voice_id_2": 897,
+      "voice_id_3": 895,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "king_of_oil": {
+      "name": "Baron du pétrole",
+      "character_id": 11670,
+      "condition_best": 0,
+      "condition_good": 0,
+      "condition_normal": 0,
+      "condition_bad": 0,
+      "condition_worst": 0,
+      "character_id_2": 11670,
+      "character_id_3": 11670,
+      "voice_id": 765,
+      "voice_id_2": 765,
+      "voice_id_3": 765,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  }
+}

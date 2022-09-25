@@ -1,0 +1,583 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 32,
+  "COLUMN_COUNT": 12,
+  "TEXT_COUNT": 31,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "item_name": "1",
+    "breeze": "0",
+    "cond_category": "1",
+    "cond_timeline": "1",
+    "cond_clock": "1",
+    "scenario_id": "1",
+    "point": "1",
+    "cond_clock2": "1",
+    "cond_clock3": "1",
+    "cond_clock4": "1",
+    "breeze_msg": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "item_name": 0,
+    "breeze": -1,
+    "cond_category": 2,
+    "cond_timeline": 0,
+    "cond_clock": 0,
+    "scenario_id": 1,
+    "point": 0,
+    "cond_clock2": 0,
+    "cond_clock3": 0,
+    "cond_clock4": 0,
+    "breeze_msg": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "item_name": 12,
+    "breeze": -1,
+    "cond_category": 0,
+    "cond_timeline": 2,
+    "cond_clock": 2,
+    "scenario_id": 1,
+    "point": 2,
+    "cond_clock2": 2,
+    "cond_clock3": 2,
+    "cond_clock4": 2,
+    "breeze_msg": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    11,
+    3,
+    4,
+    5,
+    8,
+    9,
+    10,
+    6,
+    7
+  ],
+  "0": {
+    "": {
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 0,
+      "point": 0,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "vs_name_watanabe": {
+      "item_name": "Watanabe Roi du shogi",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 34,
+      "scenario_id": 3411,
+      "point": 3000,
+      "cond_clock2": 35,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 102,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "vs_name_tsurugami": {
+      "item_name": "Tsurugami 10e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 33,
+      "scenario_id": 3410,
+      "point": 2000,
+      "cond_clock2": 34,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 101,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "vs_name_izumi": {
+      "item_name": "Izumi 9e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 32,
+      "scenario_id": 3409,
+      "point": 1900,
+      "cond_clock2": 33,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 103,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "vs_name_iwama": {
+      "item_name": "Iwama 8e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 31,
+      "scenario_id": 3408,
+      "point": 1800,
+      "cond_clock2": 32,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "vs_name_kubota": {
+      "item_name": "Kubota 7e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 30,
+      "scenario_id": 3407,
+      "point": 1700,
+      "cond_clock2": 31,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 99,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "vs_name_murakami": {
+      "item_name": "Murakami 6e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 29,
+      "scenario_id": 3406,
+      "point": 1600,
+      "cond_clock2": 30,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 98,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "vs_name_ogata": {
+      "item_name": "Ogata 5e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 28,
+      "scenario_id": 3405,
+      "point": 1500,
+      "cond_clock2": 29,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 97,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "vs_name_iguchi": {
+      "item_name": "Iguchi 4e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 27,
+      "scenario_id": 3404,
+      "point": 1400,
+      "cond_clock2": 28,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 96,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "vs_name_shiomura": {
+      "item_name": "Shiomura 3e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 26,
+      "scenario_id": 3403,
+      "point": 1300,
+      "cond_clock2": 27,
+      "cond_clock3": 127,
+      "cond_clock4": 127,
+      "breeze_msg": 95,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "vs_name_kawakami": {
+      "item_name": "Kawakami 2e Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 24,
+      "scenario_id": 3402,
+      "point": 1200,
+      "cond_clock2": 25,
+      "cond_clock3": 26,
+      "cond_clock4": 127,
+      "breeze_msg": 94,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "vs_name_koto": {
+      "item_name": "Koto 1er Dan",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 22,
+      "scenario_id": 3401,
+      "point": 1100,
+      "cond_clock2": 23,
+      "cond_clock3": 24,
+      "cond_clock4": 25,
+      "breeze_msg": 93,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "vs_name_koshimizu": {
+      "item_name": "Koshimizu 1er kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 20,
+      "scenario_id": 3400,
+      "point": 1000,
+      "cond_clock2": 21,
+      "cond_clock3": 22,
+      "cond_clock4": 23,
+      "breeze_msg": 92,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "vs_name_yano": {
+      "item_name": "Yano 1er kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 20,
+      "scenario_id": 3399,
+      "point": 1000,
+      "cond_clock2": 21,
+      "cond_clock3": 22,
+      "cond_clock4": 23,
+      "breeze_msg": 91,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "vs_name_tsuzi": {
+      "item_name": "Tsuji 2e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 18,
+      "scenario_id": 3398,
+      "point": 900,
+      "cond_clock2": 19,
+      "cond_clock3": 20,
+      "cond_clock4": 21,
+      "breeze_msg": 90,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "vs_name_someya": {
+      "item_name": "Someya 2e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 18,
+      "scenario_id": 3397,
+      "point": 900,
+      "cond_clock2": 19,
+      "cond_clock3": 20,
+      "cond_clock4": 21,
+      "breeze_msg": 89,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "vs_name_inada": {
+      "item_name": "Inada 3e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 16,
+      "scenario_id": 3396,
+      "point": 800,
+      "cond_clock2": 17,
+      "cond_clock3": 18,
+      "cond_clock4": 19,
+      "breeze_msg": 88,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "vs_name_kai": {
+      "item_name": "Kai 3e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 16,
+      "scenario_id": 3395,
+      "point": 800,
+      "cond_clock2": 17,
+      "cond_clock3": 18,
+      "cond_clock4": 19,
+      "breeze_msg": 87,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "vs_name_kikuchi": {
+      "item_name": "Kikuchi 4e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 14,
+      "scenario_id": 3394,
+      "point": 700,
+      "cond_clock2": 15,
+      "cond_clock3": 16,
+      "cond_clock4": 17,
+      "breeze_msg": 86,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "vs_name_bando": {
+      "item_name": "Bando 4e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 14,
+      "scenario_id": 3393,
+      "point": 700,
+      "cond_clock2": 15,
+      "cond_clock3": 16,
+      "cond_clock4": 17,
+      "breeze_msg": 85,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "vs_name_kobayashi": {
+      "item_name": "Kobayashi 5e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 12,
+      "scenario_id": 3392,
+      "point": 600,
+      "cond_clock2": 13,
+      "cond_clock3": 14,
+      "cond_clock4": 15,
+      "breeze_msg": 84,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "vs_name_hanatani": {
+      "item_name": "Hanatani 5e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 12,
+      "scenario_id": 3391,
+      "point": 600,
+      "cond_clock2": 13,
+      "cond_clock3": 14,
+      "cond_clock4": 15,
+      "breeze_msg": 83,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "vs_name_kato": {
+      "item_name": "Kato 6e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 10,
+      "scenario_id": 3390,
+      "point": 500,
+      "cond_clock2": 11,
+      "cond_clock3": 12,
+      "cond_clock4": 13,
+      "breeze_msg": 82,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "vs_name_utsunomiya": {
+      "item_name": "Utsunomiya 6e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 10,
+      "scenario_id": 3389,
+      "point": 500,
+      "cond_clock2": 11,
+      "cond_clock3": 12,
+      "cond_clock4": 13,
+      "breeze_msg": 81,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "vs_name_yoshida": {
+      "item_name": "Yoshida 7e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 8,
+      "scenario_id": 3388,
+      "point": 400,
+      "cond_clock2": 9,
+      "cond_clock3": 10,
+      "cond_clock4": 11,
+      "breeze_msg": 80,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "vs_name_onishi": {
+      "item_name": "Onishi 7e kyu",
+      "cond_category": 8,
+      "cond_timeline": 42,
+      "cond_clock": 8,
+      "scenario_id": 3387,
+      "point": 400,
+      "cond_clock2": 9,
+      "cond_clock3": 10,
+      "cond_clock4": 11,
+      "breeze_msg": 79,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "vs_name_hayashi": {
+      "item_name": "Hayashi 8e kyu",
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 3386,
+      "point": 300,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 78,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "vs_name_hyodo": {
+      "item_name": "Hyodo 8e kyu",
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 3385,
+      "point": 300,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 77,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "vs_name_yuuki": {
+      "item_name": "Yuki 9e kyu",
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 3384,
+      "point": 200,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 76,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "vs_name_inoue": {
+      "item_name": "Inoue 9e kyu",
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 3383,
+      "point": 200,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 75,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "vs_name_saito": {
+      "item_name": "Saito 10e kyu",
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 3382,
+      "point": 100,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 74,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "vs_name_kawaguchi": {
+      "item_name": "Kawaguchi 10e kyu",
+      "cond_category": 0,
+      "cond_timeline": 0,
+      "cond_clock": 0,
+      "scenario_id": 3381,
+      "point": 100,
+      "cond_clock2": 0,
+      "cond_clock3": 0,
+      "cond_clock4": 0,
+      "breeze_msg": 73,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  }
+}

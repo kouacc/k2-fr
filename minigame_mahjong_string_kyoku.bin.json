@@ -1,0 +1,150 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 17,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 16,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "ton1": {
+      "text": "Est 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "ton2": {
+      "text": "Est 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "ton3": {
+      "text": "Est 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "ton4": {
+      "text": "Est 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "nan1": {
+      "text": "Sud 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "nan2": {
+      "text": "Sud 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "nan3": {
+      "text": "Sud 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "nan4": {
+      "text": "Sud 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "sha1": {
+      "text": "Ouest 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "sha2": {
+      "text": "Ouest 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "sha3": {
+      "text": "Ouest 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "sha4": {
+      "text": "Ouest 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "pe1": {
+      "text": "Nord 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "pe2": {
+      "text": "Nord 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "pe3": {
+      "text": "Nord 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "pe4": {
+      "text": "Nord 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  }
+}

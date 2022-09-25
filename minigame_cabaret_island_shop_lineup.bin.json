@@ -1,0 +1,677 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 51,
+  "COLUMN_COUNT": 13,
+  "TEXT_COUNT": 40,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "guest_category": "0",
+    "fans": "1",
+    "timeline": "0",
+    "clock": "1",
+    "hierachy_category": "0",
+    "timeline_category": "0",
+    "hierarchy_category": "0",
+    "open_timing_clock": "0",
+    "league_id": "1",
+    "complete": "1",
+    "money": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "guest_category": -1,
+    "fans": 0,
+    "timeline": -1,
+    "clock": 2,
+    "hierachy_category": -1,
+    "timeline_category": -1,
+    "hierarchy_category": -1,
+    "open_timing_clock": -1,
+    "league_id": 2,
+    "complete": 2,
+    "money": 10
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "guest_category": -1,
+    "fans": 2,
+    "timeline": -1,
+    "clock": 0,
+    "hierachy_category": -1,
+    "timeline_category": -1,
+    "hierarchy_category": -1,
+    "open_timing_clock": -1,
+    "league_id": 0,
+    "complete": 0,
+    "money": 7
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    3,
+    5,
+    11
+  ],
+  "0": {
+    "": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "shop_01": {
+      "name": "Sushi Delivery Ginsuke",
+      "fans": 45,
+      "clock": 2,
+      "league_id": 19,
+      "complete": 1,
+      "money": 7000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "shop_02": {
+      "name": "Dancho Soba",
+      "fans": 40,
+      "clock": 3,
+      "league_id": 19,
+      "complete": 2,
+      "money": 6500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "3": {
+    "shop_03": {
+      "name": "Le Miel",
+      "fans": 50,
+      "clock": 4,
+      "league_id": 19,
+      "complete": 3,
+      "money": 10000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "4": {
+    "shop_04": {
+      "name": "Okka Eatery",
+      "fans": 25,
+      "clock": 5,
+      "league_id": 19,
+      "complete": 4,
+      "money": 4500,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "5": {
+    "shop_05": {
+      "name": "Hotel Ballon",
+      "fans": 90,
+      "clock": 6,
+      "league_id": 19,
+      "complete": 5,
+      "money": 30000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "6": {
+    "shop_06": {
+      "name": "Konno's Meats",
+      "fans": 20,
+      "clock": 7,
+      "league_id": 19,
+      "complete": 6,
+      "money": 2000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "7": {
+    "shop_07": {
+      "name": "Saccharin Bar",
+      "fans": 30,
+      "clock": 8,
+      "league_id": 19,
+      "complete": 7,
+      "money": 10000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "8": {
+    "shop_08": {
+      "name": "Soten Wrestling",
+      "fans": 70,
+      "clock": 9,
+      "league_id": 19,
+      "complete": 8,
+      "money": 20000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "9": {
+    "shop_09": {
+      "name": "Moon River Bar",
+      "fans": 55,
+      "clock": 10,
+      "league_id": 19,
+      "complete": 9,
+      "money": 13000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "10": {
+    "shop_10": {
+      "name": "Eeyaro Sushi",
+      "fans": 48,
+      "clock": 11,
+      "league_id": 19,
+      "complete": 10,
+      "money": 5800,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "11": {
+    "shop_11": {
+      "name": "Iwamitsu",
+      "fans": 55,
+      "clock": 12,
+      "league_id": 18,
+      "complete": 11,
+      "money": 19000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "12": {
+    "shop_12": {
+      "name": "Kiyome",
+      "fans": 100,
+      "clock": 13,
+      "league_id": 18,
+      "complete": 12,
+      "money": 25000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "13": {
+    "shop_13": {
+      "name": "LG West",
+      "fans": 75,
+      "clock": 14,
+      "league_id": 18,
+      "complete": 13,
+      "money": 32000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "14": {
+    "shop_14": {
+      "name": "Taikiken",
+      "fans": 50,
+      "clock": 15,
+      "league_id": 18,
+      "complete": 14,
+      "money": 20000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "15": {
+    "shop_15": {
+      "name": "Okonomiyaki Shungyokutei",
+      "fans": 85,
+      "clock": 16,
+      "league_id": 18,
+      "complete": 15,
+      "money": 32000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "16": {
+    "shop_16": {
+      "name": "Turtle Hotel",
+      "fans": 250,
+      "clock": 17,
+      "league_id": 18,
+      "complete": 16,
+      "money": 79000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "17": {
+    "shop_17": {
+      "name": "Komuro Soba",
+      "fans": 65,
+      "clock": 18,
+      "league_id": 18,
+      "complete": 17,
+      "money": 18000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "18": {
+    "shop_18": {
+      "name": "Kushikatsu Agechirakashi",
+      "fans": 90,
+      "clock": 19,
+      "league_id": 18,
+      "complete": 18,
+      "money": 40000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "19": {
+    "shop_19": {
+      "name": "SFT Village",
+      "fans": 230,
+      "clock": 20,
+      "league_id": 18,
+      "complete": 19,
+      "money": 84000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "20": {
+    "shop_20": {
+      "name": "Revenge Books",
+      "fans": 200,
+      "clock": 21,
+      "league_id": 18,
+      "complete": 20,
+      "money": 60000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "21": {
+    "shop_21": {
+      "name": "Coffee Kuroki",
+      "fans": 50,
+      "clock": 22,
+      "league_id": 17,
+      "complete": 21,
+      "money": 26000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "22": {
+    "shop_22": {
+      "name": "Original France Takoyaki",
+      "fans": 60,
+      "clock": 23,
+      "league_id": 17,
+      "complete": 22,
+      "money": 19000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "23": {
+    "shop_23": {
+      "name": "Sakatabi",
+      "fans": 70,
+      "clock": 24,
+      "league_id": 17,
+      "complete": 23,
+      "money": 34000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "24": {
+    "shop_24": {
+      "name": "Beyond",
+      "fans": 300,
+      "clock": 25,
+      "league_id": 17,
+      "complete": 24,
+      "money": 120000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "25": {
+    "shop_25": {
+      "name": "Pizzany",
+      "fans": 190,
+      "clock": 26,
+      "league_id": 17,
+      "complete": 25,
+      "money": 75000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "26": {
+    "shop_26": {
+      "name": "Mikuni",
+      "fans": 90,
+      "clock": 27,
+      "league_id": 17,
+      "complete": 26,
+      "money": 68000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "27": {
+    "shop_27": {
+      "name": "Kaen",
+      "fans": 100,
+      "clock": 28,
+      "league_id": 17,
+      "complete": 27,
+      "money": 74000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "28": {
+    "shop_28": {
+      "name": "The Graceful Spyce",
+      "fans": 70,
+      "clock": 29,
+      "league_id": 17,
+      "complete": 28,
+      "money": 28000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "29": {
+    "shop_29": {
+      "name": "Soten Kabuki Theater",
+      "fans": 220,
+      "clock": 30,
+      "league_id": 17,
+      "complete": 29,
+      "money": 90000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "30": {
+    "shop_30": {
+      "name": "Fuguta",
+      "fans": 80,
+      "clock": 31,
+      "league_id": 17,
+      "complete": 30,
+      "money": 45000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "31": {
+    "shop_31": {
+      "name": "Tecchin Fugu",
+      "fans": 80,
+      "clock": 32,
+      "league_id": 16,
+      "complete": 31,
+      "money": 90000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "32": {
+    "shop_32": {
+      "name": "Namidazaka Bar",
+      "fans": 85,
+      "clock": 33,
+      "league_id": 16,
+      "complete": 32,
+      "money": 85000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "33": {
+    "shop_33": {
+      "name": "Sunrise",
+      "fans": 90,
+      "clock": 34,
+      "league_id": 16,
+      "complete": 33,
+      "money": 130000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "34": {
+    "shop_34": {
+      "name": "Golden Yatzan",
+      "fans": 65,
+      "clock": 35,
+      "league_id": 16,
+      "complete": 34,
+      "money": 49000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "35": {
+    "shop_35": {
+      "name": "Soten Bimigai",
+      "fans": 220,
+      "clock": 36,
+      "league_id": 16,
+      "complete": 35,
+      "money": 250000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "36": {
+    "shop_36": {
+      "name": "Horumon-Yaki Tetsuji",
+      "fans": 100,
+      "clock": 37,
+      "league_id": 16,
+      "complete": 36,
+      "money": 120000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "37": {
+    "shop_37": {
+      "name": "Wakaki Restaurant",
+      "fans": 55,
+      "clock": 38,
+      "league_id": 16,
+      "complete": 37,
+      "money": 75000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "38": {
+    "shop_38": {
+      "name": "Kazuna Matsura",
+      "fans": 40,
+      "clock": 39,
+      "league_id": 16,
+      "complete": 38,
+      "money": 59000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "39": {
+    "shop_39": {
+      "name": "Hungry Tom",
+      "fans": 110,
+      "clock": 40,
+      "league_id": 16,
+      "complete": 39,
+      "money": 110000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "40": {
+    "shop_40": {
+      "name": "Okando Bookstore",
+      "fans": 190,
+      "clock": 41,
+      "league_id": 16,
+      "complete": 40,
+      "money": 200000,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "41": {
+    "shop_41": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "42": {
+    "shop_42": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "43": {
+    "shop_43": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "44": {
+    "shop_44": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "45": {
+    "shop_45": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "46": {
+    "shop_46": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "47": {
+    "shop_47": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "48": {
+    "shop_48": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "49": {
+    "shop_49": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "50": {
+    "shop_50": {
+      "fans": 0,
+      "clock": 0,
+      "league_id": 0,
+      "complete": 0,
+      "money": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 12,
+  "COLUMN_COUNT": 21,
+  "TEXT_COUNT": 15,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "shop_name": "1",
+    "owner": "0",
+    "fan_num": "1",
+    "owner_rank": "0",
+    "tex_id": "0",
+    "explanation": "1",
+    "clock": "0",
+    "beginner": "0",
+    "familiar": "0",
+    "regular": "0",
+    "veteran": "0",
+    "master": "0",
+    "cast": "1",
+    "cast_texture": "1",
+    "league_id": "1",
+    "total_sales": "0",
+    "detail": "1",
+    "face": "1",
+    "fever": "1",
+    "league_icon": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "shop_name": 0,
+    "owner": -1,
+    "fan_num": 0,
+    "owner_rank": -1,
+    "tex_id": -1,
+    "explanation": 0,
+    "clock": -1,
+    "beginner": -1,
+    "familiar": -1,
+    "regular": -1,
+    "veteran": -1,
+    "master": -1,
+    "cast": 0,
+    "cast_texture": 1,
+    "league_id": 2,
+    "total_sales": -1,
+    "detail": 2,
+    "face": 1,
+    "fever": 1,
+    "league_icon": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "shop_name": 12,
+    "owner": -1,
+    "fan_num": 2,
+    "owner_rank": -1,
+    "tex_id": -1,
+    "explanation": 12,
+    "clock": -1,
+    "beginner": -1,
+    "familiar": -1,
+    "regular": -1,
+    "veteran": -1,
+    "master": -1,
+    "cast": 12,
+    "cast_texture": 1,
+    "league_id": 0,
+    "total_sales": -1,
+    "detail": 0,
+    "face": 1,
+    "fever": 1,
+    "league_icon": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    15,
+    16,
+    1,
+    13,
+    3,
+    14,
+    6,
+    17,
+    18,
+    19,
+    20
+  ],
+  "0": {
+    "": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "001": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "002": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "003": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "004": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "005": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "006": {
+      "fan_num": 0,
+      "cast_texture": 0,
+      "league_id": 0,
+      "detail": 0,
+      "face": 0,
+      "fever": 0,
+      "league_icon": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "final_match": {
+      "shop_name": "Sotenbori Sunshine",
+      "fan_num": 20000,
+      "explanation": "Le champion du Grand Prix.\r\nIl excelle dans tous les domaines\r\net aucun n'est comparable.",
+      "cast": "Kirara",
+      "cast_texture": 3686,
+      "league_id": 24,
+      "detail": 61,
+      "face": 4511,
+      "fever": 4516,
+      "league_icon": 4796,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "league_01": {
+      "shop_name": "Kineicho Platinum Goddess",
+      "fan_num": 13000,
+      "explanation": "Le champion de la Ligue Millionnaire.\r\nUne équipe d'as, menée par\r\nYua.",
+      "cast": "Yua",
+      "cast_texture": 3705,
+      "league_id": 16,
+      "detail": 62,
+      "face": 4510,
+      "fever": 4515,
+      "league_icon": 4797,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "league_02": {
+      "shop_name": "Kamurocho Divine Queen",
+      "fan_num": 7500,
+      "explanation": "Champion de la Ligue Executive.\r\nUn club de haut niveau réputé\r\npour la qualité de ses services.",
+      "cast": "Shoko",
+      "cast_texture": 3700,
+      "league_id": 17,
+      "detail": 63,
+      "face": 4509,
+      "fever": 4514,
+      "league_icon": 4794,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "league_03": {
+      "shop_name": "Osaka Heaven's Goddess",
+      "fan_num": 4000,
+      "explanation": "Le champion de la Ligue Paradise.\r\nUn club populaire d'Osaka\r\nconnu pour son\r\nambiance énergique.",
+      "cast": "Aika",
+      "cast_texture": 3680,
+      "league_id": 18,
+      "detail": 64,
+      "face": 4508,
+      "fever": 4513,
+      "league_icon": 4798,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "league_04": {
+      "shop_name": "Hiroshima Sweet Goddess",
+      "fan_num": 1500,
+      "explanation": "Le champion de la Ligue Fresh.\r\nUn nouveau club du groupe Kanzaki\r\nqui fait des progrès grâce à\r\nson as, Kana.",
+      "cast": "Kana",
+      "cast_texture": 3685,
+      "league_id": 19,
+      "detail": 65,
+      "face": 4507,
+      "fever": 4512,
+      "league_icon": 4795,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  }
+}

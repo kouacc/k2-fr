@@ -1,0 +1,2170 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 5,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "table": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "table": 9
+  },
+  "columnTypes2": {
+    "": -1,
+    "table": 13
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "message": {
+      "table": {
+        "ROW_COUNT": 123,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 120,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "text": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "text": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "text": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "furigoma_info": {
+            "text": "Lancez les pièces pour savoir qui commence.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "furigoma_info_decide": {
+            "text": "Appuyez sur <Sign:3> pour arrêter les pièces.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "furigoma_more_ho_own_first_move": {
+            "text": "Il y a plus de pions. Vous commencez",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "furigoma_more_tokin_other_first_move": {
+            "text": "Il y a plus de promus. Votre adversaire commence.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "own_first_move": {
+            "text": "Vous commencez",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "own_moving_second": {
+            "text": "Votre adversaire commence.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "waiting_for_turn": {
+            "text": "Attendez que l'ordre des tours soit déterminé.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "ari": {
+            "text": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "nashi": {
+            "text": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "shogi_title_10kyu": {
+            "text": "10e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "shogi_title_9kyu": {
+            "text": "9e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "shogi_title_8kyu": {
+            "text": "8e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "shogi_title_7kyu": {
+            "text": "7e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "shogi_title_6kyu": {
+            "text": "6e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "shogi_title_5kyu": {
+            "text": "5e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "shogi_title_4kyu": {
+            "text": "4e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "shogi_title_3kyu": {
+            "text": "3e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "shogi_title_2kyu": {
+            "text": "2e kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "shogi_title_1kyu": {
+            "text": "1er kyu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "shogi_title_1dan": {
+            "text": "1er Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "21": {
+          "shogi_title_2dan": {
+            "text": "2e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "22": {
+          "shogi_title_3dan": {
+            "text": "3e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "23": {
+          "shogi_title_4dan": {
+            "text": "4e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "24": {
+          "shogi_title_5dan": {
+            "text": "5e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "25": {
+          "shogi_title_6dan": {
+            "text": "6e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "26": {
+          "shogi_title_7dan": {
+            "text": "7e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "27": {
+          "shogi_title_8dan": {
+            "text": "8e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "28": {
+          "shogi_title_9dan": {
+            "text": "9e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "29": {
+          "shogi_title_10dan": {
+            "text": "10e Dan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "30": {
+          "shogi_title_king": {
+            "text": "Roi du shogi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "31": {
+          "shogi_touha_1": {
+            "text": "Défi 1",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "32": {
+          "shogi_touha_2": {
+            "text": "Défi 2",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "33": {
+          "shogi_touha_3": {
+            "text": "Défi 3",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "34": {
+          "shogi_touha_4": {
+            "text": "Défi 4",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "35": {
+          "shogi_touha_5": {
+            "text": "Défi 5",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "36": {
+          "shogi_touha_6": {
+            "text": "Défi 6",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "37": {
+          "shogi_touha_7": {
+            "text": "Défi 7",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "38": {
+          "shogi_touha_8": {
+            "text": "Défi 8",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "39": {
+          "shogi_touha_9": {
+            "text": "Défi 9",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "40": {
+          "shogi_touha_10": {
+            "text": "Défi 10",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "41": {
+          "shogi_touha_final": {
+            "text": "Défi Final",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "42": {
+          "vs_name_kawaguchi": {
+            "text": "Kawaguchi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "43": {
+          "vs_name_saito": {
+            "text": "Saito",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "44": {
+          "vs_name_inoue": {
+            "text": "Inoue",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "45": {
+          "vs_name_yuuki": {
+            "text": "Yuki",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "46": {
+          "vs_name_hyodo": {
+            "text": "Hyodo",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "47": {
+          "vs_name_hayashi": {
+            "text": "Hayashi　",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "48": {
+          "vs_name_onishi": {
+            "text": "Onishi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "49": {
+          "vs_name_yoshida": {
+            "text": "Yoshida",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "50": {
+          "vs_name_utsunomiya": {
+            "text": "Utsunomiya",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "51": {
+          "vs_name_kato": {
+            "text": "Kato",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "52": {
+          "vs_name_hanatani": {
+            "text": "Hanatani",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "53": {
+          "vs_name_kobayashi": {
+            "text": "Kobayashi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "54": {
+          "vs_name_bando": {
+            "text": "Bando",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "55": {
+          "vs_name_kikuchi": {
+            "text": "Kikuchi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "56": {
+          "vs_name_kai": {
+            "text": "Kai",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "57": {
+          "vs_name_inada": {
+            "text": "Inada",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "58": {
+          "vs_name_someya": {
+            "text": "Someya",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 58
+          }
+        },
+        "59": {
+          "vs_name_tsuzi": {
+            "text": "Tsuji　",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 59
+          }
+        },
+        "60": {
+          "vs_name_yano": {
+            "text": "Yano",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 60
+          }
+        },
+        "61": {
+          "vs_name_koshimizu": {
+            "text": "Koshimizu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 61
+          }
+        },
+        "62": {
+          "vs_name_koto": {
+            "text": "Koto",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 62
+          }
+        },
+        "63": {
+          "vs_name_kawakami": {
+            "text": "Kawakami",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 63
+          }
+        },
+        "64": {
+          "vs_name_shiomura": {
+            "text": "Shiomura",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 64
+          }
+        },
+        "65": {
+          "vs_name_iguchi": {
+            "text": "Iguchi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 65
+          }
+        },
+        "66": {
+          "vs_name_ogata": {
+            "text": "Ogata",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 66
+          }
+        },
+        "67": {
+          "vs_name_murakami": {
+            "text": "Murakami",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 67
+          }
+        },
+        "68": {
+          "vs_name_kubota": {
+            "text": "Kubota",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 68
+          }
+        },
+        "69": {
+          "vs_name_iwama": {
+            "text": "Iwama",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 69
+          }
+        },
+        "70": {
+          "vs_name_izumi": {
+            "text": "Izumi　",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 70
+          }
+        },
+        "71": {
+          "vs_name_tsurugami": {
+            "text": "Tsurugami",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 71
+          }
+        },
+        "72": {
+          "vs_name_watanabe": {
+            "text": "Watanabe",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 72
+          }
+        },
+        "73": {
+          "vs_style_capricious_buginner": {
+            "text": "Débutant",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 73
+          }
+        },
+        "74": {
+          "vs_style_positive_unskiller": {
+            "text": "Lent à la détente",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 74
+          }
+        },
+        "75": {
+          "vs_style_slow_defense": {
+            "text": "Défense lente",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 75
+          }
+        },
+        "76": {
+          "vs_style_brute_force": {
+            "text": "Téméraire",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 76
+          }
+        },
+        "77": {
+          "vs_style_weak_balance": {
+            "text": "Équilibré",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 77
+          }
+        },
+        "78": {
+          "vs_style_castle_prioritize": {
+            "text": "Forteresse",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 78
+          }
+        },
+        "79": {
+          "vs_style_central_breakthrough": {
+            "text": "Percée centrale",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 79
+          }
+        },
+        "80": {
+          "vs_style_steady_defense": {
+            "text": "Défensif",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 80
+          }
+        },
+        "81": {
+          "vs_style_occasional_change": {
+            "text": "Souple",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 81
+          }
+        },
+        "82": {
+          "vs_style_long_term_battle": {
+            "text": "Endurant",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 82
+          }
+        },
+        "83": {
+          "vs_style_fickle_power": {
+            "text": "Lunatique",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 83
+          }
+        },
+        "84": {
+          "vs_style_calm_attacker": {
+            "text": "Acharné",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 84
+          }
+        },
+        "85": {
+          "vs_style_positive_use_major_piece": {
+            "text": "Fan des pièces majeures",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 85
+          }
+        },
+        "86": {
+          "vs_style_distinctive_use_rook": {
+            "text": "Fan de tour",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 86
+          }
+        },
+        "87": {
+          "vs_style_middle_balance": {
+            "text": "Équilibré",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 87
+          }
+        },
+        "88": {
+          "vs_style_counterattack": {
+            "text": "Contre-attaque",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 88
+          }
+        },
+        "89": {
+          "vs_style_sharp_rook": {
+            "text": "Fan de tour",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 89
+          }
+        },
+        "90": {
+          "vs_style_capricious_skiller": {
+            "text": "Lunatique",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 90
+          }
+        },
+        "91": {
+          "vs_style_carefully_defense": {
+            "text": "Défensif",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 91
+          }
+        },
+        "92": {
+          "vs_style_superior_rear": {
+            "text": "Cibleur de points faibles",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 92
+          }
+        },
+        "93": {
+          "vs_style_steady_offense_and_defense": {
+            "text": "Équilibré",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 93
+          }
+        },
+        "94": {
+          "vs_style_sterm_attack": {
+            "text": "Fou furieux",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 94
+          }
+        },
+        "95": {
+          "vs_style_established_defense": {
+            "text": "Maître en défense",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 95
+          }
+        },
+        "96": {
+          "vs_style_extensive_strategy": {
+            "text": "Tacticien",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 96
+          }
+        },
+        "97": {
+          "vs_style_no_mistake_ofense_master": {
+            "text": "Maître en attaque",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 97
+          }
+        },
+        "98": {
+          "vs_style_sharp_haste": {
+            "text": "Démon de la vitesse",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 98
+          }
+        },
+        "99": {
+          "vs_style_various_defense": {
+            "text": "Démon de la défense",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 99
+          }
+        },
+        "100": {
+          "vs_style_central_rook_veteran": {
+            "text": "Fan de tour centrale",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 100
+          }
+        },
+        "101": {
+          "vs_style_universal": {
+            "text": "Complet",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 103
+          }
+        },
+        "102": {
+          "vs_style_shogi_devoted_to_life": {
+            "text": "Le shogi c'est la vie",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 101
+          }
+        },
+        "103": {
+          "vs_style_precise_offense": {
+            "text": "Démon de l'attaque",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 102
+          }
+        },
+        "104": {
+          "vs_name_souten_ojisan": {
+            "text": "Vieillard",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 104
+          }
+        },
+        "105": {
+          "shogi_promote_naru": {
+            "text": "Promouvoir",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 105
+          }
+        },
+        "106": {
+          "shogi_promote_naranai": {
+            "text": "Ne pas promouvoir",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 106
+          }
+        },
+        "107": {
+          "shogi_promote_nari_title": {
+            "text": "Promouvoir cette pièce ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 107
+          }
+        },
+        "108": {
+          "use_matta_title": {
+            "text": "Utiliser un retrait ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 108
+          }
+        },
+        "109": {
+          "use_matta_yes": {
+            "text": "Oui",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 109
+          }
+        },
+        "110": {
+          "use_matta_no": {
+            "text": "Non",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 110
+          }
+        },
+        "111": {
+          "cho_matta_title": {
+            "text": "Utiliser un super retrait ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 111
+          }
+        },
+        "112": {
+          "tumi_matta_title": {
+            "text": "Échec et mat. Utiliser un retrait ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 112
+          }
+        },
+        "113": {
+          "timer_disable": {
+            "text": "--:--",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 121
+          }
+        },
+        "114": {
+          "result_taisen_point_title": {
+            "text": "Points de shogi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 113
+          }
+        },
+        "115": {
+          "result_matta_num_title": {
+            "text": "Retraits restants : ${value} x 50",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 114
+          }
+        },
+        "116": {
+          "result_cho_matta_title": {
+            "text": "Super retraits non utilisés",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 115
+          }
+        },
+        "117": {
+          "question_this_player": {
+            "text": "${name}\r\n${kifu}\r\n\r\nAffronter cet adversaire ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 116
+          }
+        },
+        "118": {
+          "result_point": {
+            "text": "${value} pts.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 117
+          }
+        },
+        "119": {
+          "assist_mode": {
+            "text": "Mode Aide",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 118
+          }
+        },
+        "120": {
+          "point_mul": {
+            "text": "x ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 119
+          }
+        },
+        "121": {
+          "ask_best_hand_title": {
+            "text": "Utiliser les bases du shogi ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 120
+          }
+        },
+        "122": {
+          "num_hand": {
+            "text": "Tour : ${num}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 122
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "level": {
+      "table": {
+        "ROW_COUNT": 32,
+        "COLUMN_COUNT": 3,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "alias_id": "1",
+          "level_name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "alias_id": 2,
+          "level_name": 2
+        },
+        "columnTypes2": {
+          "": -1,
+          "alias_id": 0,
+          "level_name": 0
+        },
+        "COLUMN_INDICES": [
+          0,
+          1,
+          2
+        ],
+        "0": {
+          "": {
+            "alias_id": 0,
+            "level_name": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "shogi_king": {
+            "alias_id": 60,
+            "level_name": 30,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "taikyoku_10dan": {
+            "alias_id": 59,
+            "level_name": 29,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "taikyoku_9dan": {
+            "alias_id": 58,
+            "level_name": 28,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "taikyoku_8dan": {
+            "alias_id": 57,
+            "level_name": 27,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "taikyoku_7dan": {
+            "alias_id": 56,
+            "level_name": 26,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "taikyoku_6dan": {
+            "alias_id": 55,
+            "level_name": 25,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "taikyoku_5dan": {
+            "alias_id": 54,
+            "level_name": 24,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "taikyoku_4dan": {
+            "alias_id": 53,
+            "level_name": 23,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "taikyoku_3dan": {
+            "alias_id": 52,
+            "level_name": 22,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "taikyoku_2dan": {
+            "alias_id": 51,
+            "level_name": 21,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "taikyoku_1dan": {
+            "alias_id": 50,
+            "level_name": 20,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "taikyoku_1kyu_2": {
+            "alias_id": 49,
+            "level_name": 19,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "taikyoku_1kyu_1": {
+            "alias_id": 48,
+            "level_name": 19,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "taikyoku_2kyu_2": {
+            "alias_id": 47,
+            "level_name": 18,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "taikyoku_2kyu_1": {
+            "alias_id": 46,
+            "level_name": 18,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "taikyoku_3kyu_2": {
+            "alias_id": 45,
+            "level_name": 17,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "taikyoku_3kyu_1": {
+            "alias_id": 44,
+            "level_name": 17,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "taikyoku_4kyu_2": {
+            "alias_id": 43,
+            "level_name": 16,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "taikyoku_4kyu_1": {
+            "alias_id": 42,
+            "level_name": 16,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "taikyoku_5kyu_2": {
+            "alias_id": 41,
+            "level_name": 15,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "21": {
+          "taikyoku_5kyu_1": {
+            "alias_id": 40,
+            "level_name": 15,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "22": {
+          "taikyoku_6kyu_2": {
+            "alias_id": 39,
+            "level_name": 14,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "23": {
+          "taikyoku_6kyu_1": {
+            "alias_id": 38,
+            "level_name": 14,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "24": {
+          "taikyoku_7kyu_2": {
+            "alias_id": 37,
+            "level_name": 13,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "25": {
+          "taikyoku_7kyu_1": {
+            "alias_id": 36,
+            "level_name": 13,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "26": {
+          "taikyoku_8kyu_2": {
+            "alias_id": 35,
+            "level_name": 12,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "27": {
+          "taikyoku_8kyu_1": {
+            "alias_id": 34,
+            "level_name": 12,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "28": {
+          "taikyoku_9kyu_2": {
+            "alias_id": 33,
+            "level_name": 11,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "29": {
+          "taikyoku_9kyu_1": {
+            "alias_id": 32,
+            "level_name": 11,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "30": {
+          "taikyoku_10kyu_2": {
+            "alias_id": 31,
+            "level_name": 10,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "31": {
+          "taikyoku_10kyu_1": {
+            "alias_id": 30,
+            "level_name": 10,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 31
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "cpu": {
+      "table": {
+        "ROW_COUNT": 47,
+        "COLUMN_COUNT": 10,
+        "TEXT_COUNT": 42,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "mode_alias_id": "1",
+          "level_alias_id": "1",
+          "data_path": "1",
+          "taikyokusya_id": "1",
+          "view_name": "1",
+          "view_level": "1",
+          "view_strategy": "1",
+          "point": "1",
+          "win_alias_id": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "mode_alias_id": 2,
+          "level_alias_id": 2,
+          "data_path": 0,
+          "taikyokusya_id": 0,
+          "view_name": 2,
+          "view_level": 2,
+          "view_strategy": 2,
+          "point": 0,
+          "win_alias_id": 2
+        },
+        "columnTypes2": {
+          "": -1,
+          "mode_alias_id": 0,
+          "level_alias_id": 0,
+          "data_path": 12,
+          "taikyokusya_id": 2,
+          "view_name": 0,
+          "view_level": 0,
+          "view_strategy": 0,
+          "point": 2,
+          "win_alias_id": 0
+        },
+        "COLUMN_INDICES": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "0": {
+          "": {
+            "mode_alias_id": 0,
+            "level_alias_id": 0,
+            "taikyokusya_id": 0,
+            "view_name": 0,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 0,
+            "win_alias_id": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "id_1": {
+            "mode_alias_id": 28,
+            "level_alias_id": 91,
+            "data_path": "data/minigame/shogi/Kyokumen0030.bin",
+            "taikyokusya_id": 30,
+            "view_name": 72,
+            "view_level": 30,
+            "view_strategy": 102,
+            "point": 3000,
+            "win_alias_id": 60,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "id_2": {
+            "mode_alias_id": 28,
+            "level_alias_id": 90,
+            "data_path": "data/minigame/shogi/Kyokumen0029.bin",
+            "taikyokusya_id": 29,
+            "view_name": 71,
+            "view_level": 29,
+            "view_strategy": 101,
+            "point": 2000,
+            "win_alias_id": 59,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "id_3": {
+            "mode_alias_id": 28,
+            "level_alias_id": 89,
+            "data_path": "data/minigame/shogi/Kyokumen0028.bin",
+            "taikyokusya_id": 28,
+            "view_name": 70,
+            "view_level": 28,
+            "view_strategy": 103,
+            "point": 1900,
+            "win_alias_id": 58,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "id_4": {
+            "mode_alias_id": 28,
+            "level_alias_id": 88,
+            "data_path": "data/minigame/shogi/Kyokumen0027.bin",
+            "taikyokusya_id": 27,
+            "view_name": 69,
+            "view_level": 27,
+            "view_strategy": 100,
+            "point": 1800,
+            "win_alias_id": 57,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "id_5": {
+            "mode_alias_id": 28,
+            "level_alias_id": 87,
+            "data_path": "data/minigame/shogi/Kyokumen0026.bin",
+            "taikyokusya_id": 26,
+            "view_name": 68,
+            "view_level": 26,
+            "view_strategy": 99,
+            "point": 1700,
+            "win_alias_id": 56,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "id_6": {
+            "mode_alias_id": 28,
+            "level_alias_id": 86,
+            "data_path": "data/minigame/shogi/Kyokumen0025.bin",
+            "taikyokusya_id": 25,
+            "view_name": 67,
+            "view_level": 25,
+            "view_strategy": 98,
+            "point": 1600,
+            "win_alias_id": 55,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "id_7": {
+            "mode_alias_id": 28,
+            "level_alias_id": 85,
+            "data_path": "data/minigame/shogi/Kyokumen0024.bin",
+            "taikyokusya_id": 24,
+            "view_name": 66,
+            "view_level": 24,
+            "view_strategy": 97,
+            "point": 1500,
+            "win_alias_id": 54,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "id_8": {
+            "mode_alias_id": 28,
+            "level_alias_id": 84,
+            "data_path": "data/minigame/shogi/Kyokumen0023.bin",
+            "taikyokusya_id": 23,
+            "view_name": 65,
+            "view_level": 23,
+            "view_strategy": 96,
+            "point": 1400,
+            "win_alias_id": 53,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "id_9": {
+            "mode_alias_id": 28,
+            "level_alias_id": 83,
+            "data_path": "data/minigame/shogi/Kyokumen0022.bin",
+            "taikyokusya_id": 22,
+            "view_name": 64,
+            "view_level": 22,
+            "view_strategy": 95,
+            "point": 1300,
+            "win_alias_id": 52,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "id_10": {
+            "mode_alias_id": 28,
+            "level_alias_id": 82,
+            "data_path": "data/minigame/shogi/Kyokumen0021.bin",
+            "taikyokusya_id": 21,
+            "view_name": 63,
+            "view_level": 21,
+            "view_strategy": 94,
+            "point": 1200,
+            "win_alias_id": 51,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "id_11": {
+            "mode_alias_id": 28,
+            "level_alias_id": 81,
+            "data_path": "data/minigame/shogi/Kyokumen0020.bin",
+            "taikyokusya_id": 20,
+            "view_name": 62,
+            "view_level": 20,
+            "view_strategy": 93,
+            "point": 1100,
+            "win_alias_id": 50,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "id_12": {
+            "mode_alias_id": 28,
+            "level_alias_id": 80,
+            "data_path": "data/minigame/shogi/Kyokumen0019.bin",
+            "taikyokusya_id": 19,
+            "view_name": 61,
+            "view_level": 19,
+            "view_strategy": 92,
+            "point": 1000,
+            "win_alias_id": 49,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "id_13": {
+            "mode_alias_id": 28,
+            "level_alias_id": 79,
+            "data_path": "data/minigame/shogi/Kyokumen0018.bin",
+            "taikyokusya_id": 18,
+            "view_name": 60,
+            "view_level": 19,
+            "view_strategy": 91,
+            "point": 1000,
+            "win_alias_id": 48,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "id_14": {
+            "mode_alias_id": 28,
+            "level_alias_id": 78,
+            "data_path": "data/minigame/shogi/Kyokumen0017.bin",
+            "taikyokusya_id": 17,
+            "view_name": 59,
+            "view_level": 18,
+            "view_strategy": 90,
+            "point": 900,
+            "win_alias_id": 47,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "id_15": {
+            "mode_alias_id": 28,
+            "level_alias_id": 77,
+            "data_path": "data/minigame/shogi/Kyokumen0016.bin",
+            "taikyokusya_id": 16,
+            "view_name": 58,
+            "view_level": 18,
+            "view_strategy": 89,
+            "point": 900,
+            "win_alias_id": 46,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "id_16": {
+            "mode_alias_id": 28,
+            "level_alias_id": 76,
+            "data_path": "data/minigame/shogi/Kyokumen0015.bin",
+            "taikyokusya_id": 15,
+            "view_name": 57,
+            "view_level": 17,
+            "view_strategy": 88,
+            "point": 800,
+            "win_alias_id": 45,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "id_17": {
+            "mode_alias_id": 28,
+            "level_alias_id": 75,
+            "data_path": "data/minigame/shogi/Kyokumen0014.bin",
+            "taikyokusya_id": 14,
+            "view_name": 56,
+            "view_level": 17,
+            "view_strategy": 87,
+            "point": 800,
+            "win_alias_id": 44,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "id_18": {
+            "mode_alias_id": 28,
+            "level_alias_id": 74,
+            "data_path": "data/minigame/shogi/Kyokumen0013.bin",
+            "taikyokusya_id": 13,
+            "view_name": 55,
+            "view_level": 16,
+            "view_strategy": 86,
+            "point": 700,
+            "win_alias_id": 43,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "id_19": {
+            "mode_alias_id": 28,
+            "level_alias_id": 73,
+            "data_path": "data/minigame/shogi/Kyokumen0012.bin",
+            "taikyokusya_id": 12,
+            "view_name": 54,
+            "view_level": 16,
+            "view_strategy": 85,
+            "point": 700,
+            "win_alias_id": 42,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "id_20": {
+            "mode_alias_id": 28,
+            "level_alias_id": 72,
+            "data_path": "data/minigame/shogi/Kyokumen0011.bin",
+            "taikyokusya_id": 11,
+            "view_name": 53,
+            "view_level": 15,
+            "view_strategy": 84,
+            "point": 600,
+            "win_alias_id": 41,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "21": {
+          "id_21": {
+            "mode_alias_id": 28,
+            "level_alias_id": 71,
+            "data_path": "data/minigame/shogi/Kyokumen0010.bin",
+            "taikyokusya_id": 10,
+            "view_name": 52,
+            "view_level": 15,
+            "view_strategy": 83,
+            "point": 600,
+            "win_alias_id": 40,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "22": {
+          "id_22": {
+            "mode_alias_id": 28,
+            "level_alias_id": 70,
+            "data_path": "data/minigame/shogi/Kyokumen0009.bin",
+            "taikyokusya_id": 9,
+            "view_name": 51,
+            "view_level": 14,
+            "view_strategy": 82,
+            "point": 500,
+            "win_alias_id": 39,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "23": {
+          "id_23": {
+            "mode_alias_id": 28,
+            "level_alias_id": 69,
+            "data_path": "data/minigame/shogi/Kyokumen0008.bin",
+            "taikyokusya_id": 8,
+            "view_name": 50,
+            "view_level": 14,
+            "view_strategy": 81,
+            "point": 500,
+            "win_alias_id": 38,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "24": {
+          "id_24": {
+            "mode_alias_id": 28,
+            "level_alias_id": 68,
+            "data_path": "data/minigame/shogi/Kyokumen0007.bin",
+            "taikyokusya_id": 7,
+            "view_name": 49,
+            "view_level": 13,
+            "view_strategy": 80,
+            "point": 400,
+            "win_alias_id": 37,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "25": {
+          "id_25": {
+            "mode_alias_id": 28,
+            "level_alias_id": 67,
+            "data_path": "data/minigame/shogi/Kyokumen0006.bin",
+            "taikyokusya_id": 6,
+            "view_name": 48,
+            "view_level": 13,
+            "view_strategy": 79,
+            "point": 400,
+            "win_alias_id": 36,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "26": {
+          "id_26": {
+            "mode_alias_id": 28,
+            "level_alias_id": 66,
+            "data_path": "data/minigame/shogi/Kyokumen0005.bin",
+            "taikyokusya_id": 5,
+            "view_name": 47,
+            "view_level": 12,
+            "view_strategy": 78,
+            "point": 300,
+            "win_alias_id": 35,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "27": {
+          "id_27": {
+            "mode_alias_id": 28,
+            "level_alias_id": 65,
+            "data_path": "data/minigame/shogi/Kyokumen0004.bin",
+            "taikyokusya_id": 4,
+            "view_name": 46,
+            "view_level": 12,
+            "view_strategy": 77,
+            "point": 300,
+            "win_alias_id": 34,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "28": {
+          "id_28": {
+            "mode_alias_id": 28,
+            "level_alias_id": 64,
+            "data_path": "data/minigame/shogi/Kyokumen0003.bin",
+            "taikyokusya_id": 3,
+            "view_name": 45,
+            "view_level": 11,
+            "view_strategy": 76,
+            "point": 200,
+            "win_alias_id": 33,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "29": {
+          "id_29": {
+            "mode_alias_id": 28,
+            "level_alias_id": 63,
+            "data_path": "data/minigame/shogi/Kyokumen0002.bin",
+            "taikyokusya_id": 2,
+            "view_name": 44,
+            "view_level": 11,
+            "view_strategy": 75,
+            "point": 200,
+            "win_alias_id": 32,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "30": {
+          "id_30": {
+            "mode_alias_id": 28,
+            "level_alias_id": 62,
+            "data_path": "data/minigame/shogi/Kyokumen0001.bin",
+            "taikyokusya_id": 1,
+            "view_name": 43,
+            "view_level": 10,
+            "view_strategy": 74,
+            "point": 100,
+            "win_alias_id": 31,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "31": {
+          "id_31": {
+            "mode_alias_id": 28,
+            "level_alias_id": 61,
+            "data_path": "data/minigame/shogi/Kyokumen0000.bin",
+            "taikyokusya_id": 0,
+            "view_name": 42,
+            "view_level": 10,
+            "view_strategy": 73,
+            "point": 100,
+            "win_alias_id": 30,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "32": {
+          "id_32": {
+            "mode_alias_id": 28,
+            "level_alias_id": 0,
+            "data_path": "data/minigame/shogi/Kyokumen0020.bin",
+            "taikyokusya_id": 0,
+            "view_name": 42,
+            "view_level": 10,
+            "view_strategy": 73,
+            "point": 0,
+            "win_alias_id": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "33": {
+          "id_33": {
+            "mode_alias_id": 29,
+            "level_alias_id": 103,
+            "data_path": "data/minigame/shogi/touha0000.bin",
+            "taikyokusya_id": 0,
+            "view_name": 31,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 100,
+            "win_alias_id": 92,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "34": {
+          "id_34": {
+            "mode_alias_id": 29,
+            "level_alias_id": 104,
+            "data_path": "data/minigame/shogi/touha0001.bin",
+            "taikyokusya_id": 1,
+            "view_name": 32,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 200,
+            "win_alias_id": 93,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "35": {
+          "id_35": {
+            "mode_alias_id": 29,
+            "level_alias_id": 105,
+            "data_path": "data/minigame/shogi/touha0002.bin",
+            "taikyokusya_id": 2,
+            "view_name": 33,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 300,
+            "win_alias_id": 94,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "36": {
+          "id_36": {
+            "mode_alias_id": 29,
+            "level_alias_id": 106,
+            "data_path": "data/minigame/shogi/touha0003.bin",
+            "taikyokusya_id": 3,
+            "view_name": 34,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 400,
+            "win_alias_id": 95,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "37": {
+          "id_37": {
+            "mode_alias_id": 29,
+            "level_alias_id": 107,
+            "data_path": "data/minigame/shogi/touha0004.bin",
+            "taikyokusya_id": 4,
+            "view_name": 35,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 500,
+            "win_alias_id": 96,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "38": {
+          "id_38": {
+            "mode_alias_id": 29,
+            "level_alias_id": 108,
+            "data_path": "data/minigame/shogi/touha0005.bin",
+            "taikyokusya_id": 5,
+            "view_name": 36,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 600,
+            "win_alias_id": 97,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "39": {
+          "id_39": {
+            "mode_alias_id": 29,
+            "level_alias_id": 109,
+            "data_path": "data/minigame/shogi/touha0006.bin",
+            "taikyokusya_id": 6,
+            "view_name": 37,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 700,
+            "win_alias_id": 98,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "40": {
+          "id_40": {
+            "mode_alias_id": 29,
+            "level_alias_id": 110,
+            "data_path": "data/minigame/shogi/touha0007.bin",
+            "taikyokusya_id": 7,
+            "view_name": 38,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 800,
+            "win_alias_id": 99,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "41": {
+          "id_41": {
+            "mode_alias_id": 29,
+            "level_alias_id": 111,
+            "data_path": "data/minigame/shogi/touha0008.bin",
+            "taikyokusya_id": 8,
+            "view_name": 39,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 900,
+            "win_alias_id": 100,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "42": {
+          "id_42": {
+            "mode_alias_id": 29,
+            "level_alias_id": 112,
+            "data_path": "data/minigame/shogi/touha0009.bin",
+            "taikyokusya_id": 9,
+            "view_name": 40,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 1000,
+            "win_alias_id": 101,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "43": {
+          "id_43": {
+            "mode_alias_id": 29,
+            "level_alias_id": 113,
+            "data_path": "data/minigame/shogi/touha0010.bin",
+            "taikyokusya_id": 10,
+            "view_name": 41,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 0,
+            "win_alias_id": 102,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "44": {
+          "id_44": {
+            "mode_alias_id": 29,
+            "level_alias_id": 0,
+            "data_path": "data/minigame/shogi/touha0000.bin",
+            "taikyokusya_id": 0,
+            "view_name": 31,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 0,
+            "win_alias_id": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "45": {
+          "id_45": {
+            "mode_alias_id": 0,
+            "level_alias_id": 164,
+            "data_path": "data/minigame/shogi/Kyokumen0005.bin",
+            "taikyokusya_id": 5,
+            "view_name": 47,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 100,
+            "win_alias_id": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "46": {
+          "id_46": {
+            "mode_alias_id": 0,
+            "level_alias_id": 165,
+            "data_path": "data/minigame/shogi/Kyokumen0001.bin",
+            "taikyokusya_id": 1,
+            "view_name": 43,
+            "view_level": 0,
+            "view_strategy": 0,
+            "point": 300,
+            "win_alias_id": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 46
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "asset": {
+      "table": {
+        "ROW_COUNT": 16,
+        "COLUMN_COUNT": 3,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "asset_id": "1",
+          "make_num": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "asset_id": 1,
+          "make_num": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "asset_id": 1,
+          "make_num": 2
+        },
+        "COLUMN_INDICES": [
+          0,
+          1,
+          2
+        ],
+        "0": {
+          "": {
+            "asset_id": 0,
+            "make_num": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "board": {
+            "asset_id": 2326,
+            "make_num": 1,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hu": {
+            "asset_id": 2327,
+            "make_num": 20,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "kyosha": {
+            "asset_id": 2328,
+            "make_num": 5,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "kema": {
+            "asset_id": 2329,
+            "make_num": 5,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "gin": {
+            "asset_id": 2330,
+            "make_num": 5,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "kin": {
+            "asset_id": 2331,
+            "make_num": 5,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "kaku": {
+            "asset_id": 2332,
+            "make_num": 3,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "hisya": {
+            "asset_id": 2333,
+            "make_num": 3,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "osho": {
+            "asset_id": 2334,
+            "make_num": 2,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "gyokusho": {
+            "asset_id": 2335,
+            "make_num": 2,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "mask": {
+            "asset_id": 2336,
+            "make_num": 83,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "mask_enemy": {
+            "asset_id": 2337,
+            "make_num": 15,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "furigoma": {
+            "asset_id": 2327,
+            "make_num": 5,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "mask_best_hand": {
+            "asset_id": 3449,
+            "make_num": 2,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "mask_not_for_self_koma": {
+            "asset_id": 3469,
+            "make_num": 8,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  }
+}

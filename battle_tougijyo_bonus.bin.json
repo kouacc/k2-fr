@@ -1,0 +1,395 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 24,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 23,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "message": "1",
+    "active_flag": "1",
+    "base_point": "1",
+    "muscle_point": "1",
+    "quickness_point": "1",
+    "guts_point": "1",
+    "technique_point": "1",
+    "charm_point": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": 0,
+    "active_flag": 6,
+    "base_point": 0,
+    "muscle_point": 0,
+    "quickness_point": 0,
+    "guts_point": 0,
+    "technique_point": 0,
+    "charm_point": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "message": 12,
+    "active_flag": 11,
+    "base_point": 2,
+    "muscle_point": 2,
+    "quickness_point": 2,
+    "guts_point": 2,
+    "technique_point": 2,
+    "charm_point": 2
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "0": {
+    "": {
+      "active_flag": "0",
+      "base_point": 0,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "hact_use": {
+      "message": "Action Heat",
+      "active_flag": "1",
+      "base_point": 100,
+      "muscle_point": 1,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "2": {
+    "hact_finish": {
+      "message": "Finisseur Heat",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 1,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "3": {
+    "dragon_mode": {
+      "message": "Mode ultime",
+      "active_flag": "1",
+      "base_point": 100,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 1,
+      "technique_point": 0,
+      "charm_point": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "4": {
+    "dragon_finish": {
+      "message": "Finisseur ultime",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "5": {
+    "guard_break": {
+      "message": "Brise-garde",
+      "active_flag": "1",
+      "base_point": 300,
+      "muscle_point": 1,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "6": {
+    "speed_star": {
+      "message": "Rapide",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 0,
+      "quickness_point": 1,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "7": {
+    "appeal": {
+      "message": "Provoc",
+      "active_flag": "1",
+      "base_point": 100,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "8": {
+    "first_attack": {
+      "message": "Attaque préventive",
+      "active_flag": "1",
+      "base_point": 300,
+      "muscle_point": 0,
+      "quickness_point": 1,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "9": {
+    "throw": {
+      "message": "Lancer",
+      "active_flag": "1",
+      "base_point": 300,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 1,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "10": {
+    "counter": {
+      "message": "Lutte des tigres",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 1,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "11": {
+    "no_damage": {
+      "message": "Intouchable",
+      "active_flag": "1",
+      "base_point": 10000,
+      "muscle_point": 0,
+      "quickness_point": 3,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "12": {
+    "no_down": {
+      "message": "Indomptable",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 0,
+      "quickness_point": 1,
+      "guts_point": 0,
+      "technique_point": 3,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "tiger_killer": {
+      "message": "Tueur de tigres",
+      "active_flag": "1",
+      "base_point": 10000,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 3,
+      "technique_point": 0,
+      "charm_point": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "14": {
+    "mammoth_killer": {
+      "message": "Tueur d'éléphants",
+      "active_flag": "1",
+      "base_point": 1,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "15": {
+    "first_win": {
+      "message": "Première victoire en tournoi",
+      "active_flag": "1",
+      "base_point": 20000,
+      "muscle_point": 2,
+      "quickness_point": 2,
+      "guts_point": 7,
+      "technique_point": 2,
+      "charm_point": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "16": {
+    "charge_attack": {
+      "message": "Attaque chargée",
+      "active_flag": "1",
+      "base_point": 300,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 1,
+      "technique_point": 1,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "17": {
+    "match_win": {
+      "message": "Victoire du tournoi",
+      "active_flag": "1",
+      "base_point": 10000,
+      "muscle_point": 1,
+      "quickness_point": 1,
+      "guts_point": 4,
+      "technique_point": 1,
+      "charm_point": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "18": {
+    "final_match": {
+      "message": "Vers la finale",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 3,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "19": {
+    "lose": {
+      "message": "Défaite",
+      "active_flag": "1",
+      "base_point": 0,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 1,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "20": {
+    "sway_success": {
+      "message": "Feinte",
+      "active_flag": "1",
+      "base_point": 1000,
+      "muscle_point": 0,
+      "quickness_point": 1,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "21": {
+    "chickenplay": {
+      "message": "Lâche",
+      "active_flag": "1",
+      "base_point": 0,
+      "muscle_point": 0,
+      "quickness_point": 1,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "22": {
+    "legend_killer": {
+      "message": "Tueur de légendes",
+      "active_flag": "1",
+      "base_point": 10000,
+      "muscle_point": 3,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "23": {
+    "legend_appeal": {
+      "message": "Rugissement de la foule",
+      "active_flag": "1",
+      "base_point": 10000,
+      "muscle_point": 0,
+      "quickness_point": 0,
+      "guts_point": 0,
+      "technique_point": 0,
+      "charm_point": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  }
+}

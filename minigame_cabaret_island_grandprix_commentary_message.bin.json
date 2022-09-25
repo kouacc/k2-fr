@@ -1,0 +1,790 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 61,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 116,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "commentary_id": "1",
+    "message": "0",
+    "voice_label": "1",
+    "message_iso": "1",
+    "message_kamiya": "0",
+    "message_majima": "1",
+    "icon_iso": "1",
+    "icon_majima": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "commentary_id": 2,
+    "message": -1,
+    "voice_label": 2,
+    "message_iso": 0,
+    "message_kamiya": -1,
+    "message_majima": 0,
+    "icon_iso": 1,
+    "icon_majima": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "commentary_id": 0,
+    "message": -1,
+    "voice_label": 0,
+    "message_iso": 12,
+    "message_kamiya": -1,
+    "message_majima": 12,
+    "icon_iso": 1,
+    "icon_majima": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    5,
+    3,
+    4,
+    6,
+    7,
+    8
+  ],
+  "0": {
+    "": {
+      "commentary_id": 0,
+      "voice_label": 0,
+      "icon_iso": 0,
+      "icon_majima": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "commentary_01": {
+      "commentary_id": 17,
+      "voice_label": 1,
+      "message_iso": "Que la bataille des cabarets commence !",
+      "message_majima": "Très bien ! Que la bataille commence !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "commentary_02": {
+      "commentary_id": 17,
+      "voice_label": 2,
+      "message_iso": "Le coup de feu proverbial a été tiré !",
+      "message_majima": "La bataille commence avec un bang !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "commentary_03": {
+      "commentary_id": 17,
+      "voice_label": 3,
+      "message_iso": "Un nouveau champion naîtra-t-il ce jour-ci !?",
+      "message_majima": "On va voir un nouveau champion ici, ou quoi !?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "commentary_04": {
+      "commentary_id": 17,
+      "voice_label": 4,
+      "message_iso": "C'est une bataille au sommet !\r\nQui sortira victorieux !?",
+      "message_majima": "Une bataille à mort au sommet !\r\nQui va gagner ?",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "commentary_05": {
+      "commentary_id": 1,
+      "voice_label": 5,
+      "message_iso": "On a franchi le cap de la minute !",
+      "message_majima": "La première minute est passée !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "commentary_06": {
+      "commentary_id": 1,
+      "voice_label": 6,
+      "message_iso": "Une minute écoulée, que se passera-t-il ensuite ?",
+      "message_majima": "Une minute s'est écoulée, alors qu'est-ce qui se passe ici !?",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "commentary_07": {
+      "commentary_id": 2,
+      "voice_label": 7,
+      "message_iso": "Deux minutes se sont écoulées !",
+      "message_majima": "Deux minutes se sont écoulées !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "commentary_08": {
+      "commentary_id": 2,
+      "voice_label": 8,
+      "message_iso": "Les deux minutes sont écoulées, mais ne\r\nbaissez pas encore la garde !",
+      "message_majima": "Les deux minutes sont écoulées, mais ce n'est\r\npas une excuse pour se relâcher !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "commentary_09": {
+      "commentary_id": 18,
+      "voice_label": 9,
+      "message_iso": "Il ne reste plus beaucoup de temps !",
+      "message_majima": "C'est le moment ou jamais !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "commentary_10": {
+      "commentary_id": 18,
+      "voice_label": 10,
+      "message_iso": "Il ne reste plus beaucoup de temps !\r\nVoyons un dernier rebondissement !",
+      "message_majima": "Le temps est presque écoulé !\r\nIl est temps de se décider ou de se taire !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "commentary_11": {
+      "commentary_id": 19,
+      "voice_label": 11,
+      "message_iso": "C'est l'heure !",
+      "message_majima": "C'est l'heure, les gens !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "commentary_12": {
+      "commentary_id": 31,
+      "voice_label": 12,
+      "message_iso": "Et voilà !\r\nOn passe aux chiffres !?",
+      "message_majima": "C'est fait !\r\nQui va gagner !?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "commentary_13": {
+      "commentary_id": 3,
+      "voice_label": 13,
+      "message_iso": "Les ventes de Four Shine ont dépassé les 500k !",
+      "message_majima": "Four Shine vient de dépasser les 500k !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "commentary_14": {
+      "commentary_id": 4,
+      "voice_label": 14,
+      "message_iso": "C'est la marque du million pour Four Shine !",
+      "message_majima": "Il y a un million à la banque\r\npour Four Shine !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "commentary_15": {
+      "commentary_id": 5,
+      "voice_label": 15,
+      "message_iso": "Four Shine a récolté cinq millions !",
+      "message_majima": "Four Shine a atteint les cinq millions !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "commentary_16": {
+      "commentary_id": 21,
+      "voice_label": 16,
+      "message_iso": "Les ventes de Four Shine dépassent les bornes !",
+      "message_majima": "Four Shine fait pleuvoir de l'argent !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "commentary_17": {
+      "commentary_id": 21,
+      "voice_label": 17,
+      "message_iso": "Les ventes de Four Shine sont impressionnantes !\r\nJusqu'où peuvent-elles aller ?",
+      "message_majima": "Les ventes de Four Shine sont une vraie affaire !\r\nBien joué, Kiryu-chan !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "commentary_18": {
+      "commentary_id": 22,
+      "voice_label": 18,
+      "message_iso": "Les ventes de Four Shine sont massives !\r\nLe personnel est vraiment engagé ! ",
+      "message_majima": "Les ventes de Four Shine sont hors\r\nnormes ! Quelle équipe !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "commentary_19": {
+      "commentary_id": 23,
+      "voice_label": 19,
+      "message_iso": "Les ventes de Four Shine atteignent de nouveaux\r\nsommets !",
+      "message_majima": "Les ventes de Four Shine sont folles !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "commentary_20": {
+      "commentary_id": 23,
+      "voice_label": 20,
+      "message_iso": "Ces ventes sont scandaleusement élevées !\r\nC'est une véritable hospitalité !",
+      "message_majima": "Je ne savais pas que les chiffres étaient si élevés !\r\nLe dîner est pour toi, Kiryu-chan !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "commentary_21": {
+      "commentary_id": 23,
+      "voice_label": 21,
+      "message_iso": "Quelles ventes incroyables !\r\nEst-ce la vraie force de Four Shine !?",
+      "message_majima": "Ces ventes, putain de merde !\r\nFour Shine est devenu une supernova !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "commentary_22": {
+      "commentary_id": 6,
+      "voice_label": 22,
+      "message_iso": "Le manager apporte son soutien à ses\r\nfilles !",
+      "message_majima": "Kiryu-chan sait ce qu'est le soutien !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "commentary_23": {
+      "commentary_id": 6,
+      "voice_label": 23,
+      "message_iso": "Une relance désinvolte venant du manager de Four Shine !",
+      "message_majima": "Regardez cette attitude de manager !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "commentary_24": {
+      "commentary_id": 24,
+      "voice_label": 24,
+      "message_iso": "Il n'a pas raté une miette de ce problème !",
+      "message_majima": "Kiryu sait comment résoudre les problèmes\r\npour payer les factures !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "commentary_25": {
+      "commentary_id": 24,
+      "voice_label": 25,
+      "message_iso": "Le manager fait tout son possible pour ses filles !",
+      "message_majima": "On a un vrai manager ici !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "commentary_26": {
+      "commentary_id": 7,
+      "voice_label": 26,
+      "message_iso": "Oh-oh ! Il a loupé la ligne, là.",
+      "message_majima": "Hey, garde un oeil sur les filles, \r\nmanager !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "commentary_27": {
+      "commentary_id": 7,
+      "voice_label": 27,
+      "message_iso": "Oh non, maintenant il a empiré les choses...",
+      "message_majima": "Ooh, maintenant tu l'as fait !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "commentary_28": {
+      "commentary_id": 25,
+      "voice_label": 28,
+      "message_iso": "Le manager n'a pas pu résoudre ce problème.",
+      "message_majima": "Kiryu n'a pas pu résoudre le problème !\r\nReprends-toi !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "commentary_29": {
+      "commentary_id": 25,
+      "voice_label": 29,
+      "message_iso": "Le manager retient-il le personnel !?",
+      "message_majima": "Ce manager entraîne toute l'équipe dans\r\nsa chute !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "commentary_30": {
+      "commentary_id": 8,
+      "voice_label": 30,
+      "message_iso": "Four Shine atteint le Fever Time !",
+      "message_majima": "Four Shine atteint le Fever Time !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "commentary_31": {
+      "commentary_id": 8,
+      "voice_label": 31,
+      "message_iso": "Il semble que Four Shine soit sur l'offensive !",
+      "message_majima": "Four Shine se donne à fond !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "commentary_32": {
+      "commentary_id": 8,
+      "voice_label": 32,
+      "message_iso": "Four Shine ! Inarrêtable !",
+      "message_majima": "Four Shine ! Trop fort !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "commentary_33": {
+      "commentary_id": 9,
+      "voice_label": 33,
+      "message_iso": "Ce client est-il parti en colère !?",
+      "message_majima": "Est-ce que cet idiot vient de sortir en trombe !?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "commentary_34": {
+      "commentary_id": 9,
+      "voice_label": 34,
+      "message_iso": "Le client s'est fâché et est parti !\r\nUne déception !",
+      "message_majima": "Ce client est parti en colère !\r\nQuel connard !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "commentary_35": {
+      "commentary_id": 9,
+      "voice_label": 35,
+      "message_iso": "Le client est parti ! N'était-il pas impressionné ?",
+      "message_majima": "Le client t'a lâché !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "commentary_36": {
+      "commentary_id": 26,
+      "voice_label": 36,
+      "message_iso": "Oh, que se passe-t-il ici ?",
+      "message_majima": "Hé, c'est quoi tout ça ?",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "commentary_37": {
+      "commentary_id": 26,
+      "voice_label": 37,
+      "message_iso": "Quelque chose semble bizarre.",
+      "message_majima": "Quelque chose d'étrange se passe ?",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "commentary_38": {
+      "commentary_id": 27,
+      "voice_label": 38,
+      "message_iso": "Hm ? Il semble que la dame ait besoin d'aide !",
+      "message_majima": "Eh ? Cette fille appelle son manager !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "commentary_39": {
+      "commentary_id": 11,
+      "voice_label": 39,
+      "message_iso": "Oh là là ! Ce client est un homme de moyens !",
+      "message_majima": "Oh putain ! On a un vrai tombeur ici !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "commentary_40": {
+      "commentary_id": 11,
+      "voice_label": 40,
+      "message_iso": "Incroyable ! Four Shine a un client méga-riche\r\ndans la place !",
+      "message_majima": "Oh merde ! Ce mec doit gagner\r\nbeaucoup d'argent !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "commentary_41": {
+      "commentary_id": 11,
+      "voice_label": 41,
+      "message_iso": "Quel genre de service Four Shine peut-il offrir !?",
+      "message_majima": "Ce type a de l'argent à dépenser !\r\nFour Shine, prenez-lui la main !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "commentary_42": {
+      "commentary_id": 28,
+      "voice_label": 42,
+      "message_iso": "Kana fait grimper les ventes ! Quelle star\r\nprometteuse !",
+      "message_majima": "Kana fait grimper les ventes !\r\nQuelle star prometteuse !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "commentary_43": {
+      "commentary_id": 28,
+      "voice_label": 43,
+      "message_iso": "Kana passe à l'offensive ! Pouvez-vous persévérer,\r\nFour Shine !?",
+      "message_majima": "Kana est passée à l'offensive !\r\nPouvez-vous persévérer, Four Shine !?",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "commentary_44": {
+      "commentary_id": 12,
+      "voice_label": 44,
+      "message_iso": "Kana sort du lot !\r\nLes ventes sont en hausse !",
+      "message_majima": "Kana sort du lot !\r\nLes ventes sont en hausse !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "commentary_45": {
+      "commentary_id": 28,
+      "voice_label": 45,
+      "message_iso": "Aika fait vraiment de son mieux !\r\nQuelle partie excitante !",
+      "message_majima": "Aika fait vraiment de son mieux !\r\nQuelle partie excitante !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "commentary_46": {
+      "commentary_id": 13,
+      "voice_label": 46,
+      "message_iso": "Aika est vraiment sur la bonne voie ! Est-ce que\r\nFour Shine va s'envoler !?",
+      "message_majima": "Aika est vraiment sur la bonne voie ! Est-ce que\r\nFour Shine va s'envoler !?",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "commentary_47": {
+      "commentary_id": 28,
+      "voice_label": 47,
+      "message_iso": "La fête a vraiment commencé ! C'est Aika au meilleur\r\nde sa forme !",
+      "message_majima": "La fête a vraiment commencé ! C'est Aika au meilleur\r\nde sa forme !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "commentary_48": {
+      "commentary_id": 13,
+      "voice_label": 48,
+      "message_iso": "Que s'est-il passé !? Four Shine est soudainement\r\nfatigué !?",
+      "message_majima": "Eh !? Four Shine a l'air fatigué là-bas !",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "commentary_49": {
+      "commentary_id": 14,
+      "voice_label": 49,
+      "message_iso": "Shoko est la perfection là-bas ! Est-ce que Four Shine\r\npeut se rétablir ?",
+      "message_majima": "Shoko est la perfection là-bas ! Est-ce que Four Shine\r\npeut se rétablir ?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "commentary_50": {
+      "commentary_id": 14,
+      "voice_label": 50,
+      "message_iso": "Shoko échafaude un plan !? Le sourire impeccable\r\nde la Reine Parfaite !",
+      "message_majima": "Shoko échafaude un plan !? Le sourire impeccable\r\nde la Reine Parfaite !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "commentary_51": {
+      "commentary_id": 15,
+      "voice_label": 51,
+      "message_iso": "Hm ? Les filles de Four Shine n'ont pas l'air très\r\nbien ici.",
+      "message_majima": "Eh ? Qu'est-ce qui se passe avec les filles de Four\r\nShine ?",
+      "icon_iso": 4518,
+      "icon_majima": 4715,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "commentary_52": {
+      "commentary_id": 15,
+      "voice_label": 52,
+      "message_iso": "Yua se bat comme une vraie idole ! Vous devez persévérer,\r\nFour Shine !",
+      "message_majima": "Yua sort ses pouvoirs d'idole !\r\nMettez-vous à l'abri maintenant, Four Shine !",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "commentary_53": {
+      "commentary_id": 15,
+      "voice_label": 53,
+      "message_iso": "Yua se surpasse ! Est-ce que c'est difficile de suivre,\r\nFour Shine ?",
+      "message_majima": "Yua est une force avec laquelle il faut compter !\r\nVous allez bien, Four Shine !?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "commentary_54": {
+      "commentary_id": 16,
+      "voice_label": 54,
+      "message_iso": "Les clients de Four Shine sont partis !\r\nQu'est-ce que ça veut dire ?",
+      "message_majima": "Tous les clients ont disparu !\r\nN'est-ce pas le pire !?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "commentary_55": {
+      "commentary_id": 16,
+      "voice_label": 55,
+      "message_iso": "Kirara est en train d'attaquer ! Est-ce que Four Shine\r\nva s'en sortir ?",
+      "message_majima": "Kirara est en train d'attaquer ! Est-ce que Four Shine\r\nva s'en sortir ?",
+      "icon_iso": 4519,
+      "icon_majima": 4716,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "commentary_56": {
+      "commentary_id": 16,
+      "voice_label": 56,
+      "message_iso": "Kirara a porté un coup à Four Shine ! Peuvent-ils\r\ns'en remettre !?",
+      "message_majima": "Kirara a porté un coup à Four Shine ! Peuvent-ils\r\ns'en remettre !?",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "commentary_57": {
+      "commentary_id": 20,
+      "voice_label": 57,
+      "message_iso": "Four Shine ! Êtes-vous emporté par\r\nvotre rival !?",
+      "message_majima": "Four Shine ! Êtes-vous emporté par\r\nvotre rival !?",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "commentary_58": {
+      "commentary_id": 20,
+      "voice_label": 58,
+      "message_iso": "Four Shine prend un coup de\r\nl'interférence rivale !",
+      "message_majima": "Four Shine prend un coup de\r\nl'interférence rival !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "commentary_59": {
+      "commentary_id": 20,
+      "voice_label": 59,
+      "message_iso": "Les clients sont soudainement partis !?\r\nQuel coup dur pour Four Shine !",
+      "message_majima": "Les clients sont tous partis !?\r\nFour Shine doit être mal en point ici !",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "commentary_60": {
+      "commentary_id": 20,
+      "voice_label": 60,
+      "message_iso": "Interférence rivale ! Comment allez-vous\r\nréagir, Four Shine ?",
+      "message_majima": "Interférence rivale !\r\nVous allez prendre ça, Four Shine !?",
+      "icon_iso": 4520,
+      "icon_majima": 4717,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  }
+}

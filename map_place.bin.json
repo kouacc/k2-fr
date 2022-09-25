@@ -1,0 +1,4403 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 515,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 242,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "explanation": "1",
+    "picture": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "explanation": 0,
+    "picture": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "explanation": 12,
+    "picture": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "0": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "k_poppo_t": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "k_smileburger": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "k_tenkaichidori": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "k_tenkaichidori_ura": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "k_akaushi_h": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "k_akaushi_t": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "k_alps": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "k_bantam": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "k_cafe01": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "k_fujisoba": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "k_gindaco": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "k_hanrai": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "k_ichibanboshi": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "k_ikinari_steak": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "k_M_SIDE_CAFE": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "k_osaka_ohsho": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "k_ringerhut": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "k_smileburgar": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "k_sushigin": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "k_sushizanmai": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "k_wettekitchen_tw": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "k_wildjackson_g": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "k_wildjackson_me": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "k_wildjackson_t": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "k_yoronotaki": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "k_donki": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "k_ebisuya": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "k_poppo_7e": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "k_poppo_7w": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "k_poppo_s": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "o_juumangoku": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "o_kakikoya": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "o_La_Pente": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "o_yonetoku": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "o_otafukuya": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "o_nagiyakkyoku": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "o_poke_tofuya": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "o_yamaneko": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "k_taxi_tenkairi": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "k_taxi_pinkiri": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "k_taxi_shichifukunishi": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "k_taxi_taiherihigashi": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "st_h_geihinkan_1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "st_h_geihinkan_2f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "st_h_geihinkan_3f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "st_h_geihinkan_4f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "st_h_geihinkan_5f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "k_street_gekijohokusei": {
+      "name": "Theater Square NO",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "49": {
+    "k_street_gekijomae": {
+      "name": "Theater Ave.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "50": {
+    "k_street_gekijomaehiroba": {
+      "name": "Theater Square",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "51": {
+    "k_street_gekijomaehirobaura": {
+      "name": "Theater Alley",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "52": {
+    "k_street_hotel": {
+      "name": "Hotel District",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 355
+    }
+  },
+  "53": {
+    "k_street_mtowerhigashi": {
+      "name": "Millennium Tower St. E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "54": {
+    "k_street_nakamichi": {
+      "name": "Nakamichi St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "55": {
+    "k_street_nakamichiura": {
+      "name": "Nakamichi Alley",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "56": {
+    "k_street_pink": {
+      "name": "Pink St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "57": {
+    "k_street_pinkkita": {
+      "name": "Pink St. N",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "58": {
+    "k_street_pinkura": {
+      "name": "Pink Alley",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "59": {
+    "k_street_senryo": {
+      "name": "Senryo Ave.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "60": {
+    "k_street_senryokita": {
+      "name": "Senryo Ave. N",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "61": {
+    "k_street_serenaura": {
+      "name": "Serena Alley",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "62": {
+    "k_street_shitifuku": {
+      "name": "Shichifuku St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "63": {
+    "k_street_shitifukuhigashi": {
+      "name": "Shichifuku St. E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "64": {
+    "k_street_shitifukunishi": {
+      "name": "Shichifuku St. O",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "65": {
+    "k_street_showa": {
+      "name": "Showa St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "66": {
+    "k_street_showahigashi": {
+      "name": "Showa St. E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "67": {
+    "k_street_showanishi": {
+      "name": "Showa St. O",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "68": {
+    "k_street_suppon": {
+      "name": "Suppon St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "69": {
+    "k_street_taihei": {
+      "name": "Taihei Blvd.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "70": {
+    "k_street_taiheihigashi": {
+      "name": "Taihei Blvd. E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "71": {
+    "k_street_taiheinishi": {
+      "name": "Taihei Blvd. O",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 433
+    }
+  },
+  "72": {
+    "k_street_tenka": {
+      "name": "Tenkaichi St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "73": {
+    "k_street_tenkaura": {
+      "name": "Tenkaichi Alley",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "74": {
+    "k_smileburgar_g": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "k_QUADRA_GARDEN": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "76": {
+    "k_rizap": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "k_yamishonin": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "o_yamishonin": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "k_playspot_karaokekan": {
+      "name": "Karaokekan",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "80": {
+    "k_playspot_caba": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "k_playspot_DARTSLIVE_bantam": {
+      "name": "DARTSLIVE (Bantam)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "82": {
+    "k_playspot_mahjong_lullaby": {
+      "name": "Lullaby Mahjong",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "83": {
+    "k_playspot_nekocafe": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "84": {
+    "k_playspot_batting": {
+      "name": "Yoshida Batting Center",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "85": {
+    "k_playspot_DARTSLIVE_sega": {
+      "name": "DARTSLIVE (Club SEGA Theater Square)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "86": {
+    "k_playspot_mahjong_kindai": {
+      "name": "Modern Mahjong",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "87": {
+    "k_playspot_rizap": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "88": {
+    "k_playspot_sega_nakamichi": {
+      "name": "Club SEGA (Nakamichi St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "89": {
+    "k_playspot_sega_gekijomae": {
+      "name": "Club SEGA (Theater Square)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "90": {
+    "k_playspot_livechat1": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "91": {
+    "k_playspot_livechat2": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "92": {
+    "k_playspot_livechat3": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "93": {
+    "o_playspot_osonae": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "94": {
+    "o_playspot_omikuji": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "95": {
+    "o_playspot_osaisen": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "96": {
+    "o_playspot_sandlot": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "97": {
+    "o_playspot_snack": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "98": {
+    "o_playspot_skindiving": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "99": {
+    "k_street_china": {
+      "name": "Little Asia",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "100": {
+    "k_street_nakamichiiriguchi": {
+      "name": "Entrée de Nakamichi St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "101": {
+    "k_street_pinkiriguchi": {
+      "name": "Entrée de Pink St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "102": {
+    "k_street_tenkairiguchi": {
+      "name": "Entrée de Tenkaichi Street ",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "103": {
+    "o_street_001": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "104": {
+    "o_street_002": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "105": {
+    "o_street_003": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "106": {
+    "o_street_004": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "107": {
+    "o_street_005": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "108": {
+    "o_street_006": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "109": {
+    "o_street_007": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "110": {
+    "o_street_008": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "111": {
+    "o_street_009": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "112": {
+    "o_street_010": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "113": {
+    "o_street_011": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "114": {
+    "o_street_012": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "115": {
+    "o_street_013": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "116": {
+    "o_street_014": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "117": {
+    "o_street_015": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "118": {
+    "o_street_016": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "119": {
+    "o_street_017": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "120": {
+    "o_street_018": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "121": {
+    "o_street_019": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "122": {
+    "o_street_020": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "123": {
+    "o_taxi_001": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "124": {
+    "o_taxi_002": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "125": {
+    "o_taxi_003": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "126": {
+    "o_seaside_ajito_1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "127": {
+    "o_seaside_ajito_2f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "128": {
+    "o_snack_kiyomi": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "129": {
+    "o_hirose_1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "130": {
+    "o_hirose_2f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "131": {
+    "k_street_senryomae": {
+      "name": "Entrée de Senryo Ave.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "132": {
+    "k_building_mtowerb1": {
+      "name": "Millennium Tower B1",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "133": {
+    "k_building_kamurot1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "134": {
+    "k_building_apa1f": {
+      "name": "APA Hotel Theater Square RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "135": {
+    "k_building_apa2f": {
+      "name": "APA Hotel Theater Square 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "136": {
+    "k_building_haireru_tenka1F": {
+      "name": "Premier bâtiment de Tenkaichi RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "137": {
+    "k_building_haireru_tenka2F": {
+      "name": "Premier bâtiment de Tenkaichi 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "138": {
+    "k_building_haireru_tenka3F": {
+      "name": "Premier bâtiment de Tenkaichi 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "139": {
+    "k_building_haireru_tenka4F": {
+      "name": "Premier bâtiment de Tenkaichi 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "140": {
+    "k_building_serena": {
+      "name": "Serena",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 414
+    }
+  },
+  "141": {
+    "k_building_haireru_nakamichi1F": {
+      "name": "Bâtiment commercial de Nakamichi RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "142": {
+    "k_building_haireru_nakamichi2F": {
+      "name": "Bâtiment commercial de Nakamichi 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "143": {
+    "k_building_haireru_nakamichi3F": {
+      "name": "Bâtiment commercial de Nakamichi 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "144": {
+    "k_building_haireru_nakamichi4F": {
+      "name": "Bâtiment commercial de Nakamichi 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "145": {
+    "k_building_haireru_senryo1F": {
+      "name": "Bâtiment Senryo RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "146": {
+    "k_building_haireru_senryo2F": {
+      "name": "Bâtiment Senryo 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "147": {
+    "k_building_haireru_senryo3F": {
+      "name": "Bâtiment Senryo 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "148": {
+    "k_building_haireru_senryo4F": {
+      "name": "Bâtiment Senryo 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "149": {
+    "k_building_haireru_senryo5F": {
+      "name": "Toit du Bâtiment Senryo ",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "150": {
+    "o_arcade_roof_a_rf_roof01": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "151": {
+    "o_snack_moreno_1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "152": {
+    "k_alps_u": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "153": {
+    "k_poppo_n": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "154": {
+    "k_building_mtower1f": {
+      "name": "Millennium Tower RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "155": {
+    "k_building_kamurot3f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "156": {
+    "k_building_kamurotb1": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "157": {
+    "k_building_apa6f": {
+      "name": "APA Hotel Theater Square 6e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "158": {
+    "k_building_haireru_tenka5F": {
+      "name": "Premier bâtiment de Tenkaichi RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "159": {
+    "k_building_haireru_taihei2F": {
+      "name": "Clinique Emoto",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "160": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "161": {
+    "k_asia_edoshop1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "162": {
+    "k_asia_edoshop2f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 385
+    }
+  },
+  "163": {
+    "k_asia_edoshop3f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 386
+    }
+  },
+  "164": {
+    "k_asia_edoshop4f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 387
+    }
+  },
+  "165": {
+    "k_asia_edoshop5f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 388
+    }
+  },
+  "166": {
+    "k_asia_souko1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 389
+    }
+  },
+  "167": {
+    "k_asia_souko2f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 390
+    }
+  },
+  "168": {
+    "k_asia_souko3f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 391
+    }
+  },
+  "169": {
+    "k_asia_beijing3f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 392
+    }
+  },
+  "170": {
+    "k_asia_beijing4f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 393
+    }
+  },
+  "171": {
+    "k_asia_beijing5f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 394
+    }
+  },
+  "172": {
+    "k_meb": {
+      "name": "MEB",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 395
+    }
+  },
+  "173": {
+    "k_annaijo": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 396
+    }
+  },
+  "174": {
+    "k_jungleboy": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 397
+    }
+  },
+  "175": {
+    "k_tenkaichi5f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 398
+    }
+  },
+  "176": {
+    "o_ryonanshine": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 399
+    }
+  },
+  "177": {
+    "o_bochi": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "178": {
+    "o_ropeway": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "179": {
+    "o_ropeway01": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "180": {
+    "k_touto": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "181": {
+    "k_tougen1f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "182": {
+    "k_tougen2f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "183": {
+    "k_tougen3f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "184": {
+    "k_tougen4f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "185": {
+    "k_stardust": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "186": {
+    "k_mtower001": {
+      "name": "Millennium Tower",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 278
+    }
+  },
+  "187": {
+    "k_mtowervip": {
+      "name": "Salle VIP de la Millennium Tower",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 380
+    }
+  },
+  "188": {
+    "o_jimu": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 400
+    }
+  },
+  "189": {
+    "o_ground": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 401
+    }
+  },
+  "190": {
+    "o_senkouji": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 402
+    }
+  },
+  "191": {
+    "k_amon": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 349
+    }
+  },
+  "192": {
+    "o_asagao": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 350
+    }
+  },
+  "193": {
+    "o_iwami": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 279
+    }
+  },
+  "194": {
+    "o_dockyard": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 280
+    }
+  },
+  "195": {
+    "h_island": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 281
+    }
+  },
+  "196": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 282
+    }
+  },
+  "197": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 283
+    }
+  },
+  "198": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 284
+    }
+  },
+  "199": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 285
+    }
+  },
+  "200": {
+    "k_building_serena3F": {
+      "name": "Toit du Serena",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 286
+    }
+  },
+  "201": {
+    "k_shop_akaushi_h": {
+      "name": "Akaushimaru (Hotel District)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 287
+    }
+  },
+  "202": {
+    "k_shop_akaushi_t": {
+      "name": "Akaushimaru (Tenkaichi St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 288
+    }
+  },
+  "203": {
+    "k_shop_alps": {
+      "name": "Café Alps",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 289
+    }
+  },
+  "204": {
+    "k_shop_alps_u": {
+      "name": "Café Alps Alley",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 290
+    }
+  },
+  "205": {
+    "k_shop_bantam": {
+      "name": "Bantam",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 348
+    }
+  },
+  "206": {
+    "k_shop_donki": {
+      "name": "Don Quijote Kamurocho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 363
+    }
+  },
+  "207": {
+    "k_shop_ebisuya": {
+      "name": "Ebisu Pawn Kamurocho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 291
+    }
+  },
+  "208": {
+    "k_shop_fujisoba": {
+      "name": "Fuji Soba",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 292
+    }
+  },
+  "209": {
+    "k_shop_gindaco": {
+      "name": "Gindaco Highball Tavern",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 293
+    }
+  },
+  "210": {
+    "k_shop_hanrai": {
+      "name": "Kanrai",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 294
+    }
+  },
+  "211": {
+    "k_shop_ichibanboshi": {
+      "name": "Kyushu No. 1 Star",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 295
+    }
+  },
+  "212": {
+    "k_shop_ikinari_steak": {
+      "name": "Ikinari Steak",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 296
+    }
+  },
+  "213": {
+    "k_shop_M_SIDE_CAFE": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 297
+    }
+  },
+  "214": {
+    "k_shop_osaka_ohsho": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 298
+    }
+  },
+  "215": {
+    "k_shop_poppo_7e": {
+      "name": "Poppo (Shichifuku St. E)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 299
+    }
+  },
+  "216": {
+    "k_shop_poppo_7w": {
+      "name": "Poppo (Shichifuku St. O)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 300
+    }
+  },
+  "217": {
+    "k_shop_poppo_n": {
+      "name": "Poppo (Nakamichi Alley)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 301
+    }
+  },
+  "218": {
+    "k_shop_poppo_s": {
+      "name": "Poppo (Showa St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 302
+    }
+  },
+  "219": {
+    "k_shop_poppo_t": {
+      "name": "Poppo (Tenkaichi St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 303
+    }
+  },
+  "220": {
+    "k_shop_QUADRA_GARDEN": {
+      "name": "Quadra Garden",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 304
+    }
+  },
+  "221": {
+    "k_shop_ringerhut": {
+      "name": "Ringer Hut",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 305
+    }
+  },
+  "222": {
+    "k_shop_rizap": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 306
+    }
+  },
+  "223": {
+    "k_shop_smileburgar": {
+      "name": "Smile Burger (Nakamichi St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 307
+    }
+  },
+  "224": {
+    "k_shop_smileburgar_g": {
+      "name": "Smile Burger (Theater Square NO)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 308
+    }
+  },
+  "225": {
+    "k_shop_sushigin": {
+      "name": "Sushi Gin",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 309
+    }
+  },
+  "226": {
+    "k_shop_sushizanmai": {
+      "name": "Sushi Zanmai",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 510
+    }
+  },
+  "227": {
+    "k_shop_wettekitchen_tw": {
+      "name": "Wette Kitchen (Taihei Blvd. O)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 511
+    }
+  },
+  "228": {
+    "k_shop_wildjackson_me": {
+      "name": "Wild Jackson (Millennium Tower St. E)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 512
+    }
+  },
+  "229": {
+    "k_shop_wildjackson_t": {
+      "name": "Wild Jackson (Tenkaichi St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 310
+    }
+  },
+  "230": {
+    "k_shop_yamishonin": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 311
+    }
+  },
+  "231": {
+    "k_shop_yoronotaki": {
+      "name": "Yoronotaki",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 312
+    }
+  },
+  "232": {
+    "s_street_bishamonbashi": {
+      "name": "Pont Bishamon",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 313
+    }
+  },
+  "233": {
+    "s_street_houganjiyokochou": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 314
+    }
+  },
+  "234": {
+    "s_street_iwaobashi": {
+      "name": "Pont Iwao",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 315
+    }
+  },
+  "235": {
+    "s_street_shoufukuchou_nishi": {
+      "name": "Shofukucho O",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 316
+    }
+  },
+  "236": {
+    "s_street_shoufukuchou": {
+      "name": "Shofukucho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 317
+    }
+  },
+  "237": {
+    "s_street_shoufukuchou_higashi": {
+      "name": "Shofukucho E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 318
+    }
+  },
+  "238": {
+    "s_street_shoufukuchou_minami": {
+      "name": "Shofukucho S",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 319
+    }
+  },
+  "239": {
+    "s_street_soutenboridoori": {
+      "name": "Sotenbori St.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 320
+    }
+  },
+  "240": {
+    "s_street_soutenboridoori_higashi": {
+      "name": "Sotenbori St. E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 321
+    }
+  },
+  "241": {
+    "s_street_soutenboridoori_nishi": {
+      "name": "Sotenbori St. O",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 322
+    }
+  },
+  "242": {
+    "s_street_soutenborigawadou": {
+      "name": "Sentier de Sotenbori ",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 323
+    }
+  },
+  "243": {
+    "s_street_soutenborigawadou_higashi": {
+      "name": "Sentier de Sotenbori E",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 324
+    }
+  },
+  "244": {
+    "s_street_soutenborigawadou_nishi": {
+      "name": "Sentier de Sotenbori O",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 325
+    }
+  },
+  "245": {
+    "k_street_champion": {
+      "name": "Champion District",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 326
+    }
+  },
+  "246": {
+    "k_street_kouenmae": {
+      "name": "Park Blvd.",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 327
+    }
+  },
+  "247": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 328
+    }
+  },
+  "248": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 329
+    }
+  },
+  "249": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 330
+    }
+  },
+  "250": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 331
+    }
+  },
+  "251": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 332
+    }
+  },
+  "252": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 333
+    }
+  },
+  "253": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 334
+    }
+  },
+  "254": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 335
+    }
+  },
+  "255": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 336
+    }
+  },
+  "256": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 337
+    }
+  },
+  "257": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 338
+    }
+  },
+  "258": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 339
+    }
+  },
+  "259": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 340
+    }
+  },
+  "260": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 341
+    }
+  },
+  "261": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 342
+    }
+  },
+  "262": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 343
+    }
+  },
+  "263": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 344
+    }
+  },
+  "264": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 345
+    }
+  },
+  "265": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 346
+    }
+  },
+  "266": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 347
+    }
+  },
+  "267": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "268": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "269": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "270": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "271": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "272": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "273": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "274": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "275": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "276": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "277": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "278": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "279": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "280": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "281": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "282": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "283": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "284": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "285": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "286": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "287": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "288": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "289": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "290": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "291": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "292": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "293": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "294": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "295": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "296": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "297": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "298": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "299": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "300": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "301": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "302": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 376
+    }
+  },
+  "303": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "304": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "305": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "306": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "307": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "308": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "309": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "310": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "311": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "312": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "313": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "314": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "315": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "316": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "317": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "318": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "319": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "320": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "321": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "322": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "323": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "324": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "325": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "326": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "327": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "328": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "329": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "330": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 351
+    }
+  },
+  "331": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 352
+    }
+  },
+  "332": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 364
+    }
+  },
+  "333": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 353
+    }
+  },
+  "334": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 354
+    }
+  },
+  "335": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 365
+    }
+  },
+  "336": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 356
+    }
+  },
+  "337": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 357
+    }
+  },
+  "338": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 358
+    }
+  },
+  "339": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 359
+    }
+  },
+  "340": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 360
+    }
+  },
+  "341": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 361
+    }
+  },
+  "342": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 362
+    }
+  },
+  "343": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 366
+    }
+  },
+  "344": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 367
+    }
+  },
+  "345": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 368
+    }
+  },
+  "346": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 369
+    }
+  },
+  "347": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 377
+    }
+  },
+  "348": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 378
+    }
+  },
+  "349": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 379
+    }
+  },
+  "350": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 370
+    }
+  },
+  "351": {
+    "k_shop_atenshi": {
+      "name": "Earth Angel",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 371
+    }
+  },
+  "352": {
+    "k_shop_shellac": {
+      "name": "Shellac",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 372
+    }
+  },
+  "353": {
+    "s_shop_osaka_ohsho": {
+      "name": "Osaka King",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 373
+    }
+  },
+  "354": {
+    "s_shop_kinryu": {
+      "name": "Kinryu Ramen",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 374
+    }
+  },
+  "355": {
+    "s_shop_tuboraya": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 375
+    }
+  },
+  "356": {
+    "s_shop_gankosushi": {
+      "name": "Ganko Sushi",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "357": {
+    "s_shop_gyukaku": {
+      "name": "Gyu-Kaku",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "358": {
+    "s_shop_kanidouraku": {
+      "name": "Kani Douraku",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "359": {
+    "s_shop_kukuru": {
+      "name": "Kukuru",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "360": {
+    "s_shop_koumian": {
+      "name": "Komian",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "361": {
+    "s_shop_daruma": {
+      "name": "Kushikatsu Daruma",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "362": {
+    "s_shop_stijl": {
+      "name": "Stijl",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 382
+    }
+  },
+  "363": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "364": {
+    "k_shop_drag": {
+      "name": "Kotobuki Drugs",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "365": {
+    "s_shop_duboraya": {
+      "name": "Zuboraya",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "366": {
+    "s_shop_donki": {
+      "name": "Don Quijote Sotenbori",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "367": {
+    "s_shop_tsuruha": {
+      "name": "Tsuruha Drugs",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "368": {
+    "s_shop_shichiya": {
+      "name": "Ebisu Pawn Sotenbori",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "369": {
+    "s_shop_clubsega": {
+      "name": "Club SEGA Sotenbori",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "370": {
+    "s_shop_karaokesnack": {
+      "name": "Karaoke Snack Bar",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "371": {
+    "s_shop_poppo_sou": {
+      "name": "Poppo (Sotenbori St.)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "372": {
+    "s_shop_poppo_sho": {
+      "name": "Poppo (Shofukucho)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "373": {
+    "s_shop_smileburger": {
+      "name": "Smile Burger Sotenbori",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "374": {
+    "s_shop_aoi": {
+      "name": "Aoi",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "375": {
+    "s_shop_grand": {
+      "name": "Cabaret Grand",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "376": {
+    "k_playspot_toylets": {
+      "name": "Toylets (Club SEGA Theater Square)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "377": {
+    "s_playspot_toylets": {
+      "name": "Toylets (Club SEGA Sotenbori)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "378": {
+    "s_playspot_darts": {
+      "name": "DARTSLIVE (Stijl)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "379": {
+    "s_playspot_mj": {
+      "name": "Riichi Tower Mahjong",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "380": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "381": {
+    "s_street_bunzaemonsuji": {
+      "name": "Centre commercial Bunzaemon",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "382": {
+    "k_street_hotelkita": {
+      "name": "Hotel District Nord",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "383": {
+    "k_street_kouenmaehigashi": {
+      "name": "Park Blvd. Est",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "384": {
+    "s_street_bunzaemonsujihigashi": {
+      "name": "Centre commercial Bunzaemon Est",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "385": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "386": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "387": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "388": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "389": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "390": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 383
+    }
+  },
+  "391": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "392": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 381
+    }
+  },
+  "393": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 384
+    }
+  },
+  "394": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "395": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "396": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "397": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "398": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "399": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "400": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "401": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "402": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "403": {
+    "k_event_stardust": {
+      "name": "Stardust",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "404": {
+    "k_shop_beam": {
+      "name": "Beam",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "405": {
+    "k_urabukiya": {
+      "name": "Boutique d'armes cachées",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "406": {
+    "k_bemybaby": {
+      "name": "Sois mon bébé",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "407": {
+    "k_hills_enter": {
+      "name": "Entrée du site de construction de Kamurocho Hills",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "408": {
+    "k_sai_enter": {
+      "name": "Entrée du Purgatoire",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 403
+    }
+  },
+  "409": {
+    "k_sai_underground": {
+      "name": "Sous-sol du Purgatoire",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 404
+    }
+  },
+  "410": {
+    "k_fusion": {
+      "name": "Fusion",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 405
+    }
+  },
+  "411": {
+    "k_loveinheart": {
+      "name": "Love in Heart",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 406
+    }
+  },
+  "412": {
+    "k_shine": {
+      "name": "SHINE",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 407
+    }
+  },
+  "413": {
+    "s_playspot_golf": {
+      "name": "Yokobori Golf Center",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 408
+    }
+  },
+  "414": {
+    "s_yoasobidojo": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 409
+    }
+  },
+  "415": {
+    "s_fourshine": {
+      "name": "Four Shine",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 410
+    }
+  },
+  "416": {
+    "s_shop_gandhara": {
+      "name": "Gandhara",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 411
+    }
+  },
+  "417": {
+    "s_hogushikaikan": {
+      "name": "Hogushi Kaikan",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 412
+    }
+  },
+  "418": {
+    "s_keima": {
+      "name": "Keima",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 413
+    }
+  },
+  "419": {
+    "s_midoriyama": {
+      "name": "Bâtiment Midoriyama",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 456
+    }
+  },
+  "420": {
+    "s_midoriyama_1f": {
+      "name": "Bâtiment Midoriyama RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 415
+    }
+  },
+  "421": {
+    "s_midoriyama_2f": {
+      "name": "Bâtiment Midoriyama 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 416
+    }
+  },
+  "422": {
+    "s_midoriyama_3f": {
+      "name": "Bâtiment Midoriyama 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 417
+    }
+  },
+  "423": {
+    "s_yotsudera": {
+      "name": "Yotsudera Kaikan",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 418
+    }
+  },
+  "424": {
+    "s_yotsudera_b1f": {
+      "name": "Yotsudera Kaikan Sous-sol 1",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 419
+    }
+  },
+  "425": {
+    "s_yotsudera_1f": {
+      "name": "Yotsudera Kaikan RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 420
+    }
+  },
+  "426": {
+    "s_yotsudera_2f": {
+      "name": "Yotsudera Kaikan 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 421
+    }
+  },
+  "427": {
+    "s_yotsudera_3f": {
+      "name": "Yotsudera Kaikan 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 422
+    }
+  },
+  "428": {
+    "s_shofukucho": {
+      "name": "Bâtiment commercial de Shofukucho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 423
+    }
+  },
+  "429": {
+    "s_shofukucho_b1f": {
+      "name": "Bâtiment commercial de Shofukucho -1",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 424
+    }
+  },
+  "430": {
+    "s_shofukucho_1f": {
+      "name": "Bâtiment commercial de Shofukucho RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 425
+    }
+  },
+  "431": {
+    "s_shofukucho_2f": {
+      "name": "Bâtiment commercial de Shofukucho 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 426
+    }
+  },
+  "432": {
+    "s_shofukucho_3f": {
+      "name": "Bâtiment commercial de Shofukucho 2ème étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 427
+    }
+  },
+  "433": {
+    "s_shofukucho_4f": {
+      "picture": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 501
+    }
+  },
+  "434": {
+    "s_playspot_casino": {
+      "name": "Casino (Yotsudera Kaikan)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 428
+    }
+  },
+  "435": {
+    "s_playspot_toba": {
+      "name": "Salle de jeux (Yotsudera Kaikan)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 429
+    }
+  },
+  "436": {
+    "lexus2_k_dai3": {
+      "name": "Public Park Three",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 430
+    }
+  },
+  "437": {
+    "lexus2_k_jidou": {
+      "name": "Parc pour enfants",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 431
+    }
+  },
+  "438": {
+    "lexus2_k_shichifukup": {
+      "name": "Parking Shichifuku",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 432
+    }
+  },
+  "439": {
+    "lexus2_k_mtowermae": {
+      "name": "Millennium Tower",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 502
+    }
+  },
+  "440": {
+    "k_fukumaden": {
+      "name": "Fukuma Casino",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 434
+    }
+  },
+  "441": {
+    "k_tougijo": {
+      "name": "Colisée",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 435
+    }
+  },
+  "442": {
+    "k_hanaya": {
+      "name": "Résidence du Fleuriste",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 436
+    }
+  },
+  "443": {
+    "k_ryugujo": {
+      "name": "Dragon Palace",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 437
+    }
+  },
+  "444": {
+    "k_ryugujo_1f": {
+      "name": "Dragon Palace RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 438
+    }
+  },
+  "445": {
+    "k_ryugujo_2f": {
+      "name": "Dragon Palace 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 439
+    }
+  },
+  "446": {
+    "k_ryugujo_3f": {
+      "name": "Dragon Palace 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 440
+    }
+  },
+  "447": {
+    "k_ryugujo_4f": {
+      "name": "Dragon Palace 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 441
+    }
+  },
+  "448": {
+    "k_tougi_mae": {
+      "name": "Réception du Colisée",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 442
+    }
+  },
+  "449": {
+    "k_playspot_toba": {
+      "name": "Salle de jeux (Dragon Palace)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 443
+    }
+  },
+  "450": {
+    "k_playspot_casino": {
+      "name": "Casino (Dragon Palace)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 444
+    }
+  },
+  "451": {
+    "k_playspot_casino_sai": {
+      "name": "Casino (Fukuma Casino)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 445
+    }
+  },
+  "452": {
+    "k_playspot_gravure": {
+      "name": "Studio Gravure",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 446
+    }
+  },
+  "453": {
+    "s_shop_wildjackson": {
+      "name": "Wild Jackson Sotenbori",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 447
+    }
+  },
+  "454": {
+    "k_building_gekijo1F": {
+      "name": "Souterrain Theater",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 448
+    }
+  },
+  "455": {
+    "k_building_debolahB1": {
+      "name": "Debolah",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 449
+    }
+  },
+  "456": {
+    "s_infomen": {
+      "name": "Infomen",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 450
+    }
+  },
+  "457": {
+    "s_shop_shinkyuin": {
+      "name": "Clinique d'acupuncture Yotsuba",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 451
+    }
+  },
+  "458": {
+    "lexus2_bochi": {
+      "name": "Cimetière",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 452
+    }
+  },
+  "459": {
+    "k_building_amano_1f": {
+      "name": "Bâtiment Amano RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 453
+    }
+  },
+  "460": {
+    "k_building_amano_2f": {
+      "name": "Bâtiment Amano 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 454
+    }
+  },
+  "461": {
+    "k_building_amano_3f": {
+      "name": "Bâtiment Amano 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 455
+    }
+  },
+  "462": {
+    "k_building_amano_4f": {
+      "name": "Bâtiment Amano 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 457
+    }
+  },
+  "463": {
+    "k_building_amano_5f": {
+      "name": "Bâtiment Amano 4e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 458
+    }
+  },
+  "464": {
+    "k_building_amano_6f": {
+      "name": "Bâtiment Amano 5e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 459
+    }
+  },
+  "465": {
+    "k_building_amano_sotokaidan": {
+      "name": "Cage d'escalier du bâtiment Amano",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 460
+    }
+  },
+  "466": {
+    "k_building_k_hills_rf": {
+      "name": "Toit de Kamurocho Hills",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 461
+    }
+  },
+  "467": {
+    "k_mtower_monitor": {
+      "name": "Nouvelle salle de contrôle",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 462
+    }
+  },
+  "468": {
+    "k_tojokai_honbu_shomen": {
+      "name": "Cour du quariter général du Clan Tojo",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 463
+    }
+  },
+  "469": {
+    "k_tojokai_honbu_1f": {
+      "name": "Quartier général du Clan Tojo RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 464
+    }
+  },
+  "470": {
+    "k_tojokai_honbu_2f": {
+      "name": "Quartier général du Clan Tojo 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 465
+    }
+  },
+  "471": {
+    "k_tojokai_honbu_teien": {
+      "name": "Jardin du quartier général du Clan Tojo",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 466
+    }
+  },
+  "472": {
+    "k_tojokai_honbu_kakushibeya": {
+      "name": "Salle cachée du quartier général du Clan Tojo",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 467
+    }
+  },
+  "473": {
+    "k_tojokai_honbu_ohiroma": {
+      "name": "Grand hall du quartier général du Clan Tojo",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 495
+    }
+  },
+  "474": {
+    "k_tougenkyo_1f": {
+      "name": "Shangri-La RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 468
+    }
+  },
+  "475": {
+    "k_tougenkyo_2f": {
+      "name": "Shangri-La 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 469
+    }
+  },
+  "476": {
+    "k_tougenkyo_3f": {
+      "name": "Shangri-La 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 470
+    }
+  },
+  "477": {
+    "k_tougenkyo_4f": {
+      "name": "Shangri-La 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 471
+    }
+  },
+  "478": {
+    "k_tougenkyo_4f_room": {
+      "name": "Shangri-La dernier étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 472
+    }
+  },
+  "479": {
+    "lexus2_highway": {
+      "name": "Autoroute",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 473
+    }
+  },
+  "480": {
+    "s_shop_prime": {
+      "name": "PRIME",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 474
+    }
+  },
+  "481": {
+    "s_oumi_seimonmae": {
+      "name": "Portes d'entrée de l'Alliance Omi",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 475
+    }
+  },
+  "482": {
+    "s_oumi_1f": {
+      "name": "QG de l'Alliance Omi RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 476
+    }
+  },
+  "483": {
+    "s_oumi_2f": {
+      "name": "QG de l'Alliance Omi 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 477
+    }
+  },
+  "484": {
+    "s_oumi_3f": {
+      "name": "QG de l'Alliance Omi 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 478
+    }
+  },
+  "485": {
+    "s_oumi_honhiroma": {
+      "name": "Grand Hall de l'Alliance Omi",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 479
+    }
+  },
+  "486": {
+    "s_osaka_shiro_1f": {
+      "name": "Château d'Osaka RdC",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 480
+    }
+  },
+  "487": {
+    "s_osaka_shiro_2f": {
+      "name": "Château d'Osaka 1er étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 481
+    }
+  },
+  "488": {
+    "s_osaka_shiro_3f": {
+      "name": "Château d'Osaka 2e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 482
+    }
+  },
+  "489": {
+    "s_osaka_shiro_4f": {
+      "name": "Château d'Osaka 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 483
+    }
+  },
+  "490": {
+    "s_osaka_shiro_5f": {
+      "name": "Château d'Osaka 4e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 484
+    }
+  },
+  "491": {
+    "s_osaka_shiro_6f": {
+      "name": "Château d'Osaka 5e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 485
+    }
+  },
+  "492": {
+    "k_sainokawara": {
+      "name": "Purgatoire",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 486
+    }
+  },
+  "493": {
+    "k_sainokawara_majima": {
+      "name": "Purgatory (Salle de Majima)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 487
+    }
+  },
+  "494": {
+    "k_sainokawara_tougijo": {
+      "name": "Purgatoire (Colisée)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 488
+    }
+  },
+  "495": {
+    "k_mtower_transform": {
+      "name": "Millennium Tower -10",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 489
+    }
+  },
+  "496": {
+    "k_tenhou_cinema": {
+      "name": "New Tenhou Cinema",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 490
+    }
+  },
+  "497": {
+    "k_meiwa_1f": {
+      "name": "Meiwado",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 491
+    }
+  },
+  "498": {
+    "k_fascinantjardin_2f": {
+      "name": "Fascinant Jardin",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 492
+    }
+  },
+  "499": {
+    "k_zenigame_3f": {
+      "name": "Zenigame Financing",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 493
+    }
+  },
+  "500": {
+    "k_aki_4f": {
+      "name": "Magasin vide",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 494
+    }
+  },
+  "501": {
+    "s_yotsudera_4f": {
+      "name": "Yotsudera Kaikan 3e étage",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 496
+    }
+  },
+  "502": {
+    "s_shofukucho_rf": {
+      "name": "Toit du bâtiment commercial de Shofukucho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 497
+    }
+  },
+  "503": {
+    "k_jungleboy_rf": {
+      "name": "Jungle Boy",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 498
+    }
+  },
+  "504": {
+    "s_shop_smileburger_s": {
+      "name": "Smile Burger Shofukucho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 499
+    }
+  },
+  "505": {
+    "k_shogi_road": {
+      "name": "Open Road Shogi Kamurocho",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 500
+    }
+  },
+  "506": {
+    "s_shogi_road": {
+      "name": "Open Road Shogi Sotenbori",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 503
+    }
+  },
+  "507": {
+    "k_shop_workskamiyama": {
+      "name": "Kamiyama Works",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 504
+    }
+  },
+  "508": {
+    "k_place_kamurochohills": {
+      "name": "Site de Kamurocho Hills (West Park)",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 505
+    }
+  },
+  "509": {
+    "k_shop_ryuuguujyoubuki": {
+      "name": "Marchand d'armes du Dragon Palace",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 506
+    }
+  },
+  "510": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 507
+    }
+  },
+  "511": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 508
+    }
+  },
+  "512": {
+    "": {
+      "picture": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 509
+    }
+  },
+  "513": {
+    "k_clan": {
+      "name": "Clan Creator",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 513
+    }
+  },
+  "514": {
+    "s_shop_tatsu": {
+      "name": "Tatsu le marchand d'armes",
+      "picture": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 514
+    }
+  }
+}

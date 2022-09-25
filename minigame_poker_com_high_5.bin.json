@@ -1,0 +1,840 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 41,
+  "COLUMN_COUNT": 17,
+  "TEXT_COUNT": 10,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "character": "1",
+    "money": "1",
+    "actionBR": "1",
+    "actionCC": "1",
+    "actionF": "1",
+    "bluff": "1",
+    "RaiseAction": "1",
+    "OutsCountAction": "1",
+    "bluff_probability": "1",
+    "mental_parameters": "1",
+    "aggressive_parameters": "1",
+    "prudent_parameters": "1",
+    "jolt_parameters": "1",
+    "game_message": "1",
+    "ritire_message": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "character": 0,
+    "money": 0,
+    "actionBR": 0,
+    "actionCC": 0,
+    "actionF": 0,
+    "bluff": 0,
+    "RaiseAction": 1,
+    "OutsCountAction": 1,
+    "bluff_probability": 1,
+    "mental_parameters": 7,
+    "aggressive_parameters": 7,
+    "prudent_parameters": 7,
+    "jolt_parameters": 7,
+    "game_message": 0,
+    "ritire_message": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "character": 12,
+    "money": 2,
+    "actionBR": 2,
+    "actionCC": 2,
+    "actionF": 2,
+    "bluff": 12,
+    "RaiseAction": 1,
+    "OutsCountAction": 1,
+    "bluff_probability": 1,
+    "mental_parameters": 9,
+    "aggressive_parameters": 9,
+    "prudent_parameters": 9,
+    "jolt_parameters": 9,
+    "game_message": 12,
+    "ritire_message": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "0": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "idx1": {
+      "name": "Morizaki le comptable",
+      "character": "0",
+      "money": 9150,
+      "actionBR": 100,
+      "actionCC": 0,
+      "actionF": 0,
+      "bluff": "Le compte n'est pas bon...",
+      "RaiseAction": 0,
+      "OutsCountAction": 2,
+      "bluff_probability": 35,
+      "mental_parameters": 5.0,
+      "aggressive_parameters": 15.0,
+      "prudent_parameters": 0.10000000149011612,
+      "jolt_parameters": 0.10000000149011612,
+      "game_message": "Il faut minimiser les pertes.",
+      "ritire_message": "Je ne peux pas faire banqueroute...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "2": {
+    "idx2": {
+      "money": 0,
+      "actionBR": 80,
+      "actionCC": 20,
+      "actionF": 0,
+      "bluff": "Mes calculs étaient bons.",
+      "RaiseAction": 1,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 20.0,
+      "aggressive_parameters": 10.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.5,
+      "game_message": "Mes fonds s'assèchent.",
+      "ritire_message": "J'apprécie la rencontre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "3": {
+    "idx3": {
+      "money": 0,
+      "actionBR": 80,
+      "actionCC": 20,
+      "actionF": 0,
+      "bluff": "Je ne vais rien lâcher.",
+      "RaiseAction": 2,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 10.0,
+      "aggressive_parameters": 15.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 1.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "4": {
+    "idx4": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "bluff": "Voyons comment ça se passe.",
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 5.0,
+      "aggressive_parameters": 5.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 2.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "5": {
+    "idx5": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.10000000149011612,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "6": {
+    "idx6": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "7": {
+    "idx7": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "8": {
+    "idx8": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "9": {
+    "idx9": {
+      "money": 0,
+      "actionBR": 60,
+      "actionCC": 40,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "10": {
+    "idx10": {
+      "money": 0,
+      "actionBR": 100,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "11": {
+    "idx11": {
+      "money": 0,
+      "actionBR": 80,
+      "actionCC": 20,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "12": {
+    "idx12": {
+      "money": 0,
+      "actionBR": 80,
+      "actionCC": 20,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "13": {
+    "idx13": {
+      "money": 0,
+      "actionBR": 80,
+      "actionCC": 20,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "14": {
+    "idx14": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "15": {
+    "idx15": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 80,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "16": {
+    "idx16": {
+      "money": 0,
+      "actionBR": 20,
+      "actionCC": 80,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "17": {
+    "idx17": {
+      "money": 0,
+      "actionBR": 30,
+      "actionCC": 50,
+      "actionF": 20,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "18": {
+    "idx18": {
+      "money": 0,
+      "actionBR": 40,
+      "actionCC": 60,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "19": {
+    "idx19": {
+      "money": 0,
+      "actionBR": 100,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "20": {
+    "idx20": {
+      "money": 0,
+      "actionBR": 80,
+      "actionCC": 20,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "21": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "22": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "23": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "24": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "25": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "26": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "27": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "28": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "29": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "30": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "31": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "32": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "33": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "34": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "35": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "36": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "37": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "38": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "39": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "40": {
+    "": {
+      "money": 0,
+      "actionBR": 0,
+      "actionCC": 0,
+      "actionF": 0,
+      "RaiseAction": 0,
+      "OutsCountAction": 0,
+      "bluff_probability": 0,
+      "mental_parameters": 0.0,
+      "aggressive_parameters": 0.0,
+      "prudent_parameters": 0.0,
+      "jolt_parameters": 0.0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  }
+}

@@ -1,0 +1,1384 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 125,
+  "COLUMN_COUNT": 5,
+  "TEXT_COUNT": 55,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "info": "1",
+    "icon_near": "1",
+    "icon_far": "1",
+    "icon_pattern": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "info": 0,
+    "icon_near": 2,
+    "icon_far": 2,
+    "icon_pattern": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "info": 12,
+    "icon_near": 0,
+    "icon_far": 0,
+    "icon_pattern": 2
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "0": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "talk": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 1,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "check": {
+      "info": "Examiner",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "3": {
+    "look": {
+      "info": "Regarder",
+      "icon_near": 2,
+      "icon_far": 7,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "4": {
+    "listen": {
+      "info": "Écouter",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "5": {
+    "in": {
+      "info": "Entrer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "6": {
+    "out": {
+      "info": "Sortir",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "7": {
+    "check_sight": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "look_around": {
+      "info": "Regarder autour",
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "9": {
+    "answer_a_phone": {
+      "info": "Répondre",
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "10": {
+    "hact": {
+      "info": "Kiwami",
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "11": {
+    "mg_mahjong_easy": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "12": {
+    "mg_mahjong_normal": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "13": {
+    "mg_mahjong_hard": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 3,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "14": {
+    "text_test": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "cat_food": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "mg_darts": {
+      "info": "Jouer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 19,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "17": {
+    "mg_darts_easy": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 4,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "18": {
+    "mg_darts_normal": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 5,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "19": {
+    "mg_darts_hard": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 6,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "20": {
+    "mg_skindiving": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "mg_baseball": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "mg_batting": {
+      "info": "Entrer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 9,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "23": {
+    "mg_snack": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "mg_karaoke": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 11,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "25": {
+    "mg_clubsega": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "mg_rizap": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "mg_chat": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "28": {
+    "mg_osonae": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "29": {
+    "mg_omikuji": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "30": {
+    "mg_saisen": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "31": {
+    "mg_clan": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 18,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "32": {
+    "shoot": {
+      "info": "Prendre une photo",
+      "icon_near": 2,
+      "icon_far": 7,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "33": {
+    "special_favor": {
+      "info": "Ouvrir le paquet",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 20,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "34": {
+    "untie": {
+      "info": "Détacher",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "35": {
+    "sit": {
+      "info": "S'asseoir",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "36": {
+    "stand": {
+      "info": "Se lever", 
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "37": {
+    "trouble_mission": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "38": {
+    "go_top floor": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "39": {
+    "go_6f": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "40": {
+    "go_2f": {
+      "info": "Vers le 1er étage",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "41": {
+    "go_1f": {
+      "info": "Vers le RdC",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "42": {
+    "go_senkouji": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "43": {
+    "go_ryuunan": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "44": {
+    "go_kannrai": {
+      "info": "Vers Kanrai",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "45": {
+    "go_top_floor": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "46": {
+    "go_tenboudai": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "47": {
+    "go_onomichi": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "48": {
+    "go_B1f": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "49": {
+    "mg_darts_veryhard": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 22,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "50": {
+    "check_sight2": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "51": {
+    "trouble_mission_2": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "52": {
+    "trouble_mission_3": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "53": {
+    "daynight": {
+      "info": "Passer le temps",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "54": {
+    "costume": {
+      "info": "Changer de vêtements",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "55": {
+    "look_nml": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "56": {
+    "taxi": {
+      "info": "Prendre le taxi",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 8,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "57": {
+    "mg_poker": {
+      "info": "Poker",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 24,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "58": {
+    "mg_koikoi": {
+      "info": "Jouer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 25,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "59": {
+    "mg_oichokabu": {
+      "info": "Jouer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 26,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "60": {
+    "mg_bj": {
+      "info": "Blackjack à taux élevés",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 23,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "61": {
+    "talk_noticon": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "62": {
+    "stalking_info": {
+      "info": "Information",
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "63": {
+    "go_fusion": {
+      "info": "Vers la cabine vidéo",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "64": {
+    "pickup": {
+      "info": "Attraper",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "65": {
+    "go_atenshi": {
+      "info": "Vers Earth Angel",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "66": {
+    "go_shellac": {
+      "info": "Vers Shellac",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "67": {
+    "go_sai": {
+      "info": "Vers le Purgatoire",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "68": {
+    "go_grand": {
+      "info": "Vers le Grand",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "69": {
+    "go_keima": {
+      "info": "Vers Keima",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "70": {
+    "go_forshaine": {
+      "info": "Vers Four Shine",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "71": {
+    "go_stardust": {
+      "info": "Vers Stardust",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "72": {
+    "haruka": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 29,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "73": {
+    "eat": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 30,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "74": {
+    "shop": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 35,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "75": {
+    "warp": {
+      "info": "Déplacer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "76": {
+    "itembox": {
+      "info": "Boîte d'équipement",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 39,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "77": {
+    "mg_virtualon": {
+      "info": "Virtual-On : Normal",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 27,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "78": {
+    "mg_vf2": {
+      "info": "Virtua Fighter 2 : Normal",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 28,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "79": {
+    "mg_tougijyo": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 32,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "80": {
+    "mg_chip": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 33,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "81": {
+    "mg_kifuda": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 34,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "82": {
+    "mg_uketuke": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 36,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "83": {
+    "mg_keihin": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 37,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "84": {
+    "mg_cabaret_island": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 41,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "85": {
+    "mg_cabaret_island_event": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 42,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "86": {
+    "ajito": {
+      "info": "Base",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 31,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "87": {
+    "locker": {
+      "info": "Examiner",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 15,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "88": {
+    "mg_toylets": {
+      "info": "Entrer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 7,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "89": {
+    "mg_batting_hr": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 40,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "90": {
+    "mg_shogi": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 10,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "91": {
+    "mg_ufo_catcher": {
+      "info": "Jouer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 12,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "92": {
+    "mg_golf": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 13,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "93": {
+    "mg_nozoki": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 14,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "94": {
+    "mg_bouncer": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 16,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "95": {
+    "mg_video": {
+      "info": "Parler",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 17,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "96": {
+    "eat_ticket": {
+      "info": "Commander",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 30,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "97": {
+    "mg_virtualon_easy": {
+      "info": "Virtual-On : Facile",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 27,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "98": {
+    "mg_vf2_easy": {
+      "info": "Virtua Fighter 2 : Facile",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 28,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "99": {
+    "mg_vf21": {
+      "info": "Virtua Fighter 2.1 : Normal",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 28,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "100": {
+    "mg_vf21_easy": {
+      "info": "Virtua Fighter 2.1: Facile",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 28,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "101": {
+    "go_emoto": {
+      "info": "Vers la Clinique Emoto",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "102": {
+    "go_50f": {
+      "info": "Vers le 50ème étage",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "103": {
+    "check_notri": {
+      "info": "Examiner",
+      "icon_near": 2,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "104": {
+    "in_check": {
+      "info": "Entrer",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "105": {
+    "go_stijl": {
+      "info": "Vers Stijl",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "106": {
+    "go_aoi": {
+      "info": "Vers Aoi",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "107": {
+    "mg_cabaret_island_shop": {
+      "info": "Partenaire",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 41,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "108": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "109": {
+    "go_sai_yashiki": {
+      "info": "Vers le manoir",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "110": {
+    "go_bagyard": {
+      "info": "Vers la pièce du fond",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "111": {
+    "go_forshaine_in": {
+      "info": "Entrer dans le club",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "112": {
+    "atm": {
+      "info": "Déposer",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "113": {
+    "go_geinou": {
+      "info": "Vers Sotenbori Productions",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 38,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "114": {
+    "mg_bj_low": {
+      "info": "Blackjack à faible taux",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 23,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "115": {
+    "use": {
+      "info": "Utiliser",
+      "icon_near": 2,
+      "icon_far": 6,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "116": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "117": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "118": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "119": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "120": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "121": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "122": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "123": {
+    "": {
+      "icon_near": 0,
+      "icon_far": 0,
+      "icon_pattern": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "124": {
+    "in_elevator": {
+      "info": "Entrer",
+      "icon_near": 2,
+      "icon_far": 4,
+      "icon_pattern": 43,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  }
+}

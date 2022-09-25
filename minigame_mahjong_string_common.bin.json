@@ -1,0 +1,150 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 17,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 16,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "han": {
+      "text": " Han",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "fu": {
+      "text": "Fu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "ten": {
+      "text": " pts.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "kurai": {
+      "text": "Rang",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "dora": {
+      "text": "Dora",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "uradora": {
+      "text": "Ura-Dora",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "total_tenbou": {
+      "text": "Votre total de points",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "cancel": {
+      "text": "Annuler",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "close_window": {
+      "text": "<Sign:2> Masquer fenêtre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "winning_streak": {
+      "text": "Série de victoires actuelle : ${count}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "winning": {
+      "text": "　　Série de victoires : ${count}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "max_winning": {
+      "text": "Meilleure série de victoires : ${count}",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "rule": {
+      "text": "Règles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "yaku_list": {
+      "text": "Mains",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "kyuushukyuuhai": {
+      "text": "Déclarer neuf extrémités et retirer la main ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "agari_cancel": {
+      "text": "Terminer la partie ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  }
+}

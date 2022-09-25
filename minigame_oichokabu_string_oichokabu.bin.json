@@ -1,0 +1,618 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 84,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 80,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "empty": {
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "s_szOichokabuAddCardSelect_0": {
+      "text": "Stand",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "s_szOichokabuAddCardSelect_1": {
+      "text": "Draw Card",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "s_szOichokabuCardPoint_1": {
+      "text": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "s_szOichokabuCardPoint_2": {
+      "text": "2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "s_szOichokabuCardPoint_3": {
+      "text": "3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "s_szOichokabuCardPoint_4": {
+      "text": "4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "s_szOichokabuCardPoint_5": {
+      "text": "5",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "s_szOichokabuCardPoint_6": {
+      "text": "6",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "s_szOichokabuCardPoint_7": {
+      "text": "7",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "s_szOichokabuCardPoint_8": {
+      "text": "8",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "s_szOichokabuCardPoint_9": {
+      "text": "9",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "s_szOichokabuCardPoint_10": {
+      "text": "10",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "s_szOichokabuMessage_0": {
+      "text": "Une autre !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "s_szOichokabuMessage_1": {
+      "text": "Abattage avec trois !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "s_szOichokabuMessage_2": {
+      "text": "Abattage !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "s_szOichokabuMenu_0": {
+      "text": "Commencer partie",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "s_szOichokabuMenu_1": {
+      "text": "Changer paramètres",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "s_szOichokabuMenu_2": {
+      "text": "Voir les règles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "s_szOichokabuAction_0": {
+      "text": "Abattage",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "s_szOichokabuAction_1": {
+      "text": "Piocher",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "s_szOichokabuReplayCheck_0": {
+      "text": "Rejouer à l'oicho-kabu ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "s_szOichokabuReplayCheck_1": {
+      "text": "Quitter",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "s_szOichokabuLowLevelPlayer_0": {
+      "text": "Furubira l'amateur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "s_szOichokabuLowLevelPlayer_1": {
+      "text": "Wakamiya le soucieux",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "s_szOichokabuLowLevelPlayer_2": {
+      "text": "Gen le chanceux",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "s_szOichokabuMiddleLevelPlayer_0": {
+      "text": "Senji le crasseux",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "s_szOichokabuMiddleLevelPlayer_1": {
+      "text": "Takenaka le vagabond",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "s_szOichokabuMiddleLevelPlayer_2": {
+      "text": "Karui le babillard",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "s_szOichokabuHighLevelPlayer_0": {
+      "text": "Yosugi le casse-cou",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "s_szOichokabuHighLevelPlayer_1": {
+      "text": "Kanie la mine d'or",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "s_szOichokabuHighLevelPlayer_2": {
+      "text": "Mita plein aux as",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "s_szOichokabuMessageWindow_0": {
+      "text": "Vous êtes le donneur.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "s_szOichokabuMessageWindow_1": {
+      "text": "Sélectionnez l'endroit où placer votre mise.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "s_szOichokabuMessageWindow_2": {
+      "text": "Choisissez un montant à miser.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "s_szOichokabuMessageWindow_3": {
+      "text": "Les autres joueurs font leur choix.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "s_szOichokabuMessageWindow_4": {
+      "text": "Sélectionnez le joueur à défier.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "s_szOichokabuMessageWindow_5": {
+      "text": "Passer à l'abattage avec cette main.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "s_szOichokabuMessageWindow_6": {
+      "text": "Le donneur vous défie.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "s_szOichokabuMessageWindow_7": {
+      "text": "Vous n'avez pas assez de points pour continuer de jouer.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "s_szOichokabuMessageWindow_8": {
+      "text": "Un joueur a perdu tous ses points. Il quitte la partie.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "s_szOichokabuKake_0": {
+      "text": "Mise : ${point} point(s)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "s_szOichokabuKake_1": {
+      "text": "Résultat : ${point} point(s)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "s_szOichokabuKake_2": {
+      "text": "Result: ${point} points",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "s_szOichokabuRule_0": {
+      "text": "10/10/01",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "s_szOichokabuRule_1": {
+      "text": "04/06/19",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "s_szOichokabuRule_2": {
+      "text": "Type de carte",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "s_szOichokabuRuleSelect_0": {
+      "text": "Activé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "s_szOichokabuRuleSelect_1": {
+      "text": "Désactivé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "s_szOichokabuFudaKind_0": {
+      "text": "Kabufuda",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "s_szOichokabuFudaKind_1": {
+      "text": "Hanafuda",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "s_szShirokuNoNigeMessage": {
+      "text": "Se retirer avec un 4-6.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "s_szOichokabuWinResultMessage_0": {
+      "text": "Vous avez gagné le même montant que votre mise.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "s_szOichokabuWinResultMessage_1": {
+      "text": "Vous avez gagné le double de votre mise avec un 4-1.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "s_szOichokabuWinResultMessage_2": {
+      "text": "Vous avez gagné le double de votre mise avec un 9-1.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "s_szOichokabuWinResultMessage_3": {
+      "text": "Vous avez gagné le triple de votre mise avec un brelan.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "s_szOichokabuWinResultMessage_4": {
+      "text": "Vous avez gagné vingt fois votre mise avec un 10-10-1.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "s_szOichokabuLoseResultMessage_0": {
+      "text": "Vous avez perdu votre mise.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "s_szOichokabuLoseResultMessage_1": {
+      "text": "Vous avez perdu le double de votre mise contre un 4-1.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "s_szOichokabuLoseResultMessage_2": {
+      "text": "Vous avez perdu le double de votre mise contre un 9-1.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "s_szOichokabuLoseResultMessage_3": {
+      "text": "Vous avez perdu le triple de votre mise contre un brelan.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "s_szOichokabuLoseResultMessage_4": {
+      "text": "Vous avez perdu vingt fois votre mise contre un 10-10-1.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "s_szOichokabuContinueSelect": {
+      "text": "Continuer de jouer ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "s_szOichokabuDoubleupMessage_0": {
+      "text": "Sélectionnez les cartes à utiliser.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "s_szOichokabuDoubleupMessage_1": {
+      "text": "Le donneur gagne.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "s_szOichokabuDoubleupMessage_2": {
+      "text": "Le résultat est de zéro.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "s_szOichokabuDoubleupMessage_3": {
+      "text": "Le joueur gagne.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "s_szOichokabuDoubleupMessage_4": {
+      "text": "Le résultat est double.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "s_szOichokabuDoubleupMessage_5": {
+      "text": "Continuer de doubler ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "s_szOichokabuParentResult_0": {
+      "text": "Les gains excèdent les pertes. Montant de la mise augmenté.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "s_szOichokabuParentResult_1": {
+      "text": "Les pertes excèdent les gains. Montant de la mise diminué.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "s_szOichokabuParentResult_2": {
+      "text": "Les pertes annulent les gains.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "s_szOichokabuDoubleupSelect": {
+      "text": "Doubler",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "s_szOichokabuMenuLevel_0": {
+      "text": "Débutant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "s_szOichokabuMenuLevel_1": {
+      "text": "Intermédiaire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "s_szOichokabuMenuLevel_2": {
+      "text": "Avancé",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "s_szOichokabuMenuLevelExplain_0": {
+      "text": "Il vous faut au moins 100 points pour jouer en Débutant.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "s_szOichokabuMenuLevelExplain_1": {
+      "text": "Il vous faut au moins 500 points pour jouer en Intermédiaire.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "s_szOichokabuMenuLevelExplain_2": {
+      "text": "Il vous faut au moins 1 000 points pour jouer en Avancé.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "s_szOichokabuMenuLevelExplain_3": {
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 100 points.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "s_szOichokabuMenuLevelExplain_4": {
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 500 points.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "s_szOichokabuMenuLevelExplain_5": {
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 1,000 points.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "s_szOichokabuMochiten": {
+      "text": "${point} points",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  }
+}

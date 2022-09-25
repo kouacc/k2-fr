@@ -1,0 +1,91 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 7,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 6,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "ui_index": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "ui_index": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "ui_index": 2
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2
+  ],
+  "0": {
+    "": {
+      "ui_index": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "potential_01": {
+      "name": "Escortée",
+      "ui_index": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "potential_02": {
+      "name": "Relaxée",
+      "ui_index": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "potential_03": {
+      "name": "Gâtée",
+      "ui_index": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "potential_04": {
+      "name": "Sereine",
+      "ui_index": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "potential_05": {
+      "name": "Fougeuse",
+      "ui_index": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "potential_06": {
+      "name": "Stressée",
+      "ui_index": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  }
+}

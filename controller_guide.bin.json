@@ -1,0 +1,4368 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 48,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 20,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "message": "1",
+    "buttons": "1",
+    "manual": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": 0,
+    "buttons": 9,
+    "manual": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "message": 12,
+    "buttons": 13,
+    "manual": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "0": {
+    "": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "trial": {
+      "message": "View Controls",
+      "buttons": {
+        "ROW_COUNT": 17,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 17,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 8,
+            "3": "Extreme Heat Mode",
+            "4": 412
+          }
+        },
+        "1": {
+          "": {
+            "1": 7,
+            "2": "Reset Camera / Disable Heat Actions",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 9,
+            "2": "Guard / Change Grab Type",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 10,
+            "2": "Fighting Stance",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 6,
+            "2": "Strong Attack / Charge Attack /\r\nHeat Action",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 5,
+            "2": "Weak Attack / Charge Attack",
+            "4": 0
+          }
+        },
+        "6": {
+          "": {
+            "1": 4,
+            "2": "Grab / Discard / Throw /\r\nSpecial Attack (When Holding a Weapon)",
+            "4": 0
+          }
+        },
+        "7": {
+          "": {
+            "1": 3,
+            "2": "Quickstep / Sprint (Outside of Battle)",
+            "4": 0
+          }
+        },
+        "8": {
+          "": {
+            "1": 36,
+            "2": "Move Camera",
+            "4": 0
+          }
+        },
+        "9": {
+          "": {
+            "1": 35,
+            "2": "Move",
+            "4": 0
+          }
+        },
+        "10": {
+          "": {
+            "1": 14,
+            "2": "First Person View (Outside of Battle)",
+            "4": 0
+          }
+        },
+        "11": {
+          "": {
+            "1": 15,
+            "2": "Take Weapon Out / Use Camera (Outside of Battle)",
+            "4": 0
+          }
+        },
+        "12": {
+          "": {
+            "1": 16,
+            "2": "Put Weapon Away / Drop Weapon",
+            "3": "Put Weapon Away / Drop Weapon /\r\nTaunt (When Unarmed)",
+            "4": 405
+          }
+        },
+        "13": {
+          "": {
+            "1": 17,
+            "2": "Take Out Weapon",
+            "4": 0
+          }
+        },
+        "14": {
+          "": {
+            "1": 18,
+            "2": "Take Out Weapon",
+            "4": 0
+          }
+        },
+        "15": {
+          "": {
+            "1": 12,
+            "2": "View Map",
+            "4": 0
+          }
+        },
+        "16": {
+          "": {
+            "1": 11,
+            "2": "Open Pause Menu",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 17,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "batsu": {
+              "0": 3,
+              "2": 7
+            }
+          },
+          "1": {
+            "maru": {
+              "0": 4,
+              "2": 6
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 5
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 4
+            }
+          },
+          "4": {
+            "L2": {
+              "0": 7,
+              "2": 1
+            }
+          },
+          "5": {
+            "R2": {
+              "0": 8,
+              "2": 0
+            }
+          },
+          "6": {
+            "L1": {
+              "0": 9,
+              "2": 2
+            }
+          },
+          "7": {
+            "R1": {
+              "0": 10,
+              "2": 3
+            }
+          },
+          "8": {
+            "options": {
+              "0": 11,
+              "2": 16
+            }
+          },
+          "9": {
+            "touch_pad": {
+              "0": 12,
+              "2": 15
+            }
+          },
+          "10": {
+            "R3": {
+              "0": 14,
+              "2": 10
+            }
+          },
+          "11": {
+            "up": {
+              "0": 15,
+              "2": 11
+            }
+          },
+          "12": {
+            "down": {
+              "0": 16,
+              "2": 12
+            }
+          },
+          "13": {
+            "left": {
+              "0": 17,
+              "2": 13
+            }
+          },
+          "14": {
+            "right": {
+              "0": 18,
+              "2": 14
+            }
+          },
+          "15": {
+            "l_stick": {
+              "0": 35,
+              "2": 9
+            }
+          },
+          "16": {
+            "r_stick": {
+              "0": 36,
+              "2": 8
+            }
+          }
+        }
+      },
+      "manual": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "mahjong0": {
+      "message": "Mahjong",
+      "buttons": {
+        "ROW_COUNT": 9,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 8,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Sélectionner une tuile"
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Sélectionner une tuile"
+          }
+        },
+        "4": {
+          "": {
+            "1": 9,
+            "2": "Consulter la défausse"
+          }
+        },
+        "5": {
+          "": {
+            "1": 6,
+            "2": "Afficher tutoriel"
+          }
+        },
+        "6": {
+          "": {
+            "1": 5,
+            "2": "Activer/désactiver affichage des commandes"
+          }
+        },
+        "7": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "8": {
+          "": {
+            "1": 2,
+            "2": "Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 9,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 7
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 8
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 6
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 5
+            }
+          },
+          "4": {
+            "L1": {
+              "0": 9,
+              "2": 4
+            }
+          },
+          "5": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "6": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "7": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "8": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 14,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "3": {
+    "spear0": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "batting0": {
+      "message": "Batting Center",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter\nToucher pour déplacer le curseur du swing\nRelâcher pour faire un swing avec la batte"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur du swing"
+          }
+        },
+        "3": {
+          "": {
+            "1": 6,
+            "2": "Règles"
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Faire un swing avec la batte/Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 3
+            }
+          },
+          "3": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "4": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "5": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 28,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "5": {
+    "baseball0": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "snack0": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "cabaret0": {
+      "message": "Cabaret Club",
+      "buttons": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "選擇中止"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "操作說明"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "選擇卡片"
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "選擇卡片"
+          }
+        },
+        "4": {
+          "": {
+            "1": 10,
+            "2": "確認個人資料"
+          }
+        },
+        "5": {
+          "": {
+            "1": 5,
+            "2": "切換交換卡片／交換卡片"
+          }
+        },
+        "6": {
+          "": {
+            "1": 1,
+            "2": "決定"
+          }
+        },
+        "7": {
+          "": {
+            "1": 2,
+            "2": "取消"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 8,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 6
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 7
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 5
+            }
+          },
+          "3": {
+            "R1": {
+              "0": 10,
+              "2": 4
+            }
+          },
+          "4": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "5": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "6": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "7": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 31,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "8": {
+    "darts0": {
+      "message": "Fléchettes",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur"
+          }
+        },
+        "3": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "4": {
+          "": {
+            "1": 2,
+            "2": "Confirmer / Lancer"
+          }
+        },
+        "5": {
+          "": {
+            "1": 36,
+            "2": "Déplacer la caméra (lors du tour de l'adversaire)"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 4
+            }
+          },
+          "2": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "3": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "4": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "5": {
+            "r_stick": {
+              "0": 36,
+              "2": 5
+            }
+          }
+        }
+      },
+      "manual": 24,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "9": {
+    "gym_bp": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "gym_sq": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "gym_dl": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "gym_sj": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "gym_lp": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "gym_sr": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "clan0": {
+      "message": "Clan Creator (Combat)",
+      "buttons": {
+        "ROW_COUNT": 13,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 12,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur"
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Activer une compétence spéciale"
+          }
+        },
+        "4": {
+          "": {
+            "1": 9,
+            "2": "Séléctionner une unité"
+          }
+        },
+        "5": {
+          "": {
+            "1": 10,
+            "2": "Séléctionner une unité"
+          }
+        },
+        "6": {
+          "": {
+            "1": 6,
+            "2": "Éveiller un esprit"
+          }
+        },
+        "7": {
+          "": {
+            "1": 5,
+            "2": "Changer à l'unité sélectionnée"
+          }
+        },
+        "8": {
+          "": {
+            "1": 1,
+            "2": "Sélectionner l'unité la plus proche"
+          }
+        },
+        "9": {
+          "": {
+            "1": 2,
+            "2": "Déplacer l'unité"
+          }
+        },
+        "10": {
+          "": {
+            "1": 8,
+            "2": "Augmenter la vitesse du curseur"
+          }
+        },
+        "11": {
+          "": {
+            "1": 36,
+            "2": "Changer d'équipement"
+          }
+        },
+        "12": {
+          "": {
+            "1": 7,
+            "2": "Zoom Special Skill Display In/Out"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 13,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 8
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 9
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 7
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 6
+            }
+          },
+          "4": {
+            "L2": {
+              "0": 7,
+              "2": 12
+            }
+          },
+          "5": {
+            "R2": {
+              "0": 8,
+              "2": 10
+            }
+          },
+          "6": {
+            "L1": {
+              "0": 9,
+              "2": 4
+            }
+          },
+          "7": {
+            "R1": {
+              "0": 10,
+              "2": 5
+            }
+          },
+          "8": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "9": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "10": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "11": {
+            "r_stick": {
+              "0": 36,
+              "2": 11
+            }
+          },
+          "12": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 15,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "16": {
+    "karaoke0": {
+      "message": "Karaoké (Chant)",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 6,
+            "2": "Appui / Appui Rapide / Maintenir pour chanter  "
+          }
+        },
+        "3": {
+          "": {
+            "1": 5,
+            "2": "Appui / Appui Rapide / Maintenir pour chanter  "
+          }
+        },
+        "4": {
+          "": {
+            "1": 4,
+            "2": "Appui / Appui Rapide / Maintenir pour chanter  "
+          }
+        },
+        "5": {
+          "": {
+            "1": 3,
+            "2": "Appui / Appui Rapide / Maintenir pour chanter  "
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "batsu": {
+              "0": 3,
+              "2": 5
+            }
+          },
+          "1": {
+            "maru": {
+              "0": 4,
+              "2": 4
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 3
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 2
+            }
+          },
+          "4": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "5": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          }
+        }
+      },
+      "manual": 23,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "17": {
+    "baby0": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "saisen0": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "livechat0": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "sega_fzn": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "21": {
+    "sega_hng": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "22": {
+    "sega_otr": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "23": {
+    "sega_sph": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "24": {
+    "clan1": {
+      "message": "Clan Creator (Menu)",
+      "buttons": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "1": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur"
+          }
+        },
+        "2": {
+          "": {
+            "1": 37,
+            "2": "Déplacer le curseur"
+          }
+        },
+        "3": {
+          "": {
+            "1": 1,
+            "2": "Retour"
+          }
+        },
+        "4": {
+          "": {
+            "1": 2,
+            "2": "Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 5,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 4
+            }
+          },
+          "2": {
+            "options": {
+              "0": 11,
+              "2": 0
+            }
+          },
+          "3": {
+            "l_stick": {
+              "0": 35,
+              "2": 1
+            }
+          },
+          "4": {
+            "d_pad": {
+              "0": 37,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 39,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "25": {
+    "karaoke1": {
+      "message": "Karaoké (Interjections)",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 6,
+            "2": "Interjection"
+          }
+        },
+        "3": {
+          "": {
+            "1": 5,
+            "2": "Maracas"
+          }
+        },
+        "4": {
+          "": {
+            "1": 4,
+            "2": "Tambourin"
+          }
+        },
+        "5": {
+          "": {
+            "1": 3,
+            "2": "Frapper dans les mains"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "batsu": {
+              "0": 3,
+              "2": 5
+            }
+          },
+          "1": {
+            "maru": {
+              "0": 4,
+              "2": 4
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 3
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 2
+            }
+          },
+          "4": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "5": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          }
+        }
+      },
+      "manual": 23,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "26": {
+    "snack1": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "27": {
+    "batting1": {
+      "message": "Batting Center",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter\nToucher pour déplacer le curseur du swing\nRelâcher pour faire un swing avec la batte"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur du swing"
+          }
+        },
+        "3": {
+          "": {
+            "1": 6,
+            "2": "Règles"
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Faire un swing avec la batte/Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 3
+            }
+          },
+          "3": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "4": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "5": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 40,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "28": {
+    "snack2": {
+      "manual": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "29": {
+    "": {
+      "manual": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "30": {
+    "": {
+      "manual": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "31": {
+    "pause_majima": {
+      "message": "Afficher les commandes",
+      "buttons": {
+        "ROW_COUNT": 14,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 13,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 8,
+            "2": "Attaque spéciale",
+            "4": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": 7,
+            "2": "Réinitialiser la caméra/Désactiver Actions Heat",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 9,
+            "2": "Parer",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 10,
+            "2": "Posture de combat",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 6,
+            "2": "Attaque puissante/Action Heat",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 5,
+            "2": "Attaque faible",
+            "4": 0
+          }
+        },
+        "6": {
+          "": {
+            "1": 4,
+            "2": "Attaque spéciale",
+            "4": 0
+          }
+        },
+        "7": {
+          "": {
+            "1": 3,
+            "2": "Pas chassé/Courir (Hors combat)",
+            "4": 0
+          }
+        },
+        "8": {
+          "": {
+            "1": 36,
+            "2": "Déplacer la caméra",
+            "4": 0
+          }
+        },
+        "9": {
+          "": {
+            "1": 35,
+            "2": "Déplacer",
+            "4": 0
+          }
+        },
+        "10": {
+          "": {
+            "1": 14,
+            "2": "Vue Première Personne (Hors combat)",
+            "4": 0
+          }
+        },
+        "11": {
+          "": {
+            "1": 15,
+            "2": "Sortir la caméra (Hors combat)",
+            "4": 0
+          }
+        },
+        "12": {
+          "": {
+            "1": 12,
+            "2": "Voir la carte",
+            "4": 0
+          }
+        },
+        "13": {
+          "": {
+            "1": 11,
+            "2": "Ouvrir le Menu Pause",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 14,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "batsu": {
+              "0": 3,
+              "2": 7
+            }
+          },
+          "1": {
+            "maru": {
+              "0": 4,
+              "2": 6
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 5
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 4
+            }
+          },
+          "4": {
+            "L2": {
+              "0": 7,
+              "2": 1
+            }
+          },
+          "5": {
+            "R2": {
+              "0": 8,
+              "2": 0
+            }
+          },
+          "6": {
+            "L1": {
+              "0": 9,
+              "2": 2
+            }
+          },
+          "7": {
+            "R1": {
+              "0": 10,
+              "2": 3
+            }
+          },
+          "8": {
+            "options": {
+              "0": 11,
+              "2": 13
+            }
+          },
+          "9": {
+            "touch_pad": {
+              "0": 12,
+              "2": 12
+            }
+          },
+          "10": {
+            "R3": {
+              "0": 14,
+              "2": 10
+            }
+          },
+          "11": {
+            "up": {
+              "0": 15,
+              "2": 11
+            }
+          },
+          "12": {
+            "l_stick": {
+              "0": 35,
+              "2": 9
+            }
+          },
+          "13": {
+            "r_stick": {
+              "0": 36,
+              "2": 8
+            }
+          }
+        }
+      },
+      "manual": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "32": {
+    "ufo_catcher0": {
+      "message": "UFO Catcher",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "1": {
+          "": {
+            "1": 35,
+            "2": "Déplacer caméra à gauche/droite"
+          }
+        },
+        "2": {
+          "": {
+            "1": 36,
+            "2": "Déplacer caméra à gauche/droite"
+          }
+        },
+        "3": {
+          "": {
+            "1": 5,
+            "2": "Insérer 500 yens"
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Quitter"
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Déplacer pince"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 3
+            }
+          },
+          "3": {
+            "options": {
+              "0": 11,
+              "2": 0
+            }
+          },
+          "4": {
+            "l_stick": {
+              "0": 35,
+              "2": 1
+            }
+          },
+          "5": {
+            "r_stick": {
+              "0": 36,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 72,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "33": {
+    "blackjack": {
+      "message": "Blackjack",
+      "buttons": {
+        "ROW_COUNT": 9,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter",
+            "4": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Sélectionner une action/Modifier la mise",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Sélectionner une action/Modifier la mise",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Annuler",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Confirmer",
+            "4": 0
+          }
+        },
+        "6": {
+          "": {
+            "1": 6,
+            "2": "Utiliser un objet",
+            "4": 0
+          }
+        },
+        "7": {
+          "": {
+            "1": 9,
+            "2": "Déplacer la caméra",
+            "4": 0
+          }
+        },
+        "8": {
+          "": {
+            "1": 10,
+            "2": "Déplacer la caméra",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 9,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 6
+            }
+          },
+          "3": {
+            "L1": {
+              "0": 9,
+              "2": 7
+            }
+          },
+          "4": {
+            "R1": {
+              "0": 10,
+              "2": 8
+            }
+          },
+          "5": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "6": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "7": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "8": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 110,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "34": {
+    "poker": {
+      "message": "Poker",
+      "buttons": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter",
+            "4": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Sélectionner une action",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Sélectionner une action",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Annuler",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Confirmer",
+            "4": 0
+          }
+        },
+        "6": {
+          "": {
+            "1": 6,
+            "2": "Utiliser un objet",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 7,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 6
+            }
+          },
+          "3": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "4": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "5": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "6": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 12,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "35": {
+    "toilets0": {
+      "message": "Toylets",
+      "buttons": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 6,
+            "2": "Règles"
+          }
+        },
+        "3": {
+          "": {
+            "1": 8,
+            "2": "Augmenter l'intensité du débit"
+          }
+        },
+        "4": {
+          "": {
+            "1": 7,
+            "2": "Diminuer l'intensité du débit"
+          }
+        },
+        "5": {
+          "": {
+            "1": 4,
+            "2": "Annuler"
+          }
+        },
+        "6": {
+          "": {
+            "1": 2,
+            "2": "Commencer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 7,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "cancel": {
+              "0": 2,
+              "2": 6
+            }
+          },
+          "1": {
+            "maru": {
+              "0": 4,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 2
+            }
+          },
+          "3": {
+            "L2": {
+              "0": 7,
+              "2": 4
+            }
+          },
+          "4": {
+            "R2": {
+              "0": 8,
+              "2": 3
+            }
+          },
+          "5": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "6": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          }
+        }
+      },
+      "manual": 73,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "36": {
+    "": {
+      "manual": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "37": {
+    "golf": {
+      "message": "Golf",
+      "buttons": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Changer la direction du tir"
+          }
+        },
+        "3": {
+          "": {
+            "1": 1,
+            "2": "Annuler le tir"
+          }
+        },
+        "4": {
+          "": {
+            "1": 2,
+            "2": "Commencer le tir (Régler la puissance et l'impact)"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 5,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 4
+            }
+          },
+          "2": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "3": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "4": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 108,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "38": {
+    "shogi": {
+      "message": "Shogi",
+      "buttons": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "1": {
+          "": {
+            "1": 37,
+            "2": "Déplacer curseur"
+          }
+        },
+        "2": {
+          "": {
+            "1": 5,
+            "2": "Retrait"
+          }
+        },
+        "3": {
+          "": {
+            "1": 10,
+            "2": "Détail des pièces"
+          }
+        },
+        "4": {
+          "": {
+            "1": 9,
+            "2": "Super Retrait"
+          }
+        },
+        "5": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "6": {
+          "": {
+            "1": 2,
+            "2": "Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 7,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 5
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 6
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 2
+            }
+          },
+          "3": {
+            "L1": {
+              "0": 9,
+              "2": 4
+            }
+          },
+          "4": {
+            "R1": {
+              "0": 10,
+              "2": 3
+            }
+          },
+          "5": {
+            "options": {
+              "0": 11,
+              "2": 0
+            }
+          },
+          "6": {
+            "d_pad": {
+              "0": 37,
+              "2": 1
+            }
+          }
+        }
+      },
+      "manual": 116,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "39": {
+    "kabu": {
+      "message": "Oicho-kabu",
+      "buttons": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter",
+            "4": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer curseur",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Déplacer curseur",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Retour",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Sélectionner",
+            "4": 0
+          }
+        },
+        "6": {
+          "": {
+            "1": 6,
+            "2": "Voir les règles",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 7,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 6
+            }
+          },
+          "3": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "4": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "5": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "6": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 10,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "40": {
+    "koikoi": {
+      "message": "Koi-koi",
+      "buttons": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter",
+            "4": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer curseur",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Déplacer curseur",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Retour",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Sélectionner",
+            "4": 0
+          }
+        },
+        "6": {
+          "": {
+            "1": 6,
+            "2": "Voir les règles",
+            "4": 0
+          }
+        },
+        "7": {
+          "": {
+            "1": 5,
+            "2": "Mains",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 8,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 7
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 6
+            }
+          },
+          "4": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "5": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "6": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "7": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 9,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "41": {
+    "cabaret_island": {
+      "message": "Cabaret Club Grand Prix",
+      "buttons": {
+        "ROW_COUNT": 7,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "1": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur"
+          }
+        },
+        "2": {
+          "": {
+            "1": 6,
+            "2": "Aide"
+          }
+        },
+        "3": {
+          "": {
+            "1": 1,
+            "2": "Retour"
+          }
+        },
+        "4": {
+          "": {
+            "1": 2,
+            "2": "Sélectionner"
+          }
+        },
+        "5": {
+          "": {
+            "1": 10,
+            "2": "Activer le mode Fever"
+          }
+        },
+        "6": {
+          "": {
+            "1": 37,
+            "2": "Déplacer le curseur"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 7,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 4
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 2
+            }
+          },
+          "3": {
+            "R1": {
+              "0": 10,
+              "2": 5
+            }
+          },
+          "4": {
+            "options": {
+              "0": 11,
+              "2": 0
+            }
+          },
+          "5": {
+            "l_stick": {
+              "0": 35,
+              "2": 1
+            }
+          },
+          "6": {
+            "d_pad": {
+              "0": 37,
+              "2": 6
+            }
+          }
+        }
+      },
+      "manual": 74,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "42": {
+    "photo_studio": {
+      "message": "Gravure Studio",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter",
+            "4": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes",
+            "4": 0
+          }
+        },
+        "2": {
+          "": {
+            "1": 6,
+            "2": "Sélectionner le morceau de phrase",
+            "4": 0
+          }
+        },
+        "3": {
+          "": {
+            "1": 5,
+            "2": "Sélectionner le morceau de phrase",
+            "4": 0
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Réinitialiser la sélection",
+            "4": 0
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Sélectionner le morceau de phrase",
+            "4": 0
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 3
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 2
+            }
+          },
+          "4": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "5": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          }
+        }
+      },
+      "manual": 109,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "43": {
+    "batting2": {
+      "message": "Batting Center",
+      "buttons": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter\nToucher pour déplacer le curseur du swing\nRelâcher pour faire un swing avec la batte"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur du swing"
+          }
+        },
+        "3": {
+          "": {
+            "1": 6,
+            "2": "Règles"
+          }
+        },
+        "4": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "5": {
+          "": {
+            "1": 2,
+            "2": "Faire un swing avec la batte\r\nConfirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 6,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "sankaku": {
+              "0": 6,
+              "2": 3
+            }
+          },
+          "3": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "4": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "5": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 117,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "44": {
+    "bouncer": {
+      "message": "Bouncer",
+      "buttons": {
+        "ROW_COUNT": 13,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 13,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Ouvrir le Menu Pause"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Marcher/Courir"
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Changer d'arme"
+          }
+        },
+        "4": {
+          "": {
+            "1": 9,
+            "2": "Parer/Changer de type d'attrape"
+          }
+        },
+        "5": {
+          "": {
+            "1": 10,
+            "2": "Posture de combat"
+          }
+        },
+        "6": {
+          "": {
+            "1": 6,
+            "2": "Attaque puissante/Coup décisif\nAction Heat"
+          }
+        },
+        "7": {
+          "": {
+            "1": 5,
+            "2": "Attaque faible/Attaque chargé"
+          }
+        },
+        "8": {
+          "": {
+            "1": 1,
+            "2": "Attraper / Jeter / Lancer /\r\nAttaque spéciale (Quand vous tenez une arme)"
+          }
+        },
+        "9": {
+          "": {
+            "1": 2,
+            "2": "Pas chassé"
+          }
+        },
+        "10": {
+          "": {
+            "1": 8,
+            "2": "Mode Extreme Heat"
+          }
+        },
+        "11": {
+          "": {
+            "1": 36,
+            "2": "Déplacer la caméra"
+          }
+        },
+        "12": {
+          "": {
+            "1": 7,
+            "2": "Réinitialiser la caméra"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 13,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 8
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 9
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 7
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 6
+            }
+          },
+          "4": {
+            "L2": {
+              "0": 7,
+              "2": 12
+            }
+          },
+          "5": {
+            "R2": {
+              "0": 8,
+              "2": 10
+            }
+          },
+          "6": {
+            "L1": {
+              "0": 9,
+              "2": 4
+            }
+          },
+          "7": {
+            "R1": {
+              "0": 10,
+              "2": 5
+            }
+          },
+          "8": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "9": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "10": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "11": {
+            "r_stick": {
+              "0": 36,
+              "2": 11
+            }
+          },
+          "12": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 120,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "45": {
+    "": {
+      "manual": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "46": {
+    "batting3": {
+      "message": "Batting Center",
+      "buttons": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter\nToucher pour déplacer le curseur du swing\nRelâcher pour faire un swing avec la batte"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Déplacer le curseur du swing"
+          }
+        },
+        "3": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "4": {
+          "": {
+            "1": 2,
+            "2": "Faire un swing avec la batte/Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 5,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 4
+            }
+          },
+          "2": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "3": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "4": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          }
+        }
+      },
+      "manual": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "47": {
+    "mahjong0_b": {
+      "buttons": {
+        "ROW_COUNT": 9,
+        "COLUMN_COUNT": 5,
+        "TEXT_COUNT": 8,
+        "ROW_VALIDATOR": -1,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": false,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": false,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "0",
+          "4": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 2,
+          "2": 0,
+          "3": -1,
+          "4": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 0,
+          "2": 12,
+          "3": -1,
+          "4": -1
+        },
+        "0": {
+          "": {
+            "1": 12,
+            "2": "Pause/Quitter"
+          }
+        },
+        "1": {
+          "": {
+            "1": 11,
+            "2": "Afficher les commandes"
+          }
+        },
+        "2": {
+          "": {
+            "1": 35,
+            "2": "Sélectionner une tuile"
+          }
+        },
+        "3": {
+          "": {
+            "1": 37,
+            "2": "Sélectionner une tuile"
+          }
+        },
+        "4": {
+          "": {
+            "1": 9,
+            "2": "Consulter la défausse"
+          }
+        },
+        "5": {
+          "": {
+            "1": 6,
+            "2": "Afficher tutoriel"
+          }
+        },
+        "6": {
+          "": {
+            "1": 5,
+            "2": "Activer/désactiver affichage des commandes"
+          }
+        },
+        "7": {
+          "": {
+            "1": 1,
+            "2": "Annuler"
+          }
+        },
+        "8": {
+          "": {
+            "1": 2,
+            "2": "Confirmer"
+          }
+        },
+        "subTable": {
+          "ROW_COUNT": 9,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "decide": {
+              "0": 1,
+              "2": 7
+            }
+          },
+          "1": {
+            "cancel": {
+              "0": 2,
+              "2": 8
+            }
+          },
+          "2": {
+            "shikaku": {
+              "0": 5,
+              "2": 6
+            }
+          },
+          "3": {
+            "sankaku": {
+              "0": 6,
+              "2": 5
+            }
+          },
+          "4": {
+            "L1": {
+              "0": 9,
+              "2": 4
+            }
+          },
+          "5": {
+            "options": {
+              "0": 11,
+              "2": 1
+            }
+          },
+          "6": {
+            "touch_pad": {
+              "0": 12,
+              "2": 0
+            }
+          },
+          "7": {
+            "l_stick": {
+              "0": 35,
+              "2": 2
+            }
+          },
+          "8": {
+            "d_pad": {
+              "0": 37,
+              "2": 3
+            }
+          }
+        }
+      },
+      "manual": 122,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  }
+}

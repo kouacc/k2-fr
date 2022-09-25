@@ -1,0 +1,792 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 90,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 32,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1",
+    "ai_type": "1",
+    "level": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0,
+    "ai_type": 2,
+    "level": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12,
+    "ai_type": 0,
+    "level": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "0": {
+    "": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "rank_kamuro00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "rank_kamuro01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "rank_kamuro02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "rank_kamuro03": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "rank_kamuro04": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "rank_kamuro05": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "rank_kamuro06": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "rank_kamuro07": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "rank_kamuro08": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "rank_kamuro09": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "rank_kamuro10": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "rank_kamuro11": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "rank_kamuro12": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "rank_kamuro13": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "rank_kamuro14": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "rank_kamuro15": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "rank_kamuro16": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "rank_kamuro17": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "rank_kamuro18": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "rank_kamuro19": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "rank_kamuro20": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "rank_kamuro21": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "rank_kamuro22": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "rank_kamuro23": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "rank_kamuro24": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "rank_kamuro25": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "rank_kamuro26": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "rank_kamuro27": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "rank_kamuro28": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "strong_kamuro00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "strong_kamuro01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "strong_kamuro02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "strong_kamuro03": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "strong_kamuro04": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "normal_kamuro00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "normal_kamuro01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "normal_kamuro02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "normal_kamuro03": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "normal_kamuro04": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "weak_kamuro00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "weak_kamuro01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "weak_kamuro02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "weak_kamuro03": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "weak_kamuro04": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "rarabai_weak00": {
+      "text": "Tora le bon à rien",
+      "ai_type": 5,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "46": {
+    "rarabai_weak01": {
+      "text": "Sudo le canard boiteux",
+      "ai_type": 10,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "47": {
+    "rarabai_weak02": {
+      "text": "Harai le vorace",
+      "ai_type": 3,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "48": {
+    "rarabai_weak03": {
+      "text": "Ogin au tsumo rapide",
+      "ai_type": 6,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "49": {
+    "rarabai_weak04": {
+      "text": "Satomi l'aimable",
+      "ai_type": 9,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "50": {
+    "rarabai_middle00": {
+      "text": "Maeda le doux",
+      "ai_type": 3,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "51": {
+    "rarabai_middle01": {
+      "text": "Takato le studieux",
+      "ai_type": 11,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "52": {
+    "rarabai_middle02": {
+      "text": "Nakamoto l'incapable",
+      "ai_type": 4,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "53": {
+    "rarabai_middle03": {
+      "text": "Sanada l'hystérique",
+      "ai_type": 7,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "54": {
+    "rarabai_middle04": {
+      "text": "Sachiko l'amatrice de saumon",
+      "ai_type": 2,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "55": {
+    "kindai_middle00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "56": {
+    "kindai_middle01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "57": {
+    "kindai_middle02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "58": {
+    "kindai_middle03": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "59": {
+    "kindai_middle04": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "60": {
+    "kindai_strong00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "61": {
+    "kindai_strong01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "62": {
+    "kindai_strong02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "63": {
+    "kindai_strong03": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "64": {
+    "kindai_strong04": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "65": {
+    "rarabai_event_00": {
+      "text": "Sasagawa le noir",
+      "ai_type": 1,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "66": {
+    "rarabai_event_01": {
+      "text": "Le roi du Lullaby",
+      "ai_type": 6,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "67": {
+    "rarabai_event_02": {
+      "text": "Kiyoko l'impassible",
+      "ai_type": 7,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "68": {
+    "kindai_event_00": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "69": {
+    "kindai_event_01": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "70": {
+    "kindai_event_02": {
+      "ai_type": 0,
+      "level": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "71": {
+    "souten_event_00": {
+      "text": "Sakata la grosse bouffe",
+      "ai_type": 8,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "72": {
+    "souten_event_01": {
+      "text": "Kasayama le colosse",
+      "ai_type": 3,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "73": {
+    "souten_event_02": {
+      "text": "Tomoko la chanceuse",
+      "ai_type": 4,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "74": {
+    "souten_middle00": {
+      "text": "Kamatari le vétéran",
+      "ai_type": 1,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "75": {
+    "souten_middle01": {
+      "text": "Domoto le malin",
+      "ai_type": 1,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "76": {
+    "souten_middle02": {
+      "text": "Nesumi le rapide",
+      "ai_type": 8,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "77": {
+    "souten_middle03": {
+      "text": "Mamiko l'ambitieuse",
+      "ai_type": 8,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "78": {
+    "souten_middle04": {
+      "text": "Sakamoto le bluffeur",
+      "ai_type": 2,
+      "level": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "79": {
+    "souten_strong00": {
+      "text": "Kotani la bonne mine",
+      "ai_type": 1,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "80": {
+    "souten_strong01": {
+      "text": "Nagumo le conquérant",
+      "ai_type": 1,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "81": {
+    "souten_strong02": {
+      "text": "Yoshiura le distrait",
+      "ai_type": 8,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "82": {
+    "souten_strong03": {
+      "text": "Masako en platine",
+      "ai_type": 8,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "83": {
+    "souten_strong04": {
+      "text": "Omigawa la bigote",
+      "ai_type": 2,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "84": {
+    "suba21_week00": {
+      "text": "Mitsui le chasseur amateur",
+      "ai_type": 1,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "85": {
+    "suba21_week01": {
+      "text": "Gohto la hyène",
+      "ai_type": 4,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "86": {
+    "suba21_week02": {
+      "text": "Nakayama le fourmi-lion",
+      "ai_type": 4,
+      "level": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "87": {
+    "souten_event_03": {
+      "text": "Chama sans précédent",
+      "ai_type": 1,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "88": {
+    "souten_event_04": {
+      "text": "Tanabe le démon du mahjong",
+      "ai_type": 1,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "89": {
+    "souten_event_05": {
+      "text": "Kikuchi le chanceux",
+      "ai_type": 1,
+      "level": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  }
+}

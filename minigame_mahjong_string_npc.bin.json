@@ -1,0 +1,862 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 89,
+  "COLUMN_COUNT": 11,
+  "TEXT_COUNT": 257,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "ゲーム中の独り言_4": "1",
+    "ゲーム中の独り言_2": "1",
+    "桐生リーチ時_3": "1",
+    "桐生が長考_1": "1",
+    "開始時_3": "1",
+    "桐生がツモ_3": "1",
+    "振込み時_2": "1",
+    "アガリ時_2": "1",
+    "汎用　喜び_2": "1",
+    "汎用　悔しい_2": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "ゲーム中の独り言_4": 0,
+    "ゲーム中の独り言_2": 0,
+    "桐生リーチ時_3": 0,
+    "桐生が長考_1": 0,
+    "開始時_3": 0,
+    "桐生がツモ_3": 0,
+    "振込み時_2": 0,
+    "アガリ時_2": 0,
+    "汎用　喜び_2": 0,
+    "汎用　悔しい_2": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "ゲーム中の独り言_4": 12,
+    "ゲーム中の独り言_2": 12,
+    "桐生リーチ時_3": 12,
+    "桐生が長考_1": 12,
+    "開始時_3": 12,
+    "桐生がツモ_3": 12,
+    "振込み時_2": 12,
+    "アガリ時_2": 12,
+    "汎用　喜び_2": 12,
+    "汎用　悔しい_2": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "npc_kamuro00": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "npc_kamuro01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "npc_kamuro02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "npc_kamuro03": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "npc_kamuro04": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "npc_kamuro05": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "npc_kamuro06": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "npc_kamuro07": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "npc_kamuro08": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "npc_kamuro09": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "npc_kamuro10": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "npc_kamuro11": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "npc_kamuro12": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "npc_kamuro13": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "npc_kamuro14": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "npc_kamuro15": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "npc_kamuro16": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "npc_kamuro17": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "npc_kamuro18": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "npc_kamuro19": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "npc_kamuro20": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "npc_kamuro21": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "npc_kamuro22": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "npc_kamuro23": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "npc_kamuro24": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "npc_kamuro25": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "npc_kamuro26": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "npc_kamuro27": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "npc_kamuro28": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "npc_kamtak00": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "npc_kamtak01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "npc_kamtak02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "npc_kamtak03": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "npc_kamtak04": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "npc_kamtak05": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "npc_kamtak06": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "npc_kamtak07": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "npc_kamtak08": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "npc_kamtak09": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "npc_kamtak10": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "npc_kamtak11": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "npc_kamtak12": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "npc_kamtak13": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "npc_kamtak14": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "npc_yui": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "npc_rina": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "rarabai_weak00": {
+      "ゲーム中の独り言_4": "Je me battrai jusqu'au bout !",
+      "ゲーム中の独り言_2": "Je suis invincible !",
+      "桐生リーチ時_3": "Oh, je vois !",
+      "桐生が長考_1": "Plus vite que ça !",
+      "開始時_3": "J'aime les défis.",
+      "桐生がツモ_3": "Joue pas avec moi !",
+      "振込み時_2": "Sérieux ?!",
+      "アガリ時_2": "C'est génial !",
+      "汎用　喜び_2": "Oui !",
+      "汎用　悔しい_2": "J'y crois pas.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "48": {
+    "rarabai_weak01": {
+      "ゲーム中の独り言_4": "Bien joué.",
+      "ゲーム中の独り言_2": "Qu'est-ce que je peux faire...",
+      "桐生リーチ時_3": "Hm ? Déjà ?",
+      "桐生が長考_1": "Ne me fais pas attendre.",
+      "開始時_3": "Je vais y aller mollo avec toi.",
+      "桐生がツモ_3": "Bonnes tuiles.",
+      "振込み時_2": "Pourquoi tant de méchanceté ?",
+      "アガリ時_2": "Ça se présente bien.",
+      "汎用　喜び_2": "Hihihi !",
+      "汎用　悔しい_2": "Je déteste ce jeu !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "49": {
+    "rarabai_weak02": {
+      "ゲーム中の独り言_4": "Je ne peux pas perdre",
+      "ゲーム中の独り言_2": "Un jeu d'enfant",
+      "桐生リーチ時_3": "J'aime ça.",
+      "桐生が長考_1": "Ahem. J'attends.",
+      "開始時_3": "L'heure d'un peu de fun.",
+      "桐生がツモ_3": "C'est pas possible.",
+      "振込み時_2": "Oùest-ce que je me suis planté ?",
+      "アガリ時_2": "J'ai du talent ET de la chance.",
+      "汎用　喜び_2": "Prends ça !",
+      "汎用　悔しい_2": "Comme c'est décevant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "50": {
+    "rarabai_weak03": {
+      "ゲーム中の独り言_4": "Du thé ! Et que ça saute !",
+      "ゲーム中の独り言_2": "Sa femme est sans intérêt...",
+      "桐生リーチ時_3": "Tu croix que tu peux me battre ?",
+      "桐生が長考_1": "Je vais t'apprendre les bonnes manières.",
+      "開始時_3": "Je vais te montrer comment on fait.",
+      "桐生がツモ_3": "Faut que je reste sur mes gardes.",
+      "振込み時_2": "Tu essaies de me discréditer ?",
+      "アガリ時_2": "Je vais y aller mollo avec toi.",
+      "汎用　喜び_2": "Hé, pas mal !",
+      "汎用　悔しい_2": "C'est pas juste !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "51": {
+    "rarabai_weak04": {
+      "ゲーム中の独り言_4": "J'ai besoin de vacances.",
+      "ゲーム中の独り言_2": "Oh, c'est bon.",
+      "桐生リーチ時_3": "Allez, détends-toi un peu.",
+      "桐生が長考_1": "On n'a pas toute la journée.",
+      "開始時_3": "Je vais adorer ça.",
+      "桐生がツモ_3": "Vas-y, amuse-moi.",
+      "振込み時_2": "Pas possible...",
+      "アガリ時_2": "Ça ne t'a pas suffi ?",
+      "汎用　喜び_2": "C'est ça.",
+      "汎用　悔しい_2": "Oh, bon sang.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "52": {
+    "rarabai_middle00": {
+      "ゲーム中の独り言_4": "Va falloir que ça change...",
+      "ゲーム中の独り言_2": "Merde !",
+      "桐生リーチ時_3": "Fais pas le malin.",
+      "桐生が長考_1": "Réfléchis pas trop, ça sert à rien.",
+      "開始時_3": "Tu vas perdre.",
+      "桐生がツモ_3": "Oh, bon sang.",
+      "振込み時_2": "Hé, c'est la vie.",
+      "アガリ時_2": "Ça m'a l'air bien.",
+      "汎用　喜び_2": "Pas mal, pas mal.",
+      "汎用　悔しい_2": "Comment diable...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "53": {
+    "rarabai_middle01": {
+      "ゲーム中の独り言_4": "Ça va trop loin...",
+      "ゲーム中の独り言_2": "Pfff...",
+      "桐生リーチ時_3": "Pas mal.",
+      "桐生が長考_1": "Allez, dépêche-toi.",
+      "開始時_3": "Et voilà !",
+      "桐生がツモ_3": "Une petite seconde !",
+      "振込み時_2": "Bordel...",
+      "アガリ時_2": "Hahaha !",
+      "汎用　喜び_2": "Très bien !",
+      "汎用　悔しい_2": "Merde !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "54": {
+    "rarabai_middle02": {
+      "ゲーム中の独り言_4": "Pas si mal.",
+      "ゲーム中の独り言_2": "Ça donne quoi ?",
+      "桐生リーチ時_3": "T'as joué ? Je vois.",
+      "桐生が長考_1": "Le temps, c'est de l'argent.",
+      "開始時_3": "C'est qu'une question de chance.",
+      "桐生がツモ_3": "File-moi un peu de ta chance.",
+      "振込み時_2": "La chance a tourné ?",
+      "アガリ時_2": "À moi la fortune !",
+      "汎用　喜び_2": "Je peux pas m'empêcher de rire !",
+      "汎用　悔しい_2": "Oh merde !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "55": {
+    "rarabai_middle03": {
+      "ゲーム中の独り言_4": "Tu n'es pas à la hauteur.",
+      "ゲーム中の独り言_2": "Pas si mal.",
+      "桐生リーチ時_3": "Aha, je vois.",
+      "桐生が長考_1": "T'as eu une bonne main ?",
+      "開始時_3": "La victoire est à moi.",
+      "桐生がツモ_3": "Un petit tsumo ?",
+      "振込み時_2": "Euh. Pas très malin...",
+      "アガリ時_2": "Ça me va.",
+      "汎用　喜び_2": "Ah ouais !",
+      "汎用　悔しい_2": "C'était nul.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "56": {
+    "rarabai_middle04": {
+      "ゲーム中の独り言_4": "Où je peux mettre cette friandise ?",
+      "ゲーム中の独り言_2": "Je gagne une misère...",
+      "桐生リーチ時_3": "Ne sois pas comme ça.",
+      "桐生が長考_1": "Dépêche-toi, tu veux ?",
+      "開始時_3": "J'ai un jeu de folie !",
+      "桐生がツモ_3": "Huh ?",
+      "振込み時_2": "C'est une blague ?!",
+      "アガリ時_2": "Excuse...",
+      "汎用　喜び_2": "Cool !",
+      "汎用　悔しい_2": "Comment c'est possible ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "57": {
+    "kindai_middle00": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "58": {
+    "kindai_middle01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "59": {
+    "kindai_middle02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "60": {
+    "kindai_middle03": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "61": {
+    "kindai_middle04": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "62": {
+    "kindai_strong00": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "63": {
+    "kindai_strong01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "64": {
+    "kindai_strong02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "65": {
+    "kindai_strong03": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "66": {
+    "kindai_strong04": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "67": {
+    "rarabai_event_00": {
+      "ゲーム中の独り言_4": "Ne sois pas trop sûr de toi.",
+      "ゲーム中の独り言_2": "Qu'est-ce qu'on a là ?",
+      "桐生リーチ時_3": "On commence juste.",
+      "桐生が長考_1": "Bouge-toi.",
+      "開始時_3": "Je vais te détruire.",
+      "桐生がツモ_3": "Tu te débrouilles bien en fait.",
+      "振込み時_2": "La chance a tourné.",
+      "アガリ時_2": "Tu me battras jamais.",
+      "汎用　喜び_2": "Très bien !",
+      "汎用　悔しい_2": "Je comprends pas...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "68": {
+    "rarabai_event_01": {
+      "ゲーム中の独り言_4": "Va falloir que ça change...",
+      "ゲーム中の独り言_2": "Merde !",
+      "桐生リーチ時_3": "Fais pas le malin.",
+      "桐生が長考_1": "Réfléchis pas trop, ça sert à rien.",
+      "開始時_3": "Tu vas perdre.",
+      "桐生がツモ_3": "Oh, bon sang.",
+      "振込み時_2": "Hé, c'est la vie.",
+      "アガリ時_2": "Ça m'a l'air bien.",
+      "汎用　喜び_2": "Pas mal, pas mal.",
+      "汎用　悔しい_2": "Comment diable...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "69": {
+    "rarabai_event_02": {
+      "ゲーム中の独り言_4": "Je pourrais bien gagner !",
+      "ゲーム中の独り言_2": "Je déteste perdre...",
+      "桐生リーチ時_3": "C'est tellement excitant !",
+      "桐生が長考_1": "Hé, tu dors ou quoi ?",
+      "開始時_3": "Je vais pas prendre de risque, là.",
+      "桐生がツモ_3": "Quel bol !",
+      "振込み時_2": "T'aurais pu laisser passer !",
+      "アガリ時_2": "Rien de personnel.",
+      "汎用　喜び_2": "... Comme prévu.",
+      "汎用　悔しい_2": "Comment c'est possible ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "70": {
+    "kindai_event_00": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "71": {
+    "kindai_event_01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "72": {
+    "kindai_event_02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "73": {
+    "souten_event_00": {
+      "ゲーム中の独り言_4": "Ce n'est que le début...",
+      "ゲーム中の独り言_2": "Silence. On est en plein combat.",
+      "桐生リーチ時_3": "Ton insolence a assez duré.",
+      "桐生が長考_1": "Le temps est une ressource précieuse.",
+      "開始時_3": "Bien, commençons alors.",
+      "桐生がツモ_3": "... Tu te débrouilles bien, en effet.",
+      "振込み時_2": "C'est la fin pour moi...",
+      "アガリ時_2": "Excuse-moi.",
+      "汎用　喜び_2": "Merci.",
+      "汎用　悔しい_2": "Quel dommage.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "74": {
+    "souten_event_01": {
+      "ゲーム中の独り言_4": "L'heure est venue de briller.",
+      "ゲーム中の独り言_2": "Ça s'annonce bien.",
+      "桐生リーチ時_3": "Quel coup audacieux !",
+      "桐生が長考_1": "Réfléchir ne te servira à rien.",
+      "開始時_3": "Je me demande si tu peux me battre.",
+      "桐生がツモ_3": "La chance est de ton côté.",
+      "振込み時_2": "Bah, c'est juste un mauvais jour.",
+      "アガリ時_2": "Je suis un pro du mahjong.",
+      "汎用　喜び_2": "Suuuper.",
+      "汎用　悔しい_2": "J'en ai plus qu'assez.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "75": {
+    "souten_event_02": {
+      "ゲーム中の独り言_4": "La tension monte.",
+      "ゲーム中の独り言_2": "Je me demande comment ça va finir.",
+      "桐生リーチ時_3": "Ce suspens est insupportable !",
+      "桐生が長考_1": "C'est franchement ennuyeux.",
+      "開始時_3": "La victoire est à moi, on dirait.",
+      "桐生がツモ_3": "Je t'en veux vraiment...",
+      "振込み時_2": "J'ai vraiment pas de chance aujourd'hui.",
+      "アガリ時_2": "Héhé... J'ai gagné.",
+      "汎用　喜び_2": "Héhéhéhé...",
+      "汎用　悔しい_2": "Arf, quelle surprise.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "76": {
+    "souten_middle00": {
+      "ゲーム中の独り言_4": "Ouah, j'assure !",
+      "ゲーム中の独り言_2": "Mince, la chance n'est pas de mon côté...",
+      "桐生リーチ時_3": "Tu as une sacrée veine.",
+      "桐生が長考_1": "Pas la peine de réfléchir des heures.",
+      "開始時_3": "J'espère avoir de la chance...",
+      "桐生がツモ_3": "Bouh.",
+      "振込み時_2": "Aïe...",
+      "アガリ時_2": "C'est une joie immense !",
+      "汎用　喜び_2": "On y va !",
+      "汎用　悔しい_2": "Pas cool.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "77": {
+    "souten_middle01": {
+      "ゲーム中の独り言_4": "Je le sens bien !",
+      "ゲーム中の独り言_2": "Je m'ennuie ici.",
+      "桐生リーチ時_3": "C'est pô juste !",
+      "桐生が長考_1": "T'as perdu connaissance ?",
+      "開始時_3": "Oh oh. Tu as Neuf portes ?",
+      "桐生がツモ_3": "J'ai failli avoir une crise cardiaque !",
+      "振込み時_2": "Qu'est-ce que... ?!",
+      "アガリ時_2": "La chance est de mon côté !",
+      "汎用　喜び_2": "Très bien !",
+      "汎用　悔しい_2": "J'ai pas de chance.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "78": {
+    "souten_middle02": {
+      "ゲーム中の独り言_4": "Ces tirages sont nuls.",
+      "ゲーム中の独り言_2": "Tout va bien...",
+      "桐生リーチ時_3": "Oh, doucement.",
+      "桐生が長考_1": "Oh hum...",
+      "開始時_3": "Je sens que ça va être long...",
+      "桐生がツモ_3": "Hein ? Ça ?",
+      "振込み時_2": "Oh... je vois.",
+      "アガリ時_2": "Quel bol !",
+      "汎用　喜び_2": "Oh oui, oui, oui !",
+      "汎用　悔しい_2": "Hé, attends !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "79": {
+    "souten_middle03": {
+      "ゲーム中の独り言_4": "On a quoi pour le dîner ?",
+      "ゲーム中の独り言_2": "Ça, c'est un bon tirage.",
+      "桐生リーチ時_3": "Quelle agressivité...",
+      "桐生が長考_1": "J'ai un rendez-vous après.",
+      "開始時_3": "Tu me vaincras pas si facilement !",
+      "桐生がツモ_3": "C'était moins une...",
+      "振込み時_2": "J'aimerais revenir en arrière.",
+      "アガリ時_2": "Ah, j'ai de la peine pour toi.",
+      "汎用　喜び_2": "Aha, j'ai réussi !",
+      "汎用　悔しい_2": "Ce jeu est nul...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "80": {
+    "souten_middle04": {
+      "ゲーム中の独り言_4": "Cette table est truquée ou quoi ?",
+      "ゲーム中の独り言_2": "Je maîtrise la partie.",
+      "桐生リーチ時_3": "Un jeu d'enfant.",
+      "桐生が長考_1": "Le temps, c'est de l'argent, tu sais.",
+      "開始時_3": "Ça devient intéressant.",
+      "桐生がツモ_3": "Voyons comment ça se passe.",
+      "振込み時_2": "Ouais, je l'ai vu venir.",
+      "アガリ時_2": "Désolé pour cette victoire sans mérite.",
+      "汎用　喜び_2": "Parfait.",
+      "汎用　悔しい_2": "... Merde, terminé pour moi.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "81": {
+    "souten_strong00": {
+      "ゲーム中の独り言_4": "Ce n'est pas un jeu de hasard.",
+      "ゲーム中の独り言_2": "Je vais te dévorer vivant.",
+      "桐生リーチ時_3": "Alors c'est comme ça que tu joues...",
+      "桐生が長考_1": "J'ai une faim de loup.",
+      "開始時_3": "Je doute que quiconque puisse m'arrêter.",
+      "桐生がツモ_3": "Tu es indestructible.",
+      "振込み時_2": "Non, ça ne peut pas finir comme ça !",
+      "アガリ時_2": "Je suis vraiment à fond, là.",
+      "汎用　喜び_2": "Je suis au sommet du monde.",
+      "汎用　悔しい_2": "Je rêve ?!",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "82": {
+    "souten_strong01": {
+      "ゲーム中の独り言_4": "Je commence à trouver mon rythme.",
+      "ゲーム中の独り言_2": "Je peux pas abandonner maintenant.",
+      "桐生リーチ時_3": "C'est un problème.",
+      "桐生が長考_1": "Tu fous mon rythme en l'air.",
+      "開始時_3": "Je ne peux pas perdre cette partie.",
+      "桐生がツモ_3": "C'est sûrement un gros coup de chance...",
+      "振込み時_2": "Hein ? C'est n'importe quoi.",
+      "アガリ時_2": "Je travaille mon muscle du mahjong.",
+      "汎用　喜び_2": "J'ai carrément réussi !",
+      "汎用　悔しい_2": "Ça a pas l'air cool...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "83": {
+    "souten_strong02": {
+      "ゲーム中の独り言_4": "Le mahjong, c'est toute ma vie.",
+      "ゲーム中の独り言_2": "Je me battrai jusqu'au bout.",
+      "桐生リーチ時_3": "Comment tu as pu faire un riichi aussi vite ?",
+      "桐生が長考_1": "J'espère vraiment que tu dors pas.",
+      "開始時_3": "Le feu du mahjong brûle en moi.",
+      "桐生がツモ_3": "Tu as gagné.",
+      "振込み時_2": "C'est tout simplement impossible.",
+      "アガリ時_2": "J'ai gagné ! J'ai gagné !",
+      "汎用　喜び_2": "Hahahahaha !",
+      "汎用　悔しい_2": "Ridicule.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "84": {
+    "souten_strong03": {
+      "ゲーム中の独り言_4": "Il n'y a pas meilleur jeu que le mahjong.",
+      "ゲーム中の独り言_2": "De quoi je vais me débarrasser ?",
+      "桐生リーチ時_3": "Oooh, joli riichi !",
+      "桐生が長考_1": "Hé, c'est à moi ?",
+      "開始時_3": "Youhou, on va s'amuser maintenant !",
+      "桐生がツモ_3": "Quoi ? Tu as déjà un tsumo ?",
+      "振込み時_2": "Nooon, comme c'est méchant !",
+      "アガリ時_2": "Quelle chance ! Incroyable !",
+      "汎用　喜び_2": "Ouais, c'est le meilleur !",
+      "汎用　悔しい_2": "Quoi ? C'est nul !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "85": {
+    "souten_strong04": {
+      "ゲーム中の独り言_4": "J'ai un bon pressentiment !",
+      "ゲーム中の独り言_2": "J'espère gagner cette partie...",
+      "桐生リーチ時_3": "Mon coeur va exploser !",
+      "桐生が長考_1": "Quel rabat-joie !",
+      "開始時_3": "Je peux peut-être gagner cette partie !",
+      "桐生がツモ_3": "Quelle poisse !",
+      "振込み時_2": "Bon sang, j'ai perdu !",
+      "アガリ時_2": "Aha, à moi la victoire !",
+      "汎用　喜び_2": "C'était incroyable !",
+      "汎用　悔しい_2": "Hein ? Pas possible...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "86": {
+    "suba21_week00": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "87": {
+    "suba21_week01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "88": {
+    "suba21_week02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 85
+    }
+  }
+}

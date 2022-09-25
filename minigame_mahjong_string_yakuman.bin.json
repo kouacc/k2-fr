@@ -1,0 +1,87 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 8,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 7,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "text": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "text": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "text": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "yakuman": {
+      "text": "Yakuman",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "double_yakuman": {
+      "text": "Double Yakuman",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "triple_yakuman": {
+      "text": "Triple Yakuman",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "yonbai_yakuman": {
+      "text": "Yakuman 4x",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "gobai_yakuman": {
+      "text": "Yakuman 5x",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "rokubai_yakuman": {
+      "text": "Yakuman 6x",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "nanabai_yakuman": {
+      "text": "Yakuman 7x",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  }
+}

@@ -1,0 +1,3259 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 326,
+  "COLUMN_COUNT": 5,
+  "TEXT_COUNT": 276,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "movie": "1",
+    "appearance_timing": "1",
+    "display_time": "1",
+    "message": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "movie": 1,
+    "appearance_timing": 7,
+    "display_time": 7,
+    "message": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "movie": 1,
+    "appearance_timing": 9,
+    "display_time": 9,
+    "message": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "0": {
+    "": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_01": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_02": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "test_03": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "test_04": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "test_05": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "test_06": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "test_07": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "test_08": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "test_09": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "test_10": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "test_11": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "test_12": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "test_13": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "test_14": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "test_15": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "test_16": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "test_17": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "test_18": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "test_19": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "test_20": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "test_21": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "test_22": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "test_23": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "test_24": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "test_25": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "test_26": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "test_27": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "test_28": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "test_29": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "test_30": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "test_31": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "test_32": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "test_33": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "test_34": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "test_35": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "test_36": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "test_37": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "test_38": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "test_39": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "test_40": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "test_41": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "test_42": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "test_43": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "aoyama00_01": {
+      "movie": 580,
+      "appearance_timing": 5.0,
+      "display_time": 1.899999976158142,
+      "message": "Bonjour ! Je m'appelle Hikaru !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "aoyama00_02": {
+      "movie": 580,
+      "appearance_timing": 7.099999904632568,
+      "display_time": 2.0,
+      "message": "C'est un plaisir de vous rencontrer !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "46": {
+    "aoyama01_01": {
+      "movie": 581,
+      "appearance_timing": 1.5,
+      "display_time": 3.0,
+      "message": "Merci de m'avoir choisi aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "47": {
+    "aoyama01_02": {
+      "movie": 581,
+      "appearance_timing": 5.0,
+      "display_time": 3.0,
+      "message": "Je vais tout donner, alors amusons-nous !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "48": {
+    "aoyama02_01": {
+      "movie": 582,
+      "appearance_timing": 1.5,
+      "display_time": 4.0,
+      "message": "Vous pouvez prendre autant de photos que vous le voulez aujourd'hui.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "49": {
+    "aoyama02_02": {
+      "movie": 582,
+      "appearance_timing": 6.0,
+      "display_time": 3.0,
+      "message": "Bonne affaire, vous ne pensez pas ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "50": {
+    "aoyama03_01": {
+      "movie": 583,
+      "appearance_timing": 1.0,
+      "display_time": 2.9000000953674316,
+      "message": "Maintenant, allons-y !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "51": {
+    "aoyama03_02": {
+      "movie": 583,
+      "appearance_timing": 4.099999904632568,
+      "display_time": 2.9000000953674316,
+      "message": "Au fait, ce sont mes vêtements réguliers.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "52": {
+    "aoyama03_03": {
+      "movie": 583,
+      "appearance_timing": 7.199999809265137,
+      "display_time": 1.0,
+      "message": "De quoi ai-je l'air ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "53": {
+    "aoyama04_01": {
+      "movie": 584,
+      "appearance_timing": 2.0,
+      "display_time": 2.5,
+      "message": "Ravie de l'entendre ! Dans ce cas...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "54": {
+    "aoyama04_02": {
+      "movie": 584,
+      "appearance_timing": 5.0,
+      "display_time": 2.0,
+      "message": "Qu'en pensez-vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "55": {
+    "aoyama05_01": {
+      "movie": 585,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Hein ? Vous en voulez <font_kind=yakuza_italic>plus</font_kind> ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "56": {
+    "aoyama05_02": {
+      "movie": 585,
+      "appearance_timing": 5.0,
+      "display_time": 5.0,
+      "message": "J'ai compris ! Vous devez penser à quelque chose de pervers.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "57": {
+    "aoyama06_01": {
+      "movie": 586,
+      "appearance_timing": 2.0,
+      "display_time": 3.0,
+      "message": "Alors, que dites-vous de ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "58": {
+    "aoyama06_02": {
+      "movie": 586,
+      "appearance_timing": 7.0,
+      "display_time": 4.0,
+      "message": "Cela vous convient-il ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "59": {
+    "aoyama07_01": {
+      "movie": 587,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Ah ! C'est déjà l'heure ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "60": {
+    "aoyama07_02": {
+      "movie": 587,
+      "appearance_timing": 3.5,
+      "display_time": 4.0,
+      "message": "La prochaine fois, je pourrais vous en montrer un peu plus.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "61": {
+    "aoyama07_03": {
+      "movie": 587,
+      "appearance_timing": 8.0,
+      "display_time": 3.0,
+      "message": "Eh bien, à plus tard !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "62": {
+    "aoyama08_01": {
+      "movie": 588,
+      "appearance_timing": 1.0,
+      "display_time": 3.9000000953674316,
+      "message": "Oh, c'est dommage. Je suppose que le temps est écoulé.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "63": {
+    "aoyama08_02": {
+      "movie": 588,
+      "appearance_timing": 5.099999904632568,
+      "display_time": 3.5,
+      "message": "Si vous en voulez plus... revenez bientôt, d'accord ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "64": {
+    "aoyama08_03": {
+      "movie": 588,
+      "appearance_timing": 9.0,
+      "display_time": 3.0,
+      "message": "Bye bye !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "65": {
+    "aoyama09_01": {
+      "movie": 589,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Merci !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "66": {
+    "aoyama10_01": {
+      "movie": 590,
+      "appearance_timing": 0.5,
+      "display_time": 4.0,
+      "message": "Vous aimez ? J'en suis ravi !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "67": {
+    "aoyama11_01": {
+      "movie": 591,
+      "appearance_timing": 2.0,
+      "display_time": 2.5,
+      "message": "C'est ça !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "68": {
+    "aoyama12_01": {
+      "movie": 592,
+      "appearance_timing": 3.0,
+      "display_time": 1.0,
+      "message": "Salut !　",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "69": {
+    "aoyama12_02": {
+      "movie": 592,
+      "appearance_timing": 4.5,
+      "display_time": 2.9000000953674316,
+      "message": "Ce n'est pas votre première fois, n'est-ce pas ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "70": {
+    "aoyama12_03": {
+      "movie": 592,
+      "appearance_timing": 7.599999904632568,
+      "display_time": 2.0,
+      "message": "Je me souviens de vous.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "71": {
+    "aoyama13_01": {
+      "movie": 593,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Hein ? Vous ne me faites pas confiance ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "72": {
+    "aoyama13_02": {
+      "movie": 593,
+      "appearance_timing": 5.0,
+      "display_time": 2.0,
+      "message": "Mais je me souviens <font_kind=yakuza_italic>vraiment</font_kind> de vous...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "73": {
+    "aoyama14_01": {
+      "movie": 594,
+      "appearance_timing": 1.5,
+      "display_time": 3.5,
+      "message": "Bref, je vais faire toutes sortes de poses aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "74": {
+    "aoyama14_02": {
+      "movie": 594,
+      "appearance_timing": 8.0,
+      "display_time": 2.0,
+      "message": "Que dites-vous de ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "75": {
+    "aoyama15_01": {
+      "movie": 595,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Mais il faut que vous me mettiez dans l'ambiance.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "76": {
+    "aoyama15_02": {
+      "movie": 595,
+      "appearance_timing": 4.5,
+      "display_time": 2.0,
+      "message": "Compris ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "77": {
+    "aoyama16_01": {
+      "movie": 596,
+      "appearance_timing": 2.0,
+      "display_time": 2.0,
+      "message": "Comment sont ces photos ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "78": {
+    "aoyama16_02": {
+      "movie": 596,
+      "appearance_timing": 4.5,
+      "display_time": 3.0,
+      "message": "Faites-moi savoir si vous avez des requêtes.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "79": {
+    "aoyama17_01": {
+      "movie": 597,
+      "appearance_timing": 1.0,
+      "display_time": 6.0,
+      "message": "Hé, alors... ça fait quelque chose pour toi ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "80": {
+    "aoyama17_02": {
+      "movie": 597,
+      "appearance_timing": 8.0,
+      "display_time": 3.5,
+      "message": "J'ai confiance en cette pose.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "81": {
+    "aoyama18_01": {
+      "movie": 598,
+      "appearance_timing": 1.5,
+      "display_time": 2.299999952316284,
+      "message": "Hé, quel genre de photos prenez-vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "82": {
+    "aoyama18_02": {
+      "movie": 598,
+      "appearance_timing": 4.0,
+      "display_time": 4.0,
+      "message": "Je serai vraiment en colère si elles ne sont pas bonnes !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "83": {
+    "aoyama19_01": {
+      "movie": 599,
+      "appearance_timing": 1.0,
+      "display_time": 4.5,
+      "message": "Ahh, on dirait que le temps est écoulé ! Vous vous êtes bien amusé ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "84": {
+    "aoyama19_02": {
+      "movie": 599,
+      "appearance_timing": 5.800000190734863,
+      "display_time": 2.9000000953674316,
+      "message": "La prochaine fois, j'aurai une tenue spéciale pour vous.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "85": {
+    "aoyama19_03": {
+      "movie": 599,
+      "appearance_timing": 9.100000381469727,
+      "display_time": 2.0,
+      "message": "À plus tard !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "86": {
+    "aoyama20_01": {
+      "movie": 600,
+      "appearance_timing": 0.5,
+      "display_time": 2.5,
+      "message": "Oh, c'est l'heure.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "87": {
+    "aoyama20_02": {
+      "movie": 600,
+      "appearance_timing": 4.0,
+      "display_time": 2.4000000953674316,
+      "message": "Revenez si vous voulez photographier un peu plus.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "88": {
+    "aoyama20_03": {
+      "movie": 600,
+      "appearance_timing": 6.5,
+      "display_time": 2.0,
+      "message": "À la prochaine fois ! ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "89": {
+    "aoyama21_01": {
+      "movie": 601,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Ok !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "90": {
+    "aoyama22_01": {
+      "movie": 602,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Hein ? C'est vraiment ce que vous voulez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "91": {
+    "aoyama23_01": {
+      "movie": 603,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Contente que ça vous plaise !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "92": {
+    "aoyama24_01": {
+      "movie": 604,
+      "appearance_timing": 3.0,
+      "display_time": 3.0,
+      "message": "Salut ! Bienvenue à mon cours de cheerleading !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "93": {
+    "aoyama24_02": {
+      "movie": 604,
+      "appearance_timing": 6.5,
+      "display_time": 2.5,
+      "message": "C'est ce que je vais porter aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "94": {
+    "aoyama25_01": {
+      "movie": 605,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Maintenant il est temps d'encourager. Mais d'abord...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "95": {
+    "aoyama25_02": {
+      "movie": 605,
+      "appearance_timing": 4.5,
+      "display_time": 3.0,
+      "message": "Je dois faire quelque chose.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "96": {
+    "aoyama26_01": {
+      "movie": 606,
+      "appearance_timing": 2.0,
+      "display_time": 2.0,
+      "message": "Vous avez trouvé ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "97": {
+    "aoyama26_02": {
+      "movie": 606,
+      "appearance_timing": 4.5,
+      "display_time": 3.5,
+      "message": "Si vous êtes correct... Je vous donnerai quelque chose de spécial.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "98": {
+    "aoyama27_01": {
+      "movie": 607,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "La réponse est... les étirements !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "99": {
+    "aoyama27_02": {
+      "movie": 607,
+      "appearance_timing": 4.0,
+      "display_time": 2.700000047683716,
+      "message": "Je dois me détendre avant de faire de l'exercice.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "100": {
+    "aoyama28_01": {
+      "movie": 608,
+      "appearance_timing": 1.0,
+      "display_time": 3.9000000953674316,
+      "message": "Vous savez, je ne suis pas vraiment si flexible.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "101": {
+    "aoyama28_02": {
+      "movie": 608,
+      "appearance_timing": 5.0,
+      "display_time": 2.5,
+      "message": "Les étirements ne sont pas faciles pour moi.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "102": {
+    "aoyama29_01": {
+      "movie": 609,
+      "appearance_timing": 1.0,
+      "display_time": 1.5,
+      "message": "Vous pouvez m'aider si vous voulez.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "103": {
+    "aoyama29_02": {
+      "movie": 609,
+      "appearance_timing": 3.0,
+      "display_time": 4.0,
+      "message": "Oh, mais je suppose que vous avez les mains pleines...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "104": {
+    "aoyama30_01": {
+      "movie": 610,
+      "appearance_timing": 1.5,
+      "display_time": 1.899999976158142,
+      "message": "Ensuite, il est temps d'encourager !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "105": {
+    "aoyama30_02": {
+      "movie": 610,
+      "appearance_timing": 3.5999999046325684,
+      "display_time": 2.5,
+      "message": "Prenez beaucoup de photos ! C'est parti !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "106": {
+    "aoyama31_01": {
+      "movie": 611,
+      "appearance_timing": 1.0,
+      "display_time": 1.5,
+      "message": "Alors ? Qu'est-ce que vous en pensez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "107": {
+    "aoyama31_02": {
+      "movie": 611,
+      "appearance_timing": 3.0,
+      "display_time": 2.5,
+      "message": "Vous voulez autre chose la prochaine fois ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "108": {
+    "aoyama31_03": {
+      "movie": 611,
+      "appearance_timing": 6.0,
+      "display_time": 3.0,
+      "message": "Très bien, je vais vous donner quelque chose de spécial !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "109": {
+    "aoyama32_01": {
+      "movie": 612,
+      "appearance_timing": 1.0,
+      "display_time": 2.4000000953674316,
+      "message": "Oh, on n'a plus de temps.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "110": {
+    "aoyama32_02": {
+      "movie": 612,
+      "appearance_timing": 3.5,
+      "display_time": 2.4000000953674316,
+      "message": "Je suis impatiente pour la prochaine fois.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "111": {
+    "aoyama33_01": {
+      "movie": 613,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "C'est bien, non ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "112": {
+    "aoyama34_01": {
+      "movie": 614,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "C'est vrai ? Je le pense aussi !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 319
+    }
+  },
+  "113": {
+    "aoyama35_01": {
+      "movie": 615,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Hein ? Vous le pensez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "114": {
+    "aoyama36_01": {
+      "movie": 616,
+      "appearance_timing": 4.0,
+      "display_time": 3.0,
+      "message": "Salut !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "115": {
+    "aoyama36_02": {
+      "movie": 616,
+      "appearance_timing": 8.0,
+      "display_time": 2.5,
+      "message": "Bienvenue à la maison, Maître.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "116": {
+    "aoyama36_03": {
+      "movie": 616,
+      "appearance_timing": 11.0,
+      "display_time": 2.5,
+      "message": "Je suis une domestique aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "117": {
+    "aoyama37_01": {
+      "movie": 617,
+      "appearance_timing": 4.0,
+      "display_time": 2.4000000953674316,
+      "message": "Comment est ma tenue de domestique ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "118": {
+    "aoyama37_02": {
+      "movie": 617,
+      "appearance_timing": 6.5,
+      "display_time": 2.5,
+      "message": "Prenez beaucoup de photos aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "119": {
+    "aoyama38_01": {
+      "movie": 618,
+      "appearance_timing": 1.0,
+      "display_time": 4.400000095367432,
+      "message": "C'est l'heure de ma pose spéciale de demoiselle. Vous êtes prêt ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "120": {
+    "aoyama38_02": {
+      "movie": 618,
+      "appearance_timing": 5.5,
+      "display_time": 2.5,
+      "message": "Amour ! Amour ! Baiser !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "121": {
+    "aoyama39_01": {
+      "movie": 619,
+      "appearance_timing": 1.0,
+      "display_time": 2.9000000953674316,
+      "message": "Alors ? Vous avez eu une bonne photo ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "122": {
+    "aoyama39_02": {
+      "movie": 619,
+      "appearance_timing": 4.099999904632568,
+      "display_time": 6.0,
+      "message": "Hmmm... Quelle pose je devrais faire ensuite ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "123": {
+    "aoyama40_01": {
+      "movie": 620,
+      "appearance_timing": 1.0,
+      "display_time": 4.800000190734863,
+      "message": "Je pense qu'il est temps de nettoyer pour vous !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "124": {
+    "aoyama40_02": {
+      "movie": 620,
+      "appearance_timing": 6.5,
+      "display_time": 3.0,
+      "message": "Je vais rendre les choses encore plus étincelantes !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "125": {
+    "aoyama41_01": {
+      "movie": 621,
+      "appearance_timing": 3.0,
+      "display_time": 2.4000000953674316,
+      "message": "Ahh, le ménage est si dur.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "126": {
+    "aoyama41_02": {
+      "movie": 621,
+      "appearance_timing": 5.5,
+      "display_time": 4.0,
+      "message": "N'oubliez pas de me remercier, Maître !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "127": {
+    "aoyama42_01": {
+      "movie": 622,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Alors ? Comment était mon costume ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "128": {
+    "aoyama42_02": {
+      "movie": 622,
+      "appearance_timing": 5.5,
+      "display_time": 3.0,
+      "message": "Avez-vous pris de bonnes photos ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "129": {
+    "aoyama43_01": {
+      "movie": 623,
+      "appearance_timing": 1.5,
+      "display_time": 6.0,
+      "message": "Merci pour aujourd'hui. La prochaine fois, je vous en montrerai encore plus !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "130": {
+    "aoyama44_01": {
+      "movie": 624,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Oh, on dirait qu'on n'a plus de temps.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "131": {
+    "aoyama44_02": {
+      "movie": 624,
+      "appearance_timing": 4.0,
+      "display_time": 3.0,
+      "message": "Arrêtons pour aujourd'hui. Au revoir !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "132": {
+    "aoyama45_01": {
+      "movie": 625,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Vous êtes vraiment à fond dedans, Maître !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "133": {
+    "aoyama46_01": {
+      "movie": 626,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Merci !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "134": {
+    "aoyama47_01": {
+      "movie": 627,
+      "appearance_timing": 1.5,
+      "display_time": 4.0,
+      "message": "Hein ? Remuez-vous un peu !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "135": {
+    "aoyama48_01": {
+      "movie": 628,
+      "appearance_timing": 3.0,
+      "display_time": 1.899999976158142,
+      "message": "Merci d'être venu aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "136": {
+    "aoyama48_02": {
+      "movie": 628,
+      "appearance_timing": 5.099999904632568,
+      "display_time": 3.5,
+      "message": "Cette fois, je suis en maillot de bain d'école !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "137": {
+    "aoyama49_01": {
+      "movie": 629,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Peut-être que je suis trop agressive.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "138": {
+    "aoyama49_02": {
+      "movie": 629,
+      "appearance_timing": 4.0,
+      "display_time": 2.5,
+      "message": "Qu'en pensez-vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "139": {
+    "aoyama50_01": {
+      "movie": 630,
+      "appearance_timing": 2.0,
+      "display_time": 1.5,
+      "message": "Sympa, hein ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "140": {
+    "aoyama50_02": {
+      "movie": 630,
+      "appearance_timing": 4.0,
+      "display_time": 4.5,
+      "message": "Bien ! Juste... prenez beaucoup de photos pour moi, ok ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "141": {
+    "aoyama51_01": {
+      "movie": 631,
+      "appearance_timing": 1.0,
+      "display_time": 5.0,
+      "message": "Très bien, que dites-vous de ça pour commencer ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "142": {
+    "aoyama51_02": {
+      "movie": 0,
+      "appearance_timing": 0.0,
+      "display_time": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "143": {
+    "aoyama52_01": {
+      "movie": 632,
+      "appearance_timing": 2.0,
+      "display_time": 4.0,
+      "message": "Peut-être quelque chose comme ça ensuite ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "144": {
+    "aoyama52_02": {
+      "movie": 632,
+      "appearance_timing": 9.0,
+      "display_time": 3.0,
+      "message": "En fait, ça devient un peu serré...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "145": {
+    "aoyama53_01": {
+      "movie": 633,
+      "appearance_timing": 1.5,
+      "display_time": 3.5,
+      "message": "On voit si bien mes courbes...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "146": {
+    "aoyama53_02": {
+      "movie": 633,
+      "appearance_timing": 6.0,
+      "display_time": 3.0,
+      "message": "C'est un peu embarrassant !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "147": {
+    "aoyama54_01": {
+      "movie": 634,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Hé, pourquoi vous ne vous penchez pas un peu plus ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "148": {
+    "aoyama55_01": {
+      "movie": 635,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "C'est tout pour aujourd'hui.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "149": {
+    "aoyama55_02": {
+      "movie": 635,
+      "appearance_timing": 3.5,
+      "display_time": 1.5,
+      "message": "Merci pour toutes ces photos !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "150": {
+    "aoyama55_03": {
+      "movie": 635,
+      "appearance_timing": 5.5,
+      "display_time": 2.5,
+      "message": "J'ai hâte de vous revoir !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "151": {
+    "aoyama56_01": {
+      "movie": 636,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Oh, je pense que nous devons arrêter là pour aujourd'hui.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "152": {
+    "aoyama56_02": {
+      "movie": 636,
+      "appearance_timing": 5.0,
+      "display_time": 2.0,
+      "message": "À la prochaine fois !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "153": {
+    "aoyama57_01": {
+      "movie": 637,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Hein ? Vraiment ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "154": {
+    "aoyama58_01": {
+      "movie": 638,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Je me demande pourquoi...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "155": {
+    "aoyama59_01": {
+      "movie": 639,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Hein !? Vous êtes sérieux ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "156": {
+    "aoyama60_01": {
+      "movie": 640,
+      "appearance_timing": 3.0,
+      "display_time": 2.4000000953674316,
+      "message": "Ah, vous êtes encore là !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "157": {
+    "aoyama60_02": {
+      "movie": 640,
+      "appearance_timing": 5.599999904632568,
+      "display_time": 1.399999976158142,
+      "message": "Tada ! Qu'est-ce que vous en pensez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "158": {
+    "aoyama61_01": {
+      "movie": 641,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Je ne porte pas ça d'habitude...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "159": {
+    "aoyama61_02": {
+      "movie": 641,
+      "appearance_timing": 4.0,
+      "display_time": 3.0,
+      "message": "Mais vous êtes <font_kind=yakuza_italic>spécial</font_kind>.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 320
+    }
+  },
+  "160": {
+    "aoyama62_01": {
+      "movie": 642,
+      "appearance_timing": 1.0,
+      "display_time": 2.4000000953674316,
+      "message": "Prenez des tonnes de photos aujourd'hui, aussi !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "161": {
+    "aoyama62_02": {
+      "movie": 642,
+      "appearance_timing": 3.5999999046325684,
+      "display_time": 2.0,
+      "message": "Je vais vraiment tout donner.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "162": {
+    "aoyama63_01": {
+      "movie": 643,
+      "appearance_timing": 1.0,
+      "display_time": 3.9000000953674316,
+      "message": "Juste pour aujourd'hui, si vous m'excitez vraiment...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "163": {
+    "aoyama63_02": {
+      "movie": 643,
+      "appearance_timing": 5.099999904632568,
+      "display_time": 4.5,
+      "message": "Je pourrais faire un petit <font_kind=yakuza_italic>supplément</font_kind> pour vous.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "164": {
+    "aoyama64_01": {
+      "movie": 644,
+      "appearance_timing": 1.0,
+      "display_time": 5.5,
+      "message": "Alors, cette pose vous convient-elle ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "165": {
+    "aoyama65_01": {
+      "movie": 645,
+      "appearance_timing": 2.0,
+      "display_time": 2.4000000953674316,
+      "message": "Je suis vraiment à fond dedans maintenant.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "166": {
+    "aoyama65_02": {
+      "movie": 645,
+      "appearance_timing": 4.599999904632568,
+      "display_time": 3.0,
+      "message": "Que diriez-vous de... ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "167": {
+    "aoyama66_01": {
+      "movie": 646,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Maintenant, juste pour vous !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "168": {
+    "aoyama66_02": {
+      "movie": 646,
+      "appearance_timing": 4.0,
+      "display_time": 4.0,
+      "message": "C'est parti !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "169": {
+    "aoyama67_01": {
+      "movie": 647,
+      "appearance_timing": 0.5,
+      "display_time": 3.4000000953674316,
+      "message": "Merci d'avoir pris toutes ces photos de moi.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "170": {
+    "aoyama67_02": {
+      "movie": 647,
+      "appearance_timing": 4.5,
+      "display_time": 4.0,
+      "message": "Je vous laisse en prendre d'autres si vous voulez...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "171": {
+    "aoyama67_03": {
+      "movie": 647,
+      "appearance_timing": 20.5,
+      "display_time": 4.5,
+      "message": "Juste... gardez ça entre nous, ok ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "172": {
+    "aoyama68_01": {
+      "movie": 648,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Hmm, je ne suis pas vraiment d'humeur.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "173": {
+    "aoyama68_02": {
+      "movie": 648,
+      "appearance_timing": 5.0,
+      "display_time": 3.0,
+      "message": "C'est dommage. Arrêtons là !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "174": {
+    "aoyama69_01": {
+      "movie": 649,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "C'est une bonne photo !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "175": {
+    "aoyama70_01": {
+      "movie": 650,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Oui, c'est ça !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "176": {
+    "aoyama71_01": {
+      "movie": 651,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Hein ? Vraiment ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "177": {
+    "hashimoto00_01": {
+      "movie": 652,
+      "appearance_timing": 2.0,
+      "display_time": 2.9000000953674316,
+      "message": "Bonjour ! Je suis Rina !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "178": {
+    "hashimoto00_02": {
+      "movie": 652,
+      "appearance_timing": 5.099999904632568,
+      "display_time": 2.0,
+      "message": "Enchantée d'vous rencontrer !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "179": {
+    "hashimoto01_01": {
+      "movie": 653,
+      "appearance_timing": 3.299999952316284,
+      "display_time": 2.4000000953674316,
+      "message": "On a tout le temps du monde,",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "180": {
+    "hashimoto01_02": {
+      "movie": 653,
+      "appearance_timing": 6.099999904632568,
+      "display_time": 2.0,
+      "message": "alors prenez toutes les photos que vous voulez, d'accord ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "181": {
+    "hashimoto02_01": {
+      "movie": 654,
+      "appearance_timing": 1.5,
+      "display_time": 2.5,
+      "message": "Maintenant... c'est parti !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "182": {
+    "hashimoto02_02": {
+      "movie": 654,
+      "appearance_timing": 4.300000190734863,
+      "display_time": 2.0,
+      "message": "Des poses qu'vous attendez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "183": {
+    "hashimoto03_01": {
+      "movie": 655,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Ne soyez pas timide.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "184": {
+    "hashimoto03_02": {
+      "movie": 655,
+      "appearance_timing": 8.5,
+      "display_time": 2.0,
+      "message": "Et si on commençait par ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "185": {
+    "hashimoto04_01": {
+      "movie": 656,
+      "appearance_timing": 1.5,
+      "display_time": 2.5,
+      "message": "Vous êtes plutôt bon, vous le savez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "186": {
+    "hashimoto04_02": {
+      "movie": 656,
+      "appearance_timing": 4.800000190734863,
+      "display_time": 4.0,
+      "message": "Peut-être que je peux vous en montrer un peu plus.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "187": {
+    "hashimoto05_01": {
+      "movie": 657,
+      "appearance_timing": 1.0,
+      "display_time": 4.5,
+      "message": "Qu'est-ce que vous en pensez ? Tout ce que vous espériez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "188": {
+    "hashimoto05_02": {
+      "movie": 657,
+      "appearance_timing": 6.0,
+      "display_time": 3.0,
+      "message": "Bon sang, les hommes sont si prévisibles.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "189": {
+    "hashimoto06_01": {
+      "movie": 658,
+      "appearance_timing": 0.699999988079071,
+      "display_time": 2.5,
+      "message": "Hé, quel pervers !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "190": {
+    "hashimoto06_02": {
+      "movie": 658,
+      "appearance_timing": 4.0,
+      "display_time": 3.5,
+      "message": "Mais laissez-moi vous demander ceci... Vous en voulez plus ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "191": {
+    "hashimoto07_01": {
+      "movie": 659,
+      "appearance_timing": 1.0,
+      "display_time": 2.9000000953674316,
+      "message": "Ah, je suppose que nous n'avons déjà plus de temps.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "192": {
+    "hashimoto07_02": {
+      "movie": 659,
+      "appearance_timing": 4.099999904632568,
+      "display_time": 3.5,
+      "message": "Si vous revenez, je vous montrerai encore plus !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "193": {
+    "hashimoto08_01": {
+      "movie": 660,
+      "appearance_timing": 1.0,
+      "display_time": 4.400000095367432,
+      "message": "Ah, dommage. Je suppose que c'est tout pour aujourd'hui.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "194": {
+    "hashimoto08_02": {
+      "movie": 660,
+      "appearance_timing": 5.599999904632568,
+      "display_time": 2.5,
+      "message": "Revenez si vous voulez en prendre plus.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "195": {
+    "hashimoto09_01": {
+      "movie": 661,
+      "appearance_timing": 0.5,
+      "display_time": 2.0,
+      "message": "J'apprécie !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "196": {
+    "hashimoto10_01": {
+      "movie": 662,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Quoiii ? Je ne savais pas !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "197": {
+    "hashimoto11_01": {
+      "movie": 663,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Hein ? Vraiment ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 321
+    }
+  },
+  "198": {
+    "hashimoto12_01": {
+      "movie": 664,
+      "appearance_timing": 3.0,
+      "display_time": 3.0,
+      "message": "Saluuut ! C'est bon de voir que vous êtes revenu.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "199": {
+    "hashimoto12_02": {
+      "movie": 664,
+      "appearance_timing": 6.5,
+      "display_time": 3.0,
+      "message": "Vous commencez à aimer tous ces trucs de gravure ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "200": {
+    "hashimoto13_01": {
+      "movie": 665,
+      "appearance_timing": 2.0,
+      "display_time": 2.5,
+      "message": "Soyez franc avec moi.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "201": {
+    "hashimoto13_02": {
+      "movie": 665,
+      "appearance_timing": 5.0,
+      "display_time": 7.5,
+      "message": "C'est le genre de choses que vous recherchez <font_kind=yakuza_italic>vraiment</font_kind>, non ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "202": {
+    "hashimoto14_01": {
+      "movie": 666,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Mais... ne nous précipitons pas !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "203": {
+    "hashimoto14_02": {
+      "movie": 666,
+      "appearance_timing": 4.5,
+      "display_time": 3.4000000953674316,
+      "message": "Vous semblez être un homme mûr.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "204": {
+    "hashimoto14_03": {
+      "movie": 666,
+      "appearance_timing": 8.100000381469727,
+      "display_time": 1.5,
+      "message": "Je me trompe ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "205": {
+    "hashimoto15_01": {
+      "movie": 667,
+      "appearance_timing": 2.0,
+      "display_time": 4.0,
+      "message": "Hmmm, je le sens toujours pas.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "206": {
+    "hashimoto15_02": {
+      "movie": 667,
+      "appearance_timing": 7.0,
+      "display_time": 2.5,
+      "message": "Il faut que je m'y mette !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "207": {
+    "hashimoto16_01": {
+      "movie": 668,
+      "appearance_timing": 1.0,
+      "display_time": 2.4000000953674316,
+      "message": "Vous êtes vraiment bon à ça !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "208": {
+    "hashimoto16_02": {
+      "movie": 668,
+      "appearance_timing": 3.5999999046325684,
+      "display_time": 3.0,
+      "message": "Alors, quel genre de pose voulez-vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "209": {
+    "hashimoto17_01": {
+      "movie": 669,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Hein ? Alors c'est ça que vous aimez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "210": {
+    "hashimoto17_02": {
+      "movie": 669,
+      "appearance_timing": 4.300000190734863,
+      "display_time": 1.600000023841858,
+      "message": "Je demandais juste, cependant.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "211": {
+    "hashimoto17_03": {
+      "movie": 669,
+      "appearance_timing": 6.5,
+      "display_time": 3.0,
+      "message": "Je n'ai pas dit que j'allais le faire !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "212": {
+    "hashimoto18_01": {
+      "movie": 670,
+      "appearance_timing": 1.5,
+      "display_time": 2.0,
+      "message": "Je plaisante !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "213": {
+    "hashimoto18_02": {
+      "movie": 670,
+      "appearance_timing": 4.0,
+      "display_time": 4.0,
+      "message": "Alors, pour cette pose... Que dites-vous de ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "214": {
+    "hashimoto19_01": {
+      "movie": 671,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Satisfait ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "215": {
+    "hashimoto19_02": {
+      "movie": 671,
+      "appearance_timing": 4.0,
+      "display_time": 2.5,
+      "message": "Vous devez avoir très envie de moi !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "216": {
+    "hashimoto19_03": {
+      "movie": 671,
+      "appearance_timing": 7.0,
+      "display_time": 2.9000000953674316,
+      "message": "La prochaine fois, je vous en montrerai encore plus.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "217": {
+    "hashimoto19_04": {
+      "movie": 671,
+      "appearance_timing": 10.100000381469727,
+      "display_time": 2.5,
+      "message": "J'ai hâte d'y être !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "218": {
+    "hashimoto20_01": {
+      "movie": 672,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Mmm, je me sens un peu fatigué, alors on va s'arrêter là.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "219": {
+    "hashimoto20_02": {
+      "movie": 672,
+      "appearance_timing": 5.0,
+      "display_time": 3.0,
+      "message": "À la prochaine fois !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "220": {
+    "hashimoto21_01": {
+      "movie": 673,
+      "appearance_timing": 0.5,
+      "display_time": 3.0,
+      "message": "Vous êtes vraiment bon à ça !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "221": {
+    "hashimoto22_01": {
+      "movie": 674,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Hein ? C'est comme ça que ça se passe ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "222": {
+    "hashimoto23_01": {
+      "movie": 675,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "C'est bon à savoir !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "223": {
+    "hashimoto24_01": {
+      "movie": 676,
+      "appearance_timing": 3.0,
+      "display_time": 3.5,
+      "message": "Je suis vraiment désolée ! J'ai mis du temps à me changer !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "224": {
+    "hashimoto24_02": {
+      "movie": 676,
+      "appearance_timing": 7.0,
+      "display_time": 3.0,
+      "message": "Alors ? Vous aimez les lapins ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "225": {
+    "hashimoto25_01": {
+      "movie": 677,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Vous avez l'air sur la lune.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "226": {
+    "hashimoto25_02": {
+      "movie": 677,
+      "appearance_timing": 5.0,
+      "display_time": 4.0,
+      "message": "J'ai tenu ma promesse, alors maintenant vous devez me remercier.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "227": {
+    "hashimoto26_01": {
+      "movie": 678,
+      "appearance_timing": 1.0,
+      "display_time": 5.5,
+      "message": "Vous êtes impatient de commencer à photographier, hein ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "228": {
+    "hashimoto27_01": {
+      "movie": 679,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Vous devez être très excité !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "229": {
+    "hashimoto27_02": {
+      "movie": 679,
+      "appearance_timing": 3.5,
+      "display_time": 3.0,
+      "message": "Prenez toutes les photos que vous voulez !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "230": {
+    "hashimoto28_01": {
+      "movie": 680,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Alors ? Comment se présentent ces photos ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "231": {
+    "hashimoto28_02": {
+      "movie": 680,
+      "appearance_timing": 4.5,
+      "display_time": 3.0,
+      "message": "Ce n'est pas ma tenue habituelle, vous savez.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "232": {
+    "hashimoto28_03": {
+      "movie": 680,
+      "appearance_timing": 7.900000095367432,
+      "display_time": 3.0,
+      "message": "Je me demande si c'est elles sont bonnes.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "233": {
+    "hashimoto29_01": {
+      "movie": 681,
+      "appearance_timing": 1.0,
+      "display_time": 3.4000000953674316,
+      "message": "Hm ? Je suppose que je m'en sors bien.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "234": {
+    "hashimoto29_02": {
+      "movie": 681,
+      "appearance_timing": 4.599999904632568,
+      "display_time": 3.5,
+      "message": "Alors... peut-être que je peux vous donner d'autres poses !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "235": {
+    "hashimoto30_01": {
+      "movie": 682,
+      "appearance_timing": 1.5,
+      "display_time": 3.4000000953674316,
+      "message": "Je sais que tout ce que vous voulez faire c'est prendre des photos sexy.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "236": {
+    "hashimoto30_02": {
+      "movie": 682,
+      "appearance_timing": 5.599999904632568,
+      "display_time": 4.0,
+      "message": "Oh là là, si exigeant.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "237": {
+    "hashimoto31_01": {
+      "movie": 683,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Comment vous aimez mon petit lapin ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "238": {
+    "hashimoto31_02": {
+      "movie": 683,
+      "appearance_timing": 3.5,
+      "display_time": 2.0,
+      "message": "Vous avez pris de bonnes photos ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "239": {
+    "hashimoto31_03": {
+      "movie": 683,
+      "appearance_timing": 6.0,
+      "display_time": 3.0,
+      "message": "Je porterai quelque chose de nouveau la prochaine fois. À plus !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "240": {
+    "hashimoto32_01": {
+      "movie": 684,
+      "appearance_timing": 1.0,
+      "display_time": 4.5,
+      "message": "Hm, je suppose que je n'ai pas l'air bien là-dedans.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "241": {
+    "hashimoto32_02": {
+      "movie": 684,
+      "appearance_timing": 6.0,
+      "display_time": 3.5,
+      "message": "On arrête là pour aujourd'hui, hein ? À plus tard.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "242": {
+    "hashimoto33_01": {
+      "movie": 685,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Ce n'est pas une surprise !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "243": {
+    "hashimoto34_01": {
+      "movie": 686,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Ah oui ? Vous devez être gonflé à bloc !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "244": {
+    "hashimoto35_01": {
+      "movie": 687,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Vous croyez ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "245": {
+    "hashimoto36_01": {
+      "movie": 688,
+      "appearance_timing": 2.4000000953674316,
+      "display_time": 3.4000000953674316,
+      "message": "Salut ! Et joyeux Noël !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "246": {
+    "hashimoto36_02": {
+      "movie": 688,
+      "appearance_timing": 6.099999904632568,
+      "display_time": 3.0,
+      "message": "Je me suis achetée un costume de Père Noël aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "247": {
+    "hashimoto37_01": {
+      "movie": 689,
+      "appearance_timing": 1.0,
+      "display_time": 1.5,
+      "message": "Vous voulez un cadeau ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "248": {
+    "hashimoto37_02": {
+      "movie": 689,
+      "appearance_timing": 3.0,
+      "display_time": 1.399999976158142,
+      "message": "Laissez-moi voir.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 322
+    }
+  },
+  "249": {
+    "hashimoto37_03": {
+      "movie": 689,
+      "appearance_timing": 4.599999904632568,
+      "display_time": 1.399999976158142,
+      "message": "Que diriez-vous...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "250": {
+    "hashimoto38_01": {
+      "movie": 690,
+      "appearance_timing": 1.0,
+      "display_time": 1.899999976158142,
+      "message": "Le prochain est...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "251": {
+    "hashimoto38_02": {
+      "movie": 690,
+      "appearance_timing": 3.0999999046325684,
+      "display_time": 2.5,
+      "message": "Occasion de prendre des photos !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "252": {
+    "hashimoto39_01": {
+      "movie": 691,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Je plaisante !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "253": {
+    "hashimoto39_02": {
+      "movie": 691,
+      "appearance_timing": 3.5,
+      "display_time": 2.0,
+      "message": "Vous pouvez continuer toute la nuit.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "254": {
+    "hashimoto39_03": {
+      "movie": 691,
+      "appearance_timing": 6.099999904632568,
+      "display_time": 1.5,
+      "message": "Combien de temps pouvez-vous tenir ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 323
+    }
+  },
+  "255": {
+    "hashimoto40_01": {
+      "movie": 692,
+      "appearance_timing": 1.0,
+      "display_time": 7.0,
+      "message": "Et ensuite... Que pensez-vous de ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "256": {
+    "hashimoto40_02": {
+      "movie": 692,
+      "appearance_timing": 8.699999809265137,
+      "display_time": 4.0,
+      "message": "Je ne sais pas grand-chose sur le Père Noël. Vous aimez ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "257": {
+    "hashimoto41_01": {
+      "movie": 693,
+      "appearance_timing": 1.0,
+      "display_time": 5.0,
+      "message": "Vous voulez que le Père Noël descende dans votre cheminée ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 324
+    }
+  },
+  "258": {
+    "hashimoto41_02": {
+      "movie": 693,
+      "appearance_timing": 12.0,
+      "display_time": 1.0,
+      "message": "Qu'en dites-vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "259": {
+    "hashimoto42_01": {
+      "movie": 694,
+      "appearance_timing": 1.0,
+      "display_time": 5.5,
+      "message": "Oh, alors vous m'aimez bien ? C'est un bon garçon.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "260": {
+    "hashimoto42_02": {
+      "movie": 694,
+      "appearance_timing": 7.0,
+      "display_time": 4.0,
+      "message": "Je vais vous donner un cadeau alors, comme je l'ai promis.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "261": {
+    "hashimoto42_03": {
+      "movie": 694,
+      "appearance_timing": 12.0,
+      "display_time": 2.0,
+      "message": "Le voici !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "262": {
+    "hashimoto43_01": {
+      "movie": 695,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Alors ? Comment vous trouvez le costume de Père Noël ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "263": {
+    "hashimoto43_02": {
+      "movie": 695,
+      "appearance_timing": 3.200000047683716,
+      "display_time": 2.0,
+      "message": "Bon cadeau, hein ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "264": {
+    "hashimoto43_03": {
+      "movie": 695,
+      "appearance_timing": 6.199999809265137,
+      "display_time": 4.300000190734863,
+      "message": "Revenez bientôt ! J'aurai quelque chose d'autre pour vous !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "265": {
+    "hashimoto44_01": {
+      "movie": 696,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Mm, j'ai un peu froid...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "266": {
+    "hashimoto44_02": {
+      "movie": 696,
+      "appearance_timing": 4.0,
+      "display_time": 3.5,
+      "message": "Je ne veux pas être malade, alors on arrête là.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "267": {
+    "hashimoto44_03": {
+      "movie": 696,
+      "appearance_timing": 8.0,
+      "display_time": 2.0,
+      "message": "À plus tard..",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "268": {
+    "hashimoto45_01": {
+      "movie": 697,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Ah oui ? Merci.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "269": {
+    "hashimoto46_01": {
+      "movie": 698,
+      "appearance_timing": 0.5,
+      "display_time": 4.0,
+      "message": "Hein ? Vraiment ? Heureuse de l'entendre !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "270": {
+    "hashimoto47_01": {
+      "movie": 699,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Oh, ne sois pas si désagréable.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "271": {
+    "hashimoto48_01": {
+      "movie": 700,
+      "appearance_timing": 2.5,
+      "display_time": 5.0,
+      "message": "Tada ! C'est que des maillots de bain, tout le temps maintenant !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "272": {
+    "hashimoto48_02": {
+      "movie": 700,
+      "appearance_timing": 8.0,
+      "display_time": 4.0,
+      "message": "Merci beaucoup d'être venu !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "273": {
+    "hashimoto49_01": {
+      "movie": 701,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "J'aime bien cette réponse !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "274": {
+    "hashimoto49_02": {
+      "movie": 701,
+      "appearance_timing": 4.0,
+      "display_time": 2.5,
+      "message": "C'est pas vraiment mon truc...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "275": {
+    "hashimoto50_01": {
+      "movie": 702,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Je vais tout montrer aujourd'hui.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "276": {
+    "hashimoto50_02": {
+      "movie": 702,
+      "appearance_timing": 5.0,
+      "display_time": 4.0,
+      "message": "Vous ne trouvez pas que mon maillot de bain est mignon ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "277": {
+    "hashimoto51_01": {
+      "movie": 703,
+      "appearance_timing": 1.0,
+      "display_time": 4.5,
+      "message": "Ah ! C'est pas un regard coquin ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "278": {
+    "hashimoto51_02": {
+      "movie": 703,
+      "appearance_timing": 6.0,
+      "display_time": 3.0,
+      "message": "Qu'est-ce que je vais faire de vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "279": {
+    "hashimoto52_01": {
+      "movie": 704,
+      "appearance_timing": 1.0,
+      "display_time": 2.9000000953674316,
+      "message": "Maaais j'aime que mes hommes s'affirment.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "280": {
+    "hashimoto52_02": {
+      "movie": 704,
+      "appearance_timing": 4.099999904632568,
+      "display_time": 2.0,
+      "message": "Je suppose que je peux vous pardonner.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "281": {
+    "hashimoto53_01": {
+      "movie": 705,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Vous êtes un vrai carnivore.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 313
+    }
+  },
+  "282": {
+    "hashimoto53_02": {
+      "movie": 705,
+      "appearance_timing": 5.0,
+      "display_time": 3.5,
+      "message": "Dans ce cas, qu'est-ce que ça fait pour vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "283": {
+    "hashimoto54_01": {
+      "movie": 706,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Je me demande si le maillot de bain est trop stimulant...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "284": {
+    "hashimoto55_01": {
+      "movie": 707,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "Alors, vous avez aimé !?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "285": {
+    "hashimoto55_02": {
+      "movie": 707,
+      "appearance_timing": 3.9000000953674316,
+      "display_time": 2.9000000953674316,
+      "message": "J'ai un autre maillot de bain pour vous.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 278
+    }
+  },
+  "286": {
+    "hashimoto55_03": {
+      "movie": 707,
+      "appearance_timing": 7.099999904632568,
+      "display_time": 3.5,
+      "message": "Je l'apporterai la prochaine fois, alors soyez prêts !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 279
+    }
+  },
+  "287": {
+    "hashimoto56_01": {
+      "movie": 708,
+      "appearance_timing": 1.0,
+      "display_time": 5.5,
+      "message": "Hmmm, je suppose que c'était trop pour vous.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 280
+    }
+  },
+  "288": {
+    "hashimoto56_02": {
+      "movie": 708,
+      "appearance_timing": 7.0,
+      "display_time": 4.0,
+      "message": "Et si on arrêtait là pour aujourd'hui ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 318
+    }
+  },
+  "289": {
+    "hashimoto57_01": {
+      "movie": 709,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Ah oui ? Contente de t'entendre dire ça.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 281
+    }
+  },
+  "290": {
+    "hashimoto58_01": {
+      "movie": 710,
+      "appearance_timing": 1.0,
+      "display_time": 3.5,
+      "message": "Hein ? Je peux voir ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 282
+    }
+  },
+  "291": {
+    "hashimoto59_01": {
+      "movie": 711,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Vous êtes un tel beau parleur !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 283
+    }
+  },
+  "292": {
+    "hashimoto60_01": {
+      "movie": 712,
+      "appearance_timing": 2.0,
+      "display_time": 2.5,
+      "message": "Bonjour, salut, et bienvenue !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 314
+    }
+  },
+  "293": {
+    "hashimoto60_02": {
+      "movie": 712,
+      "appearance_timing": 4.5,
+      "display_time": 3.5,
+      "message": "J'ai un bikini très sexy pour vous aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 284
+    }
+  },
+  "294": {
+    "hashimoto61_01": {
+      "movie": 713,
+      "appearance_timing": 1.0,
+      "display_time": 1.7999999523162842,
+      "message": "On dirait que vous aimez vraiment ça.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 285
+    }
+  },
+  "295": {
+    "hashimoto61_02": {
+      "movie": 713,
+      "appearance_timing": 3.5,
+      "display_time": 2.5,
+      "message": "Peut-être que j'en montre trop... ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 286
+    }
+  },
+  "296": {
+    "hashimoto62_01": {
+      "movie": 714,
+      "appearance_timing": 1.0,
+      "display_time": 2.5,
+      "message": "C'est bon de savoir que vous êtes heureux.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 287
+    }
+  },
+  "297": {
+    "hashimoto62_02": {
+      "movie": 714,
+      "appearance_timing": 3.799999952316284,
+      "display_time": 3.0,
+      "message": "Allez, dites-m'en plus !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 288
+    }
+  },
+  "298": {
+    "hashimoto63_01": {
+      "movie": 715,
+      "appearance_timing": 2.0,
+      "display_time": 3.0,
+      "message": "Hé, du calme !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 289
+    }
+  },
+  "299": {
+    "hashimoto63_02": {
+      "movie": 715,
+      "appearance_timing": 5.5,
+      "display_time": 4.0,
+      "message": "Mais je me demande ce que cette pose va vous faire...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 290
+    }
+  },
+  "300": {
+    "hashimoto64_01": {
+      "movie": 716,
+      "appearance_timing": 1.0,
+      "display_time": 1.899999976158142,
+      "message": "Et quelque chose d'encore plus sexy ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 291
+    }
+  },
+  "301": {
+    "hashimoto65_01": {
+      "movie": 717,
+      "appearance_timing": 1.5,
+      "display_time": 2.4000000953674316,
+      "message": "Vous aimez ma pose de cougar ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 292
+    }
+  },
+  "302": {
+    "hashimoto65_02": {
+      "movie": 717,
+      "appearance_timing": 4.0,
+      "display_time": 3.0,
+      "message": "Alors ? Et vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 293
+    }
+  },
+  "303": {
+    "hashimoto66_01": {
+      "movie": 718,
+      "appearance_timing": 1.5,
+      "display_time": 2.9000000953674316,
+      "message": "Vous avez l'air heureux.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 294
+    }
+  },
+  "304": {
+    "hashimoto66_02": {
+      "movie": 718,
+      "appearance_timing": 4.599999904632568,
+      "display_time": 3.0,
+      "message": "Mais j'ai encore plus sexy pour vous.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 295
+    }
+  },
+  "305": {
+    "hashimoto67_01": {
+      "movie": 723,
+      "appearance_timing": 1.5,
+      "display_time": 3.0,
+      "message": "Merci d'avoir pris toutes ces superbes photos !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 296
+    }
+  },
+  "306": {
+    "hashimoto67_02": {
+      "movie": 723,
+      "appearance_timing": 4.800000190734863,
+      "display_time": 3.0,
+      "message": "Bref, hum...",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 297
+    }
+  },
+  "307": {
+    "hashimoto67_03": {
+      "movie": 723,
+      "appearance_timing": 8.0,
+      "display_time": 10.300000190734863,
+      "message": "Je veux vous montrer encore plus de moi.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 298
+    }
+  },
+  "308": {
+    "hashimoto68_01": {
+      "movie": 719,
+      "appearance_timing": 1.0,
+      "display_time": 2.0,
+      "message": "Vous ne supportez pas la chaleur ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 299
+    }
+  },
+  "309": {
+    "hashimoto68_02": {
+      "movie": 719,
+      "appearance_timing": 3.5,
+      "display_time": 3.5,
+      "message": "Peut-être qu'il était trop tôt pour vous montrer ça.　",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 300
+    }
+  },
+  "310": {
+    "hashimoto69_01": {
+      "movie": 720,
+      "appearance_timing": 1.0,
+      "display_time": 4.0,
+      "message": "Quel flatteur, bon sang !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 315
+    }
+  },
+  "311": {
+    "hashimoto70_01": {
+      "movie": 721,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "Vous croyez ? Je suis si heureuse !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 325
+    }
+  },
+  "312": {
+    "hashimoto71_01": {
+      "movie": 722,
+      "appearance_timing": 1.0,
+      "display_time": 3.0,
+      "message": "On dirait que vous l'aimez !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 301
+    }
+  },
+  "313": {
+    "hashimoto49_03": {
+      "movie": 701,
+      "appearance_timing": 6.800000190734863,
+      "display_time": 4.0,
+      "message": "J'ai pensé que vous méritiez une récompense. Pour avoir été si persistant.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 302
+    }
+  },
+  "314": {
+    "hashimoto54_02": {
+      "movie": 706,
+      "appearance_timing": 9.0,
+      "display_time": 2.5,
+      "message": "Vous voulez vous arrêter ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 303
+    }
+  },
+  "315": {
+    "hashimoto64_02": {
+      "movie": 716,
+      "appearance_timing": 3.0999999046325684,
+      "display_time": 1.2000000476837158,
+      "message": "Comment allez-vous réagir à ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 304
+    }
+  },
+  "316": {
+    "hashimoto66_03": {
+      "movie": 718,
+      "appearance_timing": 8.0,
+      "display_time": 3.0,
+      "message": "Vous voulez que je vous donne la vraie affaire ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 316
+    }
+  },
+  "317": {
+    "hashimoto68_03": {
+      "movie": 719,
+      "appearance_timing": 7.5,
+      "display_time": 3.5,
+      "message": "Enfin, je crois que c'est tout pour aujourd'hui.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 305
+    }
+  },
+  "318": {
+    "hashimoto52_03": {
+      "movie": 704,
+      "appearance_timing": 7.0,
+      "display_time": 1.899999976158142,
+      "message": "Allez-y, continuez à photographier.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 306
+    }
+  },
+  "319": {
+    "aoyama32_03": {
+      "movie": 612,
+      "appearance_timing": 6.0,
+      "display_time": 1.5,
+      "message": "À plus tard !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 307
+    }
+  },
+  "320": {
+    "aoyama60_03": {
+      "movie": 640,
+      "appearance_timing": 7.199999809265137,
+      "display_time": 5.0,
+      "message": "J'ai trouvé en moi la force de porter un bikini aujourd'hui !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 308
+    }
+  },
+  "321": {
+    "hashimoto08_03": {
+      "movie": 660,
+      "appearance_timing": 8.300000190734863,
+      "display_time": 2.0,
+      "message": "Bye by !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 309
+    }
+  },
+  "322": {
+    "hashimoto35_02": {
+      "movie": 687,
+      "appearance_timing": 4.5,
+      "display_time": 2.0,
+      "message": "Vous avez peut-être raison.",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 317
+    }
+  },
+  "323": {
+    "hashimoto37_04": {
+      "movie": 689,
+      "appearance_timing": 6.199999809265137,
+      "display_time": 2.299999952316284,
+      "message": "Une photo sexy pour vous ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 310
+    }
+  },
+  "324": {
+    "hashimoto38_03": {
+      "movie": 690,
+      "appearance_timing": 8.0,
+      "display_time": 3.5,
+      "message": "Et c'est fait ! Vous en avez eu !?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 311
+    }
+  },
+  "325": {
+    "hashimoto64_03": {
+      "movie": 716,
+      "appearance_timing": 4.5,
+      "display_time": 2.0,
+      "message": "Ça vous dérange si je tente le coup ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 312
+    }
+  }
+}

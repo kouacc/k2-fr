@@ -1,0 +1,412 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 46,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 4,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "param": "1",
+    "name": "1",
+    "param1": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "param": 7,
+    "name": 0,
+    "param1": 3
+  },
+  "columnTypes2": {
+    "": -1,
+    "param": 9,
+    "name": 12,
+    "param1": 6
+  },
+  "COLUMN_INDICES": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "0": {
+    "": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "cabaret_score_up_1": {
+      "param": 1.100000023841858,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "encount_up": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "encount_down": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "stomach_down_1": {
+      "param": 1.100000023841858,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "stomach_down_2": {
+      "param": 1.2999999523162842,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "heat_gauge_up_in_dying": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "7": {
+    "exp_up_1": {
+      "param": 1.100000023841858,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "8": {
+    "exp_up_2": {
+      "param": 1.2999999523162842,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "9": {
+    "many_cats": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "10": {
+    "no_ghost_picture": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "11": {
+    "always_parry": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "12": {
+    "generate_hoekurenai": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "13": {
+    "always_heat": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "14": {
+    "resist_blind": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "15": {
+    "resist_piyori": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "16": {
+    "resist_stun": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "17": {
+    "resist_fire": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "18": {
+    "attack_blind": {
+      "param": 0.0,
+      "name": "Blind",
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "19": {
+    "attack_piyori": {
+      "param": 0.0,
+      "name": "Stun",
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "20": {
+    "attack_stun": {
+      "param": 0.0,
+      "name": "Paralysis",
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "21": {
+    "attack_fire": {
+      "param": 0.0,
+      "name": "Burn",
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "22": {
+    "drink_up_1": {
+      "param": 1.5,
+      "param1": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "23": {
+    "drink_up_2": {
+      "param": 2.0,
+      "param1": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "24": {
+    "mj_ikasama": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "25": {
+    "heat_gauge_up_l": {
+      "param": 1.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "26": {
+    "heat_gauge_up_m": {
+      "param": 0.5,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "27": {
+    "heat_gauge_up_s": {
+      "param": 0.20000000298023224,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "28": {
+    "charge_attack_dam_up_l": {
+      "param": 0.30000001192092896,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "29": {
+    "charge_attack_dam_up_m": {
+      "param": 0.20000000298023224,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "30": {
+    "charge_attack_dam_up_s": {
+      "param": 0.10000000149011612,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "31": {
+    "sway_invincible_up_l": {
+      "param": 3.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "32": {
+    "sway_invincible_up_m": {
+      "param": 2.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "33": {
+    "sway_invincible_up_s": {
+      "param": 1.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "34": {
+    "defence_weapon_up_l": {
+      "param": -0.30000001192092896,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "35": {
+    "defence_weapon_up_m": {
+      "param": -0.20000000298023224,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "36": {
+    "defence_weapon_up_s": {
+      "param": -0.10000000149011612,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "37": {
+    "stomach_down_3": {
+      "param": 1.5,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "38": {
+    "exp_up_3": {
+      "param": 1.5,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "39": {
+    "heat_gauge_up_not": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "40": {
+    "attack_dam_up_pinch": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "41": {
+    "enemy_ai_gradeup": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "42": {
+    "enemy_round_num_down": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "43": {
+    "resist_all": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "44": {
+    "throw_attack_dam_up": {
+      "param": 0.10000000149011612,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "bullet_auto_guard": {
+      "param": 0.0,
+      "param1": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  }
+}

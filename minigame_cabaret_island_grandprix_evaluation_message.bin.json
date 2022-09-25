@@ -1,0 +1,272 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 33,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 37,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "message": "1",
+    "message_majima": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": 0,
+    "message_majima": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "message": 12,
+    "message_majima": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "general evaluation_01": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "general evaluation_02": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "general evaluation_03": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "general evaluation_04": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "general evaluation_05": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "general evaluation_06": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "general evaluation_07": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "general evaluation_08": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "general evaluation_09": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "general evaluation_10": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "general evaluation_11": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "general evaluation_12": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "general evaluation_13": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "general_evaluation_01": {
+      "message": "Four Shine est entré\r\ndans le top 3 !",
+      "message_majima": "Four Shine est dans le top 3 ici !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "general_evaluation_02": {
+      "message": "Four Shine se rapproche rapidement\r\ndu sommet de cette ligue !",
+      "message_majima": "Four Shine va atterrir dans à la première\r\nplace d'un moment à l'autre !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "general_evaluation_03": {
+      "message": "Four Shine a vaincu ${name}!\r\nFélicitations !",
+      "message_majima": "Four Shine vient de battre ${name}!\r\nFélicitations !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "general_evaluation_04": {
+      "message": "Four Shine a battu ${name} ! Quelle victoire !",
+      "message_majima": "Four Shine a battu ${name} ! Quelle victoire !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "general_evaluation_05": {
+      "message": "Plus de filles et plus de partenaires\r\naugmenteront votre clientèle !",
+      "message_majima": "Ce dont cet endroit a besoin, c'est de plus de filles\r\net de plus de partenaires !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "general_evaluation_06": {
+      "message": "Puis-je suggérer d'aligner des filles qui aiment\r\nfaire la fête dans cette ligue ?",
+      "message_majima": "Tu dois amener tes filles à une fête\r\ncomme celle-ci, Kiryu-chan !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "general_evaluation_07": {
+      "message": "Cette ligue attend un service de qualité !\r\nComplétez votre équipe correctement !",
+      "message_majima": "Tu vas avoir besoin de filles qui peuvent travailler\r\nsur le terrain pour rivaliser ici !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "general_evaluation_08": {
+      "message": "Ces clients n'attendent que le meilleur,\r\net cela signifie ressentir de l'amour !",
+      "message_majima": "Ces idiots veulent juste se sentir aimés !\r\nTu as des filles qui peuvent faire ça ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "general_evaluation_09": {
+      "message": "C'est la bataille décisive ! Ne laissez aucune\r\nplace vide dans votre équipe !",
+      "message_majima": "C'est la bataille des batailles ! T'dois\r\namener une équipe bien remplie !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "general_evaluation_10": {
+      "message": "Utilisez l'option de recrutement pour recruter du personnel !\r\nEt allez dans la rue aussi !",
+      "message_majima": "T'as un département des ressources humaines ?\r\nMets-les au travail et recrutes des filles !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "general_evaluation_11": {
+      "message": "Votre personnel ne peut pas travailler au mieux\r\ns'il est fatigué. Que diriez-vous d'une nuit de repos ?",
+      "message_majima": "Tu essaies d'écraser ces filles !? \r\nNe sois pas ce gars-là !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "general_evaluation_12": {
+      "message": "Avez-vous établi un partenariat avec des magasins\r\nde la zone ? Cela augmentera le nombre de vos fans !",
+      "message_majima": "C'est le business, Kiryu-chan. Tu dois\r\nt'associer avec les magasins là-dehors !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "general_evaluation_13": {
+      "message": "Une session prolongée est un moyen rapide\r\nde gagner des yens ! Ça ne fait jamais de mal de demander !",
+      "message_majima": "Tu dois obtenir ces extensions ! N'aie pas\r\npeur du rejet !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "general_evaluation_14": {
+      "message": "Une fois de plus... Le champion est\r\nFour Shine !",
+      "message_majima": "Et le champion reste... Four Shine !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "general_evaluation_15": {
+      "message": "Four Shine a conquis cette ligue.\r\nDéfiez la prochaine !",
+      "message_majima": "Pourquoi t'perds ton temps dans cette ligue ?\r\nPasse à autre chose, tu veux ?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "general_evaluation_18": {
+      "message": "Four Shine est enfin à la première place !\r\nC'est l'heure du championnat de la Ligue !",
+      "message_majima": "Four Shine a atteint le sommet ! C'est\r\nl'heure du championnat, Kiryu-chan !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "general_evaluation_19": {
+      "message": "Four Shine est à la première place ! Il est temps\r\nde défier le champion de la Ligue !",
+      "message_majima": "Four Shine est en pleine forme ici ! Pourquoi ne pas\r\n défier le champion maintenant !?",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "general_evaluation_20": {
+      "message": "Four Shine conserve sa première place !\r\nIl est temps de défier le champion !",
+      "message_majima": "Four Shine tient la ligne en premier !\r\nC'est l'heure du championnat de la Ligue !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "general_evaluation_21": {
+      "message": "Four Shine occupe la première place !\r\nParticipez au championnat de la Ligue !",
+      "message_majima": "Bon travail sur la ligne, Four Shine !\r\nVoyons un championnat !",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  }
+}

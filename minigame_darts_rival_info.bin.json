@@ -1,0 +1,403 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 13,
+  "COLUMN_COUNT": 14,
+  "TEXT_COUNT": 13,
+  "ROW_VALIDATOR": -1,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": false,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": false,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "*": "1",
+    "name": "1",
+    "character_id": "1",
+    "is_female": "1",
+    "dart_kind": "1",
+    "intellegence": "1",
+    "accuracy": "1",
+    "power_control_best": "1",
+    "power_control_good": "1",
+    "fav_spot_score": "1",
+    "fav_spot_multiplier": "1",
+    "cricket_close_prob": "1",
+    "cricket_open_extra_prob": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "*": 2,
+    "name": 0,
+    "character_id": 1,
+    "is_female": 6,
+    "dart_kind": 2,
+    "intellegence": 7,
+    "accuracy": 7,
+    "power_control_best": 7,
+    "power_control_good": 7,
+    "fav_spot_score": 0,
+    "fav_spot_multiplier": 0,
+    "cricket_close_prob": 7,
+    "cricket_open_extra_prob": 7
+  },
+  "columnTypes2": {
+    "": -1,
+    "*": 0,
+    "name": 12,
+    "character_id": 1,
+    "is_female": 11,
+    "dart_kind": 0,
+    "intellegence": 9,
+    "accuracy": 9,
+    "power_control_best": 9,
+    "power_control_good": 9,
+    "fav_spot_score": 2,
+    "fav_spot_multiplier": 2,
+    "cricket_close_prob": 9,
+    "cricket_open_extra_prob": 9
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "0": {
+    "": {
+      "*": 13,
+      "name": "Jouer seul",
+      "character_id": 3,
+      "is_female": "0",
+      "dart_kind": 1,
+      "intellegence": 0.0,
+      "accuracy": 0.0,
+      "power_control_best": 0.0,
+      "power_control_good": 0.0,
+      "fav_spot_score": 0,
+      "fav_spot_multiplier": 0,
+      "cricket_close_prob": 0.0,
+      "cricket_open_extra_prob": 0.0
+    }
+  },
+  "1": {
+    "": {
+      "*": 1,
+      "name": "Random-kun (Test)",
+      "character_id": 1,
+      "is_female": "0",
+      "dart_kind": 1,
+      "intellegence": 0.0,
+      "accuracy": 0.0,
+      "power_control_best": 0.0,
+      "power_control_good": 0.0,
+      "fav_spot_score": 0,
+      "fav_spot_multiplier": 0,
+      "cricket_close_prob": 0.0,
+      "cricket_open_extra_prob": 0.0
+    }
+  },
+  "2": {
+    "": {
+      "*": 2,
+      "name": "Maiko Nasuno",
+      "character_id": 11180,
+      "is_female": "1",
+      "dart_kind": 1,
+      "intellegence": 0.5,
+      "accuracy": 0.5,
+      "power_control_best": 0.30000001192092896,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 25,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.699999988079071
+    }
+  },
+  "3": {
+    "": {
+      "*": 3,
+      "name": "Chiharu Nasuno",
+      "character_id": 11181,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.699999988079071,
+      "accuracy": 0.699999988079071,
+      "power_control_best": 0.5,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 25,
+      "fav_spot_multiplier": 2,
+      "cricket_close_prob": 0.699999988079071,
+      "cricket_open_extra_prob": 0.10000000149011612
+    }
+  },
+  "4": {
+    "": {
+      "*": 4,
+      "name": "Eri Nasuno",
+      "character_id": 11182,
+      "is_female": "1",
+      "dart_kind": 3,
+      "intellegence": 0.800000011920929,
+      "accuracy": 0.75,
+      "power_control_best": 0.6000000238418579,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.05000000074505806
+    }
+  },
+  "5": {
+    "": {
+      "*": 5,
+      "name": "Reimi Nasuno",
+      "character_id": 11183,
+      "is_female": "1",
+      "dart_kind": 4,
+      "intellegence": 1.0,
+      "accuracy": 0.8999999761581421,
+      "power_control_best": 0.8999999761581421,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 25,
+      "fav_spot_multiplier": 2,
+      "cricket_close_prob": 0.20000000298023224,
+      "cricket_open_extra_prob": 0.10000000149011612
+    }
+  },
+  "6": {
+    "": {
+      "*": 14,
+      "name": "Yuki",
+      "character_id": 12079,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.5,
+      "accuracy": 0.5,
+      "power_control_best": 0.30000001192092896,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.5
+    }
+  },
+  "7": {
+    "": {
+      "*": 15,
+      "name": "Koyuki",
+      "character_id": 11414,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.699999988079071,
+      "accuracy": 0.6499999761581421,
+      "power_control_best": 0.5,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 25,
+      "fav_spot_multiplier": 2,
+      "cricket_close_prob": 0.5,
+      "cricket_open_extra_prob": 0.30000001192092896
+    }
+  },
+  "8": {
+    "": {
+      "*": 16,
+      "name": "Shoko Takahashi",
+      "character_id": 11656,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.5,
+      "accuracy": 0.5,
+      "power_control_best": 0.30000001192092896,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.5
+    }
+  },
+  "9": {
+    "": {
+      "*": 17,
+      "name": "Yua Mikami",
+      "character_id": 11660,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.6000000238418579,
+      "accuracy": 0.6000000238418579,
+      "power_control_best": 0.4000000059604645,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.5
+    }
+  },
+  "10": {
+    "": {
+      "*": 18,
+      "name": "Aika",
+      "character_id": 11658,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.8999999761581421,
+      "accuracy": 0.5,
+      "power_control_best": 0.30000001192092896,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.5
+    }
+  },
+  "11": {
+    "": {
+      "*": 19,
+      "name": "Kana Momonogi",
+      "character_id": 11693,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.8999999761581421,
+      "accuracy": 0.5,
+      "power_control_best": 0.30000001192092896,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.5
+    }
+  },
+  "12": {
+    "": {
+      "*": 20,
+      "name": "Kirara Asuka",
+      "character_id": 11415,
+      "is_female": "1",
+      "dart_kind": 2,
+      "intellegence": 0.8999999761581421,
+      "accuracy": 0.5,
+      "power_control_best": 0.30000001192092896,
+      "power_control_good": 0.10000000149011612,
+      "fav_spot_score": 20,
+      "fav_spot_multiplier": 3,
+      "cricket_close_prob": 0.30000001192092896,
+      "cricket_open_extra_prob": 0.5
+    }
+  },
+  "subTable": {
+    "ROW_COUNT": 13,
+    "COLUMN_COUNT": 3,
+    "TEXT_COUNT": 0,
+    "ROW_VALIDATOR": -1,
+    "COLUMN_VALIDATOR": -1,
+    "HAS_ROW_NAMES": true,
+    "HAS_COLUMN_NAMES": false,
+    "HAS_ROW_VALIDITY": false,
+    "HAS_COLUMN_VALIDITY": false,
+    "HAS_UNKNOWN_BITMASK": false,
+    "HAS_ROW_INDICES": false,
+    "TABLE_ID": 0,
+    "columnTypes": {
+      "0": 0,
+      "1": 9,
+      "2": 0
+    },
+    "columnTypes2": {
+      "0": 2,
+      "1": 13,
+      "2": 2
+    },
+    "0": {
+      "rival_random": {
+        "0": 1,
+        "2": 1
+      }
+    },
+    "1": {
+      "rival_rookie": {
+        "0": 2,
+        "2": 2
+      }
+    },
+    "2": {
+      "rival_intermediate": {
+        "0": 3,
+        "2": 3
+      }
+    },
+    "3": {
+      "rival_veteran": {
+        "0": 4,
+        "2": 4
+      }
+    },
+    "4": {
+      "rival_paul": {
+        "0": 5,
+        "2": 5
+      }
+    },
+    "5": {
+      "rival_none": {
+        "0": 13,
+        "2": 0
+      }
+    },
+    "6": {
+      "rival_caba_01": {
+        "0": 14,
+        "2": 6
+      }
+    },
+    "7": {
+      "rival_caba_02": {
+        "0": 15,
+        "2": 7
+      }
+    },
+    "8": {
+      "rival_caba_03": {
+        "0": 16,
+        "2": 8
+      }
+    },
+    "9": {
+      "rival_caba_04": {
+        "0": 17,
+        "2": 9
+      }
+    },
+    "10": {
+      "rival_caba_05": {
+        "0": 18,
+        "2": 10
+      }
+    },
+    "11": {
+      "rival_caba_06": {
+        "0": 19,
+        "2": 11
+      }
+    },
+    "12": {
+      "rival_caba_07": {
+        "0": 20,
+        "2": 12
+      }
+    }
+  }
+}
