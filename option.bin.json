@@ -1,0 +1,3030 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 62,
+  "COLUMN_COUNT": 10,
+  "TEXT_COUNT": 87,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "explanation": "1",
+    "subtable": "1",
+    "control": "1",
+    "min_value": "1",
+    "max_value": "1",
+    "category": "1",
+    "explanation2": "0",
+    "category_judge": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "explanation": 0,
+    "subtable": 9,
+    "control": 2,
+    "min_value": 7,
+    "max_value": 7,
+    "category": 2,
+    "explanation2": -1,
+    "category_judge": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "explanation": 12,
+    "subtable": 13,
+    "control": 0,
+    "min_value": 9,
+    "max_value": 9,
+    "category": 0,
+    "explanation2": -1,
+    "category_judge": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    7,
+    8,
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "difficulty": {
+      "name": "Difficulté",
+      "explanation": "Régler la difficulté du jeu.",
+      "subtable": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 3,
+        "TEXT_COUNT": 8,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1",
+          "explanation": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0,
+          "explanation": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12,
+          "explanation": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1,
+          2
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "easy": {
+            "name": "FACILE",
+            "explanation": "Une difficulté facile recommandée pour ceux qui découvrent les jeux d'action\r\nou la série Yakuza.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "normal": {
+            "name": "NORMAL",
+            "explanation": "Le niveau de difficulté standard.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "hard": {
+            "name": "DIFFICILE",
+            "explanation": "Recommandé aux joueurs qui maîtrisent les jeux d'action.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "legend": {
+            "name": "LÉGENDE",
+            "explanation": "Réservé aux véritables légendes de Yakuza.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "2": {
+    "tips": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "3": {
+    "free_camera_vertical": {
+      "name": "Contrôle caméra (Vertical)",
+      "explanation": "Changer la façon de déplacer la caméra verticalement.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inversé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "4": {
+    "free_camera_horizontal": {
+      "name": "Contrôle caméra (Horizontal)",
+      "explanation": "Changer la façon de déplacer la caméra horizontalement",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inversé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "5": {
+    "first_person_camera_vertical": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "6": {
+    "first_person_camera_horizontal": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "7": {
+    "minimap": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "8": {
+    "subtitle": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "9": {
+    "blood_mode": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "10": {
+    "test": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "11": {
+    "brightness": {
+      "name": "Luminosité",
+      "explanation": "Faites glisser le curseur pour régler la luminosité.",
+      "control": 12,
+      "min_value": -10.0,
+      "max_value": 10.0,
+      "category": 1,
+      "category_judge": 3,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "12": {
+    "gamma": {
+      "name": "Gamma",
+      "explanation": "Faites glisser le curseur pour régler la correction gamma.",
+      "control": 12,
+      "min_value": -10.0,
+      "max_value": 10.0,
+      "category": 1,
+      "category_judge": 3,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "13": {
+    "camera_sensitivity": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "14": {
+    "pov_camera_vertical": {
+      "name": "Vue à la première personne (Vertical)",
+      "explanation": "Changer la façon de déplacer verticalement la caméra à la première personne.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inversé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "15": {
+    "pov_camera_horizontal": {
+      "name": "Vue à la première personne (Horizontal)",
+      "explanation": "Changer la façon de déplacer horizontalement la caméra à la première personne.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "inverted": {
+            "name": "Inversé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "16": {
+    "minimap_visible": {
+      "name": "Affichage de la mini-carte",
+      "explanation": "Activer/désactiver la mini-carte qui apparaît en bas\r\nà gauche de l'écran.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "show": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hide": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "17": {
+    "blood_type": {
+      "name": "Taux de sang",
+      "explanation": "Régler le niveau de sang à afficher.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "normal": {
+            "name": "Normal",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "mild": {
+            "name": "Léger",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "18": {
+    "font_kind": {
+      "name": "Définir la police",
+      "explanation": "Changer la police utilisée pendant le jeu.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "mincho": {
+            "name": "Serif",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "gothic": {
+            "name": "Sans Serif",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "19": {
+    "minimap_direction": {
+      "name": "Rotation de la mini-carte",
+      "explanation": "Activer/désactiver la rotation de la mini-carte. Si elle est activée,\r\nla mini-carte tourne avec la caméra.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "fixed": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "free": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "20": {
+    "subtitles_display": {
+      "name": "Sous-titres des cinématiques",
+      "explanation": "Activer/désactiver les sous-titres des cinématiques",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "show": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hide": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "21": {
+    "battle_support": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "22": {
+    "headphone_volume": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "23": {
+    "controller_speaker": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "24": {
+    "controller_speaker_volume": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "25": {
+    "speaker_type": {
+      "name": "Type de haut-parleur",
+      "explanation": "Choisir entre le son stéréo et le son surround.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "stereo": {
+            "name": "Stéréo",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "surround": {
+            "name": "Surround",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "3": {
+          "surround_7_1": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "26": {
+    "speaker_front_angle": {
+      "name": "Avant",
+      "explanation": "Ajuster l'angle de vos enceintes pour une qualité optimale.",
+      "subtable": {
+        "ROW_COUNT": 17,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 16,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree15": {
+            "name": "15",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree20": {
+            "name": "20",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree25": {
+            "name": "25",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree30": {
+            "name": "30",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree35": {
+            "name": "35",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree40": {
+            "name": "40",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree45": {
+            "name": "45",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree50": {
+            "name": "50",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree55": {
+            "name": "55",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree60": {
+            "name": "60",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree65": {
+            "name": "65",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "degree70": {
+            "name": "70",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "degree75": {
+            "name": "75",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "degree80": {
+            "name": "80",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "degree85": {
+            "name": "85",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "degree90": {
+            "name": "90",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "27": {
+    "speaker_rear_angle": {
+      "name": "Arrière",
+      "explanation": "Ajuster l'angle de vos enceintes pour une qualité optimale.",
+      "subtable": {
+        "ROW_COUNT": 16,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 15,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "degree95": {
+            "name": "95",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "degree100": {
+            "name": "100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "degree105": {
+            "name": "105",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "degree110": {
+            "name": "110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "degree115": {
+            "name": "115",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "degree120": {
+            "name": "120",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "degree125": {
+            "name": "125",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "degree130": {
+            "name": "130",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "degree135": {
+            "name": "135",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "degree140": {
+            "name": "140",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "degree145": {
+            "name": "145",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "degree150": {
+            "name": "150",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "degree155": {
+            "name": "155",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "degree160": {
+            "name": "160",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "degree165": {
+            "name": "165",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "28": {
+    "auto_camera": {
+      "name": "Caméra automatique",
+      "explanation": "Le point de vue de la caméra se déplace automatiquement\r\nen fonction de la situation. Si vous sélectionnez Désactivé, la\r\nla caméra ne bougera pas, sauf si le joueur la déplace lui-même.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "enabled": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "disabled": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "29": {
+    "ringtone": {
+      "name": "Sonnerie",
+      "explanation": "Changer la sonnerie de votre téléphone portable.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "simple": {
+            "name": "Tonalité de base",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "silent": {
+            "name": "Vibreur",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "30": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "31": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "32": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "33": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "34": {
+    "": {
+      "control": 0,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 0,
+      "category_judge": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "35": {
+    "graphics_display_mode": {
+      "name": "Mode d'affichage",
+      "explanation": "Définir le mode d'affichage de votre appareil.",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "display_windowed": {
+            "name": "Fenêtré",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "display_fullscreen": {
+            "name": "Plein écran",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "display_borderless": {
+            "name": "Sans bordures",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "36": {
+    "graphics_vertical_sync": {
+      "name": "Synchronisation verticale",
+      "explanation": "Définir la synchronisation verticale pour votre périphérique d'affichage.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "vert_sync_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "vert_sync_on": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "37": {
+    "graphics_quality_preset": {
+      "name": "Qualité graphique",
+      "explanation": "Utiliser les préréglages pour contrôler facilement les paramètres graphiques avancés.",
+      "subtable": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "quality_low": {
+            "name": "Basse",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "quality_med": {
+            "name": "Moyenne",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "quality_high": {
+            "name": "Haute",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "quality_ultra": {
+            "name": "Ultra",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "quality_custom": {
+            "name": "Personnalisé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "38": {
+    "graphics_display_resolution": {
+      "name": "Résolution",
+      "explanation": "Sélectionner la résolution de l'écran",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "resolution_FHD": {
+            "name": "1920x1080",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "resolution_HDready": {
+            "name": "1280x720",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "39": {
+    "graphics_refresh_rate": {
+      "name": "Taux de rafraîchissement",
+      "explanation": "Régler la fréquence de rafraîchissement de votre dispositif d'affichage.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "refresh_60": {
+            "name": "60.0Hz",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "refresh_120": {
+            "name": "120.0Hz",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "40": {
+    "graphics_render_scale": {
+      "name": "Échelle de rendu",
+      "explanation": "Ajuster l'échelle du rendu.",
+      "subtable": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "render_scale_1x": {
+            "name": "100%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "render_scale_0_75x": {
+            "name": "75%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "render_scale_0_5x": {
+            "name": "50%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "render_scale_0_25x": {
+            "name": "25%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "control": 12,
+      "min_value": 50.0,
+      "max_value": 100.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "41": {
+    "graphics_texture_quality": {
+      "name": "Qualité de texture",
+      "explanation": "Sélectionner un niveau de qualité de texture",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "texture_quality_low": {
+            "name": "Basse",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "texture_quality_med": {
+            "name": "Moyenne",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "texture_quality_high": {
+            "name": "Haute",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "42": {
+    "graphics_shadow_quality": {
+      "name": "Qualité des ombres",
+      "explanation": "Sélectionner un niveau de qualité des ombres",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "shadow_quality_low": {
+            "name": "Basse",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "shadow_quality_med": {
+            "name": "Moyenne",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "shadow_quality_high": {
+            "name": "Haute",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "43": {
+    "graphics_geometry_quality": {
+      "name": "Qualité géométrique",
+      "explanation": "Sélectionner un niveau de qualité géométrique",
+      "subtable": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "geometry_quality_low": {
+            "name": "Basse",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "geometry_quality_med": {
+            "name": "Moyenne",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "geometry_quality_high": {
+            "name": "Haute",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "44": {
+    "graphics_advanced_button": {
+      "name": "Paramètres avancés",
+      "explanation": "Afficher les paramètres graphiques avancés",
+      "control": 3,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "45": {
+    "graphics_motion_blur": {
+      "name": "Flou cinétique",
+      "explanation": "Activer ou désactiver le flou cinétique",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "motion_blur_disabled": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "motion_blur_enabled": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "46": {
+    "graphics_ssss": {
+      "name": "Transluminescence",
+      "explanation": "Activer ou désactiver la transluminescence.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "SSSS_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "SSSS_on": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "47": {
+    "graphics_texture_filtering": {
+      "name": "Filtrage de texture",
+      "explanation": "Sélectionner un mode de filtrage de texture",
+      "subtable": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "texture_filtering_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "texture_filtering_2x": {
+            "name": "2x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "texture_filtering_4x": {
+            "name": "4x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "texture_filtering_8x": {
+            "name": "8x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "texture_filtering_16x": {
+            "name": "16x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "48": {
+    "graphics_realtime_reflections": {
+      "name": "Reflets en temps réel",
+      "explanation": "Activer ou désactiver les reflets en temps réel",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "realtime_reflections_disabled": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "realtime_reflections_enabled": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "49": {
+    "graphics_ssao": {
+      "name": "SSAO",
+      "explanation": "Activer ou désactiver le SSAO.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "SSAO_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "SSAO_on": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "50": {
+    "graphics_adapter": {
+      "name": "Adapteur",
+      "explanation": "Sélectionner un adaptateur.",
+      "subtable": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "adapter_default": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "51": {
+    "graphics_output": {
+      "name": "Périphérique de sortie",
+      "explanation": "Sélectionner le périphérique de sortie pour l'adaptateur donné.",
+      "subtable": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "output_default": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "52": {
+    "volume_music": {
+      "name": "Musique",
+      "explanation": "Régler le volume de la musique.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "53": {
+    "volume_effect": {
+      "name": "Effets",
+      "explanation": "Régler le volume des effets.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "54": {
+    "volume_dialog": {
+      "name": "Dialogues",
+      "explanation": "Régler le volume des dialogues.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "55": {
+    "volume_cinema": {
+      "name": "Cinématiques",
+      "explanation": "Régler le volume des cinématiques.",
+      "control": 12,
+      "min_value": 0.0,
+      "max_value": 100.0,
+      "category": 2,
+      "category_judge": 2,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "56": {
+    "graphics_fov": {
+      "name": "FOV",
+      "explanation": "Régler le champ de vision",
+      "control": 12,
+      "min_value": 25.0,
+      "max_value": 75.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "57": {
+    "controller_vibration": {
+      "name": "Vibration du contrôleur",
+      "explanation": "Activer/désactiver la vibration du contrôleur.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "controller_vibration_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "controller_vibration_on": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "58": {
+    "hud_enabled": {
+      "name": "HUD Visible",
+      "explanation": "Activer ou désactiver le HUD du jeu.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "hud_enabled_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "hud_enabled_on": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 1,
+      "category_judge": 1,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "59": {
+    "graphics_aa": {
+      "name": "Anticrénelage",
+      "explanation": "Définir le type d'anticrénelage ou désactiver-le.",
+      "subtable": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "AA_OFF": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "FXAA": {
+            "name": "FXAA",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "SMAA": {
+            "name": "SMAA",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "SSAA125": {
+            "name": "SSAA 1.25x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "SSAA150": {
+            "name": "SSAA 1.50x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "SSAA175": {
+            "name": "SSAA 1.75x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "SSAA200": {
+            "name": "SSAA 2.00x",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "60": {
+    "graphics_fps": {
+      "name": "FPS",
+      "explanation": "Fixer une limite de FPS.",
+      "subtable": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "FPS_30": {
+            "name": "30",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "FPS_60": {
+            "name": "60",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "FPS_120": {
+            "name": "120",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "FPS_OFF": {
+            "name": "Illimité",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 6,
+      "category_judge": 6,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "61": {
+    "graphics_dof": {
+      "name": "Profondeur de champ",
+      "explanation": "Activer ou désactiver la profondeur de champ.",
+      "subtable": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": true,
+        "HAS_COLUMN_NAMES": true,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "": "0",
+          "name": "1"
+        },
+        "columnTypes": {
+          "": -1,
+          "name": 0
+        },
+        "columnTypes2": {
+          "": -1,
+          "name": 12
+        },
+        "COLUMN_INDICES": [
+          0,
+          1
+        ],
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "DOF_off": {
+            "name": "Désactivé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "DOF_on": {
+            "name": "Activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "control": 6,
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "category": 7,
+      "category_judge": 7,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  }
+}

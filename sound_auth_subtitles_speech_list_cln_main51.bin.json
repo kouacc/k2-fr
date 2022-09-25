@@ -1,0 +1,2419 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 165,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 129,
+  "ROW_VALIDATOR": -1,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": false,
+  "HAS_COLUMN_NAMES": false,
+  "HAS_ROW_VALIDITY": false,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "0": "0",
+    "1": "1",
+    "2": "1",
+    "3": "0",
+    "4": "1",
+    "5": "0"
+  },
+  "columnTypes": {
+    "0": -1,
+    "1": 1,
+    "2": 0,
+    "3": -1,
+    "4": 0,
+    "5": -1
+  },
+  "columnTypes2": {
+    "0": -1,
+    "1": 1,
+    "2": 2,
+    "3": -1,
+    "4": 12,
+    "5": -1
+  },
+  "0": {
+    "": {
+      "1": 1687,
+      "2": 1,
+      "4": "C'est la première fois que nous buvons tous ensemble."
+    }
+  },
+  "1": {
+    "": {
+      "1": 1672,
+      "2": 1,
+      "4": "A lot's gone down, but I always wanted to just shoot the shit with you guys."
+    }
+  },
+  "2": {
+    "": {
+      "1": 1700,
+      "2": 1,
+      "4": "Yeah, let's drink to good times, yeah?"
+    }
+  },
+  "3": {
+    "": {
+      "1": 1697,
+      "2": 1,
+      "4": "Heh. With you there."
+    }
+  },
+  "4": {
+    "": {
+      "1": 1698,
+      "2": 1,
+      "4": "Hmmmm... Huh?"
+    }
+  },
+  "5": {
+    "": {
+      "1": 1697,
+      "2": 2,
+      "4": "What's wrong, Majima-san?"
+    }
+  },
+  "6": {
+    "": {
+      "1": 1698,
+      "2": 2,
+      "4": "Naw, it's just Mutoh's face is so nice and shiny, y'know?"
+    }
+  },
+  "7": {
+    "": {
+      "1": 1699,
+      "2": 1,
+      "4": "Huh... Really...?"
+    }
+  },
+  "8": {
+    "": {
+      "1": 1672,
+      "2": 2,
+      "4": "Yeah, I heard you were cruisin' around town with a gaggle of girls."
+    }
+  },
+  "9": {
+    "": {
+      "1": 1700,
+      "2": 2,
+      "4": "What!? You better not be trying to ditch us!"
+    }
+  },
+  "10": {
+    "": {
+      "1": 1699,
+      "2": 2,
+      "4": "I-It's not like that at all!"
+    }
+  },
+  "11": {
+    "": {
+      "1": 1699,
+      "2": 3,
+      "4": "I just tried out some dating techniques and it worked in my favor."
+    }
+  },
+  "12": {
+    "": {
+      "1": 1698,
+      "2": 3,
+      "4": "Dating techniques?"
+    }
+  },
+  "13": {
+    "": {
+      "1": 1699,
+      "2": 4,
+      "4": "I picked up a book at a convenience store, and it's pretty damn effective!"
+    }
+  },
+  "14": {
+    "": {
+      "1": 1699,
+      "2": 5,
+      "4": "I picked up two girls just yesterday."
+    }
+  },
+  "15": {
+    "": {
+      "1": 1700,
+      "2": 3,
+      "4": "Then stop gloating and spill the secret techniques!"
+    }
+  },
+  "16": {
+    "": {
+      "1": 1672,
+      "2": 3,
+      "4": "Come now, Choshu-san! Let's not get worked up!"
+    }
+  },
+  "17": {
+    "": {
+      "1": 1700,
+      "2": 4,
+      "4": "...I'm not worked up!"
+    }
+  },
+  "18": {
+    "": {
+      "1": 1699,
+      "2": 6,
+      "4": "Ever heard of the five flirtations, the sa-shi-shu-se-so?"
+    }
+  },
+  "19": {
+    "": {
+      "1": 1697,
+      "2": 3,
+      "4": "Sa-shi-su-se-so?"
+    }
+  },
+  "20": {
+    "": {
+      "1": 1699,
+      "2": 7,
+      "4": "Yes, they're basically killer pick-up lines."
+    }
+  },
+  "21": {
+    "": {
+      "1": 1698,
+      "2": 4,
+      "4": "Never heard of 'em! What's the \"sa,\" then?"
+    }
+  },
+  "22": {
+    "": {
+      "1": 1699,
+      "2": 8,
+      "4": "The \"sa\" is... \"I <font_kind=yakuza_italic>saw</font_kind> you over there.\""
+    }
+  },
+  "23": {
+    "": {
+      "1": 1697,
+      "2": 4,
+      "4": "......"
+    }
+  },
+  "24": {
+    "": {
+      "1": 1698,
+      "2": 5,
+      "4": "......"
+    }
+  },
+  "25": {
+    "": {
+      "1": 1687,
+      "2": 2,
+      "4": "......"
+    }
+  },
+  "26": {
+    "": {
+      "1": 1700,
+      "2": 5,
+      "4": "......"
+    }
+  },
+  "27": {
+    "": {
+      "1": 1672,
+      "2": 4,
+      "4": "......"
+    }
+  },
+  "28": {
+    "": {
+      "1": 1671,
+      "2": 1,
+      "4": "......"
+    }
+  },
+  "29": {
+    "": {
+      "1": 1687,
+      "2": 3,
+      "4": "What the hell is that shit?"
+    }
+  },
+  "30": {
+    "": {
+      "1": 1699,
+      "2": 9,
+      "4": "If you get split up on a date, you whisper it to your girl."
+    }
+  },
+  "31": {
+    "": {
+      "1": 1699,
+      "2": 10,
+      "4": "It creates both a sense of relief and desire at the same time."
+    }
+  },
+  "32": {
+    "": {
+      "1": 1671,
+      "2": 2,
+      "4": "If a line like that actually worked, I'd be drowning in ladies."
+    }
+  },
+  "33": {
+    "": {
+      "1": 1698,
+      "2": 6,
+      "4": "Yeah, Nishida chases down ladies sayin', \"I <font_kind=yakuza_italic>saw</font_kind> you over there\" too."
+    }
+  },
+  "34": {
+    "": {
+      "1": 1698,
+      "2": 7,
+      "4": "But he couldn't get a date with a calendar!"
+    }
+  },
+  "35": {
+    "": {
+      "1": 1697,
+      "2": 5,
+      "4": "Debt collection isn't the same thing..."
+    }
+  },
+  "36": {
+    "": {
+      "1": 1700,
+      "2": 6,
+      "4": "Why does it start with you already bein' on a date anyway!?"
+    }
+  },
+  "37": {
+    "": {
+      "1": 1687,
+      "2": 4,
+      "4": "You gotta teach us how to land a date first!"
+    }
+  },
+  "38": {
+    "": {
+      "1": 1699,
+      "2": 11,
+      "4": "I was gonna get to that part, gimme a sec!"
+    }
+  },
+  "39": {
+    "": {
+      "1": 1687,
+      "2": 5,
+      "4": "Fine fine..."
+    }
+  },
+  "40": {
+    "": {
+      "1": 1672,
+      "2": 5,
+      "4": "What's \"shi,\" then?"
+    }
+  },
+  "41": {
+    "": {
+      "1": 1699,
+      "2": 12,
+      "4": "Do you know it, Kiryu-san?"
+    }
+  },
+  "42": {
+    "": {
+      "1": 1697,
+      "2": 6,
+      "4": "How about... \"<font_kind=yakuza_italic>She'll</font_kind>be happy with me?\""
+    }
+  },
+  "43": {
+    "": {
+      "1": 1699,
+      "2": 13,
+      "4": "Oh, good one, Kiryu-san! Exactly!"
+    }
+  },
+  "44": {
+    "": {
+      "1": 1699,
+      "2": 14,
+      "4": "You've gotta tell women straight to make 'em fall for ya."
+    }
+  },
+  "45": {
+    "": {
+      "1": 1698,
+      "2": 8,
+      "4": "Really? I don't know 'bout that."
+    }
+  },
+  "46": {
+    "": {
+      "1": 1687,
+      "2": 6,
+      "4": "She'll be happy with me..."
+    }
+  },
+  "47": {
+    "": {
+      "1": 1672,
+      "2": 6,
+      "4": "Wow, you did sound cool just now."
+    }
+  },
+  "48": {
+    "": {
+      "1": 1687,
+      "2": 7,
+      "4": "Really? Really? Hahaha! ...Chono you dumbass."
+    }
+  },
+  "49": {
+    "": {
+      "1": 1697,
+      "2": 7,
+      "4": "\"If you wanna die, come at me!\" Right?"
+    }
+  },
+  "50": {
+    "": {
+      "1": 1672,
+      "2": 7,
+      "4": "Damn! I can feel the power in that one. I see it now."
+    }
+  },
+  "51": {
+    "": {
+      "1": 1699,
+      "2": 15,
+      "4": "No, not exactly. That's literally what you say before you kill a dude."
+    }
+  },
+  "52": {
+    "": {
+      "1": 1699,
+      "2": 16,
+      "4": "The correct answer is, \"<font_kind=yakuza_italic>She'll</font_kind> be happy with me.\""
+    }
+  },
+  "53": {
+    "": {
+      "1": 1671,
+      "2": 3,
+      "4": "Boring! If lines like that worked, I wouldn't be struggling."
+    }
+  },
+  "54": {
+    "": {
+      "1": 1699,
+      "2": 17,
+      "4": "I don't wanna hear it."
+    }
+  },
+  "55": {
+    "": {
+      "1": 1697,
+      "2": 8,
+      "4": "Not my problem!"
+    }
+  },
+  "56": {
+    "": {
+      "1": 1672,
+      "2": 8,
+      "4": "You didn't even hesitate..."
+    }
+  },
+  "57": {
+    "": {
+      "1": 1697,
+      "2": 9,
+      "4": "I can't think of any answers."
+    }
+  },
+  "58": {
+    "": {
+      "1": 1698,
+      "2": 9,
+      "4": "That ballsy shit is what I like about Kiryu-chan."
+    }
+  },
+  "59": {
+    "": {
+      "1": 1697,
+      "2": 10,
+      "4": "Heh, really?"
+    }
+  },
+  "60": {
+    "": {
+      "1": 1697,
+      "2": 11,
+      "4": "......"
+    }
+  },
+  "61": {
+    "": {
+      "1": 1698,
+      "2": 10,
+      "4": "Eh? Where ya at, Kiryu-chan?"
+    }
+  },
+  "62": {
+    "": {
+      "1": 1697,
+      "2": 12,
+      "4": "Yeah, sorry. I was spacing out."
+    }
+  },
+  "63": {
+    "": {
+      "1": 1671,
+      "2": 4,
+      "4": "We just got started, you can't drop yet."
+    }
+  },
+  "64": {
+    "": {
+      "1": 1698,
+      "2": 11,
+      "4": "Alright, so we hit \"sa\" and \"shi,\" let's cover \"su\" next."
+    }
+  },
+  "65": {
+    "": {
+      "1": 1687,
+      "2": 8,
+      "4": "Su's gotta be, \"I super love you!\""
+    }
+  },
+  "66": {
+    "": {
+      "1": 1671,
+      "2": 5,
+      "4": "Yeah, sounds about right to me.　"
+    }
+  },
+  "67": {
+    "": {
+      "1": 1699,
+      "2": 18,
+      "4": "Close, but no cigar."
+    }
+  },
+  "68": {
+    "": {
+      "1": 1687,
+      "2": 9,
+      "4": "Say what? If it's close, just give me the point!"
+    }
+  },
+  "69": {
+    "": {
+      "1": 1672,
+      "2": 9,
+      "4": "Tenryu-san, this isn't a competition..."
+    }
+  },
+  "70": {
+    "": {
+      "1": 1699,
+      "2": 19,
+      "4": "You gotta <font_kind=yakuza_italic>suggest</font_kind> that you fall in love! See?"
+    }
+  },
+  "71": {
+    "": {
+      "1": 1687,
+      "2": 10,
+      "4": "Sounds like I was totally right if you ask me!"
+    }
+  },
+  "72": {
+    "": {
+      "1": 1699,
+      "2": 20,
+      "4": "No, the difference is that you're <font_kind=yakuza_italic>subtle</font_kind> and <font_kind=yakuza_italic>suggestive</font_kind> about it."
+    }
+  },
+  "73": {
+    "": {
+      "1": 1699,
+      "2": 21,
+      "4": "The book says it sounds way more sincere that way."
+    }
+  },
+  "74": {
+    "": {
+      "1": 1672,
+      "2": 10,
+      "4": "Would it be okay... if I loved you?"
+    }
+  },
+  "75": {
+    "": {
+      "1": 1698,
+      "2": 12,
+      "4": "Damn, that does sound like a lady's man line!"
+    }
+  },
+  "76": {
+    "": {
+      "1": 1700,
+      "2": 7,
+      "4": "Suddenly he sounds so handsome."
+    }
+  },
+  "77": {
+    "": {
+      "1": 1672,
+      "2": 11,
+      "4": "I'm getting the hang of this. Hey! What's the next one?"
+    }
+  },
+  "78": {
+    "": {
+      "1": 1687,
+      "2": 11,
+      "4": "Is it \"se\" next? I can't think of anything."
+    }
+  },
+  "79": {
+    "": {
+      "1": 1697,
+      "2": 13,
+      "4": "Hmmmmm..."
+    }
+  },
+  "80": {
+    "": {
+      "1": 1697,
+      "2": 14,
+      "4": "\"I'll protect you even if it makes the whole world my enemy.\" Yeah?"
+    }
+  },
+  "81": {
+    "": {
+      "1": 1698,
+      "2": 13,
+      "4": "Whoa. Pretty romantic."
+    }
+  },
+  "82": {
+    "": {
+      "1": 1699,
+      "2": 22,
+      "4": "Totally on the money, Kiryu-san."
+    }
+  },
+  "83": {
+    "": {
+      "1": 1700,
+      "2": 8,
+      "4": "That's all you gotta say to get ladies?"
+    }
+  },
+  "84": {
+    "": {
+      "1": 1699,
+      "2": 23,
+      "4": "That's what the book says. Not that I've tried it."
+    }
+  },
+  "85": {
+    "": {
+      "1": 1672,
+      "2": 12,
+      "4": "Choshu-san, give it a shot."
+    }
+  },
+  "86": {
+    "": {
+      "1": 1700,
+      "2": 9,
+      "4": "I'll protect you, even if it makes the whole world my enemy."
+    }
+  },
+  "87": {
+    "": {
+      "1": 1697,
+      "2": 15,
+      "4": "......"
+    }
+  },
+  "88": {
+    "": {
+      "1": 1698,
+      "2": 14,
+      "4": "......"
+    }
+  },
+  "89": {
+    "": {
+      "1": 1687,
+      "2": 12,
+      "4": "......"
+    }
+  },
+  "90": {
+    "": {
+      "1": 1699,
+      "2": 24,
+      "4": "......"
+    }
+  },
+  "91": {
+    "": {
+      "1": 1672,
+      "2": 13,
+      "4": "......"
+    }
+  },
+  "92": {
+    "": {
+      "1": 1671,
+      "2": 6,
+      "4": "......"
+    }
+  },
+  "93": {
+    "": {
+      "1": 1672,
+      "2": 14,
+      "4": "Huh?"
+    }
+  },
+  "94": {
+    "": {
+      "1": 1699,
+      "2": 25,
+      "4": "Sorry, can I get that one more time?"
+    }
+  },
+  "95": {
+    "": {
+      "1": 1700,
+      "2": 10,
+      "4": "Shut the fuck up! I'll tear you apart before I say that again!"
+    }
+  },
+  "96": {
+    "": {
+      "1": 1697,
+      "2": 16,
+      "4": "How about you say, \"I'm actually an oil baron!\""
+    }
+  },
+  "97": {
+    "": {
+      "1": 1698,
+      "2": 15,
+      "4": "C'mon Kiryu-chan, you pull that one outta your ass!?"
+    }
+  },
+  "98": {
+    "": {
+      "1": 1672,
+      "2": 15,
+      "4": "If you're an oil baron, this \"sa-shi-su-so\" shit doesn't matter!"
+    }
+  },
+  "99": {
+    "": {
+      "1": 1697,
+      "2": 17,
+      "4": "Ahh, I guess you're right."
+    }
+  },
+  "100": {
+    "": {
+      "1": 1699,
+      "2": 26,
+      "4": "The answer is, \"I’ll protect you, even if it makes the whole world my enemy.\""
+    }
+  },
+  "101": {
+    "": {
+      "1": 1699,
+      "2": 27,
+      "4": "Women go nuts for a man with real resolve."
+    }
+  },
+  "102": {
+    "": {
+      "1": 1700,
+      "2": 11,
+      "4": "Damn, I was just about to say that."
+    }
+  },
+  "103": {
+    "": {
+      "1": 1687,
+      "2": 13,
+      "4": "No you weren't."
+    }
+  },
+  "104": {
+    "": {
+      "1": 1697,
+      "2": 18,
+      "4": "How about you say, \"My fighting skills are superior to yours!\""
+    }
+  },
+  "105": {
+    "": {
+      "1": 1698,
+      "2": 16,
+      "4": "Oh... My heart's racing..."
+    }
+  },
+  "106": {
+    "": {
+      "1": 1700,
+      "2": 12,
+      "4": "Yeah, the alarms are going off over here."
+    }
+  },
+  "107": {
+    "": {
+      "1": 1699,
+      "2": 28,
+      "4": "Pretty sure that one's gonna differ for a woman."
+    }
+  },
+  "108": {
+    "": {
+      "1": 1698,
+      "2": 17,
+      "4": "Huh? Why's that?"
+    }
+  },
+  "109": {
+    "": {
+      "1": 1699,
+      "2": 29,
+      "4": "Because what kinda woman falls in love when you insult her fighting ability!?"
+    }
+  },
+  "110": {
+    "": {
+      "1": 1698,
+      "2": 18,
+      "4": "I guess you're right."
+    }
+  },
+  "111": {
+    "": {
+      "1": 1687,
+      "2": 14,
+      "4": "Man, getting ladies sounds like a pain in the ass."
+    }
+  },
+  "112": {
+    "": {
+      "1": 1671,
+      "2": 7,
+      "4": "Yeah, I can't even follow this."
+    }
+  },
+  "113": {
+    "": {
+      "1": 1698,
+      "2": 19,
+      "4": "There's one more right? Is it just as fuckin' cheesy?"
+    }
+  },
+  "114": {
+    "": {
+      "1": 1699,
+      "2": 30,
+      "4": "You know it, Choshu-san?"
+    }
+  },
+  "115": {
+    "": {
+      "1": 1700,
+      "2": 13,
+      "4": "Of course. It's the last one. Y'know, it's that. Yeah. 　"
+    }
+  },
+  "116": {
+    "": {
+      "1": 1698,
+      "2": 20,
+      "4": "Excuse me!?"
+    }
+  },
+  "117": {
+    "": {
+      "1": 1671,
+      "2": 8,
+      "4": "I've got no clue. So it's \"so,\" right? Go on, Mutoh."
+    }
+  },
+  "118": {
+    "": {
+      "1": 1699,
+      "2": 31,
+      "4": "The \"so\" is... \"<font_kind=yakuza_italic>so</font_kind> not true.\""
+    }
+  },
+  "119": {
+    "": {
+      "1": 1697,
+      "2": 19,
+      "4": "......"
+    }
+  },
+  "120": {
+    "": {
+      "1": 1698,
+      "2": 21,
+      "4": "......"
+    }
+  },
+  "121": {
+    "": {
+      "1": 1687,
+      "2": 15,
+      "4": "......"
+    }
+  },
+  "122": {
+    "": {
+      "1": 1700,
+      "2": 14,
+      "4": "......"
+    }
+  },
+  "123": {
+    "": {
+      "1": 1672,
+      "2": 16,
+      "4": "......"
+    }
+  },
+  "124": {
+    "": {
+      "1": 1671,
+      "2": 9,
+      "4": "......"
+    }
+  },
+  "125": {
+    "": {
+      "1": 1687,
+      "2": 16,
+      "4": "Huh? Why?"
+    }
+  },
+  "126": {
+    "": {
+      "1": 1700,
+      "2": 15,
+      "4": "That hits home for a girl!?"
+    }
+  },
+  "127": {
+    "": {
+      "1": 1672,
+      "2": 17,
+      "4": "Goddamn..."
+    }
+  },
+  "128": {
+    "": {
+      "1": 1699,
+      "2": 32,
+      "4": "A man who can comfort a girl by denying her insecurities is desirable, I guess."
+    }
+  },
+  "129": {
+    "": {
+      "1": 1687,
+      "2": 17,
+      "4": "This is bullshit, Mutoh!"
+    }
+  },
+  "130": {
+    "": {
+      "1": 1699,
+      "2": 33,
+      "4": "Gripe all you want..."
+    }
+  },
+  "131": {
+    "": {
+      "1": 1687,
+      "2": 18,
+      "4": "But these are the qualities of popular guys, right?"
+    }
+  },
+  "132": {
+    "": {
+      "1": 1671,
+      "2": 10,
+      "4": "Maybe we don't get any of this... because we're not popular?"
+    }
+  },
+  "133": {
+    "": {
+      "1": 1697,
+      "2": 20,
+      "4": "......"
+    }
+  },
+  "134": {
+    "": {
+      "1": 1698,
+      "2": 22,
+      "4": "......"
+    }
+  },
+  "135": {
+    "": {
+      "1": 1687,
+      "2": 19,
+      "4": "......"
+    }
+  },
+  "136": {
+    "": {
+      "1": 1700,
+      "2": 16,
+      "4": "......"
+    }
+  },
+  "137": {
+    "": {
+      "1": 1672,
+      "2": 18,
+      "4": "......"
+    }
+  },
+  "138": {
+    "": {
+      "1": 1699,
+      "2": 34,
+      "4": "......"
+    }
+  },
+  "139": {
+    "": {
+      "1": 1697,
+      "2": 21,
+      "4": "You guys..."
+    }
+  },
+  "140": {
+    "": {
+      "1": 1697,
+      "2": 22,
+      "4": "<font_kind=yakuza_italic>So</font_kind> not true!"
+    }
+  },
+  "141": {
+    "": {
+      "1": 1698,
+      "2": 23,
+      "4": "Huh?"
+    }
+  },
+  "142": {
+    "": {
+      "1": 1687,
+      "2": 20,
+      "4": "Huh?"
+    }
+  },
+  "143": {
+    "": {
+      "1": 1700,
+      "2": 17,
+      "4": "Huh?"
+    }
+  },
+  "144": {
+    "": {
+      "1": 1672,
+      "2": 19,
+      "4": "Huh?"
+    }
+  },
+  "145": {
+    "": {
+      "1": 1671,
+      "2": 11,
+      "4": "Huh?"
+    }
+  },
+  "146": {
+    "": {
+      "1": 1699,
+      "2": 35,
+      "4": "Huh?"
+    }
+  },
+  "147": {
+    "": {
+      "1": 1697,
+      "2": 23,
+      "4": "I've seen how manly you guys are firsthand."
+    }
+  },
+  "148": {
+    "": {
+      "1": 1697,
+      "2": 24,
+      "4": "You just need to show them how unique your personalities are."
+    }
+  },
+  "149": {
+    "": {
+      "1": 1697,
+      "2": 25,
+      "4": "If you can do that, I'm sure the women will follow."
+    }
+  },
+  "150": {
+    "": {
+      "1": 1687,
+      "2": 21,
+      "4": "Kiryu-san..."
+    }
+  },
+  "151": {
+    "": {
+      "1": 1698,
+      "2": 24,
+      "4": "I think my heart just skipped a beat!"
+    }
+  },
+  "152": {
+    "": {
+      "1": 1672,
+      "2": 20,
+      "4": "\"So not true...\" Actually... I can see how you might fall for a line like that."
+    }
+  },
+  "153": {
+    "": {
+      "1": 1687,
+      "2": 22,
+      "4": "Maybe this \"sa-shi-su-se-so\" shit has some merit after all."
+    }
+  },
+  "154": {
+    "": {
+      "1": 1700,
+      "2": 18,
+      "4": "Yeah, I can feel my heart pounding..."
+    }
+  },
+  "155": {
+    "": {
+      "1": 1671,
+      "2": 12,
+      "4": "You sure that's not a heart murmur?"
+    }
+  },
+  "156": {
+    "": {
+      "1": 1700,
+      "2": 19,
+      "4": "I'm about to beat your ass!"
+    }
+  },
+  "157": {
+    "": {
+      "1": 1698,
+      "2": 25,
+      "4": "Fine! From tomorrow forward, we take \"sa-shi-su-se-so\" and become ladies men!"
+    }
+  },
+  "158": {
+    "": {
+      "1": 1697,
+      "2": 26,
+      "4": "Yeahhhh!"
+    }
+  },
+  "159": {
+    "": {
+      "1": 1687,
+      "2": 23,
+      "4": "Yeahhhh!"
+    }
+  },
+  "160": {
+    "": {
+      "1": 1700,
+      "2": 20,
+      "4": "Yeahhhh!"
+    }
+  },
+  "161": {
+    "": {
+      "1": 1672,
+      "2": 21,
+      "4": "Yeahhhh!"
+    }
+  },
+  "162": {
+    "": {
+      "1": 1671,
+      "2": 13,
+      "4": "Yeahhhh!"
+    }
+  },
+  "163": {
+    "": {
+      "1": 1699,
+      "2": 36,
+      "4": "Yeahhhh!"
+    }
+  },
+  "164": {
+    "": {
+      "1": 1698,
+      "2": 26,
+      "4": "Yeahhhh!"
+    }
+  },
+  "subTable": {
+    "ROW_COUNT": 7,
+    "COLUMN_COUNT": 3,
+    "TEXT_COUNT": 0,
+    "ROW_VALIDATOR": -1,
+    "COLUMN_VALIDATOR": -1,
+    "HAS_ROW_NAMES": true,
+    "HAS_COLUMN_NAMES": false,
+    "HAS_ROW_VALIDITY": false,
+    "HAS_COLUMN_VALIDITY": false,
+    "HAS_UNKNOWN_BITMASK": false,
+    "HAS_ROW_INDICES": false,
+    "TABLE_ID": 0,
+    "columnTypes": {
+      "0": 0,
+      "1": 9,
+      "2": 0
+    },
+    "columnTypes2": {
+      "0": 2,
+      "1": 13,
+      "2": 2
+    },
+    "0": {
+      "speech_cln51_010_fujinami": {
+        "0": 1671,
+        "1": {
+          "ROW_COUNT": 13,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 28
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 32
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 53
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 63
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 66
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 92
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 112
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 117
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 124
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 132
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 145
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 155
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 162
+            }
+          }
+        },
+        "2": 28
+      }
+    },
+    "1": {
+      "speech_cln51_010_tyono": {
+        "0": 1672,
+        "1": {
+          "ROW_COUNT": 21,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 1
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 8
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 16
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 27
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 40
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 47
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 50
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 56
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 69
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 74
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 77
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 85
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 91
+            }
+          },
+          "13": {
+            "CLN51_010_014": {
+              "0": 14,
+              "2": 93
+            }
+          },
+          "14": {
+            "CLN51_010_015": {
+              "0": 15,
+              "2": 98
+            }
+          },
+          "15": {
+            "CLN51_010_016": {
+              "0": 16,
+              "2": 123
+            }
+          },
+          "16": {
+            "CLN51_010_017": {
+              "0": 17,
+              "2": 127
+            }
+          },
+          "17": {
+            "CLN51_010_018": {
+              "0": 18,
+              "2": 137
+            }
+          },
+          "18": {
+            "CLN51_010_019": {
+              "0": 19,
+              "2": 144
+            }
+          },
+          "19": {
+            "CLN51_010_020": {
+              "0": 20,
+              "2": 152
+            }
+          },
+          "20": {
+            "CLN51_010_021": {
+              "0": 21,
+              "2": 161
+            }
+          }
+        },
+        "2": 1
+      }
+    },
+    "2": {
+      "speech_cln51_010_tenryu": {
+        "0": 1687,
+        "1": {
+          "ROW_COUNT": 23,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 0
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 25
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 29
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 37
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 39
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 46
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 48
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 65
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 68
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 71
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 78
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 89
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 103
+            }
+          },
+          "13": {
+            "CLN51_010_014": {
+              "0": 14,
+              "2": 111
+            }
+          },
+          "14": {
+            "CLN51_010_015": {
+              "0": 15,
+              "2": 121
+            }
+          },
+          "15": {
+            "CLN51_010_016": {
+              "0": 16,
+              "2": 125
+            }
+          },
+          "16": {
+            "CLN51_010_017": {
+              "0": 17,
+              "2": 129
+            }
+          },
+          "17": {
+            "CLN51_010_018": {
+              "0": 18,
+              "2": 131
+            }
+          },
+          "18": {
+            "CLN51_010_019": {
+              "0": 19,
+              "2": 135
+            }
+          },
+          "19": {
+            "CLN51_010_020": {
+              "0": 20,
+              "2": 142
+            }
+          },
+          "20": {
+            "CLN51_010_021": {
+              "0": 21,
+              "2": 150
+            }
+          },
+          "21": {
+            "CLN51_010_022": {
+              "0": 22,
+              "2": 153
+            }
+          },
+          "22": {
+            "CLN51_010_023": {
+              "0": 23,
+              "2": 159
+            }
+          }
+        },
+        "2": 0
+      }
+    },
+    "3": {
+      "speech_cln51_010_kiryu": {
+        "0": 1697,
+        "1": {
+          "ROW_COUNT": 26,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 5
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 19
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 23
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 35
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 42
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 49
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 55
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 57
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 59
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 60
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 62
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 79
+            }
+          },
+          "13": {
+            "CLN51_010_014": {
+              "0": 14,
+              "2": 80
+            }
+          },
+          "14": {
+            "CLN51_010_015": {
+              "0": 15,
+              "2": 87
+            }
+          },
+          "15": {
+            "CLN51_010_016": {
+              "0": 16,
+              "2": 96
+            }
+          },
+          "16": {
+            "CLN51_010_017": {
+              "0": 17,
+              "2": 99
+            }
+          },
+          "17": {
+            "CLN51_010_018": {
+              "0": 18,
+              "2": 104
+            }
+          },
+          "18": {
+            "CLN51_010_019": {
+              "0": 19,
+              "2": 119
+            }
+          },
+          "19": {
+            "CLN51_010_020": {
+              "0": 20,
+              "2": 133
+            }
+          },
+          "20": {
+            "CLN51_010_021": {
+              "0": 21,
+              "2": 139
+            }
+          },
+          "21": {
+            "CLN51_010_022": {
+              "0": 22,
+              "2": 140
+            }
+          },
+          "22": {
+            "CLN51_010_023": {
+              "0": 23,
+              "2": 147
+            }
+          },
+          "23": {
+            "CLN51_010_024": {
+              "0": 24,
+              "2": 148
+            }
+          },
+          "24": {
+            "CLN51_010_025": {
+              "0": 25,
+              "2": 149
+            }
+          },
+          "25": {
+            "CLN51_010_026": {
+              "0": 26,
+              "2": 158
+            }
+          }
+        },
+        "2": 3
+      }
+    },
+    "4": {
+      "speech_cln51_010_majima": {
+        "0": 1698,
+        "1": {
+          "ROW_COUNT": 26,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 6
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 12
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 21
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 24
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 33
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 34
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 45
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 58
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 61
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 64
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 75
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 81
+            }
+          },
+          "13": {
+            "CLN51_010_014": {
+              "0": 14,
+              "2": 88
+            }
+          },
+          "14": {
+            "CLN51_010_015": {
+              "0": 15,
+              "2": 97
+            }
+          },
+          "15": {
+            "CLN51_010_016": {
+              "0": 16,
+              "2": 105
+            }
+          },
+          "16": {
+            "CLN51_010_017": {
+              "0": 17,
+              "2": 108
+            }
+          },
+          "17": {
+            "CLN51_010_018": {
+              "0": 18,
+              "2": 110
+            }
+          },
+          "18": {
+            "CLN51_010_019": {
+              "0": 19,
+              "2": 113
+            }
+          },
+          "19": {
+            "CLN51_010_020": {
+              "0": 20,
+              "2": 116
+            }
+          },
+          "20": {
+            "CLN51_010_021": {
+              "0": 21,
+              "2": 120
+            }
+          },
+          "21": {
+            "CLN51_010_022": {
+              "0": 22,
+              "2": 134
+            }
+          },
+          "22": {
+            "CLN51_010_023": {
+              "0": 23,
+              "2": 141
+            }
+          },
+          "23": {
+            "CLN51_010_024": {
+              "0": 24,
+              "2": 151
+            }
+          },
+          "24": {
+            "CLN51_010_025": {
+              "0": 25,
+              "2": 157
+            }
+          },
+          "25": {
+            "CLN51_010_026": {
+              "0": 26,
+              "2": 164
+            }
+          }
+        },
+        "2": 4
+      }
+    },
+    "5": {
+      "speech_cln51_010_muto": {
+        "0": 1699,
+        "1": {
+          "ROW_COUNT": 36,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 7
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 10
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 11
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 13
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 14
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 18
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 20
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 22
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 30
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 31
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 38
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 41
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 43
+            }
+          },
+          "13": {
+            "CLN51_010_014": {
+              "0": 14,
+              "2": 44
+            }
+          },
+          "14": {
+            "CLN51_010_015": {
+              "0": 15,
+              "2": 51
+            }
+          },
+          "15": {
+            "CLN51_010_016": {
+              "0": 16,
+              "2": 52
+            }
+          },
+          "16": {
+            "CLN51_010_017": {
+              "0": 17,
+              "2": 54
+            }
+          },
+          "17": {
+            "CLN51_010_018": {
+              "0": 18,
+              "2": 67
+            }
+          },
+          "18": {
+            "CLN51_010_019": {
+              "0": 19,
+              "2": 70
+            }
+          },
+          "19": {
+            "CLN51_010_020": {
+              "0": 20,
+              "2": 72
+            }
+          },
+          "20": {
+            "CLN51_010_021": {
+              "0": 21,
+              "2": 73
+            }
+          },
+          "21": {
+            "CLN51_010_022": {
+              "0": 22,
+              "2": 82
+            }
+          },
+          "22": {
+            "CLN51_010_023": {
+              "0": 23,
+              "2": 84
+            }
+          },
+          "23": {
+            "CLN51_010_024": {
+              "0": 24,
+              "2": 90
+            }
+          },
+          "24": {
+            "CLN51_010_025": {
+              "0": 25,
+              "2": 94
+            }
+          },
+          "25": {
+            "CLN51_010_026": {
+              "0": 26,
+              "2": 100
+            }
+          },
+          "26": {
+            "CLN51_010_027": {
+              "0": 27,
+              "2": 101
+            }
+          },
+          "27": {
+            "CLN51_010_028": {
+              "0": 28,
+              "2": 107
+            }
+          },
+          "28": {
+            "CLN51_010_029": {
+              "0": 29,
+              "2": 109
+            }
+          },
+          "29": {
+            "CLN51_010_030": {
+              "0": 30,
+              "2": 114
+            }
+          },
+          "30": {
+            "CLN51_010_031": {
+              "0": 31,
+              "2": 118
+            }
+          },
+          "31": {
+            "CLN51_010_032": {
+              "0": 32,
+              "2": 128
+            }
+          },
+          "32": {
+            "CLN51_010_033": {
+              "0": 33,
+              "2": 130
+            }
+          },
+          "33": {
+            "CLN51_010_034": {
+              "0": 34,
+              "2": 138
+            }
+          },
+          "34": {
+            "CLN51_010_035": {
+              "0": 35,
+              "2": 146
+            }
+          },
+          "35": {
+            "CLN51_010_036": {
+              "0": 36,
+              "2": 163
+            }
+          }
+        },
+        "2": 7
+      }
+    },
+    "6": {
+      "speech_cln51_010_tyoshu": {
+        "0": 1700,
+        "1": {
+          "ROW_COUNT": 20,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "CLN51_010_001": {
+              "0": 1,
+              "2": 2
+            }
+          },
+          "1": {
+            "CLN51_010_002": {
+              "0": 2,
+              "2": 9
+            }
+          },
+          "2": {
+            "CLN51_010_003": {
+              "0": 3,
+              "2": 15
+            }
+          },
+          "3": {
+            "CLN51_010_004": {
+              "0": 4,
+              "2": 17
+            }
+          },
+          "4": {
+            "CLN51_010_005": {
+              "0": 5,
+              "2": 26
+            }
+          },
+          "5": {
+            "CLN51_010_006": {
+              "0": 6,
+              "2": 36
+            }
+          },
+          "6": {
+            "CLN51_010_007": {
+              "0": 7,
+              "2": 76
+            }
+          },
+          "7": {
+            "CLN51_010_008": {
+              "0": 8,
+              "2": 83
+            }
+          },
+          "8": {
+            "CLN51_010_009": {
+              "0": 9,
+              "2": 86
+            }
+          },
+          "9": {
+            "CLN51_010_010": {
+              "0": 10,
+              "2": 95
+            }
+          },
+          "10": {
+            "CLN51_010_011": {
+              "0": 11,
+              "2": 102
+            }
+          },
+          "11": {
+            "CLN51_010_012": {
+              "0": 12,
+              "2": 106
+            }
+          },
+          "12": {
+            "CLN51_010_013": {
+              "0": 13,
+              "2": 115
+            }
+          },
+          "13": {
+            "CLN51_010_014": {
+              "0": 14,
+              "2": 122
+            }
+          },
+          "14": {
+            "CLN51_010_015": {
+              "0": 15,
+              "2": 126
+            }
+          },
+          "15": {
+            "CLN51_010_016": {
+              "0": 16,
+              "2": 136
+            }
+          },
+          "16": {
+            "CLN51_010_017": {
+              "0": 17,
+              "2": 143
+            }
+          },
+          "17": {
+            "CLN51_010_018": {
+              "0": 18,
+              "2": 154
+            }
+          },
+          "18": {
+            "CLN51_010_019": {
+              "0": 19,
+              "2": 156
+            }
+          },
+          "19": {
+            "CLN51_010_020": {
+              "0": 20,
+              "2": 160
+            }
+          }
+        },
+        "2": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 12,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 14,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "explanation": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "explanation": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "explanation": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2
+  ],
+  "0": {
+    "": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "option": {
+      "name": "Paramètres de jeu",
+      "explanation": "Changer les paramètres en rapport avec le gameplay.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "2": {
+    "save": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "3": {
+    "load": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "4": {
+    "return_to_title": {
+      "name": "Retourner à l'écran titre",
+      "explanation": "Quitter le jeu et retourner à l'écran titre.",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "5": {
+    "audio_option": {
+      "name": "Paramètres audio",
+      "explanation": "Ajuster l'audio du jeu. Incluant les paramètres pour l'haut-parleurs\r\ndu contrôleur sans fil, casque, stéréo, et son surround.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "6": {
+    "profile": {
+      "name": "Profils des personnages",
+      "explanation": "Se renseigner sur les personnages principaux.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "7": {
+    "controller_guide": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "8": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "9": {
+    "pause_controls_settings": {
+      "name": "Commandes",
+      "explanation": "Regarder comment jouer au jeu.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "10": {
+    "pause_graphics_settings": {
+      "name": "Paramètres graphique",
+      "explanation": "Changer les paramètres graphiques.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "11": {
+    "load_game": {
+      "name": "Charger",
+      "explanation": "Charger une partie.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  }
+}

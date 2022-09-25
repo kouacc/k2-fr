@@ -1,0 +1,392 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 35,
+  "COLUMN_COUNT": 5,
+  "TEXT_COUNT": 24,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "key_preset": "1",
+    "key_name": "1",
+    "action_name": "1",
+    "disabled": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "key_preset": 2,
+    "key_name": 0,
+    "action_name": 0,
+    "disabled": 6
+  },
+  "columnTypes2": {
+    "": -1,
+    "key_preset": 0,
+    "key_name": 12,
+    "action_name": 12,
+    "disabled": 11
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "0": {
+    "": {
+      "key_preset": 0,
+      "disabled": "1",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "standard_type_a_0": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_l2>",
+      "action_name": "Left Weapon",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "standard_type_a_1": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_r2>",
+      "action_name": "Right Weapon",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "standard_type_a_2": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_l1>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "standard_type_a_3": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_r1>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "standard_type_a_4": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_l_stick>",
+      "action_name": "Move",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "standard_type_a_5": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_r_stick>",
+      "action_name": "Turn (Left or Right)",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "standard_type_a_6": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_shikaku>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "standard_type_a_7": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_maru>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "standard_type_a_8": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_sankaku>",
+      "action_name": "Jump ",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "standard_type_a_9": {
+      "key_preset": 1,
+      "key_name": "<symbol=button_batsu>",
+      "action_name": "Jump Cancel",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "standard_type_b_0": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_l2>",
+      "action_name": "Left Weapon",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "standard_type_b_1": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_r2>",
+      "action_name": "Right Weapon",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "standard_type_b_2": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_l1>",
+      "action_name": "Dash",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "standard_type_b_3": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_r1>",
+      "action_name": "Dash",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "standard_type_b_4": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_shikaku>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "standard_type_b_5": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_maru>",
+      "action_name": "Dash",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "standard_type_b_6": {
+      "key_preset": 2,
+      "key_name": "<symbol=button_l_stick>",
+      "action_name": "Move",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "standard_type_b_7": {
+      "key_preset": 2,
+      "key_name": "Push <symbol=button_r_stick> left or right",
+      "action_name": "Turn (Left or Right)",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "standard_type_b_8": {
+      "key_preset": 2,
+      "key_name": "Push <symbol=button_r_stick> up",
+      "action_name": "Jump ",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "standard_type_b_9": {
+      "key_preset": 2,
+      "key_name": "Push <symbol=button_r_stick> down",
+      "action_name": "Jump Cancel",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "twin_stick_type_a_0": {
+      "key_preset": 3,
+      "key_name": "<symbol=button_l2>",
+      "action_name": "Left Weapon",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "twin_stick_type_a_1": {
+      "key_preset": 3,
+      "key_name": "<symbol=button_r2>",
+      "action_name": "Right Weapon",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "twin_stick_type_a_2": {
+      "key_preset": 3,
+      "key_name": "<symbol=button_l1>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "twin_stick_type_a_3": {
+      "key_preset": 3,
+      "key_name": "<symbol=button_r1>",
+      "action_name": "Dash",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "twin_stick_type_a_4": {
+      "key_preset": 3,
+      "key_name": "<symbol=button_l_stick>",
+      "action_name": "Left Lever",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "twin_stick_type_a_5": {
+      "key_preset": 3,
+      "key_name": "<symbol=button_r_stick>",
+      "action_name": "Right Lever",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "twin_stick_type_b_0": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_l2>",
+      "action_name": "Left Weapon",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "twin_stick_type_b_1": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_r2>",
+      "action_name": "Right Weapon",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "twin_stick_type_b_2": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_l1>",
+      "action_name": "Dash",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "twin_stick_type_b_3": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_r1>",
+      "action_name": "Dash",
+      "disabled": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "twin_stick_type_b_4": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_l_stick>",
+      "action_name": "Left Lever",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "twin_stick_type_b_5": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_r_stick>",
+      "action_name": "Right Lever",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "twin_stick_type_b_6": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_up> <symbol=button_down> <symbol=button_left> <symbol=button_right>",
+      "action_name": "Left Lever",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "twin_stick_type_b_7": {
+      "key_preset": 4,
+      "key_name": "<symbol=button_sankaku> <symbol=button_batsu> <symbol=button_shikaku> <symbol=button_maru>",
+      "action_name": "Right Lever",
+      "disabled": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  }
+}

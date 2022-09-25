@@ -1,0 +1,7523 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 880,
+  "COLUMN_COUNT": 13,
+  "TEXT_COUNT": 743,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "headline": "1",
+    "option0": "1",
+    "option1": "1",
+    "option2": "1",
+    "option3": "1",
+    "enable_cancel": "0",
+    "display_horizon": "0",
+    "hide_selected": "0",
+    "option4": "1",
+    "option5": "1",
+    "option6": "1",
+    "option7": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "headline": 0,
+    "option0": 0,
+    "option1": 0,
+    "option2": 0,
+    "option3": 0,
+    "enable_cancel": -1,
+    "display_horizon": -1,
+    "hide_selected": -1,
+    "option4": 0,
+    "option5": 0,
+    "option6": 0,
+    "option7": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "headline": 12,
+    "option0": 12,
+    "option1": 12,
+    "option2": 12,
+    "option3": 12,
+    "enable_cancel": -1,
+    "display_horizon": -1,
+    "hide_selected": -1,
+    "option4": 12,
+    "option5": 12,
+    "option6": 12,
+    "option7": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    6,
+    7,
+    8,
+    2,
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12
+  ],
+  "0": {
+    "": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_0": {
+      "headline": "Test 0",
+      "option0": "AAA",
+      "option1": "BBB",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 630
+    }
+  },
+  "2": {
+    "test_1": {
+      "headline": "Test 1",
+      "option0": "CCC",
+      "option1": "DDD",
+      "option2": "EEE",
+      "option3": "FFF",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 698
+    }
+  },
+  "3": {
+    "test_2": {
+      "headline": "ZZZ",
+      "option0": "GGG",
+      "option1": "HHH",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 697
+    }
+  },
+  "4": {
+    "test_3": {
+      "headline": "Test 3",
+      "option0": "III",
+      "option1": "JJJ",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 629
+    }
+  },
+  "5": {
+    "test_4": {
+      "headline": "Test 4",
+      "option0": "aiueo",
+      "option1": "kakikukeko",
+      "option2": "sasisuseso",
+      "option3": "tachitsuteto",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 628
+    }
+  },
+  "6": {
+    "test_5": {
+      "headline": "test",
+      "option0": "tawaraba",
+      "option1": "abe-shi",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 694
+    }
+  },
+  "7": {
+    "karaoke_uketuke01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "karaoke_addtime01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "adv01_0020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "adv02_0020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "adv03_0020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "adv04_0100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "adv04_0110_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "adv04_0170_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "adv04_0170_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "adv04_0180_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "adv05_0100_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "adv05_0140_03_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "adv05_0170_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "adv05_0180_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "adv11_0040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "adv13_0040_05_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "adv13_0070_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "adv13_0150_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "adv15_0020_08_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "adv15_0040_01_select_0010": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "adv16_0020_01_select_0010": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "adv16_0020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "advsubsa24_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "advsubsa24_010_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "advsubsa24_015_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "adv01_0030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "advsubsa24_015_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "advsubsa10_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "advsubsa10_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "advsubsa10_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "advsubsa10_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "advsubsa10_050_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "advsubsa10_050_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "advsubsa10_050_select_03": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "advsubsa17_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "advsubsa17_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "advsubsb05_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "advsubsb05_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "advsubsb23_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "advsubsb23_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "advsubsa17_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "advsubsa28_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "advsubsa28_020_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "advsubsb18_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "advsubsb18_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "advsubsa22_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "advsubsa22_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "advsubsa28_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "advsubsb09_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "advsubsb09_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "advsubsb09_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "advsubsb07_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "lexus2_karaoke_uketuke01": {
+      "headline": "Réserver une salle ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 627
+    }
+  },
+  "60": {
+    "lexus2_karaoke_addtime01": {
+      "headline": "Prolonger votre session pour 500 yen ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 626
+    }
+  },
+  "61": {
+    "advsubsb04_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "adv06_0030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "adv05_0100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "advsubsb03_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "advsubsb03_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "advsubsb03_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "advsubsb03_040_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "advsubsb03_050_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "advsubsb03_050_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "advsubsb03_060_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "adv07_0030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "adv01_c01_110_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 625
+    }
+  },
+  "74": {
+    "c01_0080_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "c01_0080_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "c01_0080_select_03": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "advsubsa35_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "advsubsa35_015_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 619
+    }
+  },
+  "80": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 618
+    }
+  },
+  "81": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 617
+    }
+  },
+  "82": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 616
+    }
+  },
+  "83": {
+    "lexus2_adv01_0020_select_01": {
+      "headline": "Se souvenir des événements d'il y a un an ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 613
+    }
+  },
+  "84": {
+    "lexus2_adv02_0020_select_01": {
+      "option0": "Ouais, euh, désolé ?",
+      "option1": "J'ai pavané ta mère.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 612
+    }
+  },
+  "85": {
+    "lexus2_adv03_0020_select_01": {
+      "option0": "Attends une seconde.",
+      "option1": "Je suis prêt.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 606
+    }
+  },
+  "86": {
+    "lexus2_adv04_0100_select_01": {
+      "option0": "Je suis un peu occupé.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 604
+    }
+  },
+  "87": {
+    "lexus2_adv04_0110_select_01": {
+      "option0": "Tu n'auras rien du tout.",
+      "option1": "Payer 5 000 000 yens",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 603
+    }
+  },
+  "88": {
+    "lexus2_adv04_0170_select_01": {
+      "option0": "5,000 yens.",
+      "option1": "10,000 yens.",
+      "option2": "C'est à vous de décider.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 601
+    }
+  },
+  "89": {
+    "lexus2_adv04_0170_select_02": {
+      "option0": "Ne pas payer",
+      "option1": "Payer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "90": {
+    "lexus2_adv04_0180_select_01": {
+      "option0": "Ne pas payer",
+      "option1": "Payer 300 000 yens",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "91": {
+    "lexus2_adv05_0100_select_01": {
+      "option0": "Rester ici",
+      "option1": "Retourner en ville",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "92": {
+    "lexus2_adv05_0140_03_select_01": {
+      "option0": "Entrer quand même",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "93": {
+    "lexus2_adv05_0170_select_01": {
+      "option0": "Pas encore.",
+      "option1": "Je suis prêt.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "94": {
+    "lexus2_adv05_0180_select_01": {
+      "option0": "Juste une seconde.",
+      "option1": "Dis moi les règles avant.",
+      "option2": "Je suis tout bon.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "95": {
+    "lexus2_adv06_0030_select_01": {
+      "option0": "Tu connais Kazuki ?",
+      "option1": "Où est le bâtiment Amano ?",
+      "option2": "Un mot sur Daigo Dojima ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "96": {
+    "lexus2_adv07_0030_select_01": {
+      "option0": "Allons au Serena.",
+      "option1": "Allons au Stardust.",
+      "option2": "Allons au Bantam.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "97": {
+    "lexus2_adv11_0040_select_01": {
+      "option0": "Ne pas payer",
+      "option1": "Payer 30,000 Yen",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "98": {
+    "lexus2_adv13_0040_05_select_01": {
+      "option0": "Entrer quand même",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "99": {
+    "lexus2_adv13_0070_select_01": {
+      "option0": "Donnez-moi plus de temps pour réfléchir.",
+      "option1": "Ça pourrait être dans l'intérêt d'Haruka...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "100": {
+    "lexus2_adv13_0150_select_01": {
+      "option0": "J'ai besoin de plus de temps.",
+      "option1": "Je suis prêt.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "101": {
+    "lexus2_adv15_0020_08_select_01": {
+      "option0": "Entrer quand même",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "102": {
+    "lexus2_adv15_0040_01_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "103": {
+    "lexus2_adv16_0020_01_select_01": {
+      "option0": "Tu devrais rester ici.",
+      "option1": "Bien sûr, allons nous promener.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "104": {
+    "lexus2_adv16_0020_select_01": {
+      "option0": "J'ai besoin de plus de temps.",
+      "option1": "Je suis prêt.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "105": {
+    "lexus2_batting": {
+      "headline": "Quelle épreuve voulez-vous jouer ?\r\nUn round vous coûtera 300 yen.",
+      "option0": "Épreuve Home Run",
+      "option1": "Épreuve Défi",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "106": {
+    "lexus2_batting_homerun": {
+      "headline": "(Que devrais-je faire...?)",
+      "option0": "Essayer la compétition Home Run",
+      "option1": "Voir les prix",
+      "option2": "Rien",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "107": {
+    "lexus2_darts_solo": {
+      "headline": "Jouer au fléchettes seul ?\r\nUn round vous coûtera 200 yen.",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "108": {
+    "lexus2_darts_asada": {
+      "headline": "Jouer au fléchettes ?\r\nUn round vous coûtera 200 yen.",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "109": {
+    "lexus2_darts_kinoshita": {
+      "headline": "Jouer au fléchettes ?\r\nUn round vous coûtera 200 yen.",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "110": {
+    "lexus2_darts_women1": {
+      "headline": "Jouer au fléchettes ?\r\nUn round vous coûtera 200 yen.",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "111": {
+    "lexus2_mahjong": {
+      "option0": "Entrer le Battle Royale Roaring Dragon",
+      "option1": "Demander sur les bonus de points",
+      "option2": "Rien",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 693
+    }
+  },
+  "112": {
+    "lexus2_mahjong_low": {
+      "headline": "Jouer au mahjong à la table facile ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 692
+    }
+  },
+  "113": {
+    "lexus2_mahjong_mid": {
+      "headline": "Jouer au mahjong à la table moyenne ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 691
+    }
+  },
+  "114": {
+    "lexus2_mahjong_high": {
+      "headline": "Jouer au mahjong à la table difficile ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 690
+    }
+  },
+  "115": {
+    "lexus2_mahjong_max": {
+      "headline": "Jouer au match événement ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 689
+    }
+  },
+  "116": {
+    "lexus2_video": {
+      "option0": "Bien sûr.",
+      "option1": "Pas maintenant, désolé.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 688
+    }
+  },
+  "117": {
+    "lexus2_video_select": {
+      "option0": "Vidéo Sexy",
+      "option1": "Vidéo de Combat",
+      "option2": "Vidéo Sale",
+      "option3": "Vidéo Suspecte",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 687
+    }
+  },
+  "118": {
+    "lexus2_advsubsa10_010_select_01": {
+      "option0": "S'éloigner en silence",
+      "option1": "Entrer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "119": {
+    "lexus2_advsubsa10_020_select_01": {
+      "option0": "S'éloigner en silence",
+      "option1": "Entrer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "120": {
+    "lexus2_advsubsa10_030_select_01": {
+      "option0": "Acheter des actions Smart Eden",
+      "option1": "Ne pas acheter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "121": {
+    "lexus2_advsubsa10_040_select_01": {
+      "option0": "Acheter des actions Smart Eden",
+      "option1": "Ne pas acheter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "122": {
+    "lexus2_advsubsa10_050_select_01": {
+      "option0": "Ok, je vais les revendre.",
+      "option1": "Laissez-moi y réfléchir.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "123": {
+    "lexus2_advsubsa10_050_select_02": {
+      "option0": "Ok, je vais les revendre.",
+      "option1": "Je sais pas...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "124": {
+    "lexus2_advsubsa10_050_select_03": {
+      "option0": "Ok, je vais les revendre.",
+      "option1": "Désolé, mais la réponse est non.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "125": {
+    "lexus2_advsubsa17_020_select_01": {
+      "option0": "Payer 50 000 yens",
+      "option1": "Ne pas payer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 679
+    }
+  },
+  "126": {
+    "lexus2_advsubsa17_030_select_01": {
+      "option0": "Payer 50 000 yens",
+      "option1": "Ne pas payer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 678
+    }
+  },
+  "127": {
+    "lexus2_advsubsa17_040_select_01": {
+      "option0": "Super Kung Fu Man: Hong Kong Fever",
+      "option1": "Escalator to Heaven",
+      "option2": "You Bring The Rope, I'll Bring My Wife",
+      "option3": "Take-Chan's High School Heaven",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 677
+    }
+  },
+  "128": {
+    "lexus2_advsubsa22_010_select_01": {
+      "option0": "Ne pas intervenir",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 674
+    }
+  },
+  "129": {
+    "lexus2_advsubsa22_020_select_01": {
+      "option0": "Ne pas intervenir",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 673
+    }
+  },
+  "130": {
+    "lexus2_advsubsa24_010_select_01": {
+      "option0": "Ceci ne me concerne pas.　",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 672
+    }
+  },
+  "131": {
+    "lexus2_advsubsa24_010_select_02": {
+      "option0": "Ne pas payer",
+      "option1": "Payer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 671
+    }
+  },
+  "132": {
+    "lexus2_advsubsa24_015_select_01": {
+      "option0": "Ceci ne me concerne pas.　",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 670
+    }
+  },
+  "133": {
+    "lexus2_advsubsa24_015_select_02": {
+      "option0": "Ne pas payer",
+      "option1": "Payer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 669
+    }
+  },
+  "134": {
+    "lexus2_advsubsa28_020_select_01": {
+      "option0": "Je suis un peu occupé...",
+      "option1": "D'accord.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 668
+    }
+  },
+  "135": {
+    "lexus2_advsubsa28_030_select_01": {
+      "option0": "Je suis un peu occupé...",
+      "option1": "D'accord.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 667
+    }
+  },
+  "136": {
+    "lexus2_advsubsa31_010_select_01": {
+      "option0": "Partir",
+      "option1": "Aider le racoleur",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 666
+    }
+  },
+  "137": {
+    "lexus2_advsubsa31_020_select_01": {
+      "option0": "Partir",
+      "option1": "Aider le racoleur",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 665
+    }
+  },
+  "138": {
+    "lexus2_advsubsa35_010_select_01": {
+      "option0": "Désolé, pas mon problème.",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 664
+    }
+  },
+  "139": {
+    "lexus2_advsubsa35_015_select_01": {
+      "option0": "Désolé, pas mon problème.",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 663
+    }
+  },
+  "140": {
+    "lexus2_advsubsb03_010_select_01": {
+      "option0": "Désolé, pas mon problème.",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 662
+    }
+  },
+  "141": {
+    "lexus2_advsubsb03_020_select_01": {
+      "option0": "Désolé, pas mon problème.",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 661
+    }
+  },
+  "142": {
+    "lexus2_advsubsb03_040_select_01": {
+      "option0": "Le laisser tranquille",
+      "option1": "Demander ce qui ne va pas",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 660
+    }
+  },
+  "143": {
+    "lexus2_advsubsb03_040_select_02": {
+      "option0": "Ne rien lui donner",
+      "option1": "Lui donner le livre de Saeki",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 659
+    }
+  },
+  "144": {
+    "lexus2_advsubsb03_050_select_01": {
+      "option0": "Ne rien lui donner",
+      "option1": "Lui donner le livre de Saeki",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 658
+    }
+  },
+  "145": {
+    "lexus2_advsubsb03_050_select_02": {
+      "option0": "Lui donner le livre de Saeki",
+      "option1": "Ne rien lui donner",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 657
+    }
+  },
+  "146": {
+    "lexus2_advsubsb03_060_select_01": {
+      "option0": "Lui donner le livre de Saeki",
+      "option1": "Ne rien lui donner",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 656
+    }
+  },
+  "147": {
+    "lexus2_advsubsb04_010_select_01": {
+      "option0": "You can't give up now.",
+      "option1": "Maybe you should find a new career.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 655
+    }
+  },
+  "148": {
+    "lexus2_advsubsb05_010_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 654
+    }
+  },
+  "149": {
+    "lexus2_advsubsb05_020_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 653
+    }
+  },
+  "150": {
+    "lexus2_advsubsb07_010_select_01": {
+      "option0": "You're right. That's practically slander.",
+      "option1": "You should forgive them.",
+      "option2": "Wait... You really didn't do it?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 652
+    }
+  },
+  "151": {
+    "lexus2_advsubsb09_010_select_01": {
+      "option0": "Wait and see what happens.",
+      "option1": "Help the Girl",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 651
+    }
+  },
+  "152": {
+    "lexus2_advsubsb09_020_select_01": {
+      "option0": "Wait and see what happens.",
+      "option1": "Help the Girl",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 650
+    }
+  },
+  "153": {
+    "lexus2_advsubsb09_040_select_01": {
+      "option0": "Yoshio Tamukai.",
+      "option1": "Takuo Yoshioka.",
+      "option2": "Makoto Date.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 649
+    }
+  },
+  "154": {
+    "lexus2_advsubsb18_010_select_01": {
+      "option0": "Partir",
+      "option1": "Aider le racoleur.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 648
+    }
+  },
+  "155": {
+    "lexus2_advsubsb18_020_select_01": {
+      "option0": "Partir",
+      "option1": "Aider le racoleur.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 647
+    }
+  },
+  "156": {
+    "lexus2_advsubsb23_010_select_01": {
+      "option0": "Partir",
+      "option1": "Aider le racoleur.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 646
+    }
+  },
+  "157": {
+    "lexus2_advsubsb23_020_select_01": {
+      "option0": "Partir",
+      "option1": "Aider le racoleur.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 645
+    }
+  },
+  "158": {
+    "lexus2_ajito_kamuro_day": {
+      "option0": "Se reposer jusqu'à la nuit",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 644
+    }
+  },
+  "159": {
+    "lexus2_ajito_kamuro_ngt": {
+      "option0": "Se reposer jusqu'au matin",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 643
+    }
+  },
+  "160": {
+    "lexus2_ajito_soutenbori_day": {
+      "option0": "Se reposer jusqu'à la nuit",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 642
+    }
+  },
+  "161": {
+    "lexus2_ajito_soutenbori_ngt": {
+      "option0": "Se reposer jusqu'au matin",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 641
+    }
+  },
+  "162": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "163": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "164": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "165": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "166": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "167": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "168": {
+    "lexus2_toylets_start": {
+      "headline": "(C'est l'heure... des Toylets !)",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 640
+    }
+  },
+  "169": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 361
+    }
+  },
+  "170": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 360
+    }
+  },
+  "171": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 359
+    }
+  },
+  "172": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 493
+    }
+  },
+  "173": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 494
+    }
+  },
+  "174": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 495
+    }
+  },
+  "175": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 496
+    }
+  },
+  "176": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 497
+    }
+  },
+  "177": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 310
+    }
+  },
+  "178": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 309
+    }
+  },
+  "179": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 605
+    }
+  },
+  "180": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 639
+    }
+  },
+  "181": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 638
+    }
+  },
+  "182": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 637
+    }
+  },
+  "183": {
+    "lexus2_adv09_0011_select_01": {
+      "option0": "Pas encore",
+      "option1": "Se reposer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 636
+    }
+  },
+  "184": {
+    "lexus2_advsubsa29_010_select_01": {
+      "option0": "Pas maintenant, désolé.",
+      "option1": "Bien sûr. Enseigne-moi, papi.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 635
+    }
+  },
+  "185": {
+    "lexus2_advsubsa30_010_select_01": {
+      "option0": "Pas maintenant, désolé.",
+      "option1": "Bien sûr. Enseigne-moi, papi.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 634
+    }
+  },
+  "186": {
+    "lexus2_adv10_0030_select_01": {
+      "option0": "Aucune idée.",
+      "option1": "D'accord, je vais le dire.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 633
+    }
+  },
+  "187": {
+    "lexus2_adv13_0070_select_02": {
+      "option0": "Je devrais d'abord avoir son avis...",
+      "option1": "Ça pourrait être dans l'intérêt d'Haruka...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 632
+    }
+  },
+  "188": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 631
+    }
+  },
+  "189": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "190": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "191": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "192": {
+    "lexus2_adv13_0150_select_02": {
+      "option0": "Tu devrais rester ici.",
+      "option1": "Bien sûr, allons nous balader.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "193": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "194": {
+    "lexus2_advsubsa01_040_select_01": {
+      "option0": "C'est Kiryu.",
+      "option1": "Pourquoi voulez-vous savoir ça ?",
+      "option2": "J'ai pas envie de le dire.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 344
+    }
+  },
+  "195": {
+    "lexus2_advsubsa01_040_select_02": {
+      "option0": "Qu'est-ce que ça veut dire ?",
+      "option1": "Du lait, bien sûr.",
+      "option2": "Je préfère le café.",
+      "option3": "J'aime les seins !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "196": {
+    "lexus2_advsubsa03_010_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je prendrais bien un verre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "197": {
+    "lexus2_advsubsa03_015_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je prendrais bien un verre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "198": {
+    "lexus2_advsubsa04_010_select_01": {
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "D'accord, je vais lui parler.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 865
+    }
+  },
+  "199": {
+    "lexus2_advsubsa04_020_select_01": {
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "D'accord, je vais lui parler.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 869
+    }
+  },
+  "200": {
+    "lexus2_advsubsa04_030_select_01": {
+      "option0": "Dis-moi juste ce qui s'est passé.",
+      "option1": "Pose le couteau, Akimoto.",
+      "option2": "Je veux participer.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "201": {
+    "lexus2_advsubsa04_030_select_02": {
+      "option0": "Oublie le sac, Akimoto.",
+      "option1": "Mizuki était juste une bonne fille.",
+      "option2": "On dirait que tu as fait bonne impression.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "202": {
+    "lexus2_advsubsa04_030_select_03": {
+      "option0": "Elle n'a pas eu beaucoup de choix",
+      "option1": "Pense à ce que doit ressentir Mizuki.",
+      "option2": "Heureusement que tu l'as découvert maintenant.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "203": {
+    "lexus2_advsubsa04_030_select_04": {
+      "option0": "Tu es en tort ici aussi.",
+      "option1": "Tu devrais être reconnaissant qu'elle soit en sécurité.",
+      "option2": "ShElle a dû s'amuser à ce rendez-vous.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "204": {
+    "lexus2_advsubsa04_030_select_05": {
+      "option0": "Ce n'est pas à toi de décider, Akimoto.",
+      "option1": "Créer une entreprise n'est pas facile.",
+      "option2": "Peut-être que Mizuki voulait te surprendre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "205": {
+    "lexus2_advsubsa04_030_select_06": {
+      "option0": "Elle doit se sentir coupable de vivre là-bas.",
+      "option1": "Il y a un problème avec l'appartement ?",
+      "option2": "Peut-être que Mizuki se sent seule là-bas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "206": {
+    "lexus2_advsubsa05_030_select_01": {
+      "option0": "Parlez-lui",
+      "option1": "Trouvez un sujet qui l'intéresse.",
+      "option2": "Patientez et observez ce qui se passe.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "207": {
+    "lexus2_advsubsa06_010_select_01": {
+      "option0": "Je vais vous donner un coup de main.",
+      "option1": "Existe-t-il des ouvriers moins chers ?",
+      "option2": "Combien de temps faut-il pour économiser ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 731
+    }
+  },
+  "208": {
+    "lexus2_advsubsa06_030_select_01": {
+      "option0": "Je vais grappiller de l'argent.",
+      "option1": "Laissez-moi parler à cet ouvrier.",
+      "option2": "Je ne suis pas sûr.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 732
+    }
+  },
+  "209": {
+    "lexus2_advsubsa07_010_select_01": {
+      "option0": "Je peux peut-être vous aider.",
+      "option1": "C'est impossible, Suenaga-san.",
+      "option2": "Pourquoi ne pas leur offrir autre chose ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 733
+    }
+  },
+  "210": {
+    "lexus2_advsubsa08_010_select_01": {
+      "option0": "Ne pas jouer",
+      "option1": "C'est parti.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 734
+    }
+  },
+  "211": {
+    "lexus2_advsubsa08_040_select_01": {
+      "option0": "Ne pas jouer",
+      "option1": "C'est parti.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 735
+    }
+  },
+  "212": {
+    "lexus2_advsubsa09_010_select_01": {
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "Je vous écoute.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 736
+    }
+  },
+  "213": {
+    "lexus2_advsubsa09_015_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je vous écoute.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 737
+    }
+  },
+  "214": {
+    "lexus2_advsubsa09_060_select_01": {
+      "option0": "Désolé, mauvais gars.",
+      "option1": "Combien de cloches avez-vous besoin ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 738
+    }
+  },
+  "215": {
+    "lexus2_advsubsa11_010_select_01": {
+      "option0": "Pas assez simple.",
+      "option1": "Où est-ce que je signe ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 739
+    }
+  },
+  "216": {
+    "lexus2_advsubsa11_020_select_01": {
+      "option0": "Pas assez simple.",
+      "option1": "Où est-ce que je signe ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 740
+    }
+  },
+  "217": {
+    "lexus2_advsubsa14_010_select_01": {
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "Très bien, je peux être votre guide.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 741
+    }
+  },
+  "218": {
+    "lexus2_advsubsa14_015_select_01": {
+      "option0": "Désolé, je suis occupé.",
+      "option1": "Très bien, je peux être votre guide.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 742
+    }
+  },
+  "219": {
+    "lexus2_advsubsa14_016_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Ouais, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 743
+    }
+  },
+  "220": {
+    "lexus2_advsubsa14_020_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Très bien, je peux être votre guide.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 744
+    }
+  },
+  "221": {
+    "lexus2_advsubsa14_026_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Ouais, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 745
+    }
+  },
+  "222": {
+    "lexus2_advsubsa14_030_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Très bien, je peux être votre guide.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 746
+    }
+  },
+  "223": {
+    "lexus2_advsubsa14_035_select_01": {
+      "option0": "Peut-être une autre fois.",
+      "option1": "Ouais, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 747
+    }
+  },
+  "224": {
+    "lexus2_advsubsa14_930_select_01": {
+      "option0": "Non, c'est rien.",
+      "option1": "Je dois y aller.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 748
+    }
+  },
+  "225": {
+    "lexus2_advsubsa15_060_select_01": {
+      "option0": "Je pense pouvoir m'en passer.",
+      "option1": "C'est parti.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 749
+    }
+  },
+  "226": {
+    "lexus2_advsubsa15_070_select_01": {
+      "option0": "Je pense pouvoir m'en passer.",
+      "option1": "C'est parti.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 750
+    }
+  },
+  "227": {
+    "lexus2_advsubsa16_010_select_01": {
+      "option0": "Ne pas acheter",
+      "option1": "Acheter la marchandise",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 751
+    }
+  },
+  "228": {
+    "lexus2_advsubsa20_010_select_01": {
+      "option0": "Je pense que je vais passer mon tour.",
+      "option1": "Un peu de baseball ne fait de mal à personne.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 752
+    }
+  },
+  "229": {
+    "lexus2_advsubsa20_015_select_01": {
+      "option0": "Je pense que je vais passer mon tour.",
+      "option1": "Un peu de baseball ne fait de mal à personne.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 753
+    }
+  },
+  "230": {
+    "lexus2_advsubsa21_010_select_01": {
+      "option0": "Vous vous trompez de personne.",
+      "option1": "D'accord, je vais prendre sa place.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 754
+    }
+  },
+  "231": {
+    "lexus2_advsubsa21_015_select_01": {
+      "option0": "Ça ne me concerne pas.",
+      "option1": "Je suppose que je vais jouer pour lui...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 755
+    }
+  },
+  "232": {
+    "lexus2_advsubsa21_020_select_01": {
+      "option0": "Peut-être plus tard.",
+      "option1": "D'accord, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 756
+    }
+  },
+  "233": {
+    "lexus2_advsubsa21_025_select_01": {
+      "option0": "Je pense que je vais passer mon tour.　",
+      "option1": "D'accord, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 757
+    }
+  },
+  "234": {
+    "lexus2_advsubsa25_010_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 758
+    }
+  },
+  "235": {
+    "lexus2_advsubsa25_015_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 759
+    }
+  },
+  "236": {
+    "lexus2_advsubsa25_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 760
+    }
+  },
+  "237": {
+    "lexus2_advsubsa26_010_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 761
+    }
+  },
+  "238": {
+    "lexus2_advsubsa26_015_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 762
+    }
+  },
+  "239": {
+    "lexus2_advsubsa26_016_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 763
+    }
+  },
+  "240": {
+    "lexus2_advsubsa26_026_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 764
+    }
+  },
+  "241": {
+    "lexus2_advsubsa27_010_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 765
+    }
+  },
+  "242": {
+    "lexus2_advsubsa27_015_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 766
+    }
+  },
+  "243": {
+    "lexus2_advsubsa27_026_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 767
+    }
+  },
+  "244": {
+    "lexus2_advsubsa16_020_select_01": {
+      "option0": "Ne pas acheter",
+      "option1": "Acheter la marchandise",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 768
+    }
+  },
+  "245": {
+    "advsubsb01_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 769
+    }
+  },
+  "246": {
+    "advsubsb01_010_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 770
+    }
+  },
+  "247": {
+    "advsubsb01_015_sselct_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 771
+    }
+  },
+  "248": {
+    "advsubsb01_015_sselct_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 772
+    }
+  },
+  "249": {
+    "advsubsb01_025_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 773
+    }
+  },
+  "250": {
+    "advsubsb01_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 774
+    }
+  },
+  "251": {
+    "advsubsb01_040_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 775
+    }
+  },
+  "252": {
+    "advsubsb01_045_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 776
+    }
+  },
+  "253": {
+    "advsubsb01_045_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 777
+    }
+  },
+  "254": {
+    "advsubsb01_055_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 778
+    }
+  },
+  "255": {
+    "advsubsb02_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 779
+    }
+  },
+  "256": {
+    "advsubsb02_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 780
+    }
+  },
+  "257": {
+    "advsubsb02_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 781
+    }
+  },
+  "258": {
+    "advsubsb02_060_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 782
+    }
+  },
+  "259": {
+    "advsubsb02_070_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 783
+    }
+  },
+  "260": {
+    "advsubsb02_090_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 784
+    }
+  },
+  "261": {
+    "advsubsb10_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 785
+    }
+  },
+  "262": {
+    "advsubsb11_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 786
+    }
+  },
+  "263": {
+    "advsubsb11_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 787
+    }
+  },
+  "264": {
+    "advsubsb11_030_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 788
+    }
+  },
+  "265": {
+    "advsubsb11_030_select_03": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 789
+    }
+  },
+  "266": {
+    "advsubsb12_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 790
+    }
+  },
+  "267": {
+    "advsubsb12_010_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 791
+    }
+  },
+  "268": {
+    "advsubsb12_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 792
+    }
+  },
+  "269": {
+    "advsubsb12_050_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 793
+    }
+  },
+  "270": {
+    "advsubsb12_060_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 794
+    }
+  },
+  "271": {
+    "advsubsb16_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 795
+    }
+  },
+  "272": {
+    "advsubsb16_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 796
+    }
+  },
+  "273": {
+    "advsubsb16_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 797
+    }
+  },
+  "274": {
+    "advsubsb16_040_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 798
+    }
+  },
+  "275": {
+    "lexus2_advsubsb19_010_select_01": {
+      "option0": "Not in the mood.",
+      "option1": "Fight Them",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 839
+    }
+  },
+  "276": {
+    "lexus2_advsubsb19_020_select_01": {
+      "option0": "Not in the mood.",
+      "option1": "Fight Them",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 840
+    }
+  },
+  "277": {
+    "lexus2_advsubsa13_010_select_01": {
+      "option0": "Sorry, not interested.",
+      "option1": "Sure, I'll give it a listen.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 841
+    }
+  },
+  "278": {
+    "lexus2_advsubsa13_010_select_02": {
+      "option0": "Ça n'a pas beaucoup d'attrait pour le grand public.",
+      "option1": "Je crois que je vais vomir.",
+      "option2": "Tu n'as vraiment aucun talent.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 842
+    }
+  },
+  "279": {
+    "lexus2_advsubsa13_015_select_01": {
+      "option0": "Désolé, peut-être plus tard.",
+      "option1": "D'accord, je vais écouter.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 843
+    }
+  },
+  "280": {
+    "lexus2_advsubsa13_015_select_02": {
+      "option0": "Ça n'a pas beaucoup d'attrait pour le grand public.",
+      "option1": "Je crois que je vais vomir.",
+      "option2": "Tu n'as vraiment aucun talent.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 844
+    }
+  },
+  "281": {
+    "lexus2_advsubsa13_020_select_01": {
+      "option0": "Désolé, mais non.",
+      "option1": "Si vous insistez.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 845
+    }
+  },
+  "282": {
+    "lexus2_advsubsa13_025_select_01": {
+      "option0": "Désolé, mais non.",
+      "option1": "Si vous insistez.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 846
+    }
+  },
+  "283": {
+    "lexus2_advsubsa13_060_select_01": {
+      "option0": "Ne rien donner",
+      "option1": "Lui donner les bottes de Kaorin　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 847
+    }
+  },
+  "284": {
+    "lexus2_advsubsa13_065_select_01": {
+      "option0": "Ne rien donner",
+      "option1": "Lui donner les bottes de Kaorin　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 848
+    }
+  },
+  "285": {
+    "lexus2_advsubsb01_010_select_01": {
+      "option0": "Je pense que je vais passer mon tour.",
+      "option1": "Lui donner",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 849
+    }
+  },
+  "286": {
+    "lexus2_advsubsb01_010_select_02": {
+      "option0": "You should ask someone else.",
+      "option1": "A little baseball never hurt anyone.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 850
+    }
+  },
+  "287": {
+    "lexus2_advsubsb01_015_sselct_01": {
+      "option0": "I think I'll pass.",
+      "option1": "Give It To Him",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 851
+    }
+  },
+  "288": {
+    "lexus2_advsubsb01_015_sselct_02": {
+      "option0": "You should ask someone else.",
+      "option1": "A little baseball never hurt anyone.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 852
+    }
+  },
+  "289": {
+    "lexus2_advsubsb01_025_select_01": {
+      "option0": "I don't think I can get it.",
+      "option1": "Let me try again.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 853
+    }
+  },
+  "290": {
+    "lexus2_advsubsb01_040_select_01": {
+      "option0": "I think I'll pass.",
+      "option1": "Give It To Him",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 854
+    }
+  },
+  "291": {
+    "lexus2_advsubsb01_040_select_02": {
+      "option0": "Sorry, I'm busy.",
+      "option1": "A little baseball never hurt anyone.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 855
+    }
+  },
+  "292": {
+    "lexus2_advsubsb01_045_select_01": {
+      "option0": "I think I'll pass.",
+      "option1": "Give It To Him",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 856
+    }
+  },
+  "293": {
+    "lexus2_advsubsb01_045_select_02": {
+      "option0": "Not right now.",
+      "option1": "A little baseball never hurt anyone.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 799
+    }
+  },
+  "294": {
+    "lexus2_advsubsb01_055_select_02": {
+      "option0": "I don't think I can get it.　",
+      "option1": "Let me try again.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 800
+    }
+  },
+  "295": {
+    "lexus2_advsubsb02_010_select_01": {
+      "option0": "I'm fine, thanks.",
+      "option1": "I think I broke a bone.",
+      "option2": "I should be asking you that.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 801
+    }
+  },
+  "296": {
+    "lexus2_advsubsb02_020_select_01": {
+      "option0": "Maybe some other time.",
+      "option1": "I'll play.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 802
+    }
+  },
+  "297": {
+    "lexus2_advsubsb02_030_select_01": {
+      "option0": "Maybe some other time.",
+      "option1": "I'll play.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 803
+    }
+  },
+  "298": {
+    "lexus2_advsubsb02_060_select_01": {
+      "option0": "Don't Get Involved",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 804
+    }
+  },
+  "299": {
+    "lexus2_advsubsb02_070_select_01": {
+      "option0": "Don't Get Involved",
+      "option1": "Intervenir",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 805
+    }
+  },
+  "300": {
+    "lexus2_advsubsb02_090_select_01": {
+      "option0": "Give 100 Yen",
+      "option1": "Give 10,000 Yen",
+      "option2": "Give 100,000 Yen",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 806
+    }
+  },
+  "301": {
+    "lexus2_advsubsb10_010_select_01": {
+      "option0": "Who's Cathy?",
+      "option1": "Are you talking about the car?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 807
+    }
+  },
+  "302": {
+    "lexus2_advsubsb11_020_select_01": {
+      "option0": "You could say that.",
+      "option1": "...What are you talking about?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 808
+    }
+  },
+  "303": {
+    "lexus2_advsubsb11_030_select_01": {
+      "option0": "No chance.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 809
+    }
+  },
+  "304": {
+    "lexus2_advsubsb11_030_select_02": {
+      "option0": "I'm not sure that's enough.",
+      "option1": "D'accord, pourquoi pas.",
+      "option2": "I don't want to trade.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 810
+    }
+  },
+  "305": {
+    "lexus2_advsubsb11_030_select_03": {
+      "option0": "I'm actually pretty attached to it.",
+      "option1": "D'accord, pourquoi pas.",
+      "option2": "I don't want to trade.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 811
+    }
+  },
+  "306": {
+    "lexus2_advsubsb12_010_select_01": {
+      "option0": "Go to the hospital.",
+      "option1": "Try hitting your head again.",
+      "option2": "Let me hit you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 812
+    }
+  },
+  "307": {
+    "lexus2_advsubsb12_010_select_02": {
+      "option0": "I don't have time for this.",
+      "option1": "Help Him",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 813
+    }
+  },
+  "308": {
+    "lexus2_advsubsb12_040_select_01": {
+      "option0": "I don't have time for this.",
+      "option1": "Help Him Again",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 814
+    }
+  },
+  "309": {
+    "lexus2_advsubsb12_050_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 815
+    }
+  },
+  "310": {
+    "lexus2_advsubsb12_060_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 816
+    }
+  },
+  "311": {
+    "lexus2_advsubsb16_010_select_01": {
+      "option0": "Ne pas jouer",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 817
+    }
+  },
+  "312": {
+    "lexus2_advsubsb16_020_select_01": {
+      "option0": "Ne pas jouer",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 818
+    }
+  },
+  "313": {
+    "lexus2_advsubsb16_030_select_01": {
+      "option0": "Ne pas jouer",
+      "option1": "Rejouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 819
+    }
+  },
+  "314": {
+    "lexus2_advsubsb16_040_select_01": {
+      "option0": "Ne pas jouer",
+      "option1": "Rejouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 820
+    }
+  },
+  "315": {
+    "lexus2_advsubsb12_020_select_01": {
+      "option0": "I don't have time for this.",
+      "option1": "Help Him",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 821
+    }
+  },
+  "316": {
+    "lexus2_advsubsb12_030_select_01": {
+      "option0": "I don't have time for this.",
+      "option1": "Help Him Again",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 822
+    }
+  },
+  "317": {
+    "lexus2_advsubsb13_070_select_01": {
+      "option0": "Maybe some other time.",
+      "option1": "Sure, let's talk.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 823
+    }
+  },
+  "318": {
+    "lexus2_advsubsb13_080_select_01": {
+      "option0": "Maybe some other time.",
+      "option1": "Sure, let's talk.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 824
+    }
+  },
+  "319": {
+    "lexus2_advsubsb13_090_select_01": {
+      "option0": "A yakuza who fights for the woman he loves.",
+      "option1": "A young girl who swaps bodies with a yakuza.",
+      "option2": "A yakuza who fights off a colossal monster.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 825
+    }
+  },
+  "320": {
+    "lexus2_advsubsb13_090_select_02": {
+      "option0": "The music was mediocre.",
+      "option1": "The actors didn't fit their roles.",
+      "option2": "The action was subpar.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 826
+    }
+  },
+  "321": {
+    "lexus2_advsubsb13_090_select_03": {
+      "option0": "Good luck with that, then.",
+      "option1": "I can teach you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 827
+    }
+  },
+  "322": {
+    "lexus2_advsubsb13_090_select_04": {
+      "option0": "Can we take a raincheck?",
+      "option1": "Sure, let's talk.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 828
+    }
+  },
+  "323": {
+    "lexus2_advsubsb13_100_select_01": {
+      "option0": "Good luck with that, then.",
+      "option1": "I can teach you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 829
+    }
+  },
+  "324": {
+    "lexus2_advsubsb13_100_select_02": {
+      "option0": "Can we take a raincheck?",
+      "option1": "Sure, let's talk.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 830
+    }
+  },
+  "325": {
+    "lexus2_advsubsb13_110_select_01": {
+      "option0": "Can we take a raincheck?",
+      "option1": "Sure, let's talk.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 831
+    }
+  },
+  "326": {
+    "lexus2_advsubsb14_010_select_01": {
+      "option0": "Let me think it over.",
+      "option1": "All right, I'll do it.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 832
+    }
+  },
+  "327": {
+    "lexus2_advsubsb14_020_select_01": {
+      "option0": "Uh, no.",
+      "option1": "Sure, I'll model for you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 833
+    }
+  },
+  "328": {
+    "lexus2_advsubsb15_010_select_01": {
+      "option0": "Sorry, but the answer's no.",
+      "option1": "All right, I'll do it.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 834
+    }
+  },
+  "329": {
+    "lexus2_advsubsb15_020_select_01": {
+      "option0": "Sorry, the answer's still no.",
+      "option1": "...Okay, I'll do it.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 835
+    }
+  },
+  "330": {
+    "lexus2_advsubsb14_030_select_01": {
+      "option0": "Pose As a Lion Stalking Its Prey",
+      "option1": "Extend Both Arms and Scream to the Heavens",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 836
+    }
+  },
+  "331": {
+    "lexus2_advsubsb14_030_select_02": {
+      "option0": "Pose As a Cute Maid",
+      "option1": "Pose As a Superhero",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 858
+    }
+  },
+  "332": {
+    "lexus2_advsubsb14_030_select_03": {
+      "option0": "Pose As an Old Man With a Cane",
+      "option1": "Pose As a Man Lighting a Cigarette",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "333": {
+    "lexus2_advsubsb14_030_select_04": {
+      "option0": "Pose As a Bodybuilder",
+      "option1": "Pose As a Sumo Wrestler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "334": {
+    "lexus2_advsubsb15_030_select_01": {
+      "option0": "Yeah, it's nice to be alone.",
+      "option1": "You smell awful.",
+      "option2": "Wait. There's someone else here!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "335": {
+    "lexus2_advsubsb15_030_select_02": {
+      "option0": "You've been a great friend.",
+      "option1": "You're really annoying.",
+      "option2": "I've always seen you as a man.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "336": {
+    "lexus2_advsubsb15_030_select_03": {
+      "option0": "I want you to be my first.",
+      "option1": "Meet your parents.",
+      "option2": "Have a pissing contest.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "337": {
+    "lexus2_advsubsb15_030_select_04": {
+      "option0": "Ready for what?",
+      "option1": "Please be gentle with me.",
+      "option2": "Actually, I have to go.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "338": {
+    "lexus2_advsubsa18_010_select_01": {
+      "option0": "Ne pas aider Date",
+      "option1": "Aider Date",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "339": {
+    "lexus2_advsubsa18_015_select_01": {
+      "option0": "Ne pas aider Date",
+      "option1": "Aider Date",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "340": {
+    "lexus2_advsubsa19_020_select_01": {
+      "option0": "Ne pas aider",
+      "option1": "Aider",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "341": {
+    "lexus2_advsubsa19_030_select_01": {
+      "option0": "Ne pas aider",
+      "option1": "Aider",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "342": {
+    "lexus2_advsubsa19_070_select_01": {
+      "option0": "Ne pas aider",
+      "option1": "Aider",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "343": {
+    "lexus2_advsubsa27_016_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "D'accord, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "344": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 614
+    }
+  },
+  "345": {
+    "lexus2_toylets_select_game": {
+      "headline": "(Quel jeu devrais-je jouer ?)",
+      "option0": "Milky Nose",
+      "option1": "The North Wind and The Sun... And Me",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 615
+    }
+  },
+  "346": {
+    "lexus2_toylets_select_level": {
+      "headline": "(Quelle difficulté devrais-je choisir ?)",
+      "option0": "Facile",
+      "option1": "Normal",
+      "option2": "Difficile",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 479
+    }
+  },
+  "347": {
+    "lexus2_virtualon": {
+      "headline": "Jouer à Virtual-On ?\r\nUn round coûte 100 yens.",
+      "option0": "Jouer",
+      "option1": "Voir les règles",
+      "option2": "Ne pas jouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "348": {
+    "lexus2_virtuafigter2": {
+      "headline": "Jouer à Virtua Fighter ?\r\nUn round coûte 100 yens.",
+      "option0": "Jouer",
+      "option1": "Voir les règles",
+      "option2": "Ne pas jouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "349": {
+    "lexus2_koikoi": {
+      "headline": "Jouer au koi-koi ?",
+      "option0": "Oui",
+      "option1": "Voir les règles",
+      "option2": "Voir les détails des mains",
+      "option3": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 480
+    }
+  },
+  "350": {
+    "lexus2_kabu": {
+      "headline": "Jouer à l'oicho-kabu ?",
+      "option0": "Oui",
+      "option1": "Voir les règles",
+      "option2": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 563
+    }
+  },
+  "351": {
+    "lexus2_bj": {
+      "headline": "Jouer au blackjack ?",
+      "option0": "Oui",
+      "option1": "Voir les règles",
+      "option2": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 564
+    }
+  },
+  "352": {
+    "lexus2_poker": {
+      "headline": "Jouer au poker ?",
+      "option0": "Oui",
+      "option1": "Voir les règles",
+      "option2": "Voir les détails des mains",
+      "option3": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 607
+    }
+  },
+  "353": {
+    "lexus2_ebisuya_menu": {
+      "option0": "Je suis ici pour acheter.",
+      "option1": "Je suis ici pour vendre.",
+      "option2": "Je suis ici pour vendre de l'équipement.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 608
+    }
+  },
+  "354": {
+    "lexus2_kamiyama_menu": {
+      "option0": "Je suis ici pour acheter.",
+      "option1": "Je suis ici pour vendre des armes.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 620
+    }
+  },
+  "355": {
+    "lexus2_elevator_13buil": {
+      "option0": "Vers le 3ème étage",
+      "option1": "Vers le 2ème étage",
+      "option2": "Vers le 1er étage",
+      "option3": "Vers le RdC",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 621
+    }
+  },
+  "356": {
+    "lexus2_elevator_15buil": {
+      "option0": "Vers le 3ème étage",
+      "option1": "Vers le 2ème étage",
+      "option2": "Vers le 1er étage",
+      "option3": "Vers le RdC",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 622
+    }
+  },
+  "357": {
+    "lexus2_elevator_ryugu": {
+      "option0": "Vers le 3ème étage",
+      "option1": "Vers le 2ème étage",
+      "option2": "Vers le 1er étage",
+      "option3": "Vers le RdC",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 624
+    }
+  },
+  "358": {
+    "lexus2_cabaret": {
+      "headline": "Ouvrir pour les affaires ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 680
+    }
+  },
+  "359": {
+    "advsubsa05_030_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 877
+    }
+  },
+  "360": {
+    "advsubsa31_010_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 681
+    }
+  },
+  "361": {
+    "advsubsa31_020_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 682
+    }
+  },
+  "362": {
+    "lexus2_k_encboss01": {
+      "option0": "no, you've got the wrong guy.",
+      "option1": "And what if it does?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 683
+    }
+  },
+  "363": {
+    "lexus2_k_encboss02": {
+      "option0": "I'm not in the mood.",
+      "option1": "Then I'll take you on.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 684
+    }
+  },
+  "364": {
+    "lexus2_k_encboss03": {
+      "option0": "Can't say I know him.",
+      "option1": "I'm that Kiryu.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 685
+    }
+  },
+  "365": {
+    "lexus2_k_encboss04": {
+      "option0": "I don't recall anything like that.",
+      "option1": "I was just taking out the trash.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 686
+    }
+  },
+  "366": {
+    "lexus2_k_encboss05": {
+      "option0": "no, you've got the wrong guy.",
+      "option1": "You're going down too.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 870
+    }
+  },
+  "367": {
+    "lexus2_k_encboss06": {
+      "option0": "I don't know him.",
+      "option1": "The name's Kiryu.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 871
+    }
+  },
+  "368": {
+    "lexus2_k_encboss07": {
+      "option0": "Only if you don't try to fight me.",
+      "option1": "Do you really plan on just \"talking this out\"?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 862
+    }
+  },
+  "369": {
+    "lexus2_k_encboss08": {
+      "option0": "I might be a little old-fashioned...",
+      "option1": "You wanna test that out?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 863
+    }
+  },
+  "370": {
+    "lexus2_k_encboss09": {
+      "option0": "How stupid.",
+      "option1": "Fine, let's do this.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 864
+    }
+  },
+  "371": {
+    "lexus2_k_encboss10": {
+      "option0": "No, you've got the wrong guy.",
+      "option1": "And what if it does?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 866
+    }
+  },
+  "372": {
+    "lexus2_s_encboss01": {
+      "option0": "No thanks.",
+      "option1": "Then let's see what happens.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 867
+    }
+  },
+  "373": {
+    "lexus2_s_encboss02": {
+      "option0": "no, I don't have any.",
+      "option1": "Suppose I am.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 873
+    }
+  },
+  "374": {
+    "lexus2_s_encboss03": {
+      "option0": "You got the wrong guy.",
+      "option1": "I'm not wreaking havoc on purpose.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 874
+    }
+  },
+  "375": {
+    "lexus2_s_encboss04": {
+      "option0": "I hardly have time for that.",
+      "option1": "True, that does sound interesting.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 876
+    }
+  },
+  "376": {
+    "lexus2_s_encboss05": {
+      "option0": "Not interested.",
+      "option1": "Oh, so you're down for a round?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 695
+    }
+  },
+  "377": {
+    "lexus2_s_encboss06": {
+      "option0": "Go waste someone else's time.",
+      "option1": "So you want me to fight you?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 875
+    }
+  },
+  "378": {
+    "lexus2_s_encboss07": {
+      "option0": "I'm not obliged to answer you.",
+      "option1": "What do you want with me?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 696
+    }
+  },
+  "379": {
+    "lexus2_s_encboss08": {
+      "option0": "Fine.",
+      "option1": "Or else what?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 699
+    }
+  },
+  "380": {
+    "lexus2_s_encboss09": {
+      "option0": "...I won't get involved.",
+      "option1": "What the hell is this guy...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 700
+    }
+  },
+  "381": {
+    "lexus2_s_encboss10": {
+      "option0": "No, you've got the wrong guy.",
+      "option1": "And what if it does?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 701
+    }
+  },
+  "382": {
+    "lexus2_advsubsa19_050_select_01": {
+      "option0": "C'était sympa, mais je dois y aller.",
+      "option1": "Quel beau temps on a, hein ?",
+      "option2": "C'est un plaisir de vous rencontrer !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 702
+    }
+  },
+  "383": {
+    "lexus2_advsubsa19_050_select_02": {
+      "option0": "Il est important d'avoir l'esprit d'équipe.",
+      "option1": "Dommage que tu n'aies pas réussi à arriver en premier.",
+      "option2": "Tu n'as pas beaucoup étudié, alors.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 703
+    }
+  },
+  "384": {
+    "lexus2_advsubsa19_050_select_03": {
+      "option0": "Parce que tu étais toujours bien huilé ?",
+      "option1": "Il a vraiment aidé les gens à s'entendre.",
+      "option2": "Lubrifiant ? Tu peux être plus que cela.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 704
+    }
+  },
+  "385": {
+    "lexus2_advsubsa19_050_select_04": {
+      "option0": "Qui sait quand les couteaux peuvent s'avérer utiles.",
+      "option1": "Cela montre que c'est une travailleuse assidue.",
+      "option2": "Les patrons sont comme des pommes de terre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 395
+    }
+  },
+  "386": {
+    "lexus2_advsubsa19_050_select_05": {
+      "option0": "C'est bien de connaître d'autres cultures.",
+      "option1": "Tu as mangé du bon curry ?",
+      "option2": "Je parie que tu n'as pas trouvé ton âme.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 396
+    }
+  },
+  "387": {
+    "lexus2_advsubsa19_050_select_06": {
+      "option0": "C'est un secteur d'avenir.",
+      "option1": "Tu étudiais pour aller sur la lune ?",
+      "option2": "Cela explique pourquoi tu es si robotique.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 397
+    }
+  },
+  "388": {
+    "lexus2_advsubsa19_050_select_07": {
+      "option0": "Si seulement tu traitais la recherche d'emploi pareil.",
+      "option1": "Tu devrais aussi être persistant en amour",
+      "option2": "C'est une excellente attitude au travail.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 398
+    }
+  },
+  "389": {
+    "lexus2_advsubsa19_050_select_08": {
+      "option0": "J'étais le quatrième président du Clan Tojo.",
+      "option1": "J'étais dans l'immobilier.",
+      "option2": "Je préfère ne pas en parler.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 399
+    }
+  },
+  "390": {
+    "lexus2_advsubsa19_050_select_09": {
+      "option0": "Je me verrais bien en chauffeur de taxi.",
+      "option1": "J'ai toujours voulu être une mascotte.",
+      "option2": "Je pense à ouvrir un orphelinat.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 400
+    }
+  },
+  "391": {
+    "lexus2_advsubsa19_050_select_10": {
+      "option0": "Merci de nous avoir accueillis !",
+      "option1": "Quel beau temps on a, hein ?",
+      "option2": "Êtes-vous chauve ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 401
+    }
+  },
+  "392": {
+    "lexus2_nozoki_select": {
+      "headline": "Commencer la séance photo ?",
+      "option0": "Démarrer la séance photo",
+      "option1": "Rejouer",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 402
+    }
+  },
+  "393": {
+    "lexus2_golf_menu": {
+      "headline": "Que voulez-vous faire aujourd'hui, monsieur ?",
+      "option0": "Jouer à l'Approche parfaite (1 000 yens)",
+      "option1": "Jouer au challenge Bingo (1 000 yens)",
+      "option2": "Voir les records",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 403
+    }
+  },
+  "394": {
+    "lexus2_golf_nearpin_level": {
+      "option0": "Débutant",
+      "option1": "Intermédiaire",
+      "option2": "Avancé",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 404
+    }
+  },
+  "395": {
+    "lexus2_kanadate01_select_01": {
+      "option0": "I'm actually a small eater.",
+      "option1": "I don't lose at eating.",
+      "option2": "I'm on a diet, myself.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 405
+    }
+  },
+  "396": {
+    "lexus2_kanadate01_select_02": {
+      "option0": "Your team was too weak.",
+      "option1": "You must have worked hard.",
+      "option2": "You had a lot of friends, huh?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 406
+    }
+  },
+  "397": {
+    "lexus2_kanadate01_select_03": {
+      "option0": "Keep those big spenders.",
+      "option1": "Keep working hard.",
+      "option2": "Get closer to the manager.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 407
+    }
+  },
+  "398": {
+    "lexus2_kanadate01_select_04": {
+      "option0": "You'll never feel alone again.",
+      "option1": "Your previous club failed you.",
+      "option2": "Don't overwork yourself.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 408
+    }
+  },
+  "399": {
+    "lexus2_kanadate02_select_01": {
+      "option0": "I love solo karaoke.",
+      "option1": "I go to practice.",
+      "option2": "Karaoke is better with friends.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 409
+    }
+  },
+  "400": {
+    "lexus2_kanadate02_select_02": {
+      "option0": "A big eater, right?",
+      "option1": "It's me, right?",
+      "option2": "A man chasing his dreams?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 410
+    }
+  },
+  "401": {
+    "lexus2_kanadate02_select_03": {
+      "option0": "The idol route?",
+      "option1": "How about playing it straight?",
+      "option2": "Definitely mature and sexy.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 411
+    }
+  },
+  "402": {
+    "lexus2_kanadate02_select_04": {
+      "option0": "Shellac",
+      "option1": "Komian",
+      "option2": "Four Shine, of course!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 412
+    }
+  },
+  "403": {
+    "lexus2_kanadate03_select_01": {
+      "option0": "Why don't you help her?",
+      "option1": "Why don't you ask her?",
+      "option2": "Stay out of her business.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 413
+    }
+  },
+  "404": {
+    "lexus2_kanadate03_select_02": {
+      "option0": "You've really matured.",
+      "option1": "This calls for a hug.",
+      "option2": "I still blame your senpai.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 414
+    }
+  },
+  "405": {
+    "lexus2_kanadate03_select_03": {
+      "option0": "A top tier hostess.",
+      "option1": "My wife.",
+      "option2": "Manager of Four Shine.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 415
+    }
+  },
+  "406": {
+    "lexus2_kanadate03_select_04": {
+      "option0": "I'm sure you'll find one.",
+      "option1": "I feel the same way.",
+      "option2": "I want a girlfriend like you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 416
+    }
+  },
+  "407": {
+    "lexus2_yuadate01_select_01": {
+      "option0": "I'd love to.",
+      "option1": "Sorry, I'm not interested.",
+      "option2": "I have enough DVDs already.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 417
+    }
+  },
+  "408": {
+    "lexus2_yuadate01_select_02": {
+      "option0": "Money was tight.",
+      "option1": "You weren't actually popular.",
+      "option2": "You're better suited to cabaret.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 418
+    }
+  },
+  "409": {
+    "lexus2_yuadate01_select_03": {
+      "option0": "A bikini festival!",
+      "option1": "You could put on a concert.",
+      "option2": "Let's hold a handshake event.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 419
+    }
+  },
+  "410": {
+    "lexus2_yuadate01_select_04": {
+      "option0": "I didn't have time for that.",
+      "option1": "I was.",
+      "option2": "I prefer my women old.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 420
+    }
+  },
+  "411": {
+    "lexus2_yuadate02_select_01": {
+      "option0": "The guy must really adore you.",
+      "option1": "Give it back to him.",
+      "option2": "Let's sell it!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 421
+    }
+  },
+  "412": {
+    "lexus2_yuadate02_select_02": {
+      "option0": "You'll find your prince someday.",
+      "option1": "Your standards <font_kind=yakuza_italic>are</font_kind> too high!",
+      "option2": "Your prince is right in front of you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 422
+    }
+  },
+  "413": {
+    "lexus2_yuadate02_select_03": {
+      "option0": "That's part of your appeal.",
+      "option1": "You're kinda dumb, huh?",
+      "option2": "You should really get that fixed.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 423
+    }
+  },
+  "414": {
+    "lexus2_yuadate02_select_04": {
+      "option0": "Take a Shot in the Dark",
+      "option1": "Make an Educated Guess",
+      "option2": "Admit You Don't know",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 424
+    }
+  },
+  "415": {
+    "lexus2_yuadate03_select_01": {
+      "option0": "Take care of yourself, Yua.",
+      "option1": "I'll protect you.",
+      "option2": "You should let them take pictures.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 425
+    }
+  },
+  "416": {
+    "lexus2_yuadate03_select_02": {
+      "option0": "That's so like you, Yua.",
+      "option1": "Let's squeeze them for cash!",
+      "option2": "Don't abandon those fans.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 426
+    }
+  },
+  "417": {
+    "lexus2_yuadate03_select_03": {
+      "option0": "Make me some good food.",
+      "option1": "What would I want...?",
+      "option2": "Nothing.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 427
+    }
+  },
+  "418": {
+    "lexus2_yuadate03_select_04": {
+      "option0": "Our attitude toward customers.",
+      "option1": "Our lack of quotas.",
+      "option2": "Our friendly atmosphere.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 428
+    }
+  },
+  "419": {
+    "lexus2_aikadate01_select_01": {
+      "option0": "Keep the drinks flowing!",
+      "option1": "I don't want you to blackout.",
+      "option2": "I'm already drunk.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 429
+    }
+  },
+  "420": {
+    "lexus2_aikadate01_select_02": {
+      "option0": "A lady needs to be careful out there.",
+      "option1": "In that case, keep drinking.",
+      "option2": "I want to be the electric pole!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 430
+    }
+  },
+  "421": {
+    "lexus2_aikadate01_select_03": {
+      "option0": "Yeah, I'm pretty great.",
+      "option1": "I hope you're with us a long time.",
+      "option2": "You should work where you're happy.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 431
+    }
+  },
+  "422": {
+    "lexus2_aikadate01_select_04": {
+      "option0": "It's not weird.",
+      "option1": "It suits you well.",
+      "option2": "Admit it, the job pays well.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 432
+    }
+  },
+  "423": {
+    "lexus2_aikadate02_select_01": {
+      "option0": "This is so sudden...",
+      "option1": "If you fall for me, you'll only get burned.",
+      "option2": "I love you...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 433
+    }
+  },
+  "424": {
+    "lexus2_aikadate02_select_02": {
+      "option0": "Our club forbids relationships.",
+      "option1": "That's for you to decide.",
+      "option2": "You're at marrying age, though.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 434
+    }
+  },
+  "425": {
+    "lexus2_aikadate02_select_03": {
+      "option0": "You've got to be yourself.",
+      "option1": "I hate those types too.",
+      "option2": "Women shouldn't get mad.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 435
+    }
+  },
+  "426": {
+    "lexus2_aikadate02_select_04": {
+      "option0": "I look deeper than fashion styles.",
+      "option1": "I love the tanned look of a kuro gyaru!",
+      "option2": "I prefer clean and simple.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 436
+    }
+  },
+  "427": {
+    "lexus2_aikadate03_select_01": {
+      "option0": "Apologize honestly.",
+      "option1": "Pretend nothing happened.",
+      "option2": "Just make a good pun.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 437
+    }
+  },
+  "428": {
+    "lexus2_aikadate03_select_02": {
+      "option0": "I quit once before.",
+      "option1": "I want to quit now.",
+      "option2": "I never want to quit.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 438
+    }
+  },
+  "429": {
+    "lexus2_aikadate03_select_03": {
+      "option0": "You can relieve it for me...",
+      "option1": "Men relieve it in their own ways.",
+      "option2": "I punch people to relieve it.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 439
+    }
+  },
+  "430": {
+    "lexus2_aikadate03_select_04": {
+      "option0": "Hostess seems right for you.",
+      "option1": "You'll be a married housewife.",
+      "option2": "I'll be your subordinate by then.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 440
+    }
+  },
+  "431": {
+    "lexus2_shoukodate01_select_01": {
+      "option0": "I want to get back to Kamurocho.　",
+      "option1": "I want to live in Sotenbori.",
+      "option2": "I don't get attached to places.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 441
+    }
+  },
+  "432": {
+    "lexus2_shoukodate01_select_02": {
+      "option0": "A bicycle.",
+      "option1": "A stuffed animal.",
+      "option2": "Ramen for your neighbors.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 442
+    }
+  },
+  "433": {
+    "lexus2_shoukodate01_select_03": {
+      "option0": "You read manga?",
+      "option1": "You read romance?",
+      "option2": "You read books that come with model parts?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 443
+    }
+  },
+  "434": {
+    "lexus2_shoukodate01_select_04": {
+      "option0": "I like battle manga.",
+      "option1": "I like gag manga.",
+      "option2": "I like sexy manga.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 444
+    }
+  },
+  "435": {
+    "lexus2_shoukodate02_select_01": {
+      "option0": "Her strength.",
+      "option1": "Her tool of her trade.",
+      "option2": "Her gift.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 445
+    }
+  },
+  "436": {
+    "lexus2_shoukodate02_select_02": {
+      "option0": "Even straying is experience.",
+      "option1": "You can't expect to be perfect.",
+      "option2": "You haven't strayed off course.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 446
+    }
+  },
+  "437": {
+    "lexus2_shoukodate02_select_03": {
+      "option0": "House renovation!",
+      "option1": "Telephone club!",
+      "option2": "Too much pressure...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 447
+    }
+  },
+  "438": {
+    "lexus2_shoukodate02_select_04": {
+      "option0": "As an expression model.",
+      "option1": "Partir the screentone to me.",
+      "option2": "As a nude model.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 448
+    }
+  },
+  "439": {
+    "lexus2_shoukodate03_select_01": {
+      "option0": "I was a postcard professional.",
+      "option1": "I hit the telephone clubs hard.",
+      "option2": "My friend and I messed around.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 449
+    }
+  },
+  "440": {
+    "lexus2_shoukodate03_select_02": {
+      "option0": "A private video booth.",
+      "option1": "A bar.",
+      "option2": "A mahjong parlor.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 450
+    }
+  },
+  "441": {
+    "lexus2_shoukodate03_select_03": {
+      "option0": "Me?",
+      "option1": "Yuki?",
+      "option2": "Kanzaki?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 451
+    }
+  },
+  "442": {
+    "lexus2_shoukodate03_select_04": {
+      "option0": "Would you show it to me?",
+      "option1": "Why not enter a contest?",
+      "option2": "Would you show it at the club? ",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 452
+    }
+  },
+  "443": {
+    "lexus2_kiraradate01_select_01": {
+      "option0": "Order them to chill out.",
+      "option1": "Distance is a good thing.",
+      "option2": "Try approaching them.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 453
+    }
+  },
+  "444": {
+    "lexus2_kiraradate01_select_02": {
+      "option0": "Wanna avoid dangerous cults?",
+      "option1": "Make a Kazuma Pun",
+      "option2": "Make a Kirara Pun",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 454
+    }
+  },
+  "445": {
+    "lexus2_kiraradate01_select_03": {
+      "option0": "Horse racing?",
+      "option1": "Relationships?",
+      "option2": "An underground casino?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 455
+    }
+  },
+  "446": {
+    "lexus2_kiraradate01_select_04": {
+      "option0": "I always bet on the dark horse.",
+      "option1": "I'd enjoy the show, no bets.",
+      "option2": "I'd spread it over several picks.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 456
+    }
+  },
+  "447": {
+    "lexus2_kiraradate02_select_01": {
+      "option0": "I'd invest in Four Shine.",
+      "option1": "I'd put it in the bank.",
+      "option2": "I'd gamble it on another horse.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 457
+    }
+  },
+  "448": {
+    "lexus2_kiraradate02_select_02": {
+      "option0": "Nothing, really.",
+      "option1": "Be a field trip supervisor.",
+      "option2": "Drink with them.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 458
+    }
+  },
+  "449": {
+    "lexus2_kiraradate02_select_03": {
+      "option0": "Invite Her to Karaoke",
+      "option1": "Serenade Her　",
+      "option2": "Show Her the Goods",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 459
+    }
+  },
+  "450": {
+    "lexus2_kiraradate02_select_04": {
+      "option0": "Why not write a book?",
+      "option1": "Find an apprentice.",
+      "option2": "Open your own club.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 460
+    }
+  },
+  "451": {
+    "lexus2_kiraradate03_select_01": {
+      "option0": "I know advanced Eastern medicine techniques.",
+      "option1": "I could have carried you.",
+      "option2": "I would have encouraged you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 461
+    }
+  },
+  "452": {
+    "lexus2_kiraradate03_select_02": {
+      "option0": "I'd like you to meet... me.",
+      "option1": "I'd like you to meet... Majima-san.",
+      "option2": "On second thought...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 462
+    }
+  },
+  "453": {
+    "lexus2_kiraradate03_select_03": {
+      "option0": "I think they admire you too.",
+      "option1": "I admire you.",
+      "option2": "I'm jealous of things about you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 463
+    }
+  },
+  "454": {
+    "lexus2_kiraradate03_select_04": {
+      "option0": "You really looked up to Yuki.",
+      "option1": "You really loved Yuki.",
+      "option2": "You really hated Yuki.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 464
+    }
+  },
+  "455": {
+    "lexus2_koyukidate01_select_01": {
+      "option0": "You've got to own it.",
+      "option1": "Think of him as your mother.",
+      "option2": "Think of him as beneath you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 465
+    }
+  },
+  "456": {
+    "lexus2_koyukidate01_select_02": {
+      "option0": "You must <font_kind=yakuza_italic>really</font_kind> like Yuki.",
+      "option1": "That's... creepy.",
+      "option2": "Pictures, you say?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 466
+    }
+  },
+  "457": {
+    "lexus2_koyukidate01_select_03": {
+      "option0": "That's up to you.",
+      "option1": "You can surpass her.",
+      "option2": "Ridiculous is right!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 485
+    }
+  },
+  "458": {
+    "lexus2_koyukidate01_select_04": {
+      "option0": "That's admirable.",
+      "option1": "Would you like a raise?",
+      "option2": "The meal's on me today.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 486
+    }
+  },
+  "459": {
+    "lexus2_koyukidate02_select_01": {
+      "option0": "Doesn't bother me.",
+      "option1": "There are no rules.",
+      "option2": "Long as we don't cross any lines.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 547
+    }
+  },
+  "460": {
+    "lexus2_koyukidate02_select_02": {
+      "option0": "Maybe it's you?",
+      "option1": "Guys have missed out.",
+      "option2": "I can fix that for you...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 503
+    }
+  },
+  "461": {
+    "lexus2_koyukidate02_select_03": {
+      "option0": "What matters is what's inside.",
+      "option1": "I think you're plenty hot.",
+      "option2": "Men do prefer sexy women.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 504
+    }
+  },
+  "462": {
+    "lexus2_koyukidate02_select_04": {
+      "option0": "Maybe I'm in love right now.",
+      "option1": "There was a woman once...",
+      "option2": "I have no time for love!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 505
+    }
+  },
+  "463": {
+    "lexus2_koyukidate03_select_01": {
+      "option0": "I'll find the culprit.",
+      "option1": "I'll find your panties.",
+      "option2": "...It was me.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 506
+    }
+  },
+  "464": {
+    "lexus2_koyukidate03_select_02": {
+      "option0": "They're worth stealing!",
+      "option1": "The world has its creeps...",
+      "option2": "I'll protect you.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 507
+    }
+  },
+  "465": {
+    "lexus2_koyukidate03_select_03": {
+      "option0": "A brand name bag.",
+      "option1": "A collection of messages.",
+      "option2": "Anti-blemish cream.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 508
+    }
+  },
+  "466": {
+    "lexus2_koyukidate03_select_04": {
+      "option0": "Je ressens la même chose.",
+      "option1": "Continuons à aller de l'avant.",
+      "option2": "Donc je peux avoir ta culotte ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 509
+    }
+  },
+  "467": {
+    "lexus2_toba_kamuro_top": {
+      "headline": "Hé, mon pote. Tu as besoin de planchettes ? Ou tu\r\ncherches à les échanger contre des prix ?",
+      "option0": "Acheter des planchettes",
+      "option1": "Échanger des objets",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 510
+    }
+  },
+  "468": {
+    "lexus2_toba_kamuro_kifuda": {
+      "headline": "De combien as-tu besoin ? C'est 100 yens le point.",
+      "option0": "Acheter 50 Points (5,000 yen)",
+      "option1": "Acheter 100 Points (10,000 yen)",
+      "option2": "Acheter 1,000 Points (100,000 yen)",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 511
+    }
+  },
+  "469": {
+    "lexus2_casino_kamuro_top": {
+      "headline": "Voulez-vous acheter des jetons, monsieur ?\r\nPeut-être échanger des jetons contre des prix ?",
+      "option0": "Acheter des jetons",
+      "option1": "Échanger des objets",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 512
+    }
+  },
+  "470": {
+    "lexus2_kabu_level": {
+      "headline": "Sur quelle difficulté veux-tu jouer ?",
+      "option0": "Débutant",
+      "option1": "Intermédiaire",
+      "option2": "Avancé",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 513
+    }
+  },
+  "471": {
+    "lexus2_kabu_item_youkan": {
+      "headline": "Utiliser le Triple Yokan ?",
+      "option0": "Utiliser",
+      "option1": "Ne pas utiliser",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 514
+    }
+  },
+  "472": {
+    "lexus2_kabu_item_doshippin": {
+      "headline": "Utiliser le charme 10-10-1 ?",
+      "option0": "Utiliser",
+      "option1": "Ne pas utiliser",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 515
+    }
+  },
+  "473": {
+    "lexus2_koikoi_level": {
+      "headline": "Sur quelle difficulté veux-tu jouer ?",
+      "option0": "Débutant",
+      "option1": "Intermédiaire",
+      "option2": "Avancé",
+      "option3": "Expert",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 516
+    }
+  },
+  "474": {
+    "lexus2_koikoi_item_lucky": {
+      "headline": "Utiliser la carte chanceuse Hanafuda ?",
+      "option0": "Utiliser",
+      "option1": "Ne pas utiliser",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 517
+    }
+  },
+  "475": {
+    "lexus2_shogi_osaka_top": {
+      "headline": "Partant pour du shogi ? 500 yens la partie.",
+      "option0": "Jouer un match classé",
+      "option1": "Jouer un match défi",
+      "option2": "Échanger des objets",
+      "option3": "Voir les règles",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 518
+    }
+  },
+  "476": {
+    "lexus2_shogi_kamuro_top": {
+      "headline": "Tu veux jouer au shogi ? C'est 500 yens la partie.",
+      "option0": "Jouer",
+      "option1": "Ne pas jouer",
+      "option2": "Échanger des objets",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 519
+    }
+  },
+  "477": {
+    "lexus2_tougi_00": {
+      "headline": "Bienvenue au Colisée. Voulez-vous\r\nparticiper à un tournoi ?",
+      "option0": "Participer à un tournoi",
+      "option1": "Voir les règles",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 520
+    }
+  },
+  "478": {
+    "lexus2_tougi_01": {
+      "headline": "Bienvenue au Colisée. Voulez-vous\r\nparticiper à un tournoi ?",
+      "option0": "Voir les informations des combattants.",
+      "option1": "Voir les archives",
+      "option2": "Retour",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 521
+    }
+  },
+  "479": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 522
+    }
+  },
+  "480": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 523
+    }
+  },
+  "481": {
+    "lexus2_k_clubsega_nakamichi_uforeset": {
+      "headline": "Remetre à zéro les prix des UFO Catcher",
+      "option0": "Remetre à zéro les prix des UFO Catcher",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 524
+    }
+  },
+  "482": {
+    "lexus2_k_clubsega_gekijyo_uforeset": {
+      "headline": "Remetre à zéro les prix des UFO Catcher",
+      "option0": "Remetre à zéro les prix des UFO Catcher",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 525
+    }
+  },
+  "483": {
+    "lexus2_s_clubsega_uforeset": {
+      "headline": "Remetre à zéro les prix des UFO Catcher",
+      "option0": "Remetre à zéro les prix des UFO Catcher",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 565
+    }
+  },
+  "484": {
+    "lexus2_combini_choice": {
+      "headline": "Comment puis-je vous aider ?",
+      "option0": "Acheter",
+      "option1": "Utiliser la boîte à objets",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 566
+    }
+  },
+  "485": {
+    "lexus2_cab03_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "C'est parti.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 567
+    }
+  },
+  "486": {
+    "lexus2_cab03_010_select_02": {
+      "option0": "Bien sûr.",
+      "option1": "Non, c'est bon.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 568
+    }
+  },
+  "487": {
+    "lexus2_kabu_item_both": {
+      "headline": "Quel objet voulez-vous utiliser ?",
+      "option0": "Triple Yokan",
+      "option1": "Charme 10-10-1",
+      "option2": "Ne pas utiliser",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 569
+    }
+  },
+  "488": {
+    "lexus2_advsubsb31_010_select_01": {
+      "option0": "Décliner",
+      "option1": "L'écouter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 570
+    }
+  },
+  "489": {
+    "lexus2_advsubsb31_020_select_01": {
+      "option0": "Décliner",
+      "option1": "L'écouter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 571
+    }
+  },
+  "490": {
+    "lexus2_advsubsb31_030_select_01": {
+      "option0": "T'agresser dans ton sommeil.",
+      "option1": "Prendre des photos embarrassantes de toi.",
+      "option2": "Te regarder toute la journée.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 572
+    }
+  },
+  "491": {
+    "lexus2_karaoke_snack01": {
+      "headline": "Faire du karaoké ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 573
+    }
+  },
+  "492": {
+    "lexus2_karaoke_snack02": {
+      "headline": "Faire du karaoké ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 574
+    }
+  },
+  "493": {
+    "cab_addsub_suenaga": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 575
+    }
+  },
+  "494": {
+    "cab_addsub_yuka": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 576
+    }
+  },
+  "495": {
+    "cab_addsub_yuriko": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 577
+    }
+  },
+  "496": {
+    "cab_addsub_etsuko": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 578
+    }
+  },
+  "497": {
+    "cab_addsub_miki": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 579
+    }
+  },
+  "498": {
+    "lexus2_advsubsb30_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "J'ai un peu de temps libre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 580
+    }
+  },
+  "499": {
+    "lexus2_advsubsb30_020_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "J'ai un peu de temps libre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 581
+    }
+  },
+  "500": {
+    "lexus2_advsubsb30_050_select_01": {
+      "option0": "Et un animal de compagnie ?",
+      "option1": "Et moi ?",
+      "option2": "Et Four Shine ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 582
+    }
+  },
+  "501": {
+    "lexus2_advsubsb30_050_select_02": {
+      "option0": "Et moi ?",
+      "option1": "Et Four Shine ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 583
+    }
+  },
+  "502": {
+    "lexus2_advsubsb30_050_select_03": {
+      "option0": "Et un animal de compagnie ?",
+      "option1": "Et Four Shine ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 584
+    }
+  },
+  "503": {
+    "lexus2_cab_addsub_suenaga": {
+      "headline": "Ajouter cette fille à votre liste ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 585
+    }
+  },
+  "504": {
+    "lexus2_cab_addsub_yuka": {
+      "headline": "Ajouter cette fille à votre liste ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 586
+    }
+  },
+  "505": {
+    "lexus2_cab_addsub_yuriko": {
+      "headline": "Ajouter cette fille à votre liste ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 587
+    }
+  },
+  "506": {
+    "lexus2_cab_addsub_etsuko": {
+      "headline": "Ajouter cette fille à votre liste ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 588
+    }
+  },
+  "507": {
+    "lexus2_cab_addsub_miki": {
+      "headline": "Ajouter cette fille à votre liste ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 589
+    }
+  },
+  "508": {
+    "lexus2_caba_date_aika_01": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 590
+    }
+  },
+  "509": {
+    "lexus2_caba_date_aika_02": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 591
+    }
+  },
+  "510": {
+    "lexus2_caba_date_aika_03": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 592
+    }
+  },
+  "511": {
+    "lexus2_caba_date_kana_01": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 593
+    }
+  },
+  "512": {
+    "lexus2_caba_date_kana_02": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 594
+    }
+  },
+  "513": {
+    "lexus2_caba_date_kana_03": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 595
+    }
+  },
+ "514": {
+    "lexus2_caba_date_kirara_01": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 596
+    }
+  },
+  "515": {
+    "lexus2_caba_date_kirara_02": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 597
+    }
+  },
+  "516": {
+    "lexus2_caba_date_kirara_03": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 598
+    }
+  },
+  "517": {
+    "lexus2_caba_date_koyuki_01": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 599
+    }
+  },
+  "518": {
+    "lexus2_caba_date_koyuki_02": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 600
+    }
+  },
+  "519": {
+    "lexus2_caba_date_koyuki_03": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 545
+    }
+  },
+  "520": {
+    "lexus2_caba_date_shoko_01": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 548
+    }
+  },
+  "521": {
+    "lexus2_caba_date_shoko_02": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 546
+    }
+  },
+  "522": {
+    "lexus2_caba_date_shoko_03": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 549
+    }
+  },
+  "523": {
+    "lexus2_caba_date_yua_01": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 730
+    }
+  },
+  "524": {
+    "lexus2_caba_date_yua_02": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 362
+    }
+  },
+  "525": {
+    "lexus2_caba_date_yua_03": {
+      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 363
+    }
+  },
+  "526": {
+    "lexus2_casino_kamuro_tip": {
+      "headline": "Combien en voulez-vous, monsieur ? ",
+      "option0": "Acheter 50 Jetons (5,000 yen)",
+      "option1": "Acheter 100 Jetons (10,000 yen)",
+      "option2": "Acheter 1,000 Jetons (100,000 yen)",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 364
+    }
+  },
+  "527": {
+    "lexus2_advsubsb13_120_select_01": {
+      "option0": "Merci pour vos services.",
+      "option1": "Bienvenue, jeune maître.",
+      "option2": "Bienvenue chez vous, Maître ! <symbol=heart_with_outline>",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 365
+    }
+  },
+  "528": {
+    "lexus2_advsubsb13_120_select_02": {
+      "option0": "Va-t'en, petit doigt !",
+      "option1": "Ce couteau est trop tranchant !",
+      "option2": "J'ai échoué, Patriarche !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 366
+    }
+  },
+  "529": {
+    "lexus2_adv01_0020_select_02": {
+      "headline": "Continuer à se souvenir ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 367
+    }
+  },
+  "530": {
+    "lexus2_adv01_0020_select_03": {
+      "headline": "Continuer à se souvenir ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 368
+    }
+  },
+  "531": {
+    "lexus2_adv01_0020_select_04": {
+      "headline": "Continuer à se souvenir ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 369
+    }
+  },
+  "532": {
+    "lexus2_advsubsa24_035_select_01": {
+      "option0": "Je suis ici pour acheter.",
+      "option1": "Je suis ici pour vendre.",
+      "option2": "Je suis ici pour vendre des armes.",
+      "option3": "Je suis ici pour vendre de l'équipement.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 370
+    }
+  },
+  "533": {
+    "lexus2_advsubsb27_010_select_01": {
+      "option0": "Maybe some other time.",
+      "option1": "I guess so.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 371
+    }
+  },
+  "534": {
+    "lexus2_advsubsb27_020_select_01": {
+      "option0": "Maybe some other time.",
+      "option1": "I guess so.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 372
+    }
+  },
+  "535": {
+    "lexus2_advsubsb27_040_select_01": {
+      "option0": "L'attraper",
+      "option1": "Wait and See",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 373
+    }
+  },
+  "536": {
+    "lexus2_advsubsb27_040_select_02": {
+      "option0": "L'attraper",
+      "option1": "Wait and See",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 374
+    }
+  },
+  "537": {
+    "lexus2_advsubsb27_040_select_03": {
+      "option0": "L'attraper",
+      "option1": "Wait and See",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 375
+    }
+  },
+  "538": {
+    "lexus2_advsubsb27_040_select_04": {
+      "option0": "L'attraper",
+      "option1": "Wait and See",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 376
+    }
+  },
+  "539": {
+    "lexus2_advsubsb27_060_select_01": {
+      "option0": "Renifler la culotte",
+      "option1": "Jeter la culotte",
+      "option2": "Poser la culotte",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 377
+    }
+  },
+  "540": {
+    "shop_itembox": {
+      "headline": "Utiliser la boîte à objets ?",
+      "option0": "Utiliser",
+      "option1": "Ne pas utiliser",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 378
+    }
+  },
+  "541": {
+    "lexus2_advsubsb32_010_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "Bien sûr, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 379
+    }
+  },
+  "542": {
+    "lexus2_advsubsb32_020_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "Bien sûr, pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 380
+    }
+  },
+  "543": {
+    "lexus2_advsubsb32_040_select_01": {
+      "option0": "Continuer d'observer",
+      "option1": "L'affronter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 381
+    }
+  },
+  "544": {
+    "lexus2_advsubsb32_040_select_02": {
+      "option0": "Continuer d'observer",
+      "option1": "L'affronter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 707
+    }
+  },
+  "545": {
+    "lexus2_cln_snack_01": {
+      "option0": "Bien sûr, allons-y.",
+      "option1": "Je n'ai pas encore faim.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 708
+    }
+  },
+  "546": {
+    "lexus2_cln_snack_02": {
+      "option0": "Bien sûr, Pourquoi pas.",
+      "option1": "Je suis un peu occupé.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 709
+    }
+  },
+  "547": {
+    "lexus2_cab09_010_select_01": {
+      "option0": "Magnifique...",
+      "option1": "Magnifique...",
+      "option2": "Magnifique...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 710
+    }
+  },
+  "548": {
+    "lexus2_cln_snack_01_memory": {
+      "option0": "Rejouer",
+      "option1": "Ne pas rejouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 711
+    }
+  },
+  "549": {
+    "lexus2_cln_snack_02_memory": {
+      "option0": "Rejouer",
+      "option1": "Ne pas rejouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 712
+    }
+  },
+  "550": {
+    "lexus2_advsubsb24_010_select_01": {
+      "option0": "Ne pas l'aider",
+      "option1": "L'aider à regarder",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 713
+    }
+  },
+  "551": {
+    "lexus2_advsubsb24_020_select_01": {
+      "option0": "Ne pas l'aider",
+      "option1": "L'aider à regarder",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 714
+    }
+  },
+  "552": {
+    "lexus2_sinnkyuuinn_01": {
+      "option0": "Demander pour un traitement",
+      "option1": "Demander à propos du magasin",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 715
+    }
+  },
+  "553": {
+    "lexus2_toylets_op1": {
+      "option0": "Désolé, je ne suis pas intéressé.",
+      "option1": "Je...suppose que j'ai quelques minutes.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 716
+    }
+  },
+  "554": {
+    "lexus2_toylets_op2": {
+      "option0": "Désolé, je ne suis pas intéressé.",
+      "option1": "Je...suppose que j'ai quelques minutes.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 717
+    }
+  },
+  "555": {
+    "lexus2_advsubsa41_010_select_01": {
+      "option0": "Pas maintenant.",
+      "option1": "Bien sûr.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 718
+    }
+  },
+  "556": {
+    "lexus2_advsubsa41_040_select_01": {
+      "option0": "Pas maintenant.",
+      "option1": "Bien sûr.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 719
+    }
+  },
+  "557": {
+    "lexus2_advsubsb29_010_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "L'écouter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 720
+    }
+  },
+  "558": {
+    "lexus2_advsubsb29_020_select_01": {
+      "option0": "Désolé, je suis occupé pour le moment.",
+      "option1": "L'écouter",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 721
+    }
+  },
+  "559": {
+    "lexus2_advsubsb28_010_select_01": {
+      "option0": "Je ne peux pas maintenant.",
+      "option1": "Bien sûr, discutons.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 722
+    }
+  },
+  "560": {
+    "lexus2_advsubsb28_020_select_01": {
+      "option0": "Je ne peux pas maintenant.",
+      "option1": "J'ai du temps libre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 723
+    }
+  },
+  "561": {
+    "lexus2_batting_homerun_st": {
+      "option0": "Ne pas jouer",
+      "option1": "Jouer",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 724
+    }
+  },
+  "562": {
+    "lexus2_toylets_st": {
+      "option0": "Désolé, je suis pas intéressé.",
+      "option1": "Bien sûr, je vous écoute.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 540
+    }
+  },
+  "563": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "564": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 529
+    }
+  },
+  "565": {
+    "lexus2_caba_date_aika_01_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 530
+    }
+  },
+  "566": {
+    "lexus2_caba_date_aika_01_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 531
+    }
+  },
+  "567": {
+    "lexus2_caba_date_aika_02_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "568": {
+    "lexus2_caba_date_aika_02_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "569": {
+    "lexus2_caba_date_aika_03_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "570": {
+    "lexus2_caba_date_aika_03_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "571": {
+    "lexus2_caba_date_kana_01_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Très bien, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "572": {
+    "lexus2_caba_date_kana_01_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "573": {
+    "lexus2_caba_date_kana_02_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Très bien, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "574": {
+    "lexus2_caba_date_kana_02_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "575": {
+    "lexus2_caba_date_kana_03_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "576": {
+    "lexus2_caba_date_kana_03_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "577": {
+    "lexus2_caba_date_kirara_01_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "Bien sûr, c'est parti..",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "578": {
+    "lexus2_caba_date_kirara_01_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 872
+    }
+  },
+  "579": {
+    "lexus2_caba_date_kirara_02_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "C'est parti.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "580": {
+    "lexus2_caba_date_kirara_02_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "581": {
+    "lexus2_caba_date_kirara_03_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "Bien sûr.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "582": {
+    "lexus2_caba_date_kirara_03_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "583": {
+    "lexus2_caba_date_koyuki_01_010_select_01": {
+      "option0": "J'ai encore des trucs à faire.",
+      "option1": "Bien sûr, j'en suis sûr.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "584": {
+    "lexus2_caba_date_koyuki_01_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 623
+    }
+  },
+  "585": {
+    "lexus2_caba_date_koyuki_02_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien, allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "586": {
+    "lexus2_caba_date_koyuki_02_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "587": {
+    "lexus2_caba_date_koyuki_03_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "588": {
+    "lexus2_caba_date_koyuki_03_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "589": {
+    "lexus2_caba_date_shoko_01_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "Allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "590": {
+    "lexus2_caba_date_shoko_01_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "591": {
+    "lexus2_caba_date_shoko_02_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "Allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "592": {
+    "lexus2_caba_date_shoko_02_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "593": {
+    "lexus2_caba_date_shoko_03_010_select_01": {
+      "option0": "On peut remettre ça à une autre fois ?",
+      "option1": "Allons-y.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 859
+    }
+  },
+  "594": {
+    "lexus2_caba_date_shoko_03_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 860
+    }
+  },
+  "595": {
+    "lexus2_caba_date_yua_01_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 705
+    }
+  },
+  "596": {
+    "lexus2_caba_date_yua_01_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 725
+    }
+  },
+  "597": {
+    "lexus2_caba_date_yua_02_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 726
+    }
+  },
+  "598": {
+    "lexus2_caba_date_yua_02_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 727
+    }
+  },
+  "599": {
+    "lexus2_caba_date_yua_03_010_select_01": {
+      "option0": "Désolé, je suis occupé en ce moment.",
+      "option1": "Bien sûr, Pourquoi pas.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "600": {
+    "lexus2_caba_date_yua_03_040_select_01": {
+      "option0": "100%",
+      "option1": "50-99%",
+      "option2": "0-49%",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "601": {
+    "m04_00400_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 491
+    }
+  },
+  "602": {
+    "lexus2_advsubsb25_020_select_01": {
+      "option0": "Lui donner le couteau",
+      "option1": "Ne rien lui donner",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 492
+    }
+  },
+  "603": {
+    "judge_fv_easy": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "604": {
+    "judge_fv_normal": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "605": {
+    "judge_mr_easy": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 561
+    }
+  },
+  "606": {
+    "judge_mr_normal": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "607": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "608": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "609": {
+    "lexus2_poker_rule": {
+      "headline": "Choisir les règles de Poker",
+      "option0": "Texas Hold'em",
+      "option1": "Pineapple Hold'em",
+      "option2": "Omaha Hold'em",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "610": {
+    "test_6": {
+      "headline": "8 test 0",
+      "option0": "0",
+      "option1": "1",
+      "option2": "2",
+      "option3": "3",
+      "option4": "4",
+      "option5": "5",
+      "option6": "6",
+      "option7": "7",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "611": {
+    "test_7": {
+      "headline": "8 test 0",
+      "option0": "a",
+      "option2": "i",
+      "option4": "u",
+      "option6": "e",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 675
+    }
+  },
+  "612": {
+    "m04_00800_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 676
+    }
+  },
+  "613": {
+    "m04_00800_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "614": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "615": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "616": {
+    "m04_01200_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "617": {
+    "m05_00750_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 706
+    }
+  },
+  "618": {
+    "m05_01100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "619": {
+    "m05_01100_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "620": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 562
+    }
+  },
+  "621": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "622": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 345
+    }
+  },
+  "623": {
+    "lexus2_adv11_0040_05_select_01": {
+      "option0": "Pas vraiment.",
+      "option1": "Je suis plutôt confiant.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 346
+    }
+  },
+  "624": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 347
+    }
+  },
+  "625": {
+    "m05_01540_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 348
+    }
+  },
+  "626": {
+    "m05_01600_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 349
+    }
+  },
+  "627": {
+    "m07_00100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 350
+    }
+  },
+  "628": {
+    "m07_00100_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 351
+    }
+  },
+  "629": {
+    "m07_00500_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 352
+    }
+  },
+  "630": {
+    "m07_00500_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 358
+    }
+  },
+  "631": {
+    "m07_01300_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 392
+    }
+  },
+  "632": {
+    "m07_01800_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 393
+    }
+  },
+  "633": {
+    "m07_01800_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 394
+    }
+  },
+  "634": {
+    "m07_02100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 837
+    }
+  },
+  "635": {
+    "m07_02100_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 838
+    }
+  },
+  "636": {
+    "m07_02400_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 467
+    }
+  },
+  "637": {
+    "m07_02600_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 468
+    }
+  },
+  "638": {
+    "m07_03100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 469
+    }
+  },
+  "639": {
+    "m08_00300_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 526
+    }
+  },
+  "640": {
+    "m08_00300_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 470
+    }
+  },
+  "641": {
+    "m08_01140_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 471
+    }
+  },
+  "642": {
+    "m08_01500_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 472
+    }
+  },
+  "643": {
+    "m08_01720_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 487
+    }
+  },
+  "644": {
+    "m08_01720_10_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 473
+    }
+  },
+  "645": {
+    "m08_01720_20_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 474
+    }
+  },
+  "646": {
+    "m08_01720_30_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 475
+    }
+  },
+  "647": {
+    "m08_01720_30_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 476
+    }
+  },
+  "648": {
+    "m08_01720_40_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 477
+    }
+  },
+  "649": {
+    "m08_01760_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 478
+    }
+  },
+  "650": {
+    "m08_01950_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 481
+    }
+  },
+  "651": {
+    "m08_01950_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 482
+    }
+  },
+  "652": {
+    "m08_01950_select_03": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 483
+    }
+  },
+  "653": {
+    "m02_00100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 484
+    }
+  },
+  "654": {
+    "m02_02100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 553
+    }
+  },
+  "655": {
+    "m02_03000_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 554
+    }
+  },
+  "656": {
+    "m02_03000_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 609
+    }
+  },
+  "657": {
+    "m02_03000_select_03": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 857
+    }
+  },
+  "658": {
+    "m07_03100_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "659": {
+    "m07_03200_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "660": {
+    "m07_03300_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "661": {
+    "m07_03300_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "662": {
+    "m07_03800_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "663": {
+    "m07_04000_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "664": {
+    "m07_04200_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "665": {
+    "m07_04600_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "666": {
+    "m07_04600_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "667": {
+    "m07_04600_select_03": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "668": {
+    "m07_04600_select_04": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "669": {
+    "m03_01300_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "670": {
+    "m03_01650_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "671": {
+    "m03_01100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "672": {
+    "m03_01900_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "673": {
+    "m03_02000_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "674": {
+    "m03_02800_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "675": {
+    "lexus2_mahjong_s": {
+      "option0": "Entrer dans la Coupe Sotenbori",
+      "option1": "Demander sur les bonus de points",
+      "option2": "Rien",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "676": {
+    "lexus2_mahjong_s_ivent_A": {
+      "option0": "Entrer dans la Coupe Sotenbori",
+      "option1": "Entrer en tant que remplaçant",
+      "option2": "Demander sur les bonus de points",
+      "option3": "Rien",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "677": {
+    "m05_01900_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "678": {
+    "m05_02100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "679": {
+    "m05_02300_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "680": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "681": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "682": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "683": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "684": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "685": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "686": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "687": {
+    "m05_02900_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "688": {
+    "m05_03100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "689": {
+    "m06_01000_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 278
+    }
+  },
+  "690": {
+    "m06_01100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 279
+    }
+  },
+  "691": {
+    "m06_01500_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 280
+    }
+  },
+  "692": {
+    "m06_01500_select_02": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 281
+    }
+  },
+  "693": {
+    "m06_02100_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 282
+    }
+  },
+  "694": {
+    "m06_02260_select_01": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 283
+    }
+  },
+  "695": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 284
+    }
+  },
+  "696": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "697": {
+    "judge_ajito_soutenbori_day": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "698": {
+    "judge_ajito_soutenbori_ngt": {
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "699": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "700": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "701": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "702": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "703": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "704": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "705": {
+    "lexus2_adv93_0020_select_01": {
+      "option0": "Juste une seconde...",
+      "option1": "Rentrer dedans",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "706": {
+    "lexus2_mahjong_ikasama": {
+      "headline": "Utiliser la tuile incomparable ?",
+      "option0": "Oui",
+      "option1": "Non",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "707": {
+    "lexus2_mk_encboss01": {
+      "option0": "J'ai pas le temps pour ça.",
+      "option1": "Je vais t'exploser.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "708": {
+    "lexus2_mk_encboss02": {
+      "option0": "Je n'en veux pas.",
+      "option1": "Bien sûr, je vais t'exploser.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "709": {
+    "lexus2_mk_encboss03": {
+      "option0": "J'peux pas dire si je le connais.",
+      "option1": "Mauvaise nouvelle, mon pote.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "710": {
+    "lexus2_mk_encboss04": {
+      "option0": "Non, je le connais pas",
+      "option1": "Et si c'était le cas ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "711": {
+    "lexus2_mk_encboss05": {
+      "option0": "Est-ce que j'ai l'air d'avoir de l'argent ?",
+      "option1": "Ouais, et ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 338
+    }
+  },
+  "712": {
+    "lexus2_mk_encboss06": {
+      "option0": "Non, faux.",
+      "option1": "C'est Majima, connard !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 339
+    }
+  },
+  "713": {
+    "lexus2_mk_encboss07": {
+      "option0": "Euh, pardon ?",
+      "option1": "Baisse d'un ton, non ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 340
+    }
+  },
+  "714": {
+    "lexus2_mk_encboss08": {
+      "option0": "Je dois être vieux jeu, alors.",
+      "option1": "Tu veux qu'on teste ta théorie ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 341
+    }
+  },
+  "715": {
+    "lexus2_mk_encboss09": {
+      "option0": "Quelle idée stupide.",
+      "option1": "Tu penses que tu peux m'battre ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 382
+    }
+  },
+  "716": {
+    "lexus2_ms_encboss01": {
+      "option0": "Je passe mon tour, merci.",
+      "option1": "Hmm... Intéressant.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 383
+    }
+  },
+  "717": {
+    "lexus2_ms_encboss02": {
+      "option0": "Non, j'ai rien.",
+      "option1": "J'ai bien une poignard...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 384
+    }
+  },
+  "718": {
+    "lexus2_ms_encboss03": {
+      "option0": "Moi ? Du grabuge ?",
+      "option1": "Comment oses-tu ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 385
+    }
+  },
+  "719": {
+    "lexus2_ms_encboss04": {
+      "option0": "Pas intéressé.",
+      "option1": "J'aime la chance !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 386
+    }
+  },
+  "720": {
+    "lexus2_ms_encboss05": {
+      "option0": "Nan.",
+      "option1": "J'en doute un peu.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 387
+    }
+  },
+  "721": {
+    "lexus2_ms_encboss06": {
+      "option0": "Trouve quelqu'un d'autre à faire chier.",
+      "option1": "Je peux faire un round.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 388
+    }
+  },
+  "722": {
+    "lexus2_ms_encboss07": {
+      "option0": "Excuse moi ?",
+      "option1": "Je mords...",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 389
+    }
+  },
+  "723": {
+    "lexus2_ms_encboss08": {
+      "option0": "Bien sûr, je joue le jeu.",
+      "option1": "Ou sinon quoi ?",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 390
+    }
+  },
+  "724": {
+    "lexus2_ms_encboss09": {
+      "option0": "Non, merci.",
+      "option1": "......",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 391
+    }
+  },
+  "725": {
+    "lexus2_majima_atm_01": {
+      "headline": "Faire un don de 100,000 yens ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 342
+    }
+  },
+  "726": {
+    "lexus2_majima_atm_02": {
+      "headline": "Faire un don de 1,000,000 yens ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "727": {
+    "lexus2_majima_atm_03": {
+      "headline": "Faire un don de 3,000,000 yens ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "728": {
+    "lexus2_allsell_menu": {
+      "option0": "Je suis ici pour acheter.",
+      "option1": "Je suis ici pour vendre.",
+      "option2": "Je suis ici pour vendre des armes.",
+      "option3": "Je suis ici pour vendre de l'équipement.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "729": {
+    "lexus2_ebisuya_min": {
+      "option0": "Je suis ici pour acheter.",
+      "option1": "Je suis ici pour vendre.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "730": {
+    "lexus2_cln_snack_mode": {
+      "headline": "Choisir une difficulté.",
+      "option0": "Normal",
+      "option1": "Difficile",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "731": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "732": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "733": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "734": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "735": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "736": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "737": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "738": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 532
+    }
+  },
+  "739": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "740": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "741": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "742": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "743": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "744": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "745": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "746": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 343
+    }
+  },
+  "747": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "748": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "749": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "750": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "751": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "752": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "753": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "754": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "755": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 555
+    }
+  },
+  "756": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 556
+    }
+  },
+  "757": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 285
+    }
+  },
+  "758": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 286
+    }
+  },
+  "759": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 287
+    }
+  },
+  "760": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 288
+    }
+  },
+  "761": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 289
+    }
+  },
+  "762": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 290
+    }
+  },
+  "763": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 291
+    }
+  },
+  "764": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 292
+    }
+  },
+  "765": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 293
+    }
+  },
+  "766": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 294
+    }
+  },
+  "767": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 295
+    }
+  },
+  "768": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 296
+    }
+  },
+  "769": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 297
+    }
+  },
+  "770": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 298
+    }
+  },
+  "771": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 299
+    }
+  },
+  "772": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 300
+    }
+  },
+  "773": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "774": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "775": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "776": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "777": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "778": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "779": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "780": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "781": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "782": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "783": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "784": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "785": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "786": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "787": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 301
+    }
+  },
+  "788": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 302
+    }
+  },
+  "789": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 303
+    }
+  },
+  "790": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 304
+    }
+  },
+  "791": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 305
+    }
+  },
+  "792": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 306
+    }
+  },
+  "793": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 307
+    }
+  },
+  "794": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 315
+    }
+  },
+  "795": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 316
+    }
+  },
+  "796": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 308
+    }
+  },
+  "797": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 868
+    }
+  },
+  "798": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 317
+    }
+  },
+  "799": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 318
+    }
+  },
+  "800": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 319
+    }
+  },
+  "801": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 320
+    }
+  },
+  "802": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 321
+    }
+  },
+  "803": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 322
+    }
+  },
+  "804": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 323
+    }
+  },
+  "805": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 324
+    }
+  },
+  "806": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 325
+    }
+  },
+  "807": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 527
+    }
+  },
+  "808": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 528
+    }
+  },
+  "809": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 326
+    }
+  },
+  "810": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 327
+    }
+  },
+  "811": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 330
+    }
+  },
+  "812": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 331
+    }
+  },
+  "813": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 332
+    }
+  },
+  "814": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 333
+    }
+  },
+  "815": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 328
+    }
+  },
+  "816": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 329
+    }
+  },
+  "817": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 334
+    }
+  },
+  "818": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 335
+    }
+  },
+  "819": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 336
+    }
+  },
+  "820": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 337
+    }
+  },
+  "821": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 311
+    }
+  },
+  "822": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 312
+    }
+  },
+  "823": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 313
+    }
+  },
+  "824": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 314
+    }
+  },
+  "825": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "826": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "827": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "828": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "829": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "830": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "831": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 533
+    }
+  },
+  "832": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 534
+    }
+  },
+  "833": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 535
+    }
+  },
+  "834": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 536
+    }
+  },
+  "835": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 537
+    }
+  },
+  "836": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 538
+    }
+  },
+  "837": {
+    "lexus2_golf_nearpin_level_01": {
+      "option0": "Débutant",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 539
+    }
+  },
+  "838": {
+    "lexus2_golf_nearpin_level_02": {
+      "option0": "Débutant",
+      "option1": "Intermédiaire",
+      "option2": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 559
+    }
+  },
+  "839": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 560
+    }
+  },
+  "840": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 557
+    }
+  },
+  "841": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 558
+    }
+  },
+  "842": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 498
+    }
+  },
+  "843": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 499
+    }
+  },
+  "844": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 500
+    }
+  },
+  "845": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 501
+    }
+  },
+  "846": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 502
+    }
+  },
+  "847": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 488
+    }
+  },
+  "848": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 489
+    }
+  },
+  "849": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 490
+    }
+  },
+  "850": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 541
+    }
+  },
+  "851": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 542
+    }
+  },
+  "852": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 543
+    }
+  },
+  "853": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 544
+    }
+  },
+  "854": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 602
+    }
+  },
+  "855": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 550
+    }
+  },
+  "856": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 551
+    }
+  },
+  "857": {
+    "lexus2_nozoki_select_TGS": {
+      "headline": "Commencer le shooting photo ?",
+      "option0": "Commencer",
+      "option1": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 861
+    }
+  },
+  "858": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 878
+    }
+  },
+  "859": {
+    "lexus2_padv_select_haruka": {
+      "option0": "Tu devrais rester ici.",
+      "option1": "Bien sûr, allons nous balader.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 879
+    }
+  },
+  "860": {
+    "lexus2_padv_select_haruka_ska": {
+      "headline": "Quelle tenue devrait porter Haruka ?",
+      "option0": "Standard",
+      "option1": "Veste Kamurocho",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "861": {
+    "lexus2_advsubsa05_020_select_01": {
+      "option0": "Donner 10 000 yens",
+      "option1": "Donner 50 000 yens",
+      "option2": "Donner 100 000 yens",
+      "option3": "Annuler",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "862": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "863": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "864": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 353
+    }
+  },
+  "865": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 354
+    }
+  },
+  "866": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 355
+    }
+  },
+  "867": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 356
+    }
+  },
+  "868": {
+    "lexus2_advsubsb13_051_select_01": {
+      "option0": "Louer un Kiosque Vidéo",
+      "option1": "Ne rien regarder",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 357
+    }
+  },
+  "869": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 552
+    }
+  },
+  "870": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 728
+    }
+  },
+  "871": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 729
+    }
+  },
+  "872": {
+    "lexus2_adv05_0180_select_02": {
+      "headline": "Entrer avant l'entraînement ?",
+      "option0": "Non",
+      "option1": "Oui",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "873": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "874": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "875": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "876": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "877": {
+    "": {
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "878": {
+    "lexus2_advsubsa26_010_select_00": {
+      "option0": "Donner le Bento Yakiniku",
+      "option1": "Ne Rien Donner",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 610
+    }
+  },
+  "879": {
+    "lexus2_advsubsa27_010_select_00": {
+      "option0": "Donner le Staminan XX",
+      "option1": "Ne Rien Donner",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 611
+    }
+  }
+}

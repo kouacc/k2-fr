@@ -1,0 +1,366 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 20,
+  "COLUMN_COUNT": 16,
+  "TEXT_COUNT": 18,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "video_name": "1",
+    "video_item_id": "1",
+    "watched_timeline_category": "0",
+    "watched_timeline": "0",
+    "watched_clock": "0",
+    "watching_timeline_category": "0",
+    "watching_timeline": "0",
+    "watching_clock": "0",
+    "complete_checklist": "1",
+    "complete_item": "1",
+    "trophy_flag": "1",
+    "watchable_timeline_category": "1",
+    "watchable_timeline": "1",
+    "watcheable_clock": "0",
+    "watchable_clock": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "video_name": 0,
+    "video_item_id": 1,
+    "watched_timeline_category": -1,
+    "watched_timeline": -1,
+    "watched_clock": -1,
+    "watching_timeline_category": -1,
+    "watching_timeline": -1,
+    "watching_clock": -1,
+    "complete_checklist": 2,
+    "complete_item": 0,
+    "trophy_flag": 6,
+    "watchable_timeline_category": 2,
+    "watchable_timeline": 0,
+    "watcheable_clock": -1,
+    "watchable_clock": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "video_name": 12,
+    "video_item_id": 1,
+    "watched_timeline_category": -1,
+    "watched_timeline": -1,
+    "watched_clock": -1,
+    "watching_timeline_category": -1,
+    "watching_timeline": -1,
+    "watching_clock": -1,
+    "complete_checklist": 0,
+    "complete_item": 2,
+    "trophy_flag": 11,
+    "watchable_timeline_category": 0,
+    "watchable_timeline": 2,
+    "watcheable_clock": -1,
+    "watchable_clock": 2
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    14,
+    2,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15
+  ],
+  "0": {
+    "": {
+      "video_item_id": 0,
+      "complete_checklist": 0,
+      "complete_item": 0,
+      "trophy_flag": "0",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "video_00": {
+      "video_item_id": 0,
+      "complete_checklist": 0,
+      "complete_item": 0,
+      "trophy_flag": "0",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "video_01": {
+      "video_name": "\"Ma copine est un démon\"",
+      "video_item_id": 2017,
+      "complete_checklist": 37,
+      "complete_item": 1,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "video_02": {
+      "video_name": "\"Une touche de rose\"",
+      "video_item_id": 2018,
+      "complete_checklist": 37,
+      "complete_item": 2,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "video_03": {
+      "video_name": "\"Un fourmilier a tué mon mari !\"",
+      "video_item_id": 2019,
+      "complete_checklist": 37,
+      "complete_item": 3,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "video_04": {
+      "video_name": "\"Le paradis des jeunes mariés\"",
+      "video_item_id": 2020,
+      "complete_checklist": 37,
+      "complete_item": 4,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "video_05": {
+      "video_name": "\"La chasse à Bunny-chan\"",
+      "video_item_id": 2021,
+      "complete_checklist": 37,
+      "complete_item": 5,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "video_06": {
+      "video_name": "\"Super Kung Fu Man\"",
+      "video_item_id": 2022,
+      "complete_checklist": 37,
+      "complete_item": 6,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "video_07": {
+      "video_name": "\"L'as philippin\"",
+      "video_item_id": 2023,
+      "complete_checklist": 37,
+      "complete_item": 7,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "video_08": {
+      "video_name": "\"Yonshiro Segata, maître de karaté\"",
+      "video_item_id": 2024,
+      "complete_checklist": 37,
+      "complete_item": 8,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "video_09": {
+      "video_name": "\"La Légende du Poing Ivre : Essence du Champagne\"",
+      "video_item_id": 2025,
+      "complete_checklist": 37,
+      "complete_item": 9,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "video_10": {
+      "video_name": "\"Ennemis disparus : La voie du combattant\"",
+      "video_item_id": 2026,
+      "complete_checklist": 37,
+      "complete_item": 10,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "video_11": {
+      "video_name": "\"Yakuza Heartbreak\"",
+      "video_item_id": 2027,
+      "complete_checklist": 37,
+      "complete_item": 11,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "video_12": {
+      "video_name": "\"Navire en perdition\"",
+      "video_item_id": 2028,
+      "complete_checklist": 37,
+      "complete_item": 12,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "video_13": {
+      "video_name": "\"L'éventreur masqué\"",
+      "video_item_id": 2029,
+      "complete_checklist": 37,
+      "complete_item": 13,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "video_14": {
+      "video_name": "\"Sans issue\"",
+      "video_item_id": 2030,
+      "complete_checklist": 37,
+      "complete_item": 14,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "video_15": {
+      "video_name": "\"Batshit Crazy\"",
+      "video_item_id": 2031,
+      "complete_checklist": 37,
+      "complete_item": 15,
+      "trophy_flag": "1",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "video_16": {
+      "video_name": "Vidéo sale",
+      "video_item_id": 1864,
+      "complete_checklist": 0,
+      "complete_item": 0,
+      "trophy_flag": "0",
+      "watchable_timeline_category": 8,
+      "watchable_timeline": 50,
+      "watchable_clock": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "video_17": {
+      "video_name": "Vidéo suspecte",
+      "video_item_id": 1865,
+      "complete_checklist": 0,
+      "complete_item": 0,
+      "trophy_flag": "0",
+      "watchable_timeline_category": 8,
+      "watchable_timeline": 50,
+      "watchable_clock": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "video_18": {
+      "video_name": "Ne rien regarder",
+      "video_item_id": 0,
+      "complete_checklist": 0,
+      "complete_item": 0,
+      "trophy_flag": "0",
+      "watchable_timeline_category": 0,
+      "watchable_timeline": 0,
+      "watchable_clock": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  }
+}

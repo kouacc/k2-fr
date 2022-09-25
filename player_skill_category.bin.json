@@ -1,0 +1,195 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 10,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 5,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "rank_s_value": "1",
+    "rank_a_value": "1",
+    "rank_b_value": "1",
+    "rank_c_value": "1",
+    "rank_d_value": "1",
+    "name": "1",
+    "view_value_add": "0",
+    "initial_count": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "rank_s_value": 1,
+    "rank_a_value": 1,
+    "rank_b_value": 1,
+    "rank_c_value": 1,
+    "rank_d_value": 1,
+    "name": 0,
+    "view_value_add": -1,
+    "initial_count": 3
+  },
+  "columnTypes2": {
+    "": -1,
+    "rank_s_value": 1,
+    "rank_a_value": 1,
+    "rank_b_value": 1,
+    "rank_c_value": 1,
+    "rank_d_value": 1,
+    "name": 12,
+    "view_value_add": -1,
+    "initial_count": 6
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    7,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+  ],
+  "0": {
+    "": {
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "initial_count": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "base": {
+      "rank_s_value": 300,
+      "rank_a_value": 175,
+      "rank_b_value": 100,
+      "rank_c_value": 50,
+      "rank_d_value": 25,
+      "name": "Stats",
+      "initial_count": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "battle": {
+      "rank_s_value": 25,
+      "rank_a_value": 20,
+      "rank_b_value": 15,
+      "rank_c_value": 10,
+      "rank_d_value": 5,
+      "name": "Battle Skills",
+      "initial_count": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "3": {
+    "heat": {
+      "rank_s_value": 47,
+      "rank_a_value": 42,
+      "rank_b_value": 37,
+      "rank_c_value": 32,
+      "rank_d_value": 27,
+      "name": "Heat Actions",
+      "initial_count": 35,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "4": {
+    "other": {
+      "rank_s_value": 72,
+      "rank_a_value": 40,
+      "rank_b_value": 20,
+      "rank_c_value": 10,
+      "rank_d_value": 5,
+      "name": "Life Skills",
+      "initial_count": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "5": {
+    "equip": {
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "name": "Equipment",
+      "initial_count": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "6": {
+    "physical": {
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "initial_count": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "7": {
+    "": {
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "initial_count": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "": {
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "initial_count": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "grade": {
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "initial_count": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  }
+}

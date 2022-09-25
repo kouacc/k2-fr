@@ -1,0 +1,171 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 8,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 7,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "base_value": "1",
+    "rank_s_value": "1",
+    "rank_a_value": "1",
+    "rank_b_value": "1",
+    "rank_c_value": "1",
+    "rank_d_value": "1",
+    "player_point": "1",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "base_value": 1,
+    "rank_s_value": 1,
+    "rank_a_value": 1,
+    "rank_b_value": 1,
+    "rank_c_value": 1,
+    "rank_d_value": 1,
+    "player_point": 2,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "base_value": 1,
+    "rank_s_value": 1,
+    "rank_a_value": 1,
+    "rank_b_value": 1,
+    "rank_c_value": 1,
+    "rank_d_value": 1,
+    "player_point": 0,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    7,
+    8,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "0": {
+    "": {
+      "base_value": 0,
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "player_point": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "hit_point": {
+      "base_value": 100,
+      "rank_s_value": 300,
+      "rank_a_value": 200,
+      "rank_b_value": 160,
+      "rank_c_value": 130,
+      "rank_d_value": 110,
+      "player_point": 9,
+      "name": "Health",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "attack": {
+      "base_value": 100,
+      "rank_s_value": 300,
+      "rank_a_value": 200,
+      "rank_b_value": 160,
+      "rank_c_value": 130,
+      "rank_d_value": 110,
+      "player_point": 10,
+      "name": "Attack",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "heat_gauge": {
+      "base_value": 100,
+      "rank_s_value": 300,
+      "rank_a_value": 200,
+      "rank_b_value": 160,
+      "rank_c_value": 130,
+      "rank_d_value": 110,
+      "player_point": 13,
+      "name": "Heat Gauge",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "4": {
+    "defense": {
+      "base_value": 100,
+      "rank_s_value": 300,
+      "rank_a_value": 200,
+      "rank_b_value": 160,
+      "rank_c_value": 130,
+      "rank_d_value": 110,
+      "player_point": 11,
+      "name": "Defense",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "5": {
+    "resist_sword": {
+      "base_value": 0,
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "player_point": 14,
+      "name": "Blade Resistance",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "resist_gun": {
+      "base_value": 0,
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "player_point": 15,
+      "name": "Gun Resistance",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "stamina": {
+      "base_value": 0,
+      "rank_s_value": 0,
+      "rank_a_value": 0,
+      "rank_b_value": 0,
+      "rank_c_value": 0,
+      "rank_d_value": 0,
+      "player_point": 16,
+      "name": "Stamina",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  }
+}

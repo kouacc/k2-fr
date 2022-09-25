@@ -1,0 +1,283 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 18,
+  "COLUMN_COUNT": 8,
+  "TEXT_COUNT": 11,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "rb": "1",
+    "gb": "1",
+    "bb": "1",
+    "ra": "1",
+    "ga": "1",
+    "ba": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0,
+    "rb": 2,
+    "gb": 2,
+    "bb": 2,
+    "ra": 2,
+    "ga": 2,
+    "ba": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12,
+    "rb": 0,
+    "gb": 0,
+    "bb": 0,
+    "ra": 0,
+    "ga": 0,
+    "ba": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "0": {
+    "": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "player": {
+      "name": "Kiryu",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "mama": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "guest_a": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "guest_b": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "guest_c": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "guest_d": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "guest_e": {
+      "rb": 0,
+      "gb": 0,
+      "bb": 0,
+      "ra": 0,
+      "ga": 0,
+      "ba": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "all": {
+      "name": "Tous",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "9": {
+    "koyuki": {
+      "name": "Koyuki",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "10": {
+    "yuki": {
+      "name": "Yuki",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "11": {
+    "kana": {
+      "name": "Kana",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "12": {
+    "fujinami": {
+      "name": "Fujinami",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "tyoshu": {
+      "name": "Chono",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "tenryu": {
+      "name": "Tenryu",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "muto": {
+      "name": "Choshu",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "tyono": {
+      "name": "Mutoh",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "majima": {
+      "name": "Majima",
+      "rb": 80,
+      "gb": 80,
+      "bb": 80,
+      "ra": 255,
+      "ga": 255,
+      "ba": 255,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  }
+}

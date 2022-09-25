@@ -1,0 +1,171 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 20,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 19,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "chapter1": {
+      "name": "Chapitre 1 : Lettre de sang",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "chapter2": {
+      "name": "Chapitre 2 : Le Dragon du Kansai",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "chapter3": {
+      "name": "Chapitre 3 : La Chasseuse de Yakuzas",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "chapter4": {
+      "name": "Chapitre 4 : Les Quatre Rois d'Omi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "chapter5": {
+      "name": "Chapitre 5 : Passé Enfoui",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "chapter6": {
+      "name": "Chapitre 6 : Complots",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "chapter7": {
+      "name": "Chapitre 7 : La Menace Extérieure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "chapter8": {
+      "name": "Chapitre 8 : Suspect",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "chapter9": {
+      "name": "Chapitre 9 : L'Invasion Omi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "chapter10": {
+      "name": "Chapitre 10 : Survivants",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "chapter11": {
+      "name": "Chapitre 11 : Le Credo de Fer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "chapter12": {
+      "name": "Chapitre 12 : Le Château d'Osaka",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "chapter13": {
+      "name": "Chapitre 13 : Règlement de comptes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "chapter14": {
+      "name": "Chapitre 14 : La marche de Go-Ryu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "chapter15": {
+      "name": "Chapitre 15 : Sang et liens",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "chapter16": {
+      "name": "Chapitre 16 : Décision",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "majima_chapter1": {
+      "name": "Majima Saga : Réforme du clan Tojo",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "majima_chapter2": {
+      "name": "Majima Saga : Fils Prodige",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "majima_chapter3": {
+      "name": "Majima Saga : Le Chien Fou de Shimano",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  }
+}

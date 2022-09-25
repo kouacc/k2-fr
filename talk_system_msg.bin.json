@@ -1,0 +1,1053 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 114,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 99,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "is_wnd_size_large": "1",
+    "msg_system": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "is_wnd_size_large": 6,
+    "msg_system": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "is_wnd_size_large": 11,
+    "msg_system": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2
+  ],
+  "0": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_n": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Normal Window Test\r\nNormal Window Test",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "2": {
+    "test_l": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Larger Window Test\r\nLarger Window Test",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "3": {
+    "lexus2_cab03_010_system_01": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\nVotre but dans ce tournoi est de gagner\r\nles matchs de ligue et faire de\r\nFour Shine le club numéro 1 du pays.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "4": {
+    "lexus2_cab03_010_system_02": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nLa victoire est déterminée par le profit que vous pouvez\r\nfaire en un service. Faites des partenariats avec les magasins\r\nde Sotenbori pour agrandir votre clientèle, recrutez de nouvelles\r\nhôtesses et préparez vous pour l'ultime bataille de ventes.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "5": {
+    "lexus2_cab03_010_system_03": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nParlez avec Yuki quand vous êtes dans le club pour ouvrir\r\nun menu vous permettant d'organiser quelles filles\r\nvont travailler et de gérer votre club.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "6": {
+    "lexus2_cab03_010_system_04": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nLorsque le rang de Four Shine monte, plusieurs\r\nmatchs et quêtes secondaires s'ouvriront avec le\r\nclub champion de la ligue associée.\r\n\r\nEn battant le club champion, Four Shine peut\r\naffronter d'autres ligues et obtenir des hôtesses\r\nPlatine, soyez donc actif dans la progression\r\nde l'histoire et les batailles de service.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "7": {
+    "lexus2_cab03_010_system_05": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nEn agrandissant votre club, vous pourrez générer\r\nde grosses sommes d'argent plus efficacement. Travailler dur\r\npour faire grossir votre club et battre vos rivaux,\r\net menez Four Shine vers la place de club numéro 1 du Japon !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "8": {
+    "lexus2_cab03_010_system_06": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nLe Cabaret Club Grand Prix est composé de quatre ligues,\r\net en battant le club en première place de chaque ligue,\r\nvous pouvez débloquer la ligue suivantes.\r\n\r\nVu que Four Shine vient d'entrer en compétition, ils devront\r\ncommencer par la Ligue Nouvelle. Votre première tâche sera\r\n d'effectuer des services normaux et monter le rang\r\nde profits du club.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "9": {
+    "lexus2_cab03_010_system_07": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nDans Sotenbori, certains magasins peuvent être payés pour faire\r\nun partenariat. Ils permettront de ramener plus de clients\r\nau club, vous permettant d'augmenter plus vite le nombre de\r\nfans de Four Shine. Et comme plus de fans veut dire plus de clients,\r\nvos ventes vont monter en flèche. Alors, si vous trouvez un magasin\r\nqui vous intéresse, faites un accord pour être leur partenaire.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "10": {
+    "lexus2_cab03_010_system_08": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nVous pouvez aussi payer des publicités de recrutement\r\npour enrôler plus de filles. En sélectionnant \"recrutement\"\r\net en payant le prix approprié, vous pouvez tenter de\r\nrecruter. Il n'est pas garanti qu'une fille rejoigne\r\nimmédiatement votre club, alors travaillez votre\r\ncharme et continuez de recruter !\r\n\r\nIl y a aussi des filles qui ne vous rejoindront qu'en\r\nfinissant certaines quêtes secondaires. Sortez le grand jeu pour amasser\r\nles meilleures filles et réunir la force féminine pour battre les clubs rivaux.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "11": {
+    "lexus2_cab05_040_system_01": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nVous avez perdu une bataille de Cabaret Club.\r\n\r\nRecrutez et entraînez vos\r\nhôtesses, préparez Four Shine, et réessayez !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "12": {
+    "lexus2_cab06_060_system_01": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nVous avez perdu une bataille de Cabaret Club.\r\n\r\nRecrutez et entraînez vos\r\nhôtesses, préparez Four Shine, et réessayez !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "13": {
+    "lexus2_cab07_010_system_01": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nEn raison d'accusations anonymes, Four Shine a reçu une\r\npénalité de limite d'hôtesses. Avec cette restriction,\r\nvous devrez participer à la Ligue Exécutive avec une limite de six hôtesses.\r\n\r\nLa force de chaque hôtesse sera d'autant plus importante,\r\nutilisez donc les rendez-vous et mini-jeux en plus des services\r\nclassiques pour maximiser leur efficacité.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "14": {
+    "lexus2_cab07_060_system_01": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nVous avez perdu une bataille de Cabaret Club.\r\n\r\nRecrutez et entraînez vos\r\nhôtesses, préparez Four Shine, et réessayez !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "15": {
+    "tutorial_15": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Vous pouvez dépenser de l'EXP pour augmenter les stats de base de Kiry\r\n, telles que la santé et l'attaque, ou apprendre des compétences de combat\r\npour obtenir de nouvelles actions.\r\n\r\nIl existe également des compétences que vous ne pouvez pas utiliser pour le moment.\r\nVous devez remplir certaines conditions pour les débloquer.\r\n\rPour le moment, essayez d'apprendre <color=red>Attaque chargée</color>\r\ndepuis la page des compétences de combat.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "16": {
+    "lexus2_adv11_0060_system_01": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "17": {
+    "cab08_010_system_0010": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nKoyuki a disparu.\r\nVous allez maintenant devoir vous battre sans Koyuki.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "18": {
+    "cab08_030_system_0010": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nYua a rejoint le club.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "19": {
+    "cab08_040_system_0010": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nVous avez perdu une bataille de Cabaret Club.\r\n\r\nRecrutez et entraînez vos\r\nhôtesses, préparez Four Shine, et réessayez !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "20": {
+    "cab09_040_system_0010": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nVous avez perdu une bataille de Cabaret Club.\r\n\r\nRecrutez et entraînez vos\r\nhôtesses, préparez Four Shine, et réessayez !",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "21": {
+    "sinnkyuuinn_info_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Recevoir de l'acupuncture vous permettra\r\nde libérer votre potentiel caché et\r\nd'apprendre de nouvelles compétences.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "22": {
+    "sinnkyuuinn_info_02": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Cependant, il y a des conditions que\r\nvous devez remplir pour apprendre ces compétences,\r\nSans quoi vous ne pourrez pas recevoir d'acupuncture.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "23": {
+    "lexus2_adv04_0040_system_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Dépêchez-vous de transporter Sayama à Aoi (1/2)\r\n\r\nLa santé de Sayama diminuera progressivement\r\nau fil de vos déplacements en ville. Rentrer dans des gens lui fera\r\négalement perdre de la santé, alors portez Sayama à Aoi en\r\ntoute sécurité avant que sa santé ne soit épuisée.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "24": {
+    "lexus2_adv07_0010_system_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Rendez-vous à la clinique Emoto (1/2))\r\n\r\nLa santé de Kazuki diminuera progressivement\r\nau fil de vos déplacements en ville. Rentrer dans des gens lui fera\r\négalement perdre de la santé, alors portez-le à la clinique Emoto\r\navant qu'il ne soit trop tard.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "25": {
+    "lexus2_adv12_0010_system_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Rendez-vous à Aoi avant de vous évanouir (1/2)\r\n\r\nLa santé de Kiryu diminuera progressivement\r\nau fil de vos déplacements en ville. Rentrer dans des gens vous fera\r\négalement perdre de la santé, alors rendez-vous à Aoi\r\navant qu'il ne soit trop tard.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "26": {
+    "rarabai_info_uma": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\n [Classement]         [Facile/Faibles taux]     [Moyen/Moyens taux]\r\n1ère place         10,000 pts             20,000 pts\r\n2ème place         5,000 pts             10,000 pts\r\n3ème place         -5,000 pts            -10,000 pts\r\n4ème place        -10,000 pts            -20,000 pts",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "27": {
+    "rarabai_info_win_point1": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 1 point and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "28": {
+    "rarabai_info_win_point2": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 2 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "29": {
+    "rarabai_info_win_point3": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 3 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "30": {
+    "rarabai_info_win_point4": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 point; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 4 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "31": {
+    "rarabai_info_win_point5": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 5 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "32": {
+    "rarabai_info_win_point6": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 6 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "33": {
+    "rarabai_info_win_point7": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 7 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "34": {
+    "rarabai_info_win_point8": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 8 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "35": {
+    "rarabai_info_win_point9": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 9 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "36": {
+    "rarabai_info_win_point10": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 10 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "37": {
+    "rarabai_info_win_point11": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 11 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "38": {
+    "rarabai_info_win_point12": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 12+ points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "39": {
+    "rarabai_info_lose_point1": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 0 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "40": {
+    "rarabai_info_lose_point2": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 1 point and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "41": {
+    "rarabai_info_lose_point3": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 2 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "42": {
+    "rarabai_info_lose_point4": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 3 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "43": {
+    "rarabai_info_lose_point5": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 4 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "44": {
+    "rarabai_info_lose_point6": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 5 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "45": {
+    "rarabai_info_lose_point7": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 6 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "46": {
+    "rarabai_info_lose_point8": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 7 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "47": {
+    "rarabai_info_lose_point9": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 8 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "48": {
+    "rarabai_info_lose_point10": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 9 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "49": {
+    "rarabai_info_lose_point11": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 10 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "50": {
+    "rarabai_info_lose_point12": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 11 points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "51": {
+    "rarabai_info_lose_point13": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 12+ points and have not won any games.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "52": {
+    "rarabai_ivent_win": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You've won the Roaring Dragon Battle Royale!\r\nYou obtained 200,000 yen as a reward.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "53": {
+    "reach_info_uma": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\n　[Ranking]     [Medium/Mid Rate]   [Hard/High Rate]\r\n1st Place       20,000 pts             30,000 pts\r\n2nd Place       10,000 pts             10,000 pts\r\n3rd Place       -10,000 pts           -10,000 pts\r\n4th Place      -20,000 pts           -30,000 pts",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "54": {
+    "reach_info_win_1": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 1 point and have won at least one game.　　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "55": {
+    "reach_info_win_2": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 2 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "56": {
+    "reach_info_win_3": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 3 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "57": {
+    "reach_info_win_4": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 4 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "58": {
+    "reach_info_win_5": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 5 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "59": {
+    "reach_info_win_6": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 6 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "60": {
+    "reach_info_win_7": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 7 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "61": {
+    "reach_info_win_8": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 8 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "62": {
+    "reach_info_win_9": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 9 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "63": {
+    "reach_info_win_10": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 10 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "64": {
+    "reach_info_win_11": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 11 points and have won at least one game.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "65": {
+    "reach_info_win_12": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 12+ points and have won at least one game.　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "66": {
+    "reach_info_lose_1": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 0 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "67": {
+    "reach_info_lose_2": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 1 point and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "68": {
+    "reach_info_lose_3": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 2 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "69": {
+    "reach_info_lose_4": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 3 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "70": {
+    "reach_info_lose_5": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 4 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "71": {
+    "reach_info_lose_6": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 5 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "72": {
+    "reach_info_lose_7": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 6 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "73": {
+    "reach_info_lose_8": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 7 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "74": {
+    "reach_info_lose_9": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 8 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "75": {
+    "reach_info_lose_10": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 9 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "76": {
+    "reach_info_lose_11": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 10 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "77": {
+    "reach_info_lose_12": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 11 points and have not won any games.　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "78": {
+    "reach_info_lose_13": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 12+ points and have not won any games.　　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "79": {
+    "reach_ivent_win": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You've won the Sotenbori Cup!\r\nYou obtained 400,000 yen as a reward.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "80": {
+    "reach_ivent2_win": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You've won the Replacement Match!\r\nYou obtained 1,000,000 yen as a reward.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "81": {
+    "lexus2_adv04_0040_system_02": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Dépêchez-vous de transporter Sayama à Aoi (2/2)\r\n\r\nSi vous êtes repéré par l'un des nombreux citoyens bavards\r\nde Sotenbori, vous devrez les écouter parler,\r\nce qui signifie que vous perdrez un temps précieux. Méfiez-vous d'eux\r\net mettez Sayama en sécurité.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "82": {
+    "lexus2_majima_atm": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Aiding Kiryu with Souvenirs\r\n\r\nBy contributing souvenirs to Kiryu through a\r\nconvenience store ATM, you can retrieve an item\r\nof equal value at hideouts when controlling Kiryu\r\nin the main story.\r\n\r\nYou can also make use of the leftover money in the\r\nMajima Saga, so be sure to send some thoughtful gifts.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "83": {
+    "lexus2_adv07_0010_system_02": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Rendez-vous à la clinique Emoto (2/2)\r\n\r\nSi vous êtes repéré par l'un des officiers de police\r\nqui se promènent en ville, ils vous interrogeront et\r\nvous feront perdre un temps précieux. Méfiez-vous d'eux et mettez-vous\r\nà l'abri avec Kazuki.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "84": {
+    "lexus2_adv12_0010_system_02": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Rendez-vous à Aoi avant de vous évanouir (2/2)\r\n\r\nSi vous êtes repéré par des voyous en cours de route, ils vous\r\nattaqueront. Évitez-les et dépêchez-vous de rejoindre Aoi.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "85": {
+    "series_save_data": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Des données de sauvegarde de la série Yakuza ont été trouvés",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "86": {
+    "snack_result_01_high": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 50 prix du Président",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "87": {
+    "snack_result_01_middle": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 30 prix du Président",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "88": {
+    "snack_result_01_low": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 10 prix du Président",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "89": {
+    "snack_result_02_high": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 30 prix du Président",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "90": {
+    "snack_result_02_middle": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 20 prix du Président",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "91": {
+    "snack_result_02_low": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 10 prix du Président",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "92": {
+    "tougi_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Rules of the Coliseum\r\n\r\n1. Whoever fights through to the end is the winner.\r\n2. 30% of max health is recovered during match intervals.\r\n3. Honor is given to the winner of the championship.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "93": {
+    "majima_ecb_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez reçu 1 000 000 yens.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "94": {
+    "lexus2_adv11_0050_system_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Lorsque vous voulez passer un appel téléphonique,\r\nsélectionnez \"Mémo du numéro de téléphone\" depuis vos Objets de valeur.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "95": {
+    "cab08_060_system_0010": {
+      "is_wnd_size_large": "1",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nYuki is stocking up to prepare for the deciding match.\r\n\r\nCome back to Four Shine after progressing through the main story a bit more.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "96": {
+    "special_costume_open": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You received the Comedian Suit.\r\n\r\nYou can change any time at a hideout in Premium Adventure.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "97": {
+    "patch01_costume_open": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You received the Cabaret Manager.\r\n\r\nYou can change any time at a hideout in Premium Adventure.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "98": {
+    "patch02_costume_open": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You received the Pajamas.\r\n\r\nYou can change any time at a hideout in Premium Adventure.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "99": {
+    "patch03_costume_open": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You received the Majima Construction Helmet.\r\n\r\nYou can change any time at a hideout in Premium Adventure.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "100": {
+    "patch04_costume_open": {
+      "is_wnd_size_large": "0",
+      "msg_system": "You received the Golden Suit.\r\n\r\nYou can change any time at a hideout in Premium Adventure.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "101": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "102": {
+    "lexus2_adv05_0010_system_01": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous avez maintenant accès à une planque.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "103": {
+    "illusion_info1": {
+      "is_wnd_size_large": "1",
+      "msg_system": "\r\n\r\nGuide Il Yu-Jin (1/2)\r\n\r\nWhile taking Il Yu-Jin on a tour, you cannot do the following:\r\n\r\n<symbol=bullet_point>Talk with the people of Kamurocho\r\n<symbol=bullet_point>Use stores such as restaurants\r\n<symbol=bullet_point>Move around using taxis\r\n<symbol=bullet_point>Enter certain buildings\r\n<symbol=bullet_point>Battle on the streets\r\n<symbol=bullet_point>Save from the Pause Menu",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "104": {
+    "illusion_info2": {
+      "is_wnd_size_large": "1",
+      "msg_system": "\r\n\r\nGuide Il Yu-Jin (2/2)\r\n\r\nThe tour will end if Il Yu-Jin gets caught up\r\n3 times with his many female admirers while\r\nstrolling around town. So guide him carefully.\r\n\r\n\r\nAlso, you can stop the tour whenever you want\r\nby talking to Il Yu-Jin. Now, take Il Yu-Jin\r\nto his destination while avoiding his fans!",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "105": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "106": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "107": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "108": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "109": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "110": {
+    "": {
+      "is_wnd_size_large": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "111": {
+    "lexus2_suba17_beam": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Vous pouvez maintenant utiliser le marchand d'armes à Beam.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "112": {
+    "rarabai_info_win_point0": {
+      "is_wnd_size_large": "0",
+      "msg_system": "Collect 12 points by completing games. (Easy = 2 points; Medium = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\r\n\r\nYou currently have 0 points and have won at least one game.",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "113": {
+    "reach_info_win_0": {
+      "is_wnd_size_large": "0",
+      "msg_system": "\r\nCollect 12 points by completing games. (Medium = 2 points; Hard = 4 points)\r\n<symbol=bullet_point>Win at least one game of either type.\r\n<symbol=bullet_point>Pay a participation fee of 100,000 yen.\r\n\r\nYou currently have 0 points and have won at least one game.　　　　　　　　　　　　　",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  }
+}

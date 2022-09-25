@@ -1,0 +1,2334 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 182,
+  "COLUMN_COUNT": 11,
+  "TEXT_COUNT": 82,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "msg_title": "1",
+    "is_finish": "0",
+    "msg_number": "1",
+    "title_type": "1",
+    "se_cuesheet": "0",
+    "se_cue": "0",
+    "st_se_cuesheet": "1",
+    "st_se_cue": "1",
+    "ed_se_cuesheet": "1",
+    "ed_se_cue": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "msg_title": 0,
+    "is_finish": -1,
+    "msg_number": 0,
+    "title_type": 2,
+    "se_cuesheet": -1,
+    "se_cue": -1,
+    "st_se_cuesheet": 1,
+    "st_se_cue": 1,
+    "ed_se_cuesheet": 1,
+    "ed_se_cue": 1
+  },
+  "columnTypes2": {
+    "": -1,
+    "msg_title": 12,
+    "is_finish": -1,
+    "msg_number": 12,
+    "title_type": 0,
+    "se_cuesheet": -1,
+    "se_cue": -1,
+    "st_se_cuesheet": 1,
+    "st_se_cue": 1,
+    "ed_se_cuesheet": 1,
+    "ed_se_cue": 1
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    3,
+    4,
+    7,
+    8,
+    9,
+    10
+  ],
+  "0": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_00": {
+      "msg_title": "Test Title 00",
+      "msg_number": "10",
+      "title_type": 1,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_01": {
+      "msg_title": "Test Title 01",
+      "msg_number": "20",
+      "title_type": 2,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "test_02": {
+      "msg_title": "Test Title 02",
+      "msg_number": "30",
+      "title_type": 3,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "SUB_A01": {
+      "msg_title": "Sois mon bébé",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "5": {
+    "SUB_A02": {
+      "msg_title": "Le dragon légendaire",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "6": {
+    "SUB_A03": {
+      "msg_title": "Accepter mon vrai moi",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "7": {
+    "SUB_A04": {
+      "msg_title": "Toit de la revanche",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "8": {
+    "SUB_A05": {
+      "msg_title": "Soutenir Sunflower",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "9": {
+    "SUB_A06": {
+      "msg_title": "Rénover Sunflower",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "10": {
+    "SUB_A07": {
+      "msg_title": "Sunflower en floraison",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "11": {
+    "SUB_A08": {
+      "msg_title": "M. Essaye de me frapper",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "12": {
+    "SUB_A09": {
+      "msg_title": "Une commission excentrique",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "13": {
+    "SUB_A10": {
+      "msg_title": "Futurs prometteurs",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "14": {
+    "SUB_A11": {
+      "msg_title": "Association Forestière de Kamurocho",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "15": {
+    "SUB_A12": {
+      "msg_title": "La tueuse de cabaret",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "16": {
+    "SUB_A13": {
+      "msg_title": "De la misère à la richesse",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "17": {
+    "SUB_A14": {
+      "msg_title": "Une visite express",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "18": {
+    "SUB_A15": {
+      "msg_title": "Sortir de l'ombre",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "19": {
+    "SUB_A16": {
+      "msg_title": "Cachette secrète",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "20": {
+    "SUB_A17": {
+      "msg_title": "La cachette de Beam",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "21": {
+    "SUB_A18": {
+      "msg_title": "Bienvenue dans l'ère moderne",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "22": {
+    "SUB_A19": {
+      "msg_title": "Un pour tous, tous pour un",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "23": {
+    "SUB_A20": {
+      "msg_title": "Vivre le rêve américain　",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "24": {
+    "SUB_A21": {
+      "msg_title": "Contre toute attente",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "25": {
+    "SUB_A22": {
+      "msg_title": "Vers le Dragon Palace",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "26": {
+    "SUB_A23": {
+      "msg_title": "Granny en péril",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "27": {
+    "SUB_A24": {
+      "msg_title": "Un vendeur pervers",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "28": {
+    "SUB_A25": {
+      "msg_title": "Un oeil pour le travail",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "29": {
+    "SUB_A26": {
+      "msg_title": "Un oeil pour la viande",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "30": {
+    "SUB_A27": {
+      "msg_title": "Un oeil pour la puissance",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "31": {
+    "SUB_A28": {
+      "msg_title": "Renvoi de coup Komaki",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "32": {
+    "SUB_A29": {
+      "msg_title": "Retournement d'armes Komaki",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "33": {
+    "SUB_A30": {
+      "msg_title": "Duel avec le mentor",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "34": {
+    "SUB_A31": {
+      "msg_title": "Protéger le racoleur",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "35": {
+    "SUB_A32": {
+      "msg_title": "Mama sous attaque",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "36": {
+    "SUB_A33": {
+      "msg_title": "Un acolyte soupeux",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "37": {
+    "SUB_A34": {
+      "msg_title": "Épuisé au travail",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "38": {
+    "SUB_A35": {
+      "msg_title": "Ça sent pas bon",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "39": {
+    "SUB_A36": {
+      "msg_title": "Un travailleur à haute énergie",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "40": {
+    "SUB_A37": {
+      "msg_title": "Kazuya Amon",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "41": {
+    "SUB_A38": {
+      "msg_title": "Jiro Amon",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "42": {
+    "SUB_A39": {
+      "msg_title": "Sango Amon",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "43": {
+    "SUB_A40": {
+      "msg_title": "L'assasin ultime",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "44": {
+    "SUB_A41": {
+      "msg_title": "Feel the Heat!",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "45": {
+    "SUB_A42": {
+      "msg_title": "Kiryu le videur",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "46": {
+    "SUB_B01": {
+      "msg_title": "Prêter main forte",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "47": {
+    "SUB_B02": {
+      "msg_title": "Richesse écrasante",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "48": {
+    "SUB_B03": {
+      "msg_title": "Le conseiller charmant",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "49": {
+    "SUB_B04": {
+      "msg_title": "C'est pas une blague",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "50": {
+    "SUB_B05": {
+      "msg_title": "Volé",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "51": {
+    "SUB_B06": {
+      "msg_title": "La chasse pour Tatsu",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "52": {
+    "SUB_B07": {
+      "msg_title": "L'Obatarian frappe encore",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "53": {
+    "SUB_B08": {
+      "msg_title": "L'homme qui ne savait pas chanter",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "54": {
+    "SUB_B09": {
+      "msg_title": "La femme qui ne savait pas jouer",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "55": {
+    "SUB_B10": {
+      "msg_title": "Fou de Cathy",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "56": {
+    "SUB_B11": {
+      "msg_title": "L'insaisissable Modèle 12",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "57": {
+    "SUB_B12": {
+      "msg_title": "Lever le brouillard",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "58": {
+    "SUB_B13": {
+      "msg_title": "Yakuza Sunset",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "59": {
+    "SUB_B14": {
+      "msg_title": "Au nom de l'art",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "60": {
+    "SUB_B15": {
+      "msg_title": "Kazuma Kiryu, acteur professionnel",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "61": {
+    "SUB_B16": {
+      "msg_title": "Le défi d'Albatross Akagi",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "62": {
+    "SUB_B17": {
+      "msg_title": "Un nez pour la musique",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "63": {
+    "SUB_B18": {
+      "msg_title": "Aider la racoleuse",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "64": {
+    "SUB_B19": {
+      "msg_title": "Une ancienne rivalité",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "65": {
+    "SUB_B20": {
+      "msg_title": "Demande de Granny, partie 1",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "66": {
+    "SUB_B21": {
+      "msg_title": "Demande de Granny, partie 2",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "67": {
+    "SUB_B22": {
+      "msg_title": "Demande de Granny, partie 3",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "68": {
+    "SUB_B23": {
+      "msg_title": "Non c'est non",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "69": {
+    "SUB_B24": {
+      "msg_title": "L'amour d'une mère",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "70": {
+    "SUB_B25": {
+      "msg_title": "La lame la plus tranchante",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "71": {
+    "SUB_B26": {
+      "msg_title": "Surmonter ses peurs",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "72": {
+    "SUB_B27": {
+      "msg_title": "Opération appât à culotte",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "73": {
+    "SUB_B28": {
+      "msg_title": "Ce qui a été transmis",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "74": {
+    "SUB_B29": {
+      "msg_title": "Aika, la reine de la fête",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "75": {
+    "SUB_B30": {
+      "msg_title": "Quelque chose d'important",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "76": {
+    "SUB_B31": {
+      "msg_title": "Gros scoop : Yua amoureuse !?",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "77": {
+    "SUB_B32": {
+      "msg_title": "Déjouer le mariage frauduleux !",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "78": {
+    "SUB_B33": {
+      "msg_title": "Traite-moi bien",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "79": {
+    "SUB_A43": {
+      "msg_title": "Ruée vers l'or",
+      "title_type": 0,
+      "st_se_cuesheet": 36,
+      "st_se_cue": 57,
+      "ed_se_cuesheet": 36,
+      "ed_se_cue": 58,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "80": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "81": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "82": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "83": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "84": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "85": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "86": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "87": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "88": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "89": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "90": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "91": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "92": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "93": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "94": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "95": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "96": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "97": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "98": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "99": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "100": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "101": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "102": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "103": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "104": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "105": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "106": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "107": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "108": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "109": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "110": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "111": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "112": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "113": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "114": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "115": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "116": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "117": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "118": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "119": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "120": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "121": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "122": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "123": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "124": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "125": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "126": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "127": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "128": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "129": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "130": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "131": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "132": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "133": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "134": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "135": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "136": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "137": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "138": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "139": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "140": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "141": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "142": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "143": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "144": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "145": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "146": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "147": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "148": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "149": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "150": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "151": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "152": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "153": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "154": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "155": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "156": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "157": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "158": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "159": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "160": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "161": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "162": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "163": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "164": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "165": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "166": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "167": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "168": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "169": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "170": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "171": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "172": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "173": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "174": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "175": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "176": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "177": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "178": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "179": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "180": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "181": {
+    "": {
+      "title_type": 0,
+      "st_se_cuesheet": 0,
+      "st_se_cue": 0,
+      "ed_se_cuesheet": 0,
+      "ed_se_cue": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  }
+}

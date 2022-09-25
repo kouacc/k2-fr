@@ -1,0 +1,2651 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 159,
+  "COLUMN_COUNT": 13,
+  "TEXT_COUNT": 27,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "stage": "1",
+    "daynight": "1",
+    "player_pos": "1",
+    "fade_preset": "1",
+    "open_fade": "1",
+    "close_fade": "0",
+    "name": "1",
+    "taxi_se": "1",
+    "prev_close_fade": "1",
+    "use_police_pos": "1",
+    "spc_pos_name": "1",
+    "auto_save_point": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "stage": 2,
+    "daynight": 2,
+    "player_pos": 1,
+    "fade_preset": 2,
+    "open_fade": 2,
+    "close_fade": -1,
+    "name": 0,
+    "taxi_se": 1,
+    "prev_close_fade": 2,
+    "use_police_pos": 6,
+    "spc_pos_name": 0,
+    "auto_save_point": 6
+  },
+  "columnTypes2": {
+    "": -1,
+    "stage": 0,
+    "daynight": 0,
+    "player_pos": 1,
+    "fade_preset": 0,
+    "open_fade": 0,
+    "close_fade": -1,
+    "name": 12,
+    "taxi_se": 1,
+    "prev_close_fade": 0,
+    "use_police_pos": 11,
+    "spc_pos_name": 12,
+    "auto_save_point": 11
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    6,
+    2,
+    3,
+    9,
+    4,
+    5,
+    7,
+    8,
+    10,
+    11,
+    12
+  ],
+  "0": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_st_kamuro_ngt": {
+      "stage": 1,
+      "daynight": 3,
+      "player_pos": 2,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_te_0001_ngt": {
+      "stage": 12,
+      "daynight": 3,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "3": {
+    "test_st_onomichi_ngt": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "o_taxi_onomichi_st": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "o_taxi_onomichi_01_001": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "o_taxi_onomichi_01_002": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "o_taxi_onomichi_01_003": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "o_taxi_onomichi_02_001": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "o_taxi_onomichi_02_002": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "o_taxi_onomichi_02_003": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "o_taxi_onomichi_02_004": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "o_taxi_onomichi_02_005": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "k_taxi_kamuro_st": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "k_taxi_kamuro_01_001": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "k_taxi_kamuro_01_002": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "k_taxi_kamuro_01_003": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "k_taxi_kamuro_01_004": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "k_taxi_kamuro_02_001": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "k_taxi_kamuro_02_002": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "k_taxi_kamuro_02_003": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "k_taxi_kamuro_02_004": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "k_taxi_kamuro_02_005": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "k_taxi_kamuro_02_006": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "k_taxi_touto": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "k_taxi_hospital": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "k_taxi_tojo": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "a_taxi_amonstage": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "o_taxi_sandlot": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "o_taxi_senkouji": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "o_warp_senkouji_up": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "o_warp_senkouji_down": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "o_warp_tenboudai_up": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "o_warp_tenboudai_down": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "o_warp_sandou_up": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "o_warp_sandou_down": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "k_stage_day": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "k_stage_night": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "k_stage_style": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "o_stage_day": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "o_stage_eve": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "o_stage_night": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "o_stage_style": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "o_t41_to_keidai": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "sub_b04_jimusho": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "sub_b04_onomichi": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "k_to_fire_building": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "k_from_fire_building": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "49": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "50": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "51": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "52": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "53": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "54": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "55": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "56": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "57": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "58": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "59": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "60": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "61": {
+    "lexus2_k_taxi_kamuro_st": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1492,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Taxi vers Kamurocho",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "62": {
+    "lexus2_k_taxi_kamuro_01_001": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1490,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Shichifuku Street Ouest",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "63": {
+    "lexus2_k_taxi_kamuro_01_002": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1491,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Taihei Boulevard Est",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "64": {
+    "lexus2_k_taxi_kamuro_01_003": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1492,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Entrée de Tenkaichi Street",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "65": {
+    "lexus2_k_taxi_kamuro_01_004": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1493,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Entrée de Pink Street",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "66": {
+    "lexus2_k_taxi_kamuro_02_001": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1494,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Shichifuku Street Est",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "67": {
+    "lexus2_k_taxi_kamuro_02_002": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1495,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Theater Avenue",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "68": {
+    "lexus2_k_taxi_kamuro_02_003": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1496,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Theater Alley",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "69": {
+    "lexus2_k_taxi_kamuro_02_004": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1497,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Millennium Tower",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "70": {
+    "lexus2_k_taxi_kamuro_02_005": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1498,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Tenkaichi Street",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "71": {
+    "lexus2_k_taxi_kamuro_02_006": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1499,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Pink Street",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "72": {
+    "lexus2_k_stage_day": {
+      "stage": 1,
+      "daynight": 1,
+      "player_pos": 1477,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "73": {
+    "lexus2_k_stage_night": {
+      "stage": 1,
+      "daynight": 3,
+      "player_pos": 1477,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "74": {
+    "lexus2_s_stage_day": {
+      "stage": 58,
+      "daynight": 1,
+      "player_pos": 3275,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "75": {
+    "lexus2_s_stage_night": {
+      "stage": 58,
+      "daynight": 3,
+      "player_pos": 3275,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "76": {
+    "lexus2_s_warp_osaka_to_grand": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "77": {
+    "lexus2_s_warp_grand_to_osaka": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "78": {
+    "lexus2_s_warp_reachrou_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "79": {
+    "lexus2_s_warp_reachrou_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "80": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "81": {
+    "lexus2_s_taxi_kamuro_st": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 1713,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Taxi vers Sotenbori",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "82": {
+    "lexus2_s_taxi_kamuro_01_001": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 1712,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Sotenbori Street Ouest",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "83": {
+    "lexus2_s_taxi_kamuro_01_002": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 1713,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Sotenbori Street Est",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "84": {
+    "lexus2_s_taxi_kamuro_01_003": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 1714,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Shofukucho Ouest",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "85": {
+    "lexus2_s_taxi_kamuro_01_004": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 1715,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Shofukucho Sud",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "86": {
+    "lexus2_k_warp_hanrai_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "87": {
+    "lexus2_k_warp_hanrai_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "88": {
+    "lexus2_k_warp_atenshi_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "89": {
+    "lexus2_k_warp_atenshi_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "90": {
+    "lexus2_k_warp_shellac_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "91": {
+    "lexus2_k_warp_shellac_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "92": {
+    "lexus2_k_taxi_ADV05_0030": {
+      "stage": 6,
+      "daynight": 0,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "QG du Clan Tojo",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "93": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "94": {
+    "lexus2_k_warp_sai_in": {
+      "stage": 80,
+      "daynight": 0,
+      "player_pos": 1782,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "95": {
+    "lexus2_k_warp_sai_out": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1783,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "96": {
+    "lexus2_k_warp_sai_room_in": {
+      "stage": 81,
+      "daynight": 0,
+      "player_pos": 1784,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "97": {
+    "lexus2_k_warp_sai_room_out": {
+      "stage": 80,
+      "daynight": 0,
+      "player_pos": 1785,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "98": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "99": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "100": {
+    "lexus2_k_taxi_ADV09_0020": {
+      "stage": 6,
+      "daynight": 0,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "QG du Clan Tojo",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "101": {
+    "lexus2_k_taxi_ADV09_0080": {
+      "stage": 6,
+      "daynight": 0,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "QG du Clan Tojo",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "102": {
+    "lexus2_k_warp_m_tower_in": {
+      "stage": 91,
+      "daynight": 0,
+      "player_pos": 1919,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "103": {
+    "lexus2_k_warp_m_tower_out": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1920,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "104": {
+    "lexus2_k_taxi_ADV14_0070": {
+      "stage": 6,
+      "daynight": 0,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "QG du Clan Tojo",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "105": {
+    "lexus2_k_warp_stardust_in": {
+      "stage": 93,
+      "daynight": 0,
+      "player_pos": 1926,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "106": {
+    "lexus2_k_warp_stardust_out": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1927,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "107": {
+    "lexus2_s_warp_grand_in": {
+      "stage": 59,
+      "daynight": 0,
+      "player_pos": 1928,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "108": {
+    "lexus2_s_warp_grand_out": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 1929,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "109": {
+    "lexus2_s_warp_kazabori_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "110": {
+    "lexus2_s_warp_kazabori_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "111": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "112": {
+    "lexus2_s_warp_aoi_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "113": {
+    "lexus2_s_warp_aoi_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "114": {
+    "lexus2_k_taxi_ADV12_0120": {
+      "stage": 98,
+      "daynight": 0,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Château d'Osaka",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "115": {
+    "lexus2_k_taxi_ADV15_0070": {
+      "stage": 68,
+      "daynight": 0,
+      "player_pos": 1,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "QG de la Police Métropolitaine",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "116": {
+    "lexus2_k_warp_emoto_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "117": {
+    "lexus2_k_warp_emoto_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "118": {
+    "lexus2_s_warp_ryugu_ev_1f": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "119": {
+    "lexus2_s_warp_ryugu_ev_2f": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "120": {
+    "lexus2_s_warp_ryugu_ev_3f": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "121": {
+    "lexus2_s_warp_ryugu_ev_4f": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "122": {
+    "lexus2_s_warp_ryugu_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "123": {
+    "lexus2_s_warp_ryugu_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "124": {
+    "lexus2_s_warp_forshaine_in": {
+      "stage": 20,
+      "daynight": 0,
+      "player_pos": 2389,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "125": {
+    "lexus2_s_warp_forshaine_out": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 2390,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "126": {
+    "lexus2_k_warp_toujou_in": {
+      "stage": 6,
+      "daynight": 0,
+      "player_pos": 2506,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "QG du Clan Tojo",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "127": {
+    "lexus2_k_warp_toujou_out": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 2507,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "128": {
+    "lexus2_k_warp_kvideo_in": {
+      "stage": 41,
+      "daynight": 0,
+      "player_pos": 2593,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "129": {
+    "lexus2_k_warp_kvideo_out": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 2594,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "130": {
+    "lexus2_s_warp_stijl_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "131": {
+    "lexus2_s_warp_stijl_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "132": {
+    "lexus2_k_taxi_kamuro_01_005": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 2607,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Hotel District Nord",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "133": {
+    "lexus2_k_taxi_kamuro_01_006": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 2608,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "East Park Boulevard",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "1",
+      "auto_save_point": "1",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "134": {
+    "lexus2_k_taxi_kamuro_02_007": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 2609,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Park Boulevard",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "135": {
+    "lexus2_s_taxi_kamuro_01_005": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 2610,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Bunzaemon Outdoor Mall",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "136": {
+    "lexus2_s_taxi_kamuro_02_001": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 2611,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Pont Iwao",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "137": {
+    "lexus2_s_taxi_kamuro_02_002": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 2612,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Pont Bishamon",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "138": {
+    "lexus2_s_taxi_kamuro_02_003": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 2613,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Shofukucho",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "139": {
+    "lexus2_s_taxi_kamuro_02_004": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 2614,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "name": "Shofukucho Sud-Ouest",
+      "taxi_se": 21592,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "140": {
+    "lexus2_s_warp_keima_in": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "141": {
+    "lexus2_s_warp_keima_out": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "142": {
+    "lexus2_k_warp_sub_stardust_in": {
+      "stage": 93,
+      "daynight": 0,
+      "player_pos": 2729,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "143": {
+    "lexus2_k_warp_sub_stardust_out": {
+      "stage": 1,
+      "daynight": 0,
+      "player_pos": 1744,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 8,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "144": {
+    "lexus2_s_warp_svideo_in": {
+      "stage": 41,
+      "daynight": 0,
+      "player_pos": 3018,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "145": {
+    "lexus2_s_warp_svideo_out": {
+      "stage": 58,
+      "daynight": 0,
+      "player_pos": 3019,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "146": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "147": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "148": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "149": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "150": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "151": {
+    "lexus2_s_stage_forshaine_day": {
+      "stage": 20,
+      "daynight": 1,
+      "player_pos": 3276,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "152": {
+    "lexus2_s_stage_forshaine_night": {
+      "stage": 20,
+      "daynight": 3,
+      "player_pos": 3276,
+      "fade_preset": 8,
+      "open_fade": 4,
+      "taxi_se": 0,
+      "prev_close_fade": 7,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "153": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "154": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "155": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "156": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "157": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "158": {
+    "": {
+      "stage": 0,
+      "daynight": 0,
+      "player_pos": 0,
+      "fade_preset": 0,
+      "open_fade": 0,
+      "taxi_se": 0,
+      "prev_close_fade": 0,
+      "use_police_pos": "0",
+      "auto_save_point": "0",
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  }
+}

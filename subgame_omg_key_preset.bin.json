@@ -1,0 +1,66 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 5,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 4,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "standard_type_a": {
+      "name": "Standard A",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "standard_type_b": {
+      "name": "Standard B",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "twin_stick_type_a": {
+      "name": "Twin Stick A",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "twin_stick_type_b": {
+      "name": "Twin Stick B",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  }
+}

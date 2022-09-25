@@ -1,0 +1,199 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 24,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 23,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "QGameState_Default": {
+      "name": "Aventure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "QGameState_Combat": {
+      "name": "Combat",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "QGameState_Minigame_BattingCenter": {
+      "name": "Mini-jeu : Batting Center",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "QGameState_Minigame_BlackJack": {
+      "name": "Mini-jeu : Blackjack",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "QGameState_Minigame_Cabaret": {
+      "name": "Mini-jeu : Cabaret Club Grand Prix",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "QGameState_Minigame_ClanCreator": {
+      "name": "Mini-jeu : Clan Creator",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "QGameState_Minigame_Darts": {
+      "name": "Mini-jeu : Fléchettes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "QGameState_Minigame_Golf": {
+      "name": "Mini-jeu : Golf",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "QGameState_Minigame_Karaoke": {
+      "name": "Mini-jeu : Karaoké",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "QGameState_Minigame_KoiKoi": {
+      "name": "Mini-jeu : Koi-Koi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "QGameState_Minigame_Mahjong": {
+      "name": "Mini-jeu : Mahjong",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "QGameState_Minigame_OichoKabu": {
+      "name": "Mini-jeu : Oicho-Kabu",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "QGameState_Minigame_PhotoStudio": {
+      "name": "Mini-jeu : Shooting Photo Gravure",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "QGameState_Minigame_Poker": {
+      "name": "Mini-jeu : Poker",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "QGameState_Minigame_Shogi": {
+      "name": "Mini-jeu : Shogi",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "QGameState_Minigame_Toylets": {
+      "name": "Mini-jeu : Toylets",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "QGameState_Minigame_UFO_Catcher": {
+      "name": "Mini-jeu : UFO Catcher",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "QGameState_Minigame_VirtualFighter_P1": {
+      "name": "Mini-jeu : Virtua Fighter 2/2.1 (J1)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "QGameState_Minigame_VirtualFighter_P2": {
+      "name": "Mini-jeu : Virtua Fighter 2/2.1 (J2)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "QGameState_Minigame_VirtualOn_StandardA": {
+      "name": "Mini-jeu : Virtual-On - Standard A",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "QGameState_Minigame_VirtualOn_StandardB": {
+      "name": "Mini-jeu : Virtual-On - Standard B",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "QGameState_Minigame_VirtualOn_TwinStickA": {
+      "name": "Mini-jeu : Virtual-On - Double stick A",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "QGameState_Minigame_VirtualOn_TwinStickB": {
+      "name": "Mini-jeu : Virtual-On - Double stick B",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  }
+}

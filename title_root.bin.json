@@ -1,0 +1,694 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 64,
+  "COLUMN_COUNT": 7,
+  "TEXT_COUNT": 57,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "message": "0",
+    "name": "1",
+    "explanation": "1",
+    "explanation2": "1",
+    "category": "1",
+    "direct_exit_condition": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": -1,
+    "name": 0,
+    "explanation": 0,
+    "explanation2": 0,
+    "category": 2,
+    "direct_exit_condition": 2
+  },
+  "columnTypes2": {
+    "": -1,
+    "message": -1,
+    "name": 12,
+    "explanation": 12,
+    "explanation2": 12,
+    "category": 0,
+    "direct_exit_condition": 0
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    5,
+    2,
+    3,
+    4,
+    6
+  ],
+  "0": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "start": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "option": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "caution": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "new_game": {
+      "name": "NOUVELLE PARTIE",
+      "explanation": "Commencer le jeu depuis le début.",
+      "explanation2": "Commencer le jeu depuis le début.\r\nVous devrez écraser un fichier de sauvegarde pour continuer. (30 fichiers maximum)",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "new_game_after_clear": {
+      "name": "NOUVELLE PARTIE",
+      "explanation": "Commencer le jeu depuis le début.",
+      "explanation2": "Commencer le jeu depuis le début.\r\nVous devrez écraser un fichier de sauvegarde pour continuer. (30 fichiers maximum)",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "6": {
+    "continue": {
+      "name": "CONTINUER",
+      "explanation": "Continuer une partie sauvegardée.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "7": {
+    "movie": {
+      "name": "REJOUER",
+      "explanation": "Afficher les événements de l'histoire vus précédemment.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "8": {
+    "past_series": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "9": {
+    "audio_option": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "10": {
+    "new_game_after_clear_main_story": {
+      "name": "NOUVELLE PARTIE",
+      "explanation": "Commencer le jeu depuis le début.",
+      "category": 2,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "11": {
+    "new_game_after_clear_padv": {
+      "name": "AVENTURE PREMIUM",
+      "explanation": "Explorer le monde sans l'histoire principale.",
+      "category": 2,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "12": {
+    "difficulty_easy": {
+      "name": "FACILE",
+      "explanation": "Recommandé aux joueurs qui ne connaissent pas les jeux d'action ou la série Yakuza.",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "13": {
+    "difficulty_normal": {
+      "name": "NORMAL",
+      "explanation": "Il s'agit du niveau de difficulté standard.",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "14": {
+    "difficulty_hard": {
+      "name": "DIFFICILE",
+      "explanation": "Recommandé aux joueurs qui maîtrisent les jeux d'action.",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "15": {
+    "difficulty_legend": {
+      "name": "LÉGENDE",
+      "explanation": "Une difficulté réservée aux véritables légendes de Yakuza.",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "16": {
+    "two_player_game": {
+      "name": "2J : DUELS DE MINI-JEUX",
+      "explanation": "Deux joueurs s'affrontent dans Virtua Fighter 2 ou Virtua Fighter 2.1.\r\n*Requiert deux périphériques d'entrée.\r\n*Ne compte pas dans la liste des succès.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "17": {
+    "two_player_game_puyo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "18": {
+    "two_player_game_vf5": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "19": {
+    "memories_ryu1": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "20": {
+    "memories_ryu2": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "21": {
+    "memories_ryu3": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "22": {
+    "memories_ryu4": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "23": {
+    "memories_ryu5": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "24": {
+    "difficulty_very_easy": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "25": {
+    "tgs_start_onomichi": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "26": {
+    "tgs_start_kamuro": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "27": {
+    "continue_after_clear": {
+      "name": "CONTINUER",
+      "explanation": "Continuer une partie sauvegardée ou démarrer une nouvelle partie+ à partir d'un fichier vide.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "28": {
+    "tgs_game_option": {
+      "name": "PARAMÈTRES DU JEU",
+      "explanation": "Modifier les paramètres qui affectent la jouabilité.",
+      "category": 6,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "29": {
+    "tgs_audio_option": {
+      "name": "PARAMÈTRES AUDIO",
+      "explanation": "Modifier les paramètres audio.",
+      "category": 6,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "30": {
+    "majima_mode": {
+      "name": "NOUVELLE PARTIE (SAGA MAJIMA)",
+      "explanation": "Commencer la saga Majima depuis le début.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "31": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "32": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "33": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "34": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "35": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "36": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "37": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "38": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "39": {
+    "majima_1syo": {
+      "name": "CHAPITRE 1",
+      "explanation": "Jouer au chapitre 1 de la saga Majima.",
+      "category": 10,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "40": {
+    "majima_2syo": {
+      "name": "CHAPITRE 2",
+      "explanation": "Jouer au chapitre 2 de la saga Majima.",
+      "category": 10,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "41": {
+    "majima_3syo": {
+      "name": "CHAPITRE 3",
+      "explanation": "Jouer au chapitre 3 de la saga Majima.",
+      "category": 10,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "42": {
+    "majima_4syo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "43": {
+    "two_player_game_vf2": {
+      "name": "Virtua Fighter 2",
+      "explanation": "L'apogée des jeux de combat !",
+      "category": 4,
+      "direct_exit_condition": 30,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "44": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "45": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "46": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "47": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "48": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000100",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "49": {
+    "tgs_start_osaka": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "50": {
+    "two_player_game_vf2.1": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "51": {
+    "tgs_story": {
+      "name": "HISTOIRE PRINCIPALE",
+      "explanation": "Découvrez une partie de l'histoire principale (chapitre 2).",
+      "category": 6,
+      "direct_exit_condition": 140,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "52": {
+    "tgs_majima": {
+      "name": "SAGA MAJIMA",
+      "explanation": "Découvrez une partie de la saga Majima (chapitre 1).",
+      "category": 6,
+      "direct_exit_condition": 141,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "53": {
+    "tgs_clan": {
+      "name": "CLAN CREATOR",
+      "explanation": "EDécouvrez la première mission du Clan Creator de Yakuza Kiwami 2.",
+      "category": 6,
+      "direct_exit_condition": 142,
+      "reARMP_validityBool": "00000010",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "54": {
+    "two_player_game_vf2_1": {
+      "name": "Virtua Fighter 2.1",
+      "explanation": "Une version spéciale de Virtua Fighter 2 avec des ajustements supplémentaires d'équilibre.",
+      "category": 4,
+      "direct_exit_condition": 143,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "55": {
+    "majima_continue": {
+      "name": "CONTINUER (SAGA MAJIMA)",
+      "explanation": "Continuer un fichier sauvegardé de Saga Majima.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "56": {
+    "quit_game": {
+      "name": "QUITTER LE JEU",
+      "explanation": "Quitter vers le bureau.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "57": {
+    "settings": {
+      "name": "PARAMÈTRES",
+      "explanation": "Personnaliser les paramètres du jeu.",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "58": {
+    "subsettings_graphics": {
+      "name": "PARAMÈTRES GRAPHIQUES",
+      "explanation": "Modifier les options graphiques.",
+      "category": 11,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "59": {
+    "subsettings_controls": {
+      "name": "CONTRÔLES",
+      "explanation": "Personnaliser les commandes du jeu.",
+      "category": 11,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "60": {
+    "subsettings_game": {
+      "name": "PARAMÈTRES DE JEU",
+      "explanation": "Modifier les paramètres qui affectent la jouabilité.",
+      "category": 11,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "61": {
+    "subsettings_audio": {
+      "name": "PARAMÈTRES AUDIO",
+      "explanation": "Modifier les paramètres audio.",
+      "category": 11,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "62": {
+    "load_game": {
+      "name": "CHARGER",
+      "explanation": "Charger des données",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "63": {
+    "majima_load_game": {
+      "name": "CHARGER (SAGA MAJIMA)",
+      "explanation": "Charger des données Saga Majima",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "reARMP_validityBool": "00000110",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  }
+}

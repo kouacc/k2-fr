@@ -1,0 +1,1130 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 157,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 148,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "name": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "name": 12
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "QAction_Move_Forward": {
+      "name": "Avancer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "QAction_Move_Back": {
+      "name": "Reculer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "QAction_Move_Right": {
+      "name": "Aller à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "QAction_Move_Left": {
+      "name": "Aller à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "QAction_Turn_Camera_Up": {
+      "name": "Tourner la caméra en haut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "QAction_Turn_Camera_Down": {
+      "name": "Tourner la caméra en bas",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "QAction_Turn_Camera_Right": {
+      "name": "Tourner la caméra à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "QAction_Turn_Camera_Left": {
+      "name": "Tourner la caméra à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "QAction_Display_Main_Menu": {
+      "name": "Afficher le menu principal",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "QAction_Pause_Game": {
+      "name": "Mettre en pause",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "QAction_Confirm": {
+      "name": "Confirmer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "QAction_Confirm_Alt": {
+      "name": "Confirmer (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "QAction_Cancel": {
+      "name": "Annuler",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "QAction_Cancel_Alt": {
+      "name": "Annuler (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "QAction_Run": {
+      "name": "Courir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "QAction_Use_Phone_Camera": {
+      "name": "Utiliser l'appareil photo",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "QAction_Phone_Camera_Zoom_In": {
+      "name": "Caméra zoom avant",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "QAction_Phone_Camera_Zoom_Out": {
+      "name": "Caméra zoom arrière",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "QAction_View_Map": {
+      "name": "Voir la carte",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "QAction_View_Controls": {
+      "name": "Afficher les commandes",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "QAction_First_Person_View": {
+      "name": "Vue Première Personne",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "QAction_Menu_Sort_Items": {
+      "name": "Menu Tri objets",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "QAction_Menu_Discard_Item": {
+      "name": "Menu Jeter Objet",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "QAction_Battle_Normal_Attack": {
+      "name": "Combat Attaque normale",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "QAction_Battle_Heavy_Attack": {
+      "name": "Combat Attaque lourde",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "QAction_Battle_Rush_Combo": {
+      "name": "Combat Combo Rush",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "QAction_Battle_Drop_Weapon": {
+      "name": "Combat Lâcher Arme",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "QAction_Battle_Guard": {
+      "name": "Combat Garde",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "QAction_Battle_Pull_Weapon_Up": {
+      "name": "Combat Utiliser Arme Haut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "QAction_Battle_Pull_Weapon_Right": {
+      "name": "Combat Utiliser Arme Droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "QAction_Battle_Pull_Weapon_Left": {
+      "name": "Combat Utiliser Arme Gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "QAction_Battle_Hide_Weapon": {
+      "name": "Combat Cacher Arme",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "QAction_Battle_Fight_Stance": {
+      "name": "Position de combat",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "QAction_Battle_Extreme_Heat": {
+      "name": "Combat Extreme Heat",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "QAction_Battle_Center_Camera": {
+      "name": "Combat Centrer Caméra",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "QAction_Battle_Dodge": {
+      "name": "Combat Esquive",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "QAction_Up": {
+      "name": "Haut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "QAction_Down": {
+      "name": "Bas",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "QAction_Left": {
+      "name": "Gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "QAction_Right": {
+      "name": "Droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "QAction_Up_Alt": {
+      "name": "Haut (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "QAction_Down_Alt": {
+      "name": "Bas (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "QAction_Right_Alt": {
+      "name": "Droite (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "44": {
+    "QAction_Left_Alt": {
+      "name": "Gauche (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "45": {
+    "QAction_Return": {
+      "name": "Retourner",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "QAction_Switch_Page_Right": {
+      "name": "Changer de page à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "QAction_Switch_Page_Left": {
+      "name": "Changer de page à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "QAction_Throw": {
+      "name": "Jeter",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "QAction_Use_Item": {
+      "name": "Utiliser objet",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "QAction_View_Hands": {
+      "name": "Voir les mains",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "QAction_Take_Back": {
+      "name": "Retrait",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "QAction_Super_Take_Back": {
+      "name": "Super Retrait",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "QAction_View_Details": {
+      "name": "Voir détails",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "QAction_Toogle_Command": {
+      "name": "Activer commande",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "QAction_Check_Discard": {
+      "name": "Vérifier défausse",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "QAction_View_Tutorial": {
+      "name": "Voir le guide",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "QAction_Swing_Bat": {
+      "name": "Swinguer la batte",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "QAction_Begin_Shot": {
+      "name": "Commencer tir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "QAction_Cancel_Shot": {
+      "name": "Annuler tir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "QAction_Press_1": {
+      "name": "Appuyer 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "QAction_Press_2": {
+      "name": "Appuyer 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "QAction_Press_3": {
+      "name": "Appuyer 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "QAction_Press_4": {
+      "name": "Appuyer 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "QAction_Move_Crane": {
+      "name": "Déplacer bras",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "QAction_Insert": {
+      "name": "Insérer des pièces",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "QAction_Reset": {
+      "name": "Réinitialiser",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "QAction_Begin": {
+      "name": "Commencer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "QAction_Rules": {
+      "name": "Règles",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "QAction_Increase": {
+      "name": "Augmenter",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "QAction_Decrease": {
+      "name": "Diminuer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "QAction_Minigame_Jump": {
+      "name": "<symbol=vf5_key_arrow_n8>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "QAction_Minigame_Crouch": {
+      "name": "<symbol=vf5_key_arrow_n2>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "QAction_Minigame_Move_Right": {
+      "name": "<symbol=vf5_key_arrow_n6>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "QAction_Minigame_Move_Left": {
+      "name": "<symbol=vf5_key_arrow_n4>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "QAction_Minigame_Punch": {
+      "name": "<symbol=vf5_key_p>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "QAction_Minigame_Kick": {
+      "name": "<symbol=vf5_key_k>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "QAction_Minigame_Guard": {
+      "name": "<symbol=vf5_key_g>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "QAction_Minigame_PunchKick": {
+      "name": "<symbol=vf5_key_p> + <symbol=vf5_key_k>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "QAction_Minigame_KickGuard": {
+      "name": "<symbol=vf5_key_k> + <symbol=vf5_key_g>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "QAction_Minigame_PunchGuard": {
+      "name": "<symbol=vf5_key_p> + <symbol=vf5_key_g>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "QAction_Minigame_PunchKickGuard": {
+      "name": "<symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "QAction_Minigame_InsertCoins": {
+      "name": "Insérer des pièces",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "QAction_Minigame_LeftLever_Up": {
+      "name": "Levier gauche haut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "84": {
+    "QAction_Minigame_LeftLever_Down": {
+      "name": "Levier gauche bas",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "85": {
+    "QAction_Minigame_LeftLever_Left": {
+      "name": "Levier gauche gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "86": {
+    "QAction_Minigame_LeftLever_Right": {
+      "name": "Levier gauche droit",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "87": {
+    "QAction_Minigame_RightLever_Up": {
+      "name": "Levier droit haut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "88": {
+    "QAction_Minigame_RightLever_Down": {
+      "name": "Levier droit bas",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "89": {
+    "QAction_Minigame_RightLever_Left": {
+      "name": "Levier droit gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "90": {
+    "QAction_Minigame_RightLever_Right": {
+      "name": "Levier droit droit",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "91": {
+    "QAction_Dash": {
+      "name": "Courir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "92": {
+    "QAction_Dash_L": {
+      "name": "Courir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "93": {
+    "QAction_Dash_R": {
+      "name": "Courir",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "94": {
+    "QAction_Right_Weapon": {
+      "name": "Arme droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "95": {
+    "QAction_Left_Weapon": {
+      "name": "Arme gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "96": {
+    "QAction_Jump": {
+      "name": "Sauter",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "97": {
+    "QAction_Cancel_Jump": {
+      "name": "Annuler saut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "98": {
+    "QAction_Start": {
+      "name": "Démarrer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "99": {
+    "QAction_Move_Coursor_Up": {
+      "name": "Déplacer le curseur en haut",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "100": {
+    "QAction_Move_Coursor_Down": {
+      "name": "Déplacer le curseur en bas",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "101": {
+    "QAction_Move_Coursor_Left": {
+      "name": "Déplacer le curseur à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "102": {
+    "QAction_Move_Coursor_Right": {
+      "name": "Déplacer le curseur à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "103": {
+    "QAction_Skill_1": {
+      "name": "Compétence 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "104": {
+    "QAction_Skill_2": {
+      "name": "Compétence 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "105": {
+    "QAction_Skill_3": {
+      "name": "Compétence 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "106": {
+    "QAction_Skill_4": {
+      "name": "Compétence 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "107": {
+    "QAction_Select_Option_1": {
+      "name": "Sélectionner l'option 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "108": {
+    "QAction_Select_Option_2": {
+      "name": "Sélectionner l'option 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "109": {
+    "QAction_Select_Option_3": {
+      "name": "Sélectionner l'option 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "110": {
+    "QAction_Reset_Selection": {
+      "name": "Réinitialiser sélection",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "111": {
+    "QAction_Equipment": {
+      "name": "Équipement",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "112": {
+    "QAction_Select_Nearby_Unit": {
+      "name": "Sélectionner une unité proche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "113": {
+    "QAction_Move_Unit": {
+      "name": "Déplacer unité",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "114": {
+    "QAction_Rise_Spirit": {
+      "name": "Éveiller un esprit",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "115": {
+    "QAction_Go_To_Selected_Unit": {
+      "name": "Aller à l'unité sélectionnée",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "116": {
+    "QAction_Select_Unit_Right": {
+      "name": "Sélectionner l'unité à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "117": {
+    "QAction_Select_Unit_Left": {
+      "name": "Sélectionner l'unité à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "118": {
+    "QAction_Increase_Cursor_Speed": {
+      "name": "Augmenter la vitesse du curseur",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "119": {
+    "QAction_Zoom_Special_Skill_Display": {
+      "name": "Roue des compétences spéciales",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "120": {
+    "QAction_None": {
+      "name": "Aucun",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "121": {
+    "QAction_Count": {
+      "name": "Count",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "122": {
+    "QAction_Minigame_VOn_Forward": {
+      "name": "Avancer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "123": {
+    "QAction_Minigame_VOn_Backward": {
+      "name": "Reculer",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "124": {
+    "QAction_Minigame_VOn_Left": {
+      "name": "Avancer à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "125": {
+    "QAction_Minigame_VOn_Right": {
+      "name": "Avancer à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "126": {
+    "QAction_Phone_Camera_Apply_Filter": {
+      "name": "Appliquer un filtre",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "127": {
+    "QAction_Phone_Camera_View_Gallery": {
+      "name": "Voir la galerie",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "128": {
+    "QAction_Phone_Camera_Take_Shot": {
+      "name": "Prendre une photo",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "129": {
+    "QAction_Phone_Camera_End": {
+      "name": "Fin",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "130": {
+    "QAction_Phone_Camera_Switch_Camera": {
+      "name": "Changer de caméra",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "131": {
+    "QAction_Phone_Camera_Change_Expression_1": {
+      "name": "Modifier l'expression 1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "132": {
+    "QAction_Phone_Camera_Change_Expression_2": {
+      "name": "Modifier l'expression 2",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "133": {
+    "QAction_Phone_Camera_Change_Expression_3": {
+      "name": "Modifier l'expression 3",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "134": {
+    "QAction_Phone_Camera_Change_Expression_4": {
+      "name": "Modifier l'expression 4",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "135": {
+    "QAction_Rotate_Right": {
+      "name": "Tourner à droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "136": {
+    "QAction_Rotate_Left": {
+      "name": "Tourner à gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "137": {
+    "QAction_Action": {
+      "name": "Action",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "138": {
+    "QAction_Minigame_LeftLever_Up_alt": {
+      "name": "Levier gauche haut (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "139": {
+    "QAction_Minigame_LeftLever_Down_alt": {
+      "name": "Levier gauche bas (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "140": {
+    "QAction_Minigame_LeftLever_Left_alt": {
+      "name": "Levier gauche gauche (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "141": {
+    "QAction_Minigame_LeftLever_Right_alt": {
+      "name": "Levier gauche droit (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "142": {
+    "QAction_Minigame_RightLever_Up_alt": {
+      "name": "Levier droit haut (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "143": {
+    "QAction_Minigame_RightLever_Down_alt": {
+      "name": "Levier droit bas (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "144": {
+    "QAction_Minigame_RightLever_Left_alt": {
+      "name": "Levier droit gauche (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "145": {
+    "QAction_Minigame_RightLever_Right_alt": {
+      "name": "Levier droit droit (alternatif)",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "146": {
+    "QAction_Dash_alt": {
+      "name": "Courir ",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "147": {
+    "QAction_Minigame_VOn_Turn_Camera_Right": {
+      "name": "Caméra droite",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "148": {
+    "QAction_Minigame_VOn_Turn_Camera_Left": {
+      "name": "Caméra gauche",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "149": {
+    "QAction_Minigame_View_Guide": {
+      "name": "Voir le guide",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "150": {
+    "QAction_Minigame_Fever_Mode": {
+      "name": "Mode Fever",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "151": {
+    "QAction_Minigame_Assist_Table": {
+      "name": "Assister la table",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "152": {
+    "QAction_Read_Email": {
+      "name": "Lire l'email",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "153": {
+    "QAction_Minigame_Mash_To_Indulge": {
+      "name": "Marteler pour satisfaire",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "154": {
+    "QAction_Minigame_Snap_to_Next_Equipment": {
+      "name": "Passer au prochain équipement",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "155": {
+    "QAction_Minigame_Snap_to_Previous_Equipment": {
+      "name": "Passer au precédent équipement",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "156": {
+    "QAction_Reset_Camera": {
+      "name": "Réinitialiser la caméra",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  }
+}

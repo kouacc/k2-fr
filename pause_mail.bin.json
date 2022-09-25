@@ -1,0 +1,5179 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 33,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 9,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "table": "1",
+    "name": "1",
+    "picture": "1",
+    "can_open_directly": "1",
+    "takeover": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "table": 9,
+    "name": 0,
+    "picture": 1,
+    "can_open_directly": 6,
+    "takeover": 6
+  },
+  "columnTypes2": {
+    "": -1,
+    "table": 13,
+    "name": 12,
+    "picture": 1,
+    "can_open_directly": 11,
+    "takeover": 11
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "0": {
+    "": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "kiryu": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "date": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "tips_test": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "test_mail": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "rizap": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "cabaret_erina": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "cabaret_hikaru": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "cabaret_riona": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "cabaret_saki": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "cabaret_sora": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "sub_a26_00": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "sub_b26_00": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "sub_b19_gen": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "sub_a12_00": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "sub_a23_00": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "sub_a99_00": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "tips_system": {
+      "table": {
+        "ROW_COUNT": 146,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 27,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Bienvenue !",
+            "2": "Bienvenue dans Yakuza Kiwami 2!\r\nMon nom est Kiwami Bob du\r\nNewsletter de conseils.\r\n\r\nJe vous expliquerai tous les\r\ndétails de base du jeu au\r\nfur et à mesure de votre progression.\r\n\r\nN'oubliez pas de revenir ici s'il y a\r\nquelque chose que vous\r\nne comprenez pas !<symbol=keitai_heart>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "1": "Gardez un journal",
+            "2": "Ici Kiwami Bob.\r\nParlons de la sauvegarde du jeu.\r\n\r\nQuand vous voulez sauvegarder, mettez\r\nle jeu en pause et sélectionnez Sauvegarder\r\ndepuis le menu.\r\n\r\nVeuillez noter que vous ne pouvez pas\r\nsauvegarder pendant les combats ou\r\nles événements.\r\n\r\nSélectionnez Continuer depuis l'écran titre\r\npour retourner dans votre\r\ndernière partie sauvegardée.<symbol=keitai_cat_smile>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 135
+          }
+        },
+        "14": {
+          "": {
+            "1": "Ne vous perdez plus jamais",
+            "2": "Ici Kiwami Bob, une fois de plus.\r\nAujourd'hui, je vais tout vous dire à propos\r\nde la carte.\r\n\r\nLa minimap affiché dans le\r\ncoin en bas à gauche de l'écran de jeu\r\nvous montrera les points\r\nd'intérêts, les ennemis, et les rues\r\noù vous pouvez aller.\r\n\r\nVous pouvez aussi voir la carte entière\r\nde la ville en appuyant sur <symbol=button_touchpad,Default>.\r\n\r\nUtilisez les deux cartes en conjonction\r\npour savoir où vous allez et comment\r\nvous y rendre !<symbol=keitai_cat_smile>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 136
+          }
+        },
+        "15": {
+          "": {
+            "1": "Vous courrez des marathons en un rien de temps !",
+            "2": "Ici Kiwami Bob, encore et toujours.\r\nVous connaissez le sprint ?\r\n\r\nSi vous voulez vous déplacer un peu plus\r\nvite, maintenez <action=Action_Run,Default> pour courir.\r\n<symbol=keitai_tension_up> Cependant, vous pouvez pas courir\r\npour toujours, alors assurez-vous de relâcher <action=Action_Run,Default>\r\nde temps en temps et de reprendre votre\r\nsouffle. <symbol=keitai_tension_down>\r\n\r\nVous pouvez améliorer votre endurance\r\ndans le Menu Pause.<symbol=keitai_cat_smile>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 137
+          }
+        },
+        "16": {
+          "": {
+            "1": "Élargir vos horizons",
+            "2": "Kiwami Bob, de retour avec un nouveau\r\nconseil !\r\n\r\nQuand vous explorez la ville,\r\nappuyez sur <symbol=button_r3,Default> pour passer dans une\r\nvue première personne.\r\n\r\nVous pouvez même marcher quand vous êtes\r\nen mode première personne !\r\n<symbol=keitai_tension_up> Mais pour que vous sachiez,\r\n vous retournerez automatiquement\r\nen vue troisième personne\r\nsi vous engagez un combat ou commencez une\r\nconversation.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 138
+          }
+        },
+        "17": {
+          "": {
+            "1": "Challenge Awaits",
+            "2": "It's your boy, Kiwami Bob!\r\nEver taken a look at the Completion\r\nList from the Pause Menu?\r\n\r\nAs you complete the items on\r\nthis list, you'll gain varying\r\namounts of EXP. I recommend\r\nyou clear some of the easier\r\ntasks first so you can net as\r\nmuch EXP as possible early on!\r\n\r\nYou'll unlock new tasks as you\r\ncomplete other ones, so keep\r\nat it and go for 100%!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 139
+          }
+        },
+        "18": {
+          "": {
+            "1": "N'oubliez pas de manger !",
+            "2": "Ici Kiwami Bob. Vous avez faim ? Moi oui.\r\nArrêtez-vous dans un restaurant et mettez\r\nde la nourriture dans votre bouche ! <symbol=keitai_meal>\r\n\r\nManger et boire ne vont pas\r\nseulement restaurer votre santé perdue,\r\nmais vous donne aussi un peu d'EXP.\r\n<symbol=keitai_tension_up> Vous pouvez même obtenir de l'EXP bonus\r\nsi vous mangez certaines combinaisons spéciales,\r\ndonc essayez tout ! <symbol=keitai_cat_smile>\r\n\r\nAttention à ne pas trop manger,\r\ncependant. Si vous mangez alors que vous n'avez\r\npas faim, vous récupérerez de la santé,\r\nmais ne gagnerez pas d'EXP. Promenez-vous\r\ndans la ville et combattez des ennemis\r\npour être plus affamé ! <symbol=keitai_meal><symbol=keitai_meal><symbol=keitai_meal>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "19": {
+          "": {
+            "1": "Controlling the Heavens",
+            "2": "Sup, it's Kiwami Bob. Ever looked\r\nup at the sky and thought, \"I\r\nwish it wasn't so bright out\"?\r\nWell, good news! <symbol=keitai_tension_up>\r\n\r\nYou can use the waiting room\r\ndoor in Serena or the sofa in\r\nAoi to change the time of day.\r\nKeep in mind, some main story\r\nevents will keep you from\r\nchanging the time.\r\n\r\nUse these establishments to\r\nswitch between day and night\r\nas you please. Some events\r\nonly happen at night, so be\r\nsure to explore at both\r\ntimes of day! <symbol=keitai_heart>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 140
+          }
+        },
+        "20": {
+          "": {
+            "1": "Drink 'Til You Drop!",
+            "2": "2 Kiwami, 2 Bob here. In case you\r\nhaven't noticed, consuming too much\r\nalcohol will get you drunk.\r\nThe more booze you drink, the\r\ndrunker you'll get.\r\n\r\nSober up by drinking water\r\nor waiting for it to wear\r\noff.\r\n\r\nWhen drunk, more enemies will\r\nbother you around town. <symbol=keitai_cat_sad>\r\nHowever, you'll fill your Heat\r\nGauge quicker, so it may be a\r\ngood idea to get drunk every\r\nnow and again! <symbol=keitai_choki>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 141
+          }
+        },
+        "21": {
+          "": {
+            "1": "These Items are Key",
+            "2": "Tips? Kiwami Bob's got 'em!\r\n\r\nAs you advance through the\r\nstory, you'll come across some\r\nspecial items called Valuables.\r\nYou can see these in your\r\ninventory from the Pause Menu. <symbol=keitai_paa>\r\n\r\nValuables are often important\r\nto the story, so you cannot\r\nsell them or throw them away.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 142
+          }
+        },
+        "22": {
+          "": {
+            "1": "The Fun Never Stops!",
+            "2": "More Kiwami Bob spam!\r\n\r\nPeriodically, you'll receive\r\nYakuza Kiwami 2 Fun Packs to enhance\r\nyour experience!<symbol=keitai_present> Pick them up from \r\nthe package at Serena or Aoi!<symbol=keitai_heart>\r\n\r\nYou can only receive fun packs once\r\nper save file.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 143
+          }
+        },
+        "23": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "24": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "25": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "26": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "27": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "28": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "29": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "30": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "31": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "32": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "33": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "34": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "35": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "36": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 144
+          }
+        },
+        "37": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "38": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "39": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "40": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "41": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "42": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "43": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "44": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "45": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "46": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "47": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "48": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "49": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "50": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "51": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "52": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "53": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "54": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "55": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "56": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "57": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "58": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 58
+          }
+        },
+        "59": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 59
+          }
+        },
+        "60": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 60
+          }
+        },
+        "61": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 61
+          }
+        },
+        "62": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 62
+          }
+        },
+        "63": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 63
+          }
+        },
+        "64": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 64
+          }
+        },
+        "65": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 65
+          }
+        },
+        "66": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 66
+          }
+        },
+        "67": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 67
+          }
+        },
+        "68": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 68
+          }
+        },
+        "69": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 69
+          }
+        },
+        "70": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 70
+          }
+        },
+        "71": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 71
+          }
+        },
+        "72": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 72
+          }
+        },
+        "73": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 73
+          }
+        },
+        "74": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 74
+          }
+        },
+        "75": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 75
+          }
+        },
+        "76": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 76
+          }
+        },
+        "77": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 77
+          }
+        },
+        "78": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 78
+          }
+        },
+        "79": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 79
+          }
+        },
+        "80": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 80
+          }
+        },
+        "81": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 81
+          }
+        },
+        "82": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 82
+          }
+        },
+        "83": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 83
+          }
+        },
+        "84": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 84
+          }
+        },
+        "85": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 85
+          }
+        },
+        "86": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 86
+          }
+        },
+        "87": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 87
+          }
+        },
+        "88": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 88
+          }
+        },
+        "89": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 89
+          }
+        },
+        "90": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 90
+          }
+        },
+        "91": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 91
+          }
+        },
+        "92": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 92
+          }
+        },
+        "93": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 93
+          }
+        },
+        "94": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 94
+          }
+        },
+        "95": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 95
+          }
+        },
+        "96": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 96
+          }
+        },
+        "97": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 97
+          }
+        },
+        "98": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 98
+          }
+        },
+        "99": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 99
+          }
+        },
+        "100": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 100
+          }
+        },
+        "101": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 101
+          }
+        },
+        "102": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 102
+          }
+        },
+        "103": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 103
+          }
+        },
+        "104": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 104
+          }
+        },
+        "105": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 105
+          }
+        },
+        "106": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 106
+          }
+        },
+        "107": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 107
+          }
+        },
+        "108": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 108
+          }
+        },
+        "109": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 109
+          }
+        },
+        "110": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 110
+          }
+        },
+        "111": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 111
+          }
+        },
+        "112": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 112
+          }
+        },
+        "113": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 113
+          }
+        },
+        "114": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 114
+          }
+        },
+        "115": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 115
+          }
+        },
+        "116": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 116
+          }
+        },
+        "117": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 117
+          }
+        },
+        "118": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 118
+          }
+        },
+        "119": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 119
+          }
+        },
+        "120": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 120
+          }
+        },
+        "121": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 121
+          }
+        },
+        "122": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 122
+          }
+        },
+        "123": {
+          "": {
+            "1": "Get Some Fresh Digs!",
+            "2": "Kiwami Bob, back at you!\r\n\r\nIf you obtain a new outfit,\r\nyou can use the waiting room\r\nin Serena or Aoi to change\r\ninto it. <symbol=keitai_cat_smile>\r\n\r\nJust so you know, you can\r\nonly change your outfit in\r\nPremium Adventure! <symbol=keitai_paa>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 124
+          }
+        },
+        "124": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 125
+          }
+        },
+        "125": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 126
+          }
+        },
+        "126": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 127
+          }
+        },
+        "127": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 128
+          }
+        },
+        "128": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 129
+          }
+        },
+        "129": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 130
+          }
+        },
+        "130": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 131
+          }
+        },
+        "131": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 132
+          }
+        },
+        "132": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 133
+          }
+        },
+        "133": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "134": {
+          "": {
+            "1": "Vous l'avez fait!",
+            "2": "<symbol=keitai_heart><symbol=keitai_heart><symbol=keitai_heart>\r\nIci Kiwami Bob ! Félicitations pour\r\navoir fini la Liste des Succès !\r\n<symbol=keitai_heart><symbol=keitai_heart><symbol=keitai_heart>\r\nJ'aimerais vous donner une récompense. <symbol=keitai_present>\r\nRendez-vous au Serena ou à Aoi et\r\nouvrez le paquet pour le récupérer !\r\n<symbol=keitai_heart><symbol=keitai_heart><symbol=keitai_heart>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "135": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "136": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "137": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "138": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "139": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "140": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "141": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "142": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "143": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 123
+          }
+        },
+        "144": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 134
+          }
+        },
+        "145": {
+          "": {
+            "1": "Welcome!",
+            "2": "Welcome to the Yakuza Kiwami 2 demo!\r\nPlease note that the contents\r\nof this demo may differ from\r\nthe full game. Now, get out\r\nthere and have a good time!<symbol=keitai_cat_smile>",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 145
+          }
+        }
+      },
+      "name": "Newsletter de conseils",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "tips_btlmaster": {
+      "table": {
+        "ROW_COUNT": 96,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 23,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Attacking",
+            "2": "Dragon of Dojima.\r\n\r\nYou must be comfortable with\r\nthe basics of battle if you\r\never hope to survive this\r\nharsh world.\r\n\r\nRush Combo:\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat>\r\n\r\nFinishing Blows:\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nDouble Finishers:\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nCharge Attacks:\r\nHold, then release <symbol=button_shikaku,Combat>\r\nHold, then release <symbol=button_sankaku,Combat>\r\n\r\nThrow Attacks:\r\n(When near enemy) <symbol=button_maru,Combat> <symbol=button_maru,Combat>\r\n(When near enemy) <symbol=button_maru,Combat> <symbol=button_sankaku,Combat>\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "1": "Defending",
+            "2": "Dragon of Dojima.\r\n\r\nImpenetrable defense is vital\r\non the path to true might. You\r\nwill never know defeat if you\r\ncan never be hit.\r\n\r\nStrafe around an enemy:\r\nHold <symbol=button_r1,Combat>\r\n\r\nGuard:\r\nHold <symbol=button_l1,Combat>\r\n\r\nEvade enemy attacks:\r\nChoose direction <symbol=button_l_stick,Combat> and press <symbol=button_batsu,Combat>\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 86
+          }
+        },
+        "14": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "21": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "22": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "23": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "24": {
+          "": {
+            "1": "Using Your Surroundings",
+            "2": "Dragon of Dojima.\r\n\r\nAt times, the environment\r\naround you will prove useful\r\nin your quest. Use anything\r\nand everything in search of\r\nthe secret to battle success.\r\nRemember, attacks will change\r\ndepending on what object you\r\nare holding at the time.\r\n\r\nGrab object:\r\n<symbol=button_maru,Combat>\r\n\r\nAttack:\r\n(After grabbing object) <symbol=button_shikaku,Combat>\r\n(After grabbing object) <symbol=button_sankaku,Combat>\r\n\r\nThrow object:\r\n(After grabbing object) <symbol=button_maru,Combat>\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 87
+          }
+        },
+        "25": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "26": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "27": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "28": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "29": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "30": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "31": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "32": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "33": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "34": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "35": {
+          "": {
+            "1": "Using Weapons",
+            "2": "Dragon of Dojima.\r\n\r\nIt is time you learn about\r\nweapons. You may equip up to\r\nthree weapons at a time via\r\nthe Equipment menu.\r\n\r\nTo use an equipped weapon,\r\npress the button you equipped\r\nit to (<symbol=button_left,Combat>, <symbol=button_up,Combat>, or <symbol=button_right,Combat>). To put a\r\nweapon away, press <symbol=button_down,Combat>.\r\n\r\nWeapons you take from your\r\nenemies are not automatically\r\nstored in your inventory. To\r\nstore a weapon, press <symbol=button_down,Combat> while\r\nholding it.\r\n\r\nEvery weapon has durability.\r\nIf a weapon's durability runs\r\nout, it cannot be used again\r\nuntil it is repaired.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 88
+          }
+        },
+        "36": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "37": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "38": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "39": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "40": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "41": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "42": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "43": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "44": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "45": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "46": {
+          "": {
+            "1": "Armor",
+            "2": "Dragon of Dojima.\r\n\r\nAllow me to explain armor\r\nbonuses to you. Sometimes you\r\nwill gain stat bonuses based\r\non what armor you currently\r\nhave equipped.\r\n\r\nNames and colors play a large\r\nrole in these combinations.\r\nFor example, equipping both\r\nthe Red Binding and the Red\r\nGem Bracelet will activate\r\nthe Red Blessing bonus.\r\n\r\nBe sure to search for new\r\ncombinations when you\r\nacquire new armor.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 89
+          }
+        },
+        "47": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "48": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "49": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "50": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "51": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "52": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "53": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "54": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "55": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "56": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "57": {
+          "": {
+            "1": "Heat Actions",
+            "2": "Dragon of Dojima.\r\n\r\nLanding attacks in battle will\r\nfill your Heat Gauge. Once it\r\nreaches a certain point, you\r\ncan use Heat Actions when the\r\nHeat Icon (<symbol=button_sankaku,Combat>) appears on the\r\nscreen.\r\n\r\nMost weapon types have unique\r\nHeat Actions as well.\r\n\r\nHeat Actions are extremely\r\npotent, so be sure to remember\r\nwhen and where you can use them.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 58
+          }
+        },
+        "58": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 59
+          }
+        },
+        "59": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 60
+          }
+        },
+        "60": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 61
+          }
+        },
+        "61": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 62
+          }
+        },
+        "62": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 63
+          }
+        },
+        "63": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 64
+          }
+        },
+        "64": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 65
+          }
+        },
+        "65": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 66
+          }
+        },
+        "66": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 67
+          }
+        },
+        "67": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 69
+          }
+        },
+        "68": {
+          "": {
+            "1": "Extreme Heat Mode",
+            "2": "Long time no speak, Dragon of\r\nDojima.\r\n\r\nI see you have learned how to\r\nenter Extreme Heat Mode. As a\r\nrefresher, it can be activated\r\nby filling your Heat Gauge and\r\npressing <symbol=button_r2,Combat>.\r\n\r\nYou will be surrounded by a\r\nblue flame, and your attack\r\npower will increase. You will\r\nalso be able to grab objects\r\nnormally too heavy for you.\r\n\r\nThere are also Heat Actions\r\nspecific to Extreme Heat Mode.\r\n\r\nI look forward to fighting you\r\nsoon.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 70
+          }
+        },
+        "69": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 71
+          }
+        },
+        "70": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 72
+          }
+        },
+        "71": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 73
+          }
+        },
+        "72": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 74
+          }
+        },
+        "73": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 75
+          }
+        },
+        "74": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 76
+          }
+        },
+        "75": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 77
+          }
+        },
+        "76": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 78
+          }
+        },
+        "77": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 80
+          }
+        },
+        "78": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 81
+          }
+        },
+        "79": {
+          "": {
+            "1": "Surpass Your Limits",
+            "2": "Dragon of Dojima.\r\n\r\nThis is my final message to\r\nyou. Your training is not yet\r\nat an end. Raise your stats to\r\ntheir highest possible levels,\r\nand you will gain the ability\r\nto surpass your limits.\r\n\r\nAim to become the strongest\r\nman in the world.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 82
+          }
+        },
+        "80": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 83
+          }
+        },
+        "81": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 84
+          }
+        },
+        "82": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 85
+          }
+        },
+        "83": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "84": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "85": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "86": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "87": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "88": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 68
+          }
+        },
+        "89": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 79
+          }
+        },
+        "90": {
+          "": {
+            "1": "Test Your Skill",
+            "2": "A pleasure to make your\r\nacquaintance, Mad Dog.\r\n\r\nIt must be boring, only ever\r\nbattling street thugs. If you\r\nhunger for opponents with more\r\nof a backbone, go to Children's\r\nPark behind Theater Square.\r\n\r\nI guarantee your satisfaction.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 90
+          }
+        },
+        "91": {
+          "": {
+            "1": "Test Your Skill",
+            "2": "PH (Kamurocho 2)",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 91
+          }
+        },
+        "92": {
+          "": {
+            "1": "Test Your Skill",
+            "2": "PH (Kamurocho 3)",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 92
+          }
+        },
+        "93": {
+          "": {
+            "1": "Test Your Skill",
+            "2": "How are you, Mad Dog?\r\n\r\nYou must be worried about\r\nbeing bored once you leave the\r\nvibrant street of Kamurocho.\r\n\r\nBut do not worry. There will\r\nbe strong opponents down in\r\nSotenbori as well. Simply go\r\nover to the parking lot in\r\nWest Shofukucho.\r\n\r\nI guarantee your satisfaction.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 93
+          }
+        },
+        "94": {
+          "": {
+            "1": "Test Your Skill",
+            "2": "PH (Sotenbori 2)",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 94
+          }
+        },
+        "95": {
+          "": {
+            "1": "Test Your Skill",
+            "2": "PH (Sotenbori 3)",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 95
+          }
+        }
+      },
+      "name": "Man in Black",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "19": {
+    "trouble_mail": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "20": {
+    "kamuinfo_mail": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "21": {
+    "cln_32_00": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "22": {
+    "cln_32_01": {
+      "picture": 0,
+      "can_open_directly": "0",
+      "takeover": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "23": {
+    "tips_encboss": {
+      "table": {
+        "ROW_COUNT": 21,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 39,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Kamurocho K.O.",
+            "2": "Hey, it seems like you've\r\nbeen doing it big these days,\r\nbut don't let your guard down.\r\n\r\nSome boxer's got his eye on\r\nyou and is looking for a\r\nsparring match. He's at\r\n<color=red>Children's Park</color> right now.\r\n\r\nWhether you accept or run is\r\nall up to you.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Brawlectric Boogaloo",
+            "2": "Whoa, you managed to beat\r\nKnockout Fujiki!? Very\r\nimpressive, Kiryu-san! Though\r\nthere is another guy who has\r\nyou in his sights. Compared to\r\nhis brother, he's a bit more\r\nof a musclehead, which means\r\nhe also packs a stronger punch.\r\n\r\nHe's near the <color=red>Hotel District</color>\r\nif you feel like taking on\r\nanother challenge.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "The Ambush Specialist",
+            "2": "Watch out, Kiryu, there's yet\r\nanother guy gunning for you.\r\nThey call him \"Stealthy\r\nKurosawa\", and just as his\r\nname implies, his specialty\r\nis ambushing. He's over on\r\n<color=red>Senryo Avenue</color> right now.\r\nOh, and he probably won't\r\nrecognize you at first.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "On The Wrong Team",
+            "2": "Hey, looks like you're doing\r\nbetter than usual, Kiryu-san.\r\nHow would I know, you ask?\r\nWell that's because of a\r\nrumor I heard recently that\r\nyou've been taking down any\r\ndelinquent dumb enough to\r\nface you. Speaking of which,\r\none of them is looking for\r\nyou around <color=red>N Senryo Ave.</color>\r\nI'd avoid going there if\r\nyou'd rather have nothing\r\nmore to do with them.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "1": "Convenience Store Hunter",
+            "2": "Did you know? Apparently some\r\nhoodlums were planning on\r\nraiding convenience stores\r\nin the area, but thanks to\r\nyou handing them a sound\r\nass-whooping, they've all\r\nbut stopped in their tracks.\r\n\r\nThey seem to be holding a\r\ngrudge against you for that,\r\nso I would avoid going near\r\nthe convenience store on\r\n<color=red>W Shichifuku St.</color> if you\r\ndon't want to run afoul\r\nof their boss.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "1": "The Lone Henchman",
+            "2": "How've you been, Kiryu-san?\r\nDoing well, I hope. I know\r\nyou've been going at it pretty\r\nhard, but watch out. Everyone\r\nyou've taken out seems to be\r\nriled up against you—I hear\r\nthey've hired a pretty tough\r\nhitman to exact their revenge.\r\n\r\nThere's an intimidating man\r\nlike that in the parking lot\r\non <color=red>E Taihei Blvd</color>. Do whatever\r\nyou gotta do.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "1": "A Dangerous Fellow",
+            "2": "Hey, how's it hanging in\r\nKamurocho? During your\r\nabsence, some dangerous dudes\r\nhave drifted into town. Take\r\nthis yakuza for instance: they\r\ncall him \"Nutjob Natagiri\".\r\nHe may speak with a silver\r\ntongue, but get on his bad\r\nside, and he lets his fists\r\ndo the rest of the talking.\r\n\r\nJust so you know, he's in\r\nfront of <color=red>West Park</color>. Handle\r\nyour business, Kiryu-san.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "1": "Next-Gen Yakuza",
+            "2": "Resolute as always, aren't we?\r\nPutting all the troublemakers\r\nin their place and whatnot.\r\nNo wonder Master Komaki\r\nfavors you.\r\n\r\nAs for the rest, there's some\r\nguy who's started calling himself\r\nthe \"next generation of yakuza.\"\r\nHe's around <color=red>Pink Street</color>, so\r\nwhy not take a look if you're\r\nfeeling up to the challenge?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "1": "To the Dragon of Dojima",
+            "2": "Hey, Kiryu-san. Looks like\r\nyou're flying off the handle\r\nlike always. Just another day\r\nfor the Dragon of Dojima, eh?\r\n\r\nAs usual, you better watch\r\nyour back—A lot of guys\r\nare out to use that rep\r\nagainst you. Among them, the\r\nmost notorious is Genso the\r\nGod. I heard he's waiting\r\nfor you around <color=red>Suppon St</color>.\r\n\r\nLegendary yakuza or not,\r\nyou should still stay on\r\nguard if you're going there.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "1": "Untitled",
+            "2": "Kamurocho Newsletter 10",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "1": "Test Your Skills",
+            "2": "Still laying the smackdown\r\neven in Sotenbori, huh? Lol\r\nthat's just like you. By the\r\nway, there's someone in the\r\narea who's looking to test\r\nhis skills, and he sees you\r\nas the gold standard of\r\nstrength. He should be over\r\nby the takoyaki place on\r\n<color=red>E Sotenbori.</color> Why not give\r\nhim a run for his money?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "1": "The Weapon Hunter",
+            "2": "You still in good shape? 'Cause\r\nI heard there's this so-called\r\n\"weapon hunter\" over by the\r\n<color=red>Bishamon Bridge in Osaka</color>. His\r\ndeal is that he basically\r\nbeats up thugs and confiscates\r\ntheir weapons, and they say\r\nhe's real tough. If that's\r\nenough to get your blood\r\nboiling, why not check it out?\r\n\r\nOh, and let me know if you do!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "1": "Rumble on the Bridge",
+            "2": "Apparently there's this weirdo\r\nposted up at the <color=red>Iwao Bridge</color>,\r\nspouting off some kind of\r\nnonsense about protecting the\r\ncity... Maybe he's some sorta\r\nvigilante? Or maybe he's just\r\nfull of himself. Either way,\r\nhe does exude a certain level\r\nof skill. If beating him up\r\nsounds like a good idea, why\r\ndon't you go check it out?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "1": "Battle Junkie",
+            "2": "Hey, are they still giving\r\nyou trouble in Sotenbori?\r\n\r\nI guess they're just\r\nthirsty for a piece of\r\nthat Kiryu action! Which\r\nreminds me, did you know  \r\nthere's a famous fight\r\nlover who hangs around\r\n<color=red>Hogushi Kaikan?</color> You two\r\nmight just get along, so\r\nwhy not go bump fists?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "": {
+            "1": "The Breaker",
+            "2": "Whoa, you actually threw down\r\nwith Slayer Nagasawa and\r\nwon? Impressive. This time, a\r\nguy who calls himself \"The\r\nBreaker\" has been looking to\r\nsettle his mettle. Despite\r\nhow ridiculous that sounds,\r\nhe's actually not such a bad\r\ndude. He sort of just...\r\ngets into fights and breaks\r\nthings without realizing it.\r\nRight now he's at the <color=red>Wild</color>\r\n<color=red>Jackson in Shofukucho</color>.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "": {
+            "1": "A Formidable Foe",
+            "2": "Hey Kiryu-san, how's that\r\nSotenbori life! Hate to break\r\nit to you, but there's another\r\nbozo running around who thinks\r\nthat he's the coolest dude in\r\ntown. He's got a pretty bad rep\r\ntoo... If you think you can put\r\nhim in his place, he's hanging\r\naround the <color=red>Tsuruha Drugstore</color>.\r\n\r\nGo show him who's boss!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "": {
+            "1": "The Deadly Assassin",
+            "2": "To challenge the fearsome\r\nyakuza of Sotenbori is a feat\r\nof incredible bravery. As expected\r\nof the Dragon of Dojima! \r\nStay frosty, though— some\r\nof the yakuza you routed\r\nactually sent an assassin\r\nafter you. Not that he'll know\r\nwho you are at first glance,\r\nbut still. Avoid the top floor\r\nof the building on <color=red>South</color>\r\n<color=red>Shofukucho</color> if you'd rather\r\nslip away from this situation.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "": {
+            "1": "The Bloodletter",
+            "2": "Tearing it up as usual, I see.\r\n\r\nI thought so! A word of\r\ncaution, however: there's a\r\nbloodthirsty psycho on the\r\nloose who's been sighted on\r\nthe same street as <color=red>Hogushi</color>\r\n<color=red>Kaikan</color>. Even worse, it seems\r\nhe's caught wind that you're\r\nin town. Whatever you do next\r\nafter hearing this blood-\r\ncurdling news is up to you.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "": {
+            "1": "All That Glitters",
+            "2": "Hey, seems like you've finally\r\ngot it all under control. But\r\nyou shouldn't get too\r\ncomfortable after I tell you\r\nthis rumor I heard. Apparently\r\nthere's this \"golden samurai\"\r\nwho kicks it behind the\r\nbuilding on <color=red>West Shofukucho</color>. A\r\nsamurai in the middle of the\r\ncity? That's some craziness\r\nright there. If there actually\r\nis a guy like that around,\r\nlemme know.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "": {
+            "1": "Untitled",
+            "2": "Sotenbori Newsletter 10",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        }
+      },
+      "name": "Élève de Komaki",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "tips_sirobaa": {
+      "table": {
+        "ROW_COUNT": 6,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 10,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Think I'm lost...",
+            "2": "Howdy, Kazu-chan. (^^)/\r\n\r\nI'm, uh... kinda lost. Over in\r\nsome parking lot somewheres.\r\n\r\nLeast I get to look at all the\r\nspicy young hotties on this here\r\nbillboard while I wait.\r\n\r\nI'll be here! (^>^)",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Ain't finding it",
+            "2": "Howdy, Kazu-chan. (^^)/\r\n\r\nI'm near some kinda theater\r\nor something. Ain't got a clue\r\nwhere that Moondust place is.\r\n\r\nThink ya can come fetch me?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "How ya doing?",
+            "2": "Howdy, Kazu-chan. (^^)/\r\n\r\nHow ya doing? Scooted my butt\r\nback to Sotenbori. Over near\r\nBishamon Bridge now.\r\n\r\nI'm loving every second of it.\r\nPeople're so happy, plus ya\r\nget a real good bargain at\r\nthe shops!\r\n\r\nWhy don't ya swing by? You\r\nhelped me when I was up in\r\nKamurocho, so now it's my\r\nturn to be helping you.\r\n\r\nCatch ya later!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Wanna see my Yuya",
+            "2": "Howdy, Kazu-chan. (^^)/\r\n\r\nYa doing good? Remember how I\r\nwas gonna go see that sweet\r\nbaby boy Yuya when I was up in\r\nKamurocho? Well since I didn't,\r\nI'm looking to snag a photo of\r\nthe guy or something.\r\n\r\nYa seem to know him. Think ya\r\ncan lend me a hand?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "1": "Hey...",
+            "2": "Hiya, Kazu-chan... Hope life's\r\ngood for ya.\r\n\r\nSaw an old lady the other day\r\nwith her grandkid, eating ice\r\ncream together. Thought maybe\r\nthat's what it'd be like if I\r\nhad a grandkid. Just ended up\r\nmaking myself lonely.\r\n\r\nI wish I had a grandkid of my\r\nown, but that's impossible.\r\nI mean, I never even had kids.\r\n\r\nAnyways, sorry 'bout all the\r\ncomplaining, Kazu-chan. Don't\r\nmind me. Just an old lady\r\nslowly going senile...",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "name": "Granny White",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "sub_a09": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 5,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Untitled",
+            "2": "Thanks a ton 4 agreeing\r\n2 this!! ^_^ U can call\r\nme Masa, btw. (^o^)/\r\n\r\nAs 4 the job, I hid a key\r\nunder a bench in Public\r\nPark 3.（￣ー￣）\r\n\r\nJust snag it and scoot\r\nyour butt on over to the\r\ncoin lockers. Oh yeah, and\r\nthe stuff in the locker is\r\nmy little secret~ (^_-)/",
+            "3": 0,
+            "4": 2,
+            "5": 116,
+            "6": 20,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Untitled",
+            "2": "Hiya! Looks like u got ur\r\nhands on my box~ (*^^*)\r\n\r\nNow take it over 2 the\r\nguy in the suit behind\r\nShine! ￣ー￣  ",
+            "3": 0,
+            "4": 2,
+            "5": 116,
+            "6": 22,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Untitled",
+            "2": "Hiya! For your last task, get your\r\nbutt over to Kamuro Theater.\r\n\r\nFind the guy with the hair, and ask\r\nhim how many bells he needs. (^3^)",
+            "3": 0,
+            "4": 2,
+            "5": 116,
+            "6": 25,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Untitled",
+            "2": "Hiya pal! Sorry for all the fuss.\r\n(*^^*)\r\n\r\nIt's me, Masa! I was wondering,\r\nhow about u and me team up? (^o^)/",
+            "3": 0,
+            "4": 2,
+            "5": 116,
+            "6": 27,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "name": "Masa",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "26": {
+    "sub_a05": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 8,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Hayato-kun",
+            "2": "Hi Uncle Kaz!\r\nThe headmistress told me\r\nabout your idea for helping\r\nHayato-kun. Do you remember\r\nthe puppy we saved last year?\r\nI was thinking maybe we\r\ncould find him and bring\r\nhim to Sunflower. What do\r\nyou think?",
+            "3": 0,
+            "4": 2,
+            "5": 102,
+            "6": 5,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Pochitaro",
+            "2": "Hi Uncle Kaz!\r\nThanks for finding Pochi\r\nfor me! Hayato-kun loves\r\ndogs. He already took\r\nPochi for a walk!",
+            "3": 3579,
+            "4": 2,
+            "5": 102,
+            "6": 8,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "No More Leak!",
+            "2": "Hiya Uncle Kaz!\r\nThe roof's fixed! All the\r\nkids are really thankful\r\nfor what you did for them,\r\nso they sent you a letter!\r\nI think Suenaga-san has it.",
+            "3": 0,
+            "4": 2,
+            "5": 110,
+            "6": 10,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Even Pochi's Excited!",
+            "2": "Hiya Uncle Kaz!\r\nThey just finished building\r\na playground at Sunflower!\r\nSuenaga-san gave it to us\r\nas a present. Isn't that\r\nincredible?\r\n\r\nI hope it's sunny all the\r\ntime!",
+            "3": 0,
+            "4": 2,
+            "5": 111,
+            "6": 8,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "name": "Haruka",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "27": {
+    "sub_a06": {
+      "table": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "No More Leak!",
+            "2": "Hiya Uncle Kaz!\r\nThe roof's fixed! All the\r\nkids are really thankful\r\nfor what you did for them,\r\nso they sent you a letter!\r\nI think Suenaga-san has it.",
+            "3": 0,
+            "4": 2,
+            "5": 110,
+            "6": 10,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "name": "Haruka",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "28": {
+    "sub_a07": {
+      "table": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Even Pochi's Excited!",
+            "2": "Hiya Uncle Kaz!\r\nThey just finished building\r\na playground at Sunflower!\r\nSuenaga-san gave it to us\r\nas a present. Isn't that\r\nincredible?\r\n\r\nI hope it's sunny all the\r\ntime!",
+            "3": 0,
+            "4": 2,
+            "5": 111,
+            "6": 8,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "name": "Haruka",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "29": {
+    "sub_a11": {
+      "table": {
+        "ROW_COUNT": 2,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "[Dernier avertissement]",
+            "2": "Payment Overdue\r\n\r\nAs of today, your debt repayment\r\nis overdue. If you do not repay\r\nthe designated amount within\r\nthe next 24 hours, we will be\r\nforced to take more serious\r\nmeasures.\r\n\r\nAmount Owed: 580,000 yen\r\nAccount Number: *****\r\nBranch Number: ******",
+            "3": 0,
+            "4": 2,
+            "5": 117,
+            "6": 12,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        }
+      },
+      "name": "[Dernier avertissement]",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "sub_a18": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "[Your Modem Contract]",
+            "2": "Hello again, sir!\r\n\r\nThis is Tanabe from Happy\r\nNet Online. Have you come\r\nto a conclusion regarding\r\nyour modem contract?",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "[Please Respond]",
+            "2": "What do you wish to do\r\nabout your contract, sir?\r\nPlease be advised, there\r\nwill be quite a large\r\ncancellation fee if you\r\nopt out!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "[Confirmation]",
+            "2": "This is Happy Net Online!\r\nWe will contact you again\r\nsoon with further details!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "name": "Happy Net Online",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "tips_m_encboss": {
+      "table": {
+        "ROW_COUNT": 37,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 14,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "": {
+            "1": "Test Your Skills",
+            "2": "Mad Dog of Shimano.\r\n\r\nIt's been a while since you last\r\nfought, so your perception may\r\nhave dulled. To get back in shape,\r\nI've located some powerful foes\r\nwith some backbone. Go to\r\n<color=red>Children's Park</color>, <color=red>behind Theater</color>\r\n<color=red>Square</color>, and <color=red>Suppon St.</color> in\r\nKamurocho. Fight these guys first,\r\nand you should remember the\r\ntrue essence of the Mad Dog of\r\nShimano.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "": {
+            "1": "The Disturbance",
+            "2": "Looks like new enemies have\r\narrived. Go to <color=red>Park Blvd</color>,\r\n<color=red>Taihei Boulevard East</color>, and the\r\n<color=red>empty lot in the Champion</color>\r\n<color=red>District</color> in Kamurocho. They'll\r\nall be hungry for a fight.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "21": {
+          "": {
+            "1": "The Reckoning",
+            "2": "Looks like even stronger foes\r\nhave appeared. Go to <color=red>Park\r\n<color=red>Boulevard</color>, <color=red>Senryo Avenue</color>,\r\nand <color=red>N Senryo Ave</color> in Kamurocho.\r\nIf you don't prepare well,\r\nthen you may end up beaten\r\ninstead. Good luck.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "22": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "23": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "24": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "25": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "26": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "27": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "28": {
+          "": {
+            "1": "The Resurgence",
+            "2": "You must be worried about\r\nbeing bored once you leave the\r\nvibrant streets of Kamurocho.\r\n\r\nNot to worry, I expect there\r\nwill be strong opponents down\r\nin Sotenbori as well. Simply\r\nhead over to <color=red>E Sotenbori St,</color>\r\n<color=red>the back of the building</color>\r\n<color=red>west of Shofukucho</color>, and near <color=red>Aoi.</color>\r\n\r\nI can guarantee you won't\r\nwalk out unsatisfied.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "29": {
+          "": {
+            "1": "The Last Stand",
+            "2": "Some powerful new foes have\r\nappeared in Sotenbori. To find\r\nthem, go to <color=red>the parking lot,</color>\r\n<color=red>north of the riverside</color>, as well\r\nas the <color=red>Yokobori Golf Center</color>.\r\n\r\nThey're basically aggressive\r\ntypes who can't really justify\r\ntheir existence outside of\r\npicking fights. What a bunch\r\nof saps!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "30": {
+          "": {
+            "1": "The Aftermath",
+            "2": "Beware, Majima-san. These next\r\nfoes are the last in line and\r\nready to prove their strength.\r\n\r\nThey're located <color=red>south of the</color>\r\n<color=red>riverside, near Four Shine</color>, and\r\n<color=red>at the roof of the building on</color>\r\n<color=red>South Shofukucho</color>. As I stated\r\nbefore, they're most likely\r\nthe strongest of the strong,\r\nbut I'm sure you can take them\r\ndown. Show me the true power\r\nof the Mad Dog of Shimano!",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "31": {
+          "": {
+            "1": "A Little Souvenir",
+            "2": "Impressive. Well done. With\r\nthis, you've defeated all the\r\npowerful foes I set up for\r\nyou. As a little something\r\nfrom me, I've left you a gift\r\non the counter on the <color=red>second</color>\r\n<color=red>floor of Smile Burger</color> in\r\n<color=red>Sotenbori.</color>\r\n\r\nTake it.",
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "32": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "33": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "34": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "35": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "36": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 31
+          }
+        }
+      },
+      "name": "Homme en noir",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "majima_atm": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 13,
+        "TEXT_COUNT": 6,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1",
+          "2": "1",
+          "3": "1",
+          "4": "1",
+          "5": "1",
+          "6": "1",
+          "7": "0",
+          "8": "0",
+          "9": "0",
+          "10": "1",
+          "11": "1",
+          "12": "0"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 0,
+          "6": 0,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 2,
+          "11": 2,
+          "12": -1
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12,
+          "2": 12,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": -1,
+          "8": -1,
+          "9": -1,
+          "10": 0,
+          "11": 0,
+          "12": -1
+        },
+        "0": {
+          "": {
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Gift for Fourth Chairman Kiryu",
+            "2": "Apologies for the blind email.\r\nMy name is Tsunematsu of the\r\nKazama Family. This email was\r\nsent specifically to those\r\nof you who were close to the\r\nfourth chairman. We were\r\ninterested in presenting a gift\r\nto the chairman in thanks for\r\nhis incredible efforts to hold\r\nthe clan together in perhaps\r\nits darkest hour. If you concur with\r\nthis sentiment and would\r\nbe interested in contributing,\r\nplease deposit 100,000 yen to\r\nthis account at any convenience\r\nstore ATM.\r\n\r\nThank you for your gracious\r\nconsideration and support.\r\n\r\nSincerely,\r\nKoichi Tsunematsu, Kazama Family",
+            "3": 0,
+            "4": 25,
+            "5": 77,
+            "6": 2,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Your support is appreciated, sir.",
+            "2": "Patriarch Majima,\r\n\r\nThank you for your support\r\nof the fourth chairman gift fund.\r\nResponse has been positive, and we\r\nare implementing a tiered donation\r\nsystem. If you wish to\r\ndonate at the next tier, please\r\ndeposit 1,000,000 yen at any\r\nconvenience store ATM.\r\nThank you for your consideration.\r\n\r\nSincerely,\r\nKoichi Tsunematsu, Kazama Family",
+            "3": 0,
+            "4": 25,
+            "5": 77,
+            "6": 5,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Thank you for your continued\r\nsupport, sir.",
+            "2": "Patriarch Majima,\r\n\r\nWe are nearing completion of\r\nour gift and would like to see\r\nif you would be interested\r\nin donating at the final tier,\r\nthe \"executive\" level. If\r\nyou wish to do so, please\r\ndeposit 3,000,000 yen at\r\nany convenience store ATM.\r\nYour patronage will surely\r\nmean a great deal to the\r\nfourth chairman.\r\n\r\nSincerely,\r\nKoichi Tsunematsu, Kazama Family",
+            "3": 0,
+            "4": 25,
+            "5": 77,
+            "6": 7,
+            "10": 0,
+            "11": 0,
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "name": "Koichi Tsunematsu",
+      "picture": 0,
+      "can_open_directly": "1",
+      "takeover": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  }
+}

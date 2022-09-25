@@ -1,0 +1,5422 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 28,
+  "COLUMN_COUNT": 2,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "table": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "table": 9
+  },
+  "columnTypes2": {
+    "": -1,
+    "table": 13
+  },
+  "COLUMN_INDICES": [
+    0,
+    1
+  ],
+  "0": {
+    "": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "shop": {
+      "table": {
+        "ROW_COUNT": 41,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 30,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Vous n'avez pas assez d'argent.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "RÉSULTAT",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "3": {
+          "": {
+            "1": "Confirmer votre commande ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "4": {
+          "": {
+            "1": "Annuler votre commande ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "5": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "6": {
+          "": {
+            "1": "Acheter",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "7": {
+          "": {
+            "1": "Commander",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "8": {
+          "": {
+            "1": "Annuler",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "9": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "10": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "11": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "12": {
+          "": {
+            "1": "Vous ne pouvez plus choisir.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "13": {
+          "": {
+            "1": "Kiryu sera rassasié s'il mange encore. Manger en étant repu\r\npermet de regagner de la santé, mais n'accorde pas\r\nd'effets supplémentaires comme l'EXP ou les bonus des combinaisons\r\nde menu.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "14": {
+          "": {
+            "1": "Veuillez choisir un produit.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "15": {
+          "": {
+            "1": "Vous n'avez pas assez d'argent.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "16": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "17": {
+          "": {
+            "1": "Acheter le ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "18": {
+          "": {
+            "1": "Vendre",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "19": {
+          "": {
+            "1": "Procéder à l'achat ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "20": {
+          "": {
+            "1": "Procéder à la vente ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "21": {
+          "": {
+            "1": "Vous ne pouvez pas acheter d'articles avec un inventaire complet.\r\n(Quantité maximum : ${max_count})",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "22": {
+          "": {
+            "1": "Annuler votre commande ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "23": {
+          "": {
+            "1": "Annuler votre vente ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "24": {
+          "": {
+            "1": "Vous n'avez plus rien à vendre.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "25": {
+          "": {
+            "1": "(Je ne peux plus boire une goutte...)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "26": {
+          "": {
+            "1": "(Je ne peux plus boire une goutte...)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "27": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "28": {
+          "": {
+            "1": "Votre jauge de santé est complètement restaurée, vous ne\r\ngagnerez donc pas de points SP en mangeant davantage..",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "29": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "30": {
+          "": {
+            "1": "Vous n'avez pas assez de points",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "31": {
+          "": {
+            "1": "Proccéder à l'échange ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "32": {
+          "": {
+            "1": "Annuler votre réparation ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "33": {
+          "": {
+            "1": "Procéder à la réparation ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "34": {
+          "": {
+            "1": "Déjà sélectionné.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "35": {
+          "": {
+            "1": "Veuillez sélectionner un objet à échanger.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "36": {
+          "": {
+            "1": "Majima ne peut récupérer de la santé qu'en mangeant.\r\nIl ne gagnera pas d'EXP. Par ailleurs, veuillez noter\r\nque vous ne pouvez pas dépasser votre jauge de faim\r\nlorsque vous êtes dans la saga Majima.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "37": {
+          "": {
+            "1": "Vous ne pouvez pas dépasser votre jauge de faim.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "38": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "39": {
+          "": {
+            "1": "Vous ne pouvez pas acheter d'autres armes avec un inventaire complet.\r\n(Limite totale d'armes : ${max_count})",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "40": {
+          "": {
+            "1": "Vous ne pouvez pas acheter plus d'armure avec un inventaire complet.\r\n(Limite d'armure totale : ${max_count})",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "continue": {
+      "table": {
+        "ROW_COUNT": 19,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 7,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "1": "Voulez-vous continuer ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "1": "Oui",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "1": "Retour au titre",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "": {
+            "1": "Charger les données de sauvegarde",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "16": {
+          "": {
+            "1": "Non",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "": {
+            "1": "Continuer en difficulté Facile ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "18": {
+          "": {
+            "1": "Bats l'ennemi avec <symbol=button_r2> le mode Extreme Heat !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "3": {
+    "common": {
+      "table": {
+        "ROW_COUNT": 12,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 9,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Oui",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Non",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Confirmer",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Annuler",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "1": "OK",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "1": "Précédent",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "1": "Suivant",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "1": "Précédent",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "1": "Fermer",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "1": "Fin",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "1": "Suivant",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "4": {
+    "money": {
+      "table": {
+        "ROW_COUNT": 8,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "\\",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "0",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "3": {
+          "": {
+            "1": "0",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "4": {
+          "": {
+            "1": "0",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "5": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "5": {
+    "option": {
+      "table": {
+        "ROW_COUNT": 17,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 14,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Réinitialiser les paramètres de jeu par défaut ? (hors difficulté)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Réinitialiser les paramètres audio par défaut ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "4": {
+          "": {
+            "1": "Réinitialiser les paramètres de jeu par défaut ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "5": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "6": {
+          "": {
+            "1": "Réinitialiser les paramètres graphiques par défaut ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "7": {
+          "": {
+            "1": "Enregistrer les paramètres graphiques actuels ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "8": {
+          "": {
+            "1": "Réinitialiser les paramètres par défaut ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "9": {
+          "": {
+            "1": "[Appuyer sur une touche...]",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "10": {
+          "": {
+            "1": "[Appuyer sur un bouton...]",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "11": {
+          "": {
+            "1": "[Appuyer sur un bouton ou déplacer le stick analogique...]",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "12": {
+          "": {
+            "1": "Clavier & Souris",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "13": {
+          "": {
+            "1": "Manette",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "14": {
+          "": {
+            "1": "Sensibilité de la manette",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "15": {
+          "": {
+            "1": "Sensibilité de la souris",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "16": {
+          "": {
+            "1": "Voulez-vous quitter les paramètres sans sauvegarder ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "6": {
+    "pause": {
+      "table": {
+        "ROW_COUNT": 85,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 62,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Quitter et retourner sur l'écran titre ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Si vous n'avez pas sauvegardé manuellement, il est\r\nrecommandé de le faire afin\r\nd'éviter de perdre tout progression. Continuer ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "3": {
+          "": {
+            "1": "Aucune mission en cours.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "4": {
+          "": {
+            "1": "${name} ${before_value} → ${after_value}",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "5": {
+          "": {
+            "1": "Apprendre cette compétence ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "6": {
+          "": {
+            "1": "Santé récupérée par ${reconver_point}.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "1": "Utiliser ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "9": {
+          "": {
+            "1": "Vous avez déjà appris cette compétence.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "10": {
+          "": {
+            "1": "Supprimer cette image ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "11": {
+          "": {
+            "1": "Vous n'avez pas assez d'EXP.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "12": {
+          "": {
+            "1": "??????",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "13": {
+          "": {
+            "1": "Votre boîte de réception est vide.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "14": {
+          "": {
+            "1": "Remettre le ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "15": {
+          "": {
+            "1": "Aucun",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 58
+          }
+        },
+        "16": {
+          "": {
+            "1": "Passer ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "17": {
+          "": {
+            "1": "1P",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "18": {
+          "": {
+            "1": "2P",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "19": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "20": {
+          "": {
+            "1": "...",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "21": {
+          "": {
+            "1": "Vous n'avez rien à équiper.\r\nObtenez de l'équipement dans les magasins ou en récompense.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "22": {
+          "": {
+            "1": "Vous ne pouvez pas augmenter cette stat davantage.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "23": {
+          "": {
+            "1": "Cette compétence n'est pas encore débloquée.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "24": {
+          "": {
+            "1": "${value} km",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "25": {
+          "": {
+            "1": "${value}0 000 yens",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "26": {
+          "": {
+            "1": "${value} yens",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "27": {
+          "": {
+            "1": "Êtes-vous sûr ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "28": {
+          "": {
+            "1": "?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "29": {
+          "": {
+            "1": "(Je ne peux plus boire une goutte...)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "30": {
+          "": {
+            "1": "You can purchase skills in the full game.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "31": {
+          "": {
+            "1": "This is the max level for the demo.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "32": {
+          "": {
+            "1": "Êtes-vous sûr de vouloir utiliser ${item_name}?\r\n(Kiryu est trop repu pour gagner de l'EXP.)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "33": {
+          "": {
+            "1": "Vous êtes actuellement en pleine santé.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "34": {
+          "": {
+            "1": "Vous êtes actuellement en pleine santé.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?\r\n(Kiryu est trop repu pour gagner de l'EXP.)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "35": {
+          "": {
+            "1": "Votre jauge de Heat est actuellement pleine.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "36": {
+          "": {
+            "1": "Votre jauge de Heat est actuellement pleine.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?\r\n(Kiryu est trop repu pour gagner de l'EXP.)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "37": {
+          "": {
+            "1": "Vous avez toute votre santé et Heat.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "38": {
+          "": {
+            "1": "Vous avez toute votre santé et Heat.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?\r\n(Kiryu est trop repu pour gagner de l'EXP)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "39": {
+          "": {
+            "1": "Le Heat ne peut pas être reconstituée en mode Extreme Heat.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "40": {
+          "": {
+            "1": "Le Heat ne peut pas être reconstituée en mode Extreme Heat.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?\r\n(Kiryu est trop repu pour gagner de l'EXP)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "41": {
+          "": {
+            "1": "Vous êtes actuellement en pleine santé.\r\nAre you sure you want to use ${item_name}?\r\n(Le Heat ne peut pas être reconstituée en mode Extreme Heat)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "42": {
+          "": {
+            "1": "Vous êtes actuellement en pleine santé.\r\nÊtes-vous sûr de vouloir utiliser ${item_name}?\r\n(Le Heat ne peut pas être reconstituée en mode Extreme Heat)\r\n(Kiryu est trop repu pour gagner de l'EXP)",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "43": {
+          "": {
+            "1": "Votre inventaire est plein.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 59
+          }
+        },
+        "44": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 60
+          }
+        },
+        "45": {
+          "": {
+            "1": "Vous pouvez maintenant acheter ${skill_name} !",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "46": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "47": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "48": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "49": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "50": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "51": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "52": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "53": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "54": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "55": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "56": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "57": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "58": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "59": {
+          "": {
+            "1": "Vous n'avez pas d'objet à donner.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 65
+          }
+        },
+        "60": {
+          "": {
+            "1": "Vous n'avez aucun objet utilisable",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 66
+          }
+        },
+        "61": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 67
+          }
+        },
+        "62": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 68
+          }
+        },
+        "63": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 69
+          }
+        },
+        "64": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 70
+          }
+        },
+        "65": {
+          "": {
+            "1": "Jeter ${item_name} ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 74
+          }
+        },
+        "66": {
+          "": {
+            "1": "Mettre ${item_name} dans la Boite d'Équipement ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 78
+          }
+        },
+        "67": {
+          "": {
+            "1": "La Boite d'Équipement est pleine.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 82
+          }
+        },
+        "68": {
+          "": {
+            "1": "Vous n'avez pas la compétence requise pour l'équiper.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 83
+          }
+        },
+        "69": {
+          "": {
+            "1": "Afficher les commandes",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 84
+          }
+        },
+        "70": {
+          "": {
+            "1": "Quitter",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "71": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 61
+          }
+        },
+        "72": {
+          "": {
+            "1": "<symbol=infinity>",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 62
+          }
+        },
+        "73": {
+          "": {
+            "1": "<symbol=mail_subject>${subject}",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 63
+          }
+        },
+        "74": {
+          "": {
+            "1": "Réinitialiser les paramètres de jeu par défaut ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 64
+          }
+        },
+        "75": {
+          "": {
+            "1": "Vous devez d'abord apprendre ${skill_name}.",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 71
+          }
+        },
+        "76": {
+          "": {
+            "1": "Vous devez d'abord apprendre complètement ${skill_name}.",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "77": {
+          "": {
+            "1": "Impossible à retirer pendant l'utilisation.",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 72
+          }
+        },
+        "78": {
+          "": {
+            "1": "Vous ne pouvez pas dépasser votre jauge de faim dans la saga Majima.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 73
+          }
+        },
+        "79": {
+          "": {
+            "1": "Ne peut être jeté pendant son utilisation.",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 75
+          }
+        },
+        "80": {
+          "": {
+            "1": "Comment jouer",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 76
+          }
+        },
+        "81": {
+          "": {
+            "1": "?",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 77
+          }
+        },
+        "82": {
+          "": {
+            "1": "Jeu en pause",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 79
+          }
+        },
+        "83": {
+          "": {
+            "1": "La manette a été déconnecté.\r\nVeuillez le reconnecter ou utiliser un autre contrôleur\r\npour reprendre le jeu.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 80
+          }
+        },
+        "84": {
+          "": {
+            "1": "Le clavier ou la souris a été déconnecté.\r\nVeuillez le reconnecter pour reprendre le jeu.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 81
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "7": {
+    "point": {
+      "table": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "${value} pts.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "${value} Han",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "8": {
+    "system": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "9": {
+    "app": {
+      "table": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 1,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "YAKUZA KIWAMI 2",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "10": {
+    "save_data": {
+      "table": {
+        "ROW_COUNT": 59,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 42,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Données système",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "${title} données système.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "3": {
+          "": {
+            "1": "${save_id} ${chapter_title}",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "4": {
+          "": {
+            "1": "${difficulty_id} ${difficulty}\r\n${play_time_id} ${play_time}\r\n${money_id} ${money}",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "5": {
+          "": {
+            "1": "Nouvelles données de sauvegarde",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "8": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "9": {
+          "": {
+            "1": "Saving...",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "10": {
+          "": {
+            "1": "Loading...",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "11": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "12": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "13": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "14": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "15": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "16": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "17": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "18": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "19": {
+          "": {
+            "1": "Impossible d'enregistrer les données.\r\nContinuer sans sauvegarder ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "20": {
+          "": {
+            "1": "Inutilisé",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "21": {
+          "": {
+            "1": "In order to load this save data,\r\nthe game must be fully installed.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "22": {
+          "": {
+            "1": "Utiliser ce fichier de sauvegarde pour commencer une nouvelle partie ?\r\nSélectionnez \"Non\" pour continuer à explorer\r\nle monde à votre guise.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "23": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "24": {
+          "": {
+            "1": "This save data is not compatible\r\nwith the trial version.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "25": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "26": {
+          "": {
+            "1": "Difficulté :",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "27": {
+          "": {
+            "1": "Temps de jeu total :",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "28": {
+          "": {
+            "1": "Argent :",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "29": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "30": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "31": {
+          "": {
+            "1": "Voulez-vous sauvegarder ? Le contenu sera perdu en cas d'écrasement.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "32": {
+          "": {
+            "1": "Voulez-vous charger ces données ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "33": {
+          "": {
+            "1": "Sauvegarde auto : ${chapter_title} ",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "34": {
+          "": {
+            "1": "La sauvegarde est terminée.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "35": {
+          "": {
+            "1": "Le chargement est terminé.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "36": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "37": {
+          "": {
+            "1": "Vous n'avez pas encore débloqué le chapitre suivant de\r\nla saga Majima. Avancez dans\r\nl'histoire principale pour continuer à jouer.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "38": {
+          "": {
+            "1": "Ce fichier de sauvegarde est corrompu. Les données du jeu ne peuvent pas être chargées.",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "39": {
+          "": {
+            "1": "Sauvegarde auto",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "40": {
+          "": {
+            "1": "Manuel",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "41": {
+          "": {
+            "1": "Êtes-vous sûr de vouloir supprimer ces données ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "42": {
+          "": {
+            "1": "Données supprimées",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "43": {
+          "": {
+            "1": "Échec de la suppression",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "44": {
+          "": {
+            "1": "Date",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "45": {
+          "": {
+            "1": "Sauv. auto terminée",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "46": {
+          "": {
+            "1": "Difficulté",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "47": {
+          "": {
+            "1": "Temps de jeu",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "48": {
+          "": {
+            "1": "Argent",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "49": {
+          "": {
+            "1": "Charger",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "50": {
+          "": {
+            "1": "Sauvegarder",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "51": {
+          "": {
+            "1": "Retour",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "52": {
+          "": {
+            "1": "Supprimer",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "53": {
+          "": {
+            "1": "Nouvelle Sauvegarde",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "54": {
+          "": {
+            "1": "Échec de la sauvegarde !",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "55": {
+          "": {
+            "1": "Échec du chargement !",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "56": {
+          "": {
+            "1": "Échec de la sauvegarde ! Pas assez d'espace !",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "57": {
+          "": {
+            "1": "Les données non sauvegardées seront perdues. Vous êtes sûr ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "58": {
+          "": {
+            "1": "La sauv. auto la plus récente sera écrasé. Voulez-vous continuer ?",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 58
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "11": {
+    "minigame_abort": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Quitter le mini-jeu ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Oui",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Non",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Êtes-vous sûr de vouloir quitter le mini-jeu ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "12": {
+    "objective": {
+      "table": {
+        "ROW_COUNT": 9,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Bu ${item_name}",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "1": "Victoire du Clan Creator",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "1": "EXP Obtenu",
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "13": {
+    "minigame_karaoke": {
+      "table": {
+        "ROW_COUNT": 50,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 37,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "${number}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "5": {
+          "": {
+            "1": "${number}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "7": {
+          "": {
+            "1": "Like a Butterfly",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "8": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "9": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "10": {
+          "": {
+            "1": "TONIGHT",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "11": {
+          "": {
+            "1": "Kiwami Kazunobu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "12": {
+          "": {
+            "1": "Etsuko@Sotenbori",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "13": {
+          "": {
+            "1": "Ryo Kojima",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "14": {
+          "": {
+            "1": "Yasuo Sodachi",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "15": {
+          "": {
+            "1": "Hiro Chiba",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "16": {
+          "": {
+            "1": "J-Fan",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "17": {
+          "": {
+            "1": "San Du'fur",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "18": {
+          "": {
+            "1": "Matsushita@Congrats on Marriage",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "19": {
+          "": {
+            "1": "Pocket Circuit Fighter",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "20": {
+          "": {
+            "1": "Yuzo Wada",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "21": {
+          "": {
+            "1": "hands",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "22": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "23": {
+          "": {
+            "1": "Yoku ni obore wana ni hamari",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "24": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "25": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "26": {
+          "": {
+            "1": "Muchuu de tsuranuita itsuwari no JUSTICE",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "27": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "28": {
+          "": {
+            "1": "Voulez-vous quitter le karaoke ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "29": {
+          "": {
+            "1": "Quitter",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "30": {
+          "": {
+            "1": "Pride From Despair",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "31": {
+          "": {
+            "1": "As Long As You're Happy",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "32": {
+          "": {
+            "1": "ring",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "33": {
+          "": {
+            "1": "x3 Shine",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "34": {
+          "": {
+            "1": "Otometal MY LIFE",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "35": {
+          "": {
+            "1": "Pride From Despair (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "36": {
+          "": {
+            "1": "As Long As You're Happy (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "37": {
+          "": {
+            "1": "ring (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "38": {
+          "": {
+            "1": "x3 Shine (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "39": {
+          "": {
+            "1": "Otometal MY LIFE (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "40": {
+          "": {
+            "1": "Like A Butterfly (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "41": {
+          "": {
+            "1": "TONIGHT (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "42": {
+          "": {
+            "1": "EURO de x3 SHINE",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "43": {
+          "": {
+            "1": "EURO de x3 SHINE (hook)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "44": {
+          "": {
+            "1": "Manatsu no tsuyoi hizashi ni",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "45": {
+          "": {
+            "1": " GO GO READY GO!",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "46": {
+          "": {
+            "1": "Omedetou mo arigatou mo",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "47": {
+          "": {
+            "1": "Ore wa ichinenjuu ore jishin ni zetsubouchuu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "48": {
+          "": {
+            "1": "Moshi ore ga sekaijuu wo",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "49": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 43
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "14": {
+    "unit": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "15": {
+    "clan_creator": {
+      "table": {
+        "ROW_COUNT": 144,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 90,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Il n'y a pas de missions pour le moment.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Monter de niveau ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "3": {
+          "": {
+            "1": "Lv.${level}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 90
+          }
+        },
+        "4": {
+          "": {
+            "1": "Pas assez de Prix du Président.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "5": {
+          "": {
+            "1": "${member_num} unités",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "6": {
+          "": {
+            "1": "Sélectionnez une unité à former.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 96
+          }
+        },
+        "7": {
+          "": {
+            "1": "${member_name} a rejoint Majima Construction.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 95
+          }
+        },
+        "8": {
+          "": {
+            "1": "Connexion. Un instant...",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 59
+          }
+        },
+        "9": {
+          "": {
+            "1": "Entrer un code.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 60
+          }
+        },
+        "10": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "1": "Le code comme vous avez inséré est incorrect",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 61
+          }
+        },
+        "12": {
+          "": {
+            "1": "Vous avez déjà ce leader dans le clan.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 62
+          }
+        },
+        "13": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "1": "${num} fois",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 63
+          }
+        },
+        "15": {
+          "": {
+            "1": "${ratio}%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 64
+          }
+        },
+        "16": {
+          "": {
+            "1": "${ratio}%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 94
+          }
+        },
+        "17": {
+          "": {
+            "1": "${ratio}%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 91
+          }
+        },
+        "18": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "19": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "": {
+            "1": "Le processus n'a pas abouti en raison d'une annulation\r\nou d'une erreur de connexion.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 68
+          }
+        },
+        "21": {
+          "": {
+            "1": "Téléchargement des forces de défense terminé.\r\n(Vos modifications peuvent ne pas être reflétées immédiatement.)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 69
+          }
+        },
+        "22": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "23": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "24": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "25": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "26": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "27": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "28": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "29": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "30": {
+          "": {
+            "1": "${rank}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "31": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "32": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "33": {
+          "": {
+            "1": "EXP Acquis : ${get_exp}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 74
+          }
+        },
+        "34": {
+          "": {
+            "1": "???",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 97
+          }
+        },
+        "35": {
+          "": {
+            "1": "Aucun.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 98
+          }
+        },
+        "36": {
+          "": {
+            "1": "Il n'y a pas de missions pour le moment.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 99
+          }
+        },
+        "37": {
+          "": {
+            "1": "${explanation}\r\nDate limite : ${duration}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 100
+          }
+        },
+        "38": {
+          "": {
+            "1": "${day}:${time}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 102
+          }
+        },
+        "39": {
+          "": {
+            "1": "${time}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 103
+          }
+        },
+        "40": {
+          "": {
+            "1": "Fin",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 70
+          }
+        },
+        "41": {
+          "": {
+            "1": "Désolé, la date limite de cette mission est passée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "42": {
+          "": {
+            "1": "Cette unité n'a pas de compétence.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "43": {
+          "": {
+            "1": "-",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "44": {
+          "": {
+            "1": "Il n'y a pas d'unités que vous pouvez déployer.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "45": {
+          "": {
+            "1": "Vous ne pouvez pas déployer la même unité deux fois.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "46": {
+          "": {
+            "1": "Pour pouvoir jouer en ligne, vous devez accepter l'EULA",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "47": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "48": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "49": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 137
+          }
+        },
+        "50": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "51": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "52": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "53": {
+          "": {
+            "1": "Victoire",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 140
+          }
+        },
+        "54": {
+          "": {
+            "1": "Défaite",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "55": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "56": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "57": {
+          "": {
+            "1": "Max",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "58": {
+          "": {
+            "1": "THIS SOFTWARE IS LICENSED, NOT SOLD. Sega Corporation and its affiliated\r\ncompanies (collectively, \"SEGA\" or \"We\") reserves all rights not expressly\r\ngranted to you. The product that is subject to this license is referred to\r\nin this license as the \"Game Software.\"\r\n\r\nIf you have any questions about this agreement, you can reach SEGA at SEGA\r\nof America, Inc. 250 East Olive Avenue, Suite 200 Burbank, CA 91502. Legal\r\nDepartment.\r\n\r\nThis is a legal agreement between you and SEGA. Please review this End User\r\nLicense Agreement (\"Agreement\") carefully before installing, accessing or \r\nutilizing the game you have just purchased (\"GAME SOFTWARE\") and please\r\ninquire about anything you do not understand. If you are not eighteen (18)\r\nyears of age, have your parents review this Agreement. By installing, copying\r\nand/or otherwise using the Game Software you are signifying your\r\nacknowledgement, acceptance and agreement to this Agreement.\r\n\r\nIMPORTANT - READ CAREFULLY:\r\nBY INSTALLING, COPYING AND/OR OTHERWISE USING THIS GAME SOFTWARE, YOU\r\nAGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT AND THE TERMS SET FORTH\r\nBELOW. THE \"GAME SOFTWARE\" INCLUDES ALL SOFTWARE INCLUDED WITH THE VIDEO\r\nGAME, THE ASSOCIATED MEDIA, ANY UPDATES AND UPGRADES THAT REPLACE OR\r\nSUPPLEMENT THE SOFTWARE THAT ARE NOT DISTRIBUTED WITH A SEPARATE LICENSE,\r\nTHE ASSOCIATED MEDIA, ANY SOFTWARE ASSOCIATED WITH THE ONLINE MODE OF THE\r\nVIDEO GAME, ANY PRINTED MATERIALS, ANY ONLINE OR ELECTRONIC DOCUMENTATION,\r\nAND ANY AND ALL COPIES OF SUCH SOFTWARE AND MATERIALS. THE AGREEMENT, AS\r\nAMENDED FROM TIME TO TIME AND PUBLISHED AT WWW.SEGA.COM/LEGAL, INCORPORATES\r\nTHE SEGA PRIVACY POLICY (PUBLISHED AT WWW.SEGA.COM/LEGAL/PRIVACY).\r\nBY OPENING THE GAME SOFTWARE, INSTALLING, AND/OR USING THE GAME SOFTWARE\r\nAND ANY OTHER MATERIALS INCLUDED WITH THE GAME SOFTWARE, AND ANY UPDATES\r\nAND UPGRADES THERETO, YOU HEREBY ACCEPT THE TERMS OF THIS AGREEMENT WITH\r\nSEGA. THE AGREEMENT APPLIES TO ALL USERS OF THE GAME SOFTWARE, INCLUDING\r\nUSERS WHO ARE ALSO CONTRIBUTORS OF CONTENT, INFORMATION, AND OTHER\r\nMATERIALS OR SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT,\r\nYOU ARE NOT PERMITTED TO INSTALL, COPY OR OTHERWISE USE THE GAME SOFTWARE.\r\nYOUR REMEDY FOR DISSATISFACTION WITH THE GAME SOFTWARE OR ANY PRODUCTS,\r\nCONTENT, OR OTHER INFORMATION MADE AVAILABLE BY OR THROUGH SEGA, IS TO\r\nSTOP USING THE GAME SOFTWARE. YOUR AGREEMENT WITH SEGA REGARDING\r\nCOMPLIANCE WITH THE AGREEMENT BECOMES EFFECTIVE IMMEDIATELY UPON\r\nCOMMENCEMENT OF YOUR USE OF THE GAME SOFTWARE. IF YOU DO NOT AGREE TO\r\nTHE TERMS SET FORTH IN THIS AGREEMENT, DO NOT DOWNLOAD OR USE THE GAME\r\nSOFTWARE, AND SEGA SHALL NOT GRANT TO YOU THE LICENSE TO INSTALL AND USE\r\nTHE GAME SOFTWARE.\r\n\r\n1. USER'S ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS\r\nThe Game Software is offered subject to your compliance with all of the terms\r\nand conditions contained herein and all other operating rules, policies and\r\nprocedures. In addition, some applications offered through or in connection\r\nwith the Game Software may be subject to additional terms and conditions\r\npromulgated by SEGA from time to time. Any material modifications to the\r\nAgreement will also be brought to your attention by posting on\r\nWWW.SEGA.COM/LEGAL. Such material modifications will be effective immediately,\r\nand will apply to disputes arising under the Agreement from the date of\r\nposting forward. Your continued use of the Game Software after a modification\r\nhas been made to the Agreement constitutes your acceptance of such modification.\r\n\r\n2. LIMITED USE LICENSE\r\nSubject to your compliance with the terms and conditions of the Agreement,\r\nSEGA hereby grants you a non-exclusive, non-transferable, limited right and\r\nlicense to install and use one (1) copy of the Game Software solely and\r\nexclusively for your personal and non-commercial use. This Agreement shall\r\nalso apply to any patches or updates you may obtain for the Software. IN\r\nACCORDANCE WITH AND NOT INTENDING TO LIMIT ANY OF THE PROVISIONS\r\nOR PROTECTIONS SET FORTH HEREIN, DUPLICATION, COPYING OR ANY FORM OF\r\nREPRODUCTION OF THE GAME SOFTWARE OR RELATED INFORMATION, MATERIALS\r\nOR OTHER CONTENT TO ANY OTHER SERVER OR LOCATION FOR THE PURPOSES OF\r\nDUPLICATION, COPYING OR ANY OTHER FORM OF REPRODUCTION IS EXPRESSLY\r\nAND EXPLICITLY PROHIBITED. This license does not give you any title or ownership\r\nin the Game Software, and should not be construed as a sale or transfer of any\r\nintellectual property rights to the Game Software. All rights not specifically\r\ngranted under this Agreement are hereby reserved by Sega and, as applicable,\r\nby its licensors.\r\n\r\n3. NO RIGHT TO OWNERSHIP\r\nYOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER\r\nPROPERTY INTEREST IN THE GAME SOFTWARE, AND YOU FURTHER ACKNOWLEDGE\r\nAND AGREE THAT ALL SUCH RIGHTS ARE AND SHALL FOREVER BE OWNED BY AND\r\nINURE TO THE BENEFIT OF SEGA. Except as expressly licensed to you herein,\r\nall right, title, and interest in and to the Game Software and any and all\r\nassociated copyrights, trademarks and intellectual properties therein and/or\r\nrelated thereto and all copies thereof (including, but not limited to, any\r\npatches, updates, copies, derivative works, titles, computer code, themes,\r\nobjects, characters, character names, stories, dialogs, catch phrases,\r\nlocations, concepts, artwork, images, animation, sounds, musical compositions,\r\naudio-visual effects, text, methods of operation, moral rights, \"applets\"\r\nincorporated into the Game Software, and any related documentation) are\r\nowned by SEGA or SEGA's licensors.\r\n\r\nThe Game Software is protected by the copyright laws of the United States,\r\ninternational copyright treaties and conventions, and other laws. All rights\r\nare reserved. The Game Software contains certain licensed materials, and Sega\r\nand Sega's licensors may protect their rights in the event of any violation\r\nof this Agreement.\r\n\r\n4. NO SALE OR ASSIGNMENT\r\nSEGA does not recognize the transfer of the Game Software. Therefore, you\r\nmay not give, purchase, sell, bargain, barter, market, trade, offer for sale,\r\nsell, license, assign or otherwise divest your rights, responsibilities or\r\nobligations under the Agreement, either in whole or in part, without the\r\nprior written consent of SEGA. Any attempt to do so shall be void and of\r\nno effect.\r\n\r\nLICENSE CONDITIONS\r\nYou agree to only use the Game Software, or any part of it, in a manner that\r\nis consistent with this Agreement, and you SHALL NOT:\r\n\r\n(a) exploit the Game Software or any of its parts commercially, including,\r\nbut not limited to, at a cyber (Internet) cafe, computer gaming center or any\r\nother location-based site;\r\n\r\n(b) use the Game Software or permit the use of the Game Software, on more\r\nthan one computer, game console, mobile device, handheld device or PDA at\r\nthe same time;\r\n\r\n(c) use the Game Software, or permit use of the Game Software, or make the\r\nGame Software available for use in a network, multi-user arrangement, remote\r\naccess arrangement, including where it could be downloaded by multiple users;\r\n\r\n(d) sell, rent, lease, license, distribute or otherwise transfer this Game\r\nSoftware or any copies;\r\n\r\n(e) reverse engineer, derive source code, modify, decompile, disassemble,\r\ncopy, or create derivative works of the Game Software, in whole or in part\r\n(except as the applicable law expressly permits, in which case all and any\r\nmodifications, adaptations, copies, improvements, etc. shall belong to, vest\r\nin and be the exclusive property of Sega and/or its licensors on creation,\r\nin any event);\r\n\r\n(f) remove, disable or circumvent any security protections, proprietary\r\nnotices or labels contained on or within the Game Software;\r\n\r\n(g) export or re-export the Game Software or any copy or adaptation in\r\nviolation of any applicable laws or regulations;\r\n\r\n(h) create data or executable programs which mimic data or functionality\r\nin the Game Software unless provided for in Section 5(i) below; or\r\n\r\n(i) use the part of the Game Software which allows you to construct new\r\nvariations (\"Editor\") to create new levels which\r\n(i) can be used otherwise in connection with the Game Software;\r\n(ii) to modify any executable file;\r\n(iii) to product any libelous, defamatory or other illegal material or\r\nmaterial that is scandalous or invades the rights of privacy or publicity\r\nof a third party;\r\n(iv) to use the trademarks, copyright or intellectual property rights of\r\nany third party;\r\n(v) are then commercially exploited by you (through pay-per-play or\r\ntimesharing services or otherwise). For the avoidance of doubt you are\r\nsolely liable and responsible for any claims by a third party resulting\r\nfrom your use of the Editor.\r\nFurthermore, you agree that you shall abide by the safety information,\r\nmaintenance instructions or other relevant notices contained in the manual\r\nor other documentation accompanying the Game Software.\r\n\r\nDISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY\r\nTO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, YOU EXPRESSLY AGREE\r\nTHAT THE USE OF THE GAME SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE\r\nRISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU.\r\nTO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL MATERIALS AND GAME\r\nSOFTWARE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITH ALL FAULTS\r\nAND WITHOUT WARRANTY OF ANY KIND, AND SEGA HEREBY DISCLAIMS ALL WARRANTIES\r\nAND CONDITIONS WITH RESPECT TO THE GAME SOFTWARE, EITHER EXPRESS OR IMPLIED,\r\nINCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANT ABILITY, OF\r\nSATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF\r\nQUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. WITHOUT\r\nLIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT (A) THE GAME SOFTWARE WILL\r\nMEET YOUR REQUIREMENTS, (B) THE GAME SOFTWARE WILL BE UNINTERRUPTED, TIMELY,\r\nSECURE, OR ERROR-FREE, (C) THE GAME SOFTWARE WILL BE INTERAOPERABLE OR\r\nCOMPATABILE WITH OTHER SOFTWARE, OR (D) THE RESULTS THAT MAY BE OBTAINED\r\nFROM THE USE OF THE GAME SOFTWARE WILL BE EFFECTIVE, ACCURATE OR RELIABLE.\r\nNO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SEGA OR ITS AUTHORIZED\r\nREPRESENTATIVE(S) SHALL CREATE A WARRANTY. AT SOME POINT IN THE FUTURE THE\r\nGAME SOFTWARE MAY GO OUT OF DATE, AND SEGA MAKES NO COMMITMENT TO UPDATE\r\nSUCH GAME SOFTWARE. THE DISCLAIMERS OF LIABILITY CONTAINED IN THIS SECTION\r\nAPPLY TO ANY DAMAGES OR INJURY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR,\r\nOMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION,\r\nCOMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OR\r\nUNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF THE GAME SOFTWARE,\r\nWHETHER FOR BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE, OR UNDER\r\nANY OTHER CAUSE OF ACTION. THE USE OF THE GAME SOFTWARE OR THE DOWNLOADING\r\nOR OTHER ACQUISITION OF ANY MATERIALS THROUGH OR IN CONNECTION WITH THE\r\nGAME SOFTWARE IS DONE AT YOUR OWN DISCRETION AND RISK AND WITH YOUR\r\nAGREEMENT THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR\r\nCOMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH ACTIVITIES.\r\nSEGA MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION\r\nCONTAINED IN THE GAME SOFTWARE, INFORMATION AND/OR RELATED GRAPHICS\r\nPUBLISHED AS PART OF THE GAME SOFTWARE FOR ANY PURPOSE. THE GAME SOFTWARE,\r\nINFORMATION AND RELATED GRAPHICS PUBLISHED AS PART OF THE GAME SOFTWARE\r\nMAY INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. You understand\r\nand agree that temporary interruptions of the Game Software may occur as normal\r\nevents. You further understand and agree that we have no control over third\r\nparty networks you may access in the course of the use of the Game Software,\r\nand therefore, delays and disruption of other network transmissions are\r\ncompletely beyond SEGA's control. YOU ACKNOWLEDGE AND AGREE THAT YOUR\r\nEXCLUSIVE REMEDY FOR ANY DISPUTE WITH SEGA IS TO STOP USING THE GAME\r\nSOFTWARE. IN NO CASE SHALL ANY LIABILITY OF SEGA TO YOU EXCEED THE AMOUNT\r\nTHAT YOU PAID TO SEGA OR ITS AFFILIATES AND/OR DESIGNEES FOR THE APPLICABLE\r\nGAME SOFTWARE GIVING RISE TO ANY SUCH LIABILITY. IN NO EVENT SHALL SEGA OR\r\nITS AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL,\r\nPUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY\r\nDAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM\r\nLOSS OF USE, DATA OR PROFITS, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE\r\nPOSSIBILITY OF SUCH DAMAGES, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF\r\nOR IN CONNECTION WITH THE USE OF THE GAME SOFTWARE, INCLUDING DAMAGES TO\r\nPROPERTY, LOSS OF GOODWILL, COMPUTER FAILURE OR MALFUNCTION AND, TO THE\r\nEXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF SEGA HAS\r\nBEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR\r\nJURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY\r\nFOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS,\r\nTHE LIABILITY OF SEGA AND THE SEGA PARTIES SHALL BE LIMITED TO THE FULLEST\r\nEXTENT PERMITTED BY LAW. Residents of California are entitled to the following\r\nspecific consumer rights information: you may contact the Complaint Assistance\r\nUnit of the Division of Consumer Software of the Department of Consumer Affairs\r\nby mail at 400 R St., Suite 1080, Sacramento, California, 95814, or by telephone\r\nat 916.445.1254. California residents expressly agree to waive California Civil\r\nCode Sec. 1542, which states: \"A general release does not extend to claims\r\nwhich the creditor does not know or suspect to exist in his favor at the time\r\nof executing the release, which if known by him must have materially affected\r\nhis settlement with the debtor.\"\r\n\r\n7. INDEMNIFICATION\r\nUpon a request by SEGA, you agree to defend, indemnify, and hold SEGA and\r\nits affiliates harmless from all liabilities, claims, losses, costs and expenses,\r\nincluding attorney's fees, that arise from (a) your use of, or activities in\r\nconnection with the Game Software; (b) any violation of the Agreement by you;\r\nor (c) any allegation that any content that you make available via the Game\r\nSoftware infringes or otherwise violates the copyright, trademark, trade\r\nsecret, privacy or other intellectual property or other rights of any third\r\nparty. SEGA reserves the right, at its own expense, to assume the exclusive\r\ndefense and control of any matter otherwise subject to indemnification by you,\r\nin which event you will cooperate with SEGA in asserting any available defenses.\r\n\r\n8. E-MAIL, MESSAGING, BLOGGING AND CHAT\r\nSEGA may make email, messaging, blogging, or chat (collectively,\r\n\"Communication Software\") available through the Game Software, either directly\r\nor through a third-party provider. SEGA is not responsible for communications\r\nmade by other users via the Communication Software. We are not responsible\r\nfor communications made by you via the Communication Software. You\r\nacknowledge and agree that your communications made via the Communication\r\nSoftware are public and not private communications and that you have no\r\nexpectation of privacy concerning your use of the Communication Software. You\r\nacknowledge and agree that personal information that you communicate via the\r\nCommunication Software may be seen and used by others and may result in\r\nwidespread distribution of such information. We strongly encourage you not\r\nto disclose any personal information in your public communications via the\r\nCommunication Software unless you wish such information to be made\r\npermanently available to the public.\r\n\r\n9. INTERNATIONAL USE\r\nAlthough the Game Software may be accessible worldwide, we make no\r\nrepresentation that the Game Software or related materials are appropriate or\r\navailable for use in locations outside the United States, and accessing them\r\nfrom territories where the content is illegal is prohibited. Those who choose\r\nto access the Game Software from other locations do so on their own\r\ninitiative and are responsible for compliance with local laws, if and to the\r\nextent local laws are applicable. Any offer and/or information made in\r\nconnection with the Game Software is void where prohibited. Without limiting\r\nthe foregoing, the Game Software may not be exported or re-exported\r\n(a) into (or to a national resident of) any U.S. embargoed countries\r\nor (b) to anyone on the U.S. Treasury Department's list of Specially Designated\r\nNationals or the U.S. Department of Commerce Denied Person's List or Entity List.\r\nBy accessing and using the Game Software, you represent and warrant that you\r\nare not located in, under control of, or a national resident of any such country\r\nor on any such list.\r\n\r\n10. TERMINATION AND SURVIVABILITY OF TERMS\r\nThe Agreement set forth herein continue to remain in full force and effect\r\nuntil such time as terminated by either party. You agree and acknowledge that\r\nyou are not entitled to any refund for any amounts which were paid to SEGA\r\nprior to any termination. You retain full discretion to end or terminate your\r\naccount, if applicable, and discontinue use of the Game Software at any time,\r\npursuant to the terms of this Agreement. Without prejudice to any other\r\nrights of SEGA, this Agreement shall terminate automatically if you fail to\r\ncomply with its terms and conditions. Upon termination, you must destroy all\r\ncopies of the Game Software. The provisions of Sections 3, 4, 6, 7, 8, 10, 11\r\nand 12 shall survive any termination of this Agreement.\r\n\r\n11. INJUNCTION\r\nBecause SEGA would be irreparably damaged if the terms of this Agreement\r\nwere not specifically enforced, you agree that SEGA shall be entitled, without\r\nbond or other security or proof of damages, to take such action as may be\r\nrequired, including seeking an injunction and other equitable remedies, in\r\naddition to any other remedies available to it under the applicable law.\r\n\r\n12. MISCELLANEOUS\r\nThis Agreement represents the complete agreement between you and SEGA\r\nconcerning the Game Software and supersedes all prior agreements and\r\nrepresentations, warranties or understandings between you and SEGA\r\n(whether negligently or innocently made but excluding those made fraudulently),\r\nregarding the same subject matter. SEGA reserves the right to amend this\r\nAgreement at any time, at its sole discretion. If any part of the Agreement\r\nis determined to be invalid or unenforceable pursuant to applicable law\r\nincluding, but not limited to, the warranty disclaimers and liability\r\nlimitations set forth above, then the invalid or unenforceable provision will\r\nbe deemed superseded by a valid, enforceable provision that most closely\r\nmatches the intent of the original provision and the remainder of the\r\nAgreement shall continue in effect. Any failure by us to enforce or exercise\r\nany provision of the Agreement or related rights shall not constitute a waiver\r\nof that right or provision.\r\n\r\nSEGA may assign this Agreement, in whole or in part, at any time.\r\nNotwithstanding, you may not assign, transfer or sublicense any or all of\r\nyour rights or obligations under the Agreement without SEGA's express prior\r\nwritten consent. SEGA's performance of the Agreement is subject to existing\r\nlaws and legal process, and nothing contained in the Agreement is in\r\nderogation of SEGA's right to comply with governmental, court, and law\r\nenforcement requests or requirements relating to your use of the Game\r\nSoftware or information provided to or gathered by SEGA with respect to\r\nsuch use. In addition to any excuse provided by applicable law, we shall\r\nbe excused from liability for non-delivery or delay in delivery of the Game\r\nSoftware arising from any event beyond our reasonable control, whether or not\r\nforeseeable by either party, including but not limited to, labor disturbance,\r\nwar, terrorism, fire, denial of service attack, internet outages, accident,\r\nadverse weather, inability to secure transportation, governmental act or\r\nregulation, and other causes or events beyond our reasonable control, whether\r\nor not similar to those which are enumerated above. The parties agree that\r\nall correspondence relating to this Agreement shall be written in the English\r\nlanguage.\r\n\r\nThis Agreement shall be construed under California law as such law is applied\r\nto agreements between California residents entered into and to be performed\r\nwithin California, except as governed by federal law, and you consent to the\r\nexclusive jurisdiction of the state and federal courts in San Francisco,\r\nCalifornia.\r\n\r\nYou may contact SEGA at the following address:\r\nSEGA of America, Inc.\r\n250 East Olive Avenue, Suite 200\r\nBurbank, CA 91502\r\nEmail: help@SEGA.com\r\n\r\nI HEREBY ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE FOREGOING END\r\nUSER LICENSE AGREEMENT AND AGREE THAT MY USE OF THE GAME SOFTWARE IS AN\r\nACKNOWLEDGMENT OF MY AGREEMENT TO BE BOUND BY THE END USER LICENSE\r\nAGREEMENT.    ",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "59": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "60": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "61": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "62": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "63": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "64": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "65": {
+          "": {
+            "1": "Explication du menu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 138
+          }
+        },
+        "66": {
+          "": {
+            "1": "Explication du combat",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 87
+          }
+        },
+        "67": {
+          "": {
+            "1": "Niveau maximum déjà atteint.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "68": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "69": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "70": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "71": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "72": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "73": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "74": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "75": {
+          "": {
+            "1": "Pas assez de fonds.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "76": {
+          "": {
+            "1": "Vous ne pouvez plus recruter.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "77": {
+          "": {
+            "1": "Payer ${price} et augmenter la puissance de ${name} ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "78": {
+          "": {
+            "1": "Fortifier",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "79": {
+          "": {
+            "1": "Retour",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "80": {
+          "": {
+            "1": "Pas assez de fonds.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "81": {
+          "": {
+            "1": "Cette pièce d'équipement est déjà entièrement fortifiée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "82": {
+          "": {
+            "1": "Pas assez de membres.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "83": {
+          "": {
+            "1": "${value} membres",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 58
+          }
+        },
+        "84": {
+          "": {
+            "1": "Équipement : ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 65
+          }
+        },
+        "85": {
+          "": {
+            "1": "Durabilité : ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 66
+          }
+        },
+        "86": {
+          "": {
+            "1": "x ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 67
+          }
+        },
+        "87": {
+          "": {
+            "1": "Hors de portée",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 71
+          }
+        },
+        "88": {
+          "": {
+            "1": "Bonus de clear",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 72
+          }
+        },
+        "89": {
+          "": {
+            "1": "Argent total gagné",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 73
+          }
+        },
+        "90": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 75
+          }
+        },
+        "91": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 136
+          }
+        },
+        "92": {
+          "": {
+            "1": "${value} fois",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 76
+          }
+        },
+        "93": {
+          "": {
+            "1": "Bonus de réussite",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 77
+          }
+        },
+        "94": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 78
+          }
+        },
+        "95": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 79
+          }
+        },
+        "96": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 80
+          }
+        },
+        "97": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 81
+          }
+        },
+        "98": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 82
+          }
+        },
+        "99": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 83
+          }
+        },
+        "100": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 84
+          }
+        },
+        "101": {
+          "": {
+            "1": "Bonus Pas de mort",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 85
+          }
+        },
+        "102": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 86
+          }
+        },
+        "103": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 113
+          }
+        },
+        "104": {
+          "": {
+            "1": "Équipement restant",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 114
+          }
+        },
+        "105": {
+          "": {
+            "1": "Durabilité",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 88
+          }
+        },
+        "106": {
+          "": {
+            "1": "Bonus de défense rapide",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 89
+          }
+        },
+        "107": {
+          "": {
+            "1": "Bonus économie d'argent",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 115
+          }
+        },
+        "108": {
+          "": {
+            "1": "Essence de la bonne fortune",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 92
+          }
+        },
+        "109": {
+          "": {
+            "1": "x ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 93
+          }
+        },
+        "110": {
+          "": {
+            "1": "${value}%",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 116
+          }
+        },
+        "111": {
+          "": {
+            "1": "${value} secondes",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 117
+          }
+        },
+        "112": {
+          "": {
+            "1": "Bonus de défense Vague ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 118
+          }
+        },
+        "113": {
+          "": {
+            "1": "Succès",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 119
+          }
+        },
+        "114": {
+          "": {
+            "1": "Échec",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 120
+          }
+        },
+        "115": {
+          "": {
+            "1": "Rangs S gagnés",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 121
+          }
+        },
+        "116": {
+          "": {
+            "1": "Rang",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 122
+          }
+        },
+        "117": {
+          "": {
+            "1": "E",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 101
+          }
+        },
+        "118": {
+          "": {
+            "1": "D",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 104
+          }
+        },
+        "119": {
+          "": {
+            "1": "C",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 105
+          }
+        },
+        "120": {
+          "": {
+            "1": "B",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 106
+          }
+        },
+        "121": {
+          "": {
+            "1": "A",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 107
+          }
+        },
+        "122": {
+          "": {
+            "1": "S",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 108
+          }
+        },
+        "123": {
+          "": {
+            "1": "Vague ${value0} / ${value1}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 109
+          }
+        },
+        "124": {
+          "": {
+            "1": "∞",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 110
+          }
+        },
+        "125": {
+          "": {
+            "1": "Boss restants : ${value0}  Restants : ${value1}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 111
+          }
+        },
+        "126": {
+          "": {
+            "1": "<color=clan_battle_log_enemy>Des renforts ennemis apparaissent !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 112
+          }
+        },
+        "127": {
+          "": {
+            "1": "<color=clan_battle_log_enemy>${value} est apparu</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 123
+          }
+        },
+        "128": {
+          "": {
+            "1": "<color=clan_battle_log_item>Des éléments de récupération sont apparus !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 124
+          }
+        },
+        "129": {
+          "": {
+            "1": "<color=clan_battle_log_item>De l'argent est apparu !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 125
+          }
+        },
+        "130": {
+          "": {
+            "1": "<color=clan_battle_log_guard>${value} est sur le point de casser !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 143
+          }
+        },
+        "131": {
+          "": {
+            "1": "<color=clan_battle_log_guard>${value} a cassé !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 141
+          }
+        },
+        "132": {
+          "": {
+            "1": "<color=clan_battle_log_guard>${value} est sur le point de mourir !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 126
+          }
+        },
+        "133": {
+          "": {
+            "1": "<color=clan_battle_log_guard>${value} a fui !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 127
+          }
+        },
+        "134": {
+          "": {
+            "1": "${value} vaincu",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 128
+          }
+        },
+        "135": {
+          "": {
+            "1": "Barricade détruite",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 129
+          }
+        },
+        "136": {
+          "": {
+            "1": "Passez une annonce et recrutez de nouveaux employés !\r\nLe coût du repérage sera de ${price}.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 130
+          }
+        },
+        "137": {
+          "": {
+            "1": "${enemy_num} ennemis (${wave_num} vagues)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 131
+          }
+        },
+        "138": {
+          "": {
+            "1": "${rank} (estimated)",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 132
+          }
+        },
+        "139": {
+          "": {
+            "1": "???",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 133
+          }
+        },
+        "140": {
+          "": {
+            "1": "${member_name} est retourné chez Majima Construction.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 134
+          }
+        },
+        "141": {
+          "": {
+            "1": "<color=clan_battle_log_enemy>Dernière attaque ennemie !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 135
+          }
+        },
+        "142": {
+          "": {
+            "1": "${value} activé",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 142
+          }
+        },
+        "143": {
+          "": {
+            "1": "<color=clan_battle_log_enemy>Attaque ennemie !</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 139
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "16": {
+    "album": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "${title} ${location}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "${save_id}\r\n${chapter_title}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Vous pouvez prendre jusqu'à ${max_num} photos.\r\nVous devrez en supprimer certaines si vous voulez en prendre d'autres.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "17": {
+    "minigame_offertory_box": {
+      "table": {
+        "ROW_COUNT": 4,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 3,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "（該一次投幾枚呢……）",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "１０圓　×",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "${kind}\r\n${num}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "18": {
+    "name": {
+      "table": {
+        "ROW_COUNT": 19,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 12,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Kiryu",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Kazuma Kiryu",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "3": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "4": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "5": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_validityBool": "00000110",
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "8": {
+          "": {
+            "1": "Majima",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "9": {
+          "": {
+            "reARMP_validityBool": "00000100",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "10": {
+          "": {
+            "1": "Kirara",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "11": {
+          "": {
+            "1": "Yua",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "12": {
+          "": {
+            "1": "Kana",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "13": {
+          "": {
+            "1": "Aika",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "14": {
+          "": {
+            "1": "Yuki",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "15": {
+          "": {
+            "1": "Koyuki",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "16": {
+          "": {
+            "1": "Haruka",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "17": {
+          "": {
+            "1": "Shoko",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "18": {
+          "": {
+            "1": "Goro Majima",
+            "reARMP_validityBool": "00000010",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "19": {
+    "title": {
+      "table": {
+        "ROW_COUNT": 15,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 13,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "2 manettes sans fil sont requises pour ce mode",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "The wireless controller's light bar is ${player1_color} for Player 1 and ${player2_color} for Player 2.   ",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "3": {
+          "": {
+            "1": "<color=light_bar_blue_text>Blue</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "4": {
+          "": {
+            "1": "<color=light_bar_red_text>Red</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "5": {
+          "": {
+            "1": "<color=light_bar_green_text>Green</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "7": {
+          "": {
+            "1": "<color=light_bar_pink_text>Pink</color>",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "1": "Si vous sélectionnez  Game Clear data en choisissant \"Continuer,\"\r\nvous commencerez le mode Aventure Premium, un mode sans\r\nhistoire principale qui vous permet d'explorer le monde\r\nà votre guise.  Vous pouvez également choisir de commencer un New Game+ pour\r\nreprendre l'histoire depuis le début tout en conservant\r\ndes éléments de votre partie précédente.  ",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "1": "Obtention de ${get_money} comme bonus de complétion.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "1": "Les données de sauvegarde de la Saga Majima sont séparés des sauvegardes\r\nde l'histoire principale. Faites attention à ne pas écraser les données de l'histoire principale\r\nlorsque vous sauvegardez votre fichier Saga Majima.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "1": "Vous ne pourrez pas changer de difficulté après avoir commencé\r\nle jeu en difficulté Légende. Il vous sera également impossible\r\nd'utiliser les parties en cours.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "1": "Êtes-vous sûr de vouloir quitter vers le bureau ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "1": "Joueur 1 : Veuillez appuyer sur n'importe quelle touche de votre appareil de saisie.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "1": "Joueur 2 : Veuillez appuyer sur n'importe quelle touche de votre appareil de saisie.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "20": {
+    "minigame_darts": {
+      "table": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "${name} Rang : ${performance}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Arrêter de jouer aux fléchettes ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "21": {
+    "minigame_cabaret_island": {
+      "table": {
+        "ROW_COUNT": 104,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 76,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Four Shine",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "N/A",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 36
+          }
+        },
+        "3": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Il appartient à l'ancienne légende,\r\nYuki. C'est l'outsider de la ligue.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 37
+          }
+        },
+        "5": {
+          "": {
+            "1": "Rétablir les paramètres par défaut ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 38
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "": {
+            "1": "Temps court",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 39
+          }
+        },
+        "16": {
+          "": {
+            "1": "Temps long",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 40
+          }
+        },
+        "17": {
+          "": {
+            "1": "Préfère le sexy",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 52
+          }
+        },
+        "18": {
+          "": {
+            "1": "Préfère la beauté",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 30
+          }
+        },
+        "19": {
+          "": {
+            "1": "Préfère mignon",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 31
+          }
+        },
+        "20": {
+          "": {
+            "1": "Préfère drôle",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 32
+          }
+        },
+        "21": {
+          "": {
+            "1": "Veut parler",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 33
+          }
+        },
+        "22": {
+          "": {
+            "1": "Veut faire la fête",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 34
+          }
+        },
+        "23": {
+          "": {
+            "1": "Veut l'amour",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 35
+          }
+        },
+        "24": {
+          "": {
+            "1": "Veut compétence",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "25": {
+          "": {
+            "1": "Veut parler",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "26": {
+          "": {
+            "1": "Veut faire la fête",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "27": {
+          "": {
+            "1": "Veut l'amour",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 41
+          }
+        },
+        "28": {
+          "": {
+            "1": "Veut être chouchouté",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 49
+          }
+        },
+        "29": {
+          "": {
+            "1": "${name} Demandée",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 102
+          }
+        },
+        "30": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 42
+          }
+        },
+        "31": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 43
+          }
+        },
+        "32": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 44
+          }
+        },
+        "33": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 45
+          }
+        },
+        "34": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 46
+          }
+        },
+        "35": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 47
+          }
+        },
+        "36": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 48
+          }
+        },
+        "37": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "38": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "39": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "40": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "41": {
+          "": {
+            "1": "Ouvrir avec ce groupe ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "42": {
+          "": {
+            "1": "Elle donne un signal.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        },
+        "43": {
+          "": {
+            "1": "Monsieur, dans cet établissement...",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 21
+          }
+        },
+        "44": {
+          "": {
+            "1": "Prête pour la note.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 22
+          }
+        },
+        "45": {
+          "": {
+            "1": "Prolonger la session ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 23
+          }
+        },
+        "46": {
+          "": {
+            "1": "Offrir un cadeau.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 24
+          }
+        },
+        "47": {
+          "": {
+            "1": "Merci beaucoup !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 25
+          }
+        },
+        "48": {
+          "": {
+            "1": "Nos excuses.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 26
+          }
+        },
+        "49": {
+          "": {
+            "1": "Entrer dans une bataille de classement ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 27
+          }
+        },
+        "50": {
+          "": {
+            "1": "Une nouvelle fille a rejoint !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 28
+          }
+        },
+        "51": {
+          "": {
+            "1": "Un nouvel objet de relooking est arrivé !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 29
+          }
+        },
+        "52": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 50
+          }
+        },
+        "53": {
+          "": {
+            "1": "Passez une annonce pour chercher de nouvelles filles !\r\nLe coût du repérage sera de ${value}.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 51
+          }
+        },
+        "54": {
+          "": {
+            "1": "Rechercher de nouvelles hôtesses ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 53
+          }
+        },
+        "55": {
+          "": {
+            "1": "${name} a rejoint.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 54
+          }
+        },
+        "56": {
+          "": {
+            "1": "En partenariat avec ${name}.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 55
+          }
+        },
+        "57": {
+          "": {
+            "1": "Vous n'avez pas assez d'argent.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 56
+          }
+        },
+        "58": {
+          "": {
+            "1": "Personne n'est venu...",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 57
+          }
+        },
+        "59": {
+          "": {
+            "1": "Participer au championnat de la ligue.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 58
+          }
+        },
+        "60": {
+          "": {
+            "1": "Vous ne remplissez pas les conditions d'entrée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 59
+          }
+        },
+        "61": {
+          "": {
+            "1": "<symbol=button_sankaku> Besoin d'aide !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 60
+          }
+        },
+        "62": {
+          "": {
+            "1": "L'addition SVP !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 61
+          }
+        },
+        "63": {
+          "": {
+            "1": "Problèmes !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 62
+          }
+        },
+        "64": {
+          "": {
+            "1": "Match de classement",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 63
+          }
+        },
+        "65": {
+          "": {
+            "1": "${value}/${total}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 64
+          }
+        },
+        "66": {
+          "": {
+            "1": "Pas assez d'argent.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 65
+          }
+        },
+        "67": {
+          "": {
+            "1": "Les changements de tenue ne seront pas sauvegardés.\r\nÊtes-vous sûr de vouloir quitter ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 66
+          }
+        },
+        "68": {
+          "": {
+            "1": "Acheter cet objet ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 67
+          }
+        },
+        "69": {
+          "": {
+            "1": "-",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 68
+          }
+        },
+        "70": {
+          "": {
+            "1": "Former un partenariat avec ${name} ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 69
+          }
+        },
+        "71": {
+          "": {
+            "1": "Offrir un cadeau coûteux",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 70
+          }
+        },
+        "72": {
+          "": {
+            "1": "Gracieux départ",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 71
+          }
+        },
+        "73": {
+          "": {
+            "1": "Donnez une prime à la fille",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 72
+          }
+        },
+        "74": {
+          "": {
+            "1": "Féliciter la fille",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 73
+          }
+        },
+        "75": {
+          "": {
+            "1": "Problème résolu.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 74
+          }
+        },
+        "76": {
+          "": {
+            "1": "L'invité est parti.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 75
+          }
+        },
+        "77": {
+          "": {
+            "1": "Session prolongée !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 76
+          }
+        },
+        "78": {
+          "": {
+            "1": "Prolongation refusée !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 77
+          }
+        },
+        "79": {
+          "": {
+            "1": "L'impression du club s'est un peu améliorée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 78
+          }
+        },
+        "80": {
+          "": {
+            "1": "L'impression du club s'est améliorée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 79
+          }
+        },
+        "81": {
+          "": {
+            "1": "L'invité est parti.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 80
+          }
+        },
+        "82": {
+          "": {
+            "1": "Vous avez mal interprété son signal de main.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 81
+          }
+        },
+        "83": {
+          "": {
+            "1": "Une commande bonus !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 82
+          }
+        },
+        "84": {
+          "": {
+            "1": "L'humeur de l'invité s'est améliorée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 83
+          }
+        },
+        "85": {
+          "": {
+            "1": "La fille est un peu fatiguée.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 84
+          }
+        },
+        "86": {
+          "": {
+            "1": "La fille a récupéré un peu.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 85
+          }
+        },
+        "87": {
+          "": {
+            "1": "La fille a beaucoup récupéré.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 86
+          }
+        },
+        "88": {
+          "": {
+            "1": "Plus de fans grâce au bonus du bouche-à-oreille !",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 87
+          }
+        },
+        "89": {
+          "": {
+            "1": "Un peu plus de fans grâce au bouche-à-oreille.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 88
+          }
+        },
+        "90": {
+          "": {
+            "1": "Les performances de la fille se sont améliorées.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 89
+          }
+        },
+        "91": {
+          "": {
+            "1": "L'invité est reparti très satisfait.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 90
+          }
+        },
+        "92": {
+          "": {
+            "1": "L'invité est parti satisfait.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 91
+          }
+        },
+        "93": {
+          "": {
+            "1": "L'invité est parti.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 92
+          }
+        },
+        "94": {
+          "": {
+            "1": "L'invité est parti insatisfait.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 93
+          }
+        },
+        "95": {
+          "": {
+            "1": "L'invité est parti en colère.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 94
+          }
+        },
+        "96": {
+          "": {
+            "1": "Une serviette, s'il vous plaît.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 95
+          }
+        },
+        "97": {
+          "": {
+            "1": "Recharge de glace s'il vous plaît.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 96
+          }
+        },
+        "98": {
+          "": {
+            "1": "Verre d'invité s'il vous plaît.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 97
+          }
+        },
+        "99": {
+          "": {
+            "1": "Le verre des dames s'il vous plaît.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 98
+          }
+        },
+        "100": {
+          "": {
+            "1": "Un autre cendrier, s'il vous plaît.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 99
+          }
+        },
+        "101": {
+          "": {
+            "1": "Menu s'il vous plaît.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 100
+          }
+        },
+        "102": {
+          "": {
+            "1": "Sortir ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 101
+          }
+        },
+        "103": {
+          "": {
+            "1": "${value} fois",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 103
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "22": {
+    "minigame_blackjack": {
+      "table": {
+        "ROW_COUNT": 16,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 15,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Prendre une assurance ?",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Miser",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Re-miser",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Tirer",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "5": {
+          "": {
+            "1": "Rester",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "6": {
+          "": {
+            "1": "Doubler",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "7": {
+          "": {
+            "1": "Partager",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "8": {
+          "": {
+            "1": "Abandonner",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "9": {
+          "": {
+            "1": "Continuer à jouer",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "10": {
+          "": {
+            "1": "Continuer le jeu standard",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "11": {
+          "": {
+            "1": "Jouer pour des gains élevés",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "12": {
+          "": {
+            "1": "Quitter",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "13": {
+          "": {
+            "1": "Paiement",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "14": {
+          "": {
+            "1": "Total",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "15": {
+          "": {
+            "1": "Gain",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "23": {
+    "minigame_stalking": {
+      "table": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "24": {
+    "bouncer": {
+      "table": {
+        "ROW_COUNT": 3,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 2,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Difficulté: ${value}",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Aucune",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "25": {
+    "shogi": {
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "26": {
+    "sugoroku": {
+      "table": {
+        "ROW_COUNT": 21,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 0,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 15
+          }
+        },
+        "3": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "4": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "5": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        },
+        "6": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 5
+          }
+        },
+        "7": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 6
+          }
+        },
+        "8": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 7
+          }
+        },
+        "9": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 8
+          }
+        },
+        "10": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 9
+          }
+        },
+        "11": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 10
+          }
+        },
+        "12": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 11
+          }
+        },
+        "13": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 12
+          }
+        },
+        "14": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 13
+          }
+        },
+        "15": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 17
+          }
+        },
+        "16": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 16
+          }
+        },
+        "17": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 18
+          }
+        },
+        "18": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 14
+          }
+        },
+        "19": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 19
+          }
+        },
+        "20": {
+          "": {
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 20
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "lua_system": {
+      "table": {
+        "ROW_COUNT": 5,
+        "COLUMN_COUNT": 2,
+        "TEXT_COUNT": 4,
+        "ROW_VALIDATOR": 0,
+        "COLUMN_VALIDATOR": 0,
+        "HAS_ROW_NAMES": false,
+        "HAS_COLUMN_NAMES": false,
+        "HAS_ROW_VALIDITY": true,
+        "HAS_COLUMN_VALIDITY": true,
+        "HAS_UNKNOWN_BITMASK": false,
+        "HAS_ROW_INDICES": true,
+        "TABLE_ID": 0,
+        "columnValidity": {
+          "0": "0",
+          "1": "1"
+        },
+        "columnTypes": {
+          "0": -1,
+          "1": 0
+        },
+        "columnTypes2": {
+          "0": -1,
+          "1": 12
+        },
+        "0": {
+          "": {
+            "reARMP_isValid": "0",
+            "reARMP_rowIndex": 0
+          }
+        },
+        "1": {
+          "": {
+            "1": "Le chapitre 1 de la saga Majima a été\r\ndéverrouillé. Vous pouvez y accéder depuis\r\nl'écran titre.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 1
+          }
+        },
+        "2": {
+          "": {
+            "1": "Le chapitre 2 de la saga Majima a été\r\ndéverrouillé. Vous pouvez y accéder depuis\r\nl'écran titre.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 2
+          }
+        },
+        "3": {
+          "": {
+            "1": "Le chapitre 3 de la saga Majima a été\r\ndéverrouillé. Vous pouvez y accéder depuis\r\nl'écran titre.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 3
+          }
+        },
+        "4": {
+          "": {
+            "1": "Vous n'avez pas encore débloqué le chapitre suivant\r\nde la saga Majima. Avancez dans l'histoire principale\r\npour continuer à jouer.",
+            "reARMP_isValid": "1",
+            "reARMP_rowIndex": 4
+          }
+        }
+      },
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  }
+}
