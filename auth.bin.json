@@ -3346,7 +3346,7 @@
             "1": 845.0,
             "2": 926.0,
             "3": 0,
-            "4": "Eh bien, ce n'est pas loin...",
+            "4": "Eh bien, plus ou moins...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -3356,7 +3356,7 @@
             "1": 952.0,
             "2": 1052.0,
             "3": 0,
-            "4": "Hé! Faisons venir plus de nanas ici !",
+            "4": "Hé ! Faites venir plus de nanas ici !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -3396,7 +3396,7 @@
             "1": 1252.0,
             "2": 1333.0,
             "3": 0,
-            "4": "C'est un gros bonnet yakuza dans cette région.",
+            "4": "C'est un gros bonnet yakuza dans la région.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -3526,7 +3526,7 @@
             "1": 2352.0,
             "2": 2467.0,
             "3": 0,
-            "4": "Ne me dis pas qu'une fille de ton travail\r\nne connaît pas ce type...",
+            "4": "Ne me dis pas qu'une fille comme toi\r\nne connaît pas ce type...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 24
           }
@@ -3546,7 +3546,7 @@
             "1": 2648.0,
             "2": 2694.0,
             "3": 0,
-            "4": "Wow !",
+            "4": "Waouh !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -3616,7 +3616,7 @@
             "1": 3583.0,
             "2": 3632.0,
             "3": 0,
-            "4": "U-Uh... Est-ce que j'ai...?",
+            "4": "E-Euh... Est-ce que j'ai... ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 33
           }
@@ -3726,7 +3726,7 @@
             "1": 5206.0,
             "2": 5274.0,
             "3": 0,
-            "4": "Uhh... Patron ?",
+            "4": "Euhh... Patron ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 44
           }
@@ -3746,7 +3746,7 @@
             "1": 5380.0,
             "2": 5450.0,
             "3": 0,
-            "4": "Um, je, Euh...",
+            "4": "Hum, je, Euh...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 46
           }
@@ -3776,7 +3776,7 @@
             "1": 5977.0,
             "2": 6042.0,
             "3": 0,
-            "4": "Ca te rafraîchit la mémoire !?",
+            "4": "Ça te rafraîchit la mémoire !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 49
           }
@@ -3786,7 +3786,7 @@
             "1": 6049.0,
             "2": 6121.0,
             "3": 0,
-            "4": "Je veux que tu répètes ta merde !",
+            "4": "Je veux que tu répètes !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 50
           }
@@ -3846,7 +3846,7 @@
             "1": 7026.0,
             "2": 7094.0,
             "3": 0,
-            "4": "Tu as des couilles pour dire cette merde !",
+            "4": "T'as des couilles pour dire ça !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 56
           }
@@ -3866,7 +3866,7 @@
             "1": 7185.0,
             "2": 7293.0,
             "3": 0,
-            "4": "T'as un problème d'audition, toi aussi !?",
+            "4": "Toi aussi t'es sourd !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 58
           }
@@ -3906,7 +3906,7 @@
             "1": 8172.0,
             "2": 8231.0,
             "3": 0,
-            "4": "Prépare toi à crever !",
+            "4": "Prépare-toi à crever !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 62
           }
@@ -4036,7 +4036,7 @@
             "1": 1025.0,
             "2": 1053.0,
             "3": 0,
-            "4": "Je passe.",
+            "4": "Je refuse.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -4046,7 +4046,7 @@
             "1": 1070.0,
             "2": 1148.0,
             "3": 0,
-            "4": "Le clan Go-Ryu des Omi t'offre à boire.",
+            "4": "Le Clan Go-Ryu des Omi t'offre à boire.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -4056,7 +4056,7 @@
             "1": 1161.0,
             "2": 1248.0,
             "3": 0,
-            "4": "Allez, épargne-moi la honte de tout ça.",
+            "4": "Allez, épargne-moi toute cette honte.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -4066,7 +4066,7 @@
             "1": 1271.0,
             "2": 1309.0,
             "3": 0,
-            "4": "Le clan Go-Ryu...",
+            "4": "Le Clan Go-Ryu...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -4116,7 +4116,7 @@
             "1": 1838.0,
             "2": 1880.0,
             "3": 0,
-            "4": "Tu viens du Kanto, mon pote ?",
+            "4": "Tu viens du Kanto, je suppose ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -4146,7 +4146,7 @@
             "1": 2036.0,
             "2": 2182.0,
             "3": 0,
-            "4": "Si un mec comme toi était du Kansai,\r\nj'en aurai entendu des rumeurs depuis.",
+            "4": "Si un mec comme toi était du Kansai,\r\nj'aurai déjà entendu des rumeurs depuis.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -4336,7 +4336,7 @@
             "1": 4579.0,
             "2": 4667.0,
             "3": 0,
-            "4": "Dans tous les cas, c'est pas comme si tu pouvais être lui.",
+            "4": "Dans tous les cas, c'est pas comme si ça pouvait être toi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -4346,7 +4346,7 @@
             "1": 4682.0,
             "2": 4806.0,
             "3": 0,
-            "4": "Si tu l'étais, c'est impossible\r\nque tu sois ici en train de boire.",
+            "4": "Si c'est le cas, c'est impossible\r\nque tu sois ici en train de boire.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -4426,7 +4426,7 @@
             "1": 5499.0,
             "2": 5633.0,
             "3": 0,
-            "4": "Je déteste être appelé Le Dragon du Kansai.",
+            "4": "Je déteste être appelé le Dragon du Kansai.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 47
           }
@@ -4466,7 +4466,7 @@
             "1": 6140.0,
             "2": 6200.0,
             "3": 0,
-            "4": "Y'as pas plus pour d'autre.",
+            "4": "Y'a pas plus de place pour un autre.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 51
           }
@@ -4636,7 +4636,7 @@
             "1": 7959.0,
             "2": 8079.0,
             "3": 0,
-            "4": "Et je deviens le seul vrai dragon.",
+            "4": "Et je deviendrai le seul vrai dragon.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 68
           }
@@ -4646,7 +4646,7 @@
             "1": 8156.0,
             "2": 8218.0,
             "3": 0,
-            "4": "...Mais je t'ai parlé à l'oreille.",
+            "4": "...Mais je t'ai parlé en tête à tête.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 69
           }
@@ -4746,7 +4746,7 @@
             "1": 9578.0,
             "2": 9614.0,
             "3": 0,
-            "4": "À minuit...?",
+            "4": "À minuit... ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 79
           }
@@ -27771,7 +27771,7 @@
             "1": 772.0,
             "2": 901.0,
             "3": 0,
-            "4": "Le deuxième patriarche du\r\nclan Go-Ryu de l'Alliance Omi, Ryuji Goda.",
+            "4": "Le deuxième patriarche du\r\nClan Go-Ryu de l'Alliance Omi, Ryuji Goda.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -27841,7 +27841,7 @@
             "1": 1336.0,
             "2": 1461.0,
             "3": 0,
-            "4": "Il y a cinq ans, le clan Go-Ryu se\r\nrendait régulièrement à Kamurocho.",
+            "4": "Il y a cinq ans, le Clan Go-Ryu se\r\nrendait régulièrement à Kamurocho.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -27851,7 +27851,7 @@
             "1": 1480.0,
             "2": 1574.0,
             "3": 0,
-            "4": "Étaient-ils après la vieille famille Dojima ?",
+            "4": "Ils étaient après la vieille famille Dojima ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -27861,7 +27861,7 @@
             "1": 1577.0,
             "2": 1690.0,
             "3": 0,
-            "4": "Cela n'a pas d'importance.\r\nN'importe quel officier de Tojo ferait l'affaire.",
+            "4": "Ça n'a pas d'importance.\r\nN'importe quel officier de Tojo ferait l'affaire.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -27881,7 +27881,7 @@
             "1": 1839.0,
             "2": 1975.0,
             "3": 0,
-            "4": "J'étais assez imprudent à l'époque,\r\net j'ai sauté sur l'appât.",
+            "4": "J'étais assez imprudent à l'époque,\r\net j'e suis tombé dedans.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -27941,7 +27941,7 @@
             "1": 2615.0,
             "2": 2753.0,
             "3": 0,
-            "4": "Pas que je puisse me plaindre à un gars\r\nqui l'a mangé pour le double.",
+            "4": "Pas que je puisse me plaindre à un gars\r\nqui a mangé le double.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
