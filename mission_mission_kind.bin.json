@@ -4280,9 +4280,9 @@
   },
   "99": {
     "lexus2_m_ADV04_0090": {
-      "title": "Rencontrer le dealer d'informations au parloir de Mahjong",
+      "title": "Rencontrer le dealer d'informations au salon de Mahjong",
       "mission": "Sayama dit qu'elle connaît un gars là-bas.",
-      "mission_info": "Je cherche des informations auprès d'un homme avec une\r\ndoudoune dans le parloir de mahjong à Shofukucho.",
+      "mission_info": "Je cherche des informations auprès d'un homme avec une\r\ndoudoune dans le salon de mahjong à Shofukucho.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -4500,9 +4500,9 @@
   },
   "104": {
     "lexus2_m_ADV04_0150": {
-      "title": "Retourner au parloir de mahjong",
+      "title": "Retourner au salon de mahjong",
       "mission": "J'ai la tuile pour y entrer maintenant.",
-      "mission_info": "J'ai eu la tuile de Jongka. Maintenant je peux\r\nentrer dans le parloir de mahjong.",
+      "mission_info": "J'ai eu la tuile de Jongka. Maintenant je peux\r\nentrer dans le salon de mahjong.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -4629,7 +4629,7 @@
   },
   "107": {
     "lexus2_m_ADV04_0210": {
-      "title": "Retourner au parloir de mahjong",
+      "title": "Retourner au salon de mahjong",
       "mission": "Maintenant, j'ai le numéro d'Esaki.",
       "mission_info": "Maintenant que je connais le prix des amandes,\r\nje pense qu'Esaki pourrait parler.",
       "priority": 0,
@@ -28430,7 +28430,7 @@
     "lexus2_m_ADV92_0060": {
       "title": "Aller au salon de massage Hogushi Kaikan",
       "mission": "Ça ne va pas du tout.",
-      "mission_info": "Kawamura a été repéré dans un parloir de mahjong au-dessus\r\ndu salon de massage Hogushi Kaikan. Super.",
+      "mission_info": "Kawamura a été repéré dans un salon de mahjong au-dessus\r\ndu salon de massage Hogushi Kaikan. Super.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
