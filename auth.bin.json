@@ -1668,7 +1668,7 @@
             "1": 1018.0,
             "2": 1040.0,
             "3": 0,
-            "4": "Ne faites pas ça !",
+            "4": "Arrêtez !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 37
           }
@@ -2027,7 +2027,7 @@
             "1": 402.0,
             "2": 468.0,
             "3": 0,
-            "4": "Tu ne pensais pas que tu viendrais ici et tu foutrais la merde, hein ?",
+            "4": "Tu pensais vraiment que tu viendrais ici et qu'tu foutrais la merde, hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -2067,7 +2067,7 @@
             "1": 1006.0,
             "2": 1128.0,
             "3": 0,
-            "4": "T'es l'un de ses voyous chinois qui sèment la pagaille\r\ndans les clubs, non ?",
+            "4": "Vous êtes ces chinois qui sèment la pagaille\r\ndans les clubs, non ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -2097,7 +2097,7 @@
             "1": 1304.0,
             "2": 1377.0,
             "3": 0,
-            "4": "Nous ne payons pas tous les connards qui demandent.",
+            "4": "On ne paye pas tous les connards qui demandent.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -2107,7 +2107,7 @@
             "1": 1383.0,
             "2": 1434.0,
             "3": 0,
-            "4": "Donc si tu penses que tu peux nous forcer la main...",
+            "4": "Donc si vous pensez que vous pouvez nous forcer la main...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -2117,7 +2117,7 @@
             "1": 1455.0,
             "2": 1513.0,
             "3": 0,
-            "4": "Tu devras d'abord passer par moi !",
+            "4": "Vous devrez d'abord passer par moi !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -2147,7 +2147,7 @@
             "1": 1957.0,
             "2": 2052.0,
             "3": 0,
-            "4": "On ne va pas confier cette ville\r\nà des gens comme vous!",
+            "4": "On ne va pas confier cette ville\r\nà des gens comme vous !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -2187,7 +2187,7 @@
             "1": 2546.0,
             "2": 2618.0,
             "3": 0,
-            "4": "Mec, j'espère pas.",
+            "4": "Eh bien, j'espère pas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -2306,7 +2306,7 @@
             "1": 348.0,
             "2": 395.0,
             "3": 0,
-            "4": "...Par moi.",
+            "4": "...De mes mains.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -2366,7 +2366,7 @@
             "1": 1304.0,
             "2": 1380.0,
             "3": 0,
-            "4": "Alors laissez-moi faire ça.",
+            "4": "Alors laissez-moi m'en occuper.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -2406,7 +2406,7 @@
             "1": 1888.0,
             "2": 1938.0,
             "3": 0,
-            "4": "Juste un rêve...",
+            "4": "C'est juste un rêve...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -2416,7 +2416,7 @@
             "1": 1940.0,
             "2": 1994.0,
             "3": 0,
-            "4": "C'est quoi ce regard sur ton visage ?",
+            "4": "C'est quoi ce regard ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -2466,7 +2466,7 @@
             "1": 2320.0,
             "2": 2370.0,
             "3": 0,
-            "4": "Ouais, je suppose que je l'ai dit.",
+            "4": "Ouais, il me semble.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -2526,7 +2526,7 @@
             "1": 2825.0,
             "2": 2870.0,
             "3": 0,
-            "4": "C'est sûr.",
+            "4": "C'est clair.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -2586,7 +2586,7 @@
             "1": 40.0,
             "2": 64.0,
             "3": 0,
-            "4": "Comment ça va !?",
+            "4": "Ça va !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -2626,7 +2626,7 @@
             "1": 656.0,
             "2": 752.0,
             "3": 0,
-            "4": "Rapporte le chez les Omi... Président Goda...",
+            "4": "Rapporte-le chez les Omi... Président Goda...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -2736,7 +2736,7 @@
             "1": 364.0,
             "2": 407.0,
             "3": 0,
-            "4": "Cela fait longtemps...",
+            "4": "Ça fait longtemps...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -2756,7 +2756,7 @@
             "1": 508.0,
             "2": 607.0,
             "3": 0,
-            "4": "Hé, qui t'as donné la permission\r\nde parler à Aniki ?",
+            "4": "Hé, qui t'as donné la permission\r\nde parler à mon Aniki ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -2796,7 +2796,7 @@
             "1": 833.0,
             "2": 912.0,
             "3": 0,
-            "4": "Tu traites Aniki d'enfant maintenant !?",
+            "4": "Tu traites Aniki de gamin maintenant !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -2806,7 +2806,7 @@
             "1": 913.0,
             "2": 958.0,
             "3": 0,
-            "4": "Cela n'a rien à faire avec vous.",
+            "4": "Ça n'a rien à voir avec vous.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -2846,7 +2846,7 @@
             "1": 1240.0,
             "2": 1310.0,
             "3": 0,
-            "4": "Ne causons pas de scène ici.",
+            "4": "Inutile de faire de scène ici.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -2966,7 +2966,7 @@
             "1": 490.0,
             "2": 600.0,
             "3": 0,
-            "4": "Après la mort de mon père,\r\nle clan a commencé à s'effondrer aux coutures.",
+            "4": "Après la mort de mon père,\r\nle clan a commencé à s'effondrer.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -2976,7 +2976,7 @@
             "1": 632.0,
             "2": 777.0,
             "3": 0,
-            "4": "Et maintenant...?\r\nCe n'est même pas la peine de risquer mon cul pour le sauver.",
+            "4": "Et maintenant... ?\r\nC'est même pas la peine de prendre le risque pour le sauver.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -3096,7 +3096,7 @@
             "1": 1860.0,
             "2": 1940.0,
             "3": 0,
-            "4": "Si le Clan Tojo va faire son retour...",
+            "4": "Si le Clan Tojo veut faire son retour...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -3116,7 +3116,7 @@
             "1": 2063.0,
             "2": 2116.0,
             "3": 0,
-            "4": "Oh, c'est riche venant de toi...",
+            "4": "Oh, c'est beau venant de ta part...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -3166,7 +3166,7 @@
             "1": 2538.0,
             "2": 2573.0,
             "3": 0,
-            "4": "C'est quoi ce bordel, mec...",
+            "4": "Bordel, mec...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -3176,7 +3176,7 @@
             "1": 2590.0,
             "2": 2698.0,
             "3": 0,
-            "4": "Alors ? Tu te réveilles déjà ?",
+            "4": "Alors ? Tu te réveilles enfin ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -3186,7 +3186,7 @@
             "1": 2787.0,
             "2": 2830.0,
             "3": 0,
-            "4": "Tu changes jamais...",
+            "4": "Tu changeras jamais...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 28
           }
@@ -3346,7 +3346,7 @@
             "1": 845.0,
             "2": 926.0,
             "3": 0,
-            "4": "Eh bien, ce n'est pas loin...",
+            "4": "Eh bien, plus ou moins...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -3356,7 +3356,7 @@
             "1": 952.0,
             "2": 1052.0,
             "3": 0,
-            "4": "Hé! Faisons venir plus de nanas ici !",
+            "4": "Hé ! Faites venir plus de nanas ici !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -3396,7 +3396,7 @@
             "1": 1252.0,
             "2": 1333.0,
             "3": 0,
-            "4": "C'est un gros bonnet yakuza dans cette région.",
+            "4": "C'est un gros bonnet yakuza dans la région.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -3526,7 +3526,7 @@
             "1": 2352.0,
             "2": 2467.0,
             "3": 0,
-            "4": "Ne me dis pas qu'une fille de ton travail\r\nne connaît pas ce type...",
+            "4": "Ne me dis pas qu'une fille comme toi\r\nne connaît pas ce type...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 24
           }
@@ -3546,7 +3546,7 @@
             "1": 2648.0,
             "2": 2694.0,
             "3": 0,
-            "4": "Wow !",
+            "4": "Waouh !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -3616,7 +3616,7 @@
             "1": 3583.0,
             "2": 3632.0,
             "3": 0,
-            "4": "U-Uh... Est-ce que j'ai...?",
+            "4": "E-Euh... Est-ce que j'ai... ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 33
           }
@@ -3726,7 +3726,7 @@
             "1": 5206.0,
             "2": 5274.0,
             "3": 0,
-            "4": "Uhh... Patron ?",
+            "4": "Euhh... Patron ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 44
           }
@@ -3746,7 +3746,7 @@
             "1": 5380.0,
             "2": 5450.0,
             "3": 0,
-            "4": "Um, je, Euh...",
+            "4": "Hum, je, Euh...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 46
           }
@@ -3776,7 +3776,7 @@
             "1": 5977.0,
             "2": 6042.0,
             "3": 0,
-            "4": "Ca te rafraîchit la mémoire !?",
+            "4": "Ça te rafraîchit la mémoire !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 49
           }
@@ -3786,7 +3786,7 @@
             "1": 6049.0,
             "2": 6121.0,
             "3": 0,
-            "4": "Je veux que tu répètes ta merde !",
+            "4": "Je veux que tu répètes !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 50
           }
@@ -3846,7 +3846,7 @@
             "1": 7026.0,
             "2": 7094.0,
             "3": 0,
-            "4": "Tu as des couilles pour dire cette merde !",
+            "4": "T'as des couilles pour dire ça !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 56
           }
@@ -3866,7 +3866,7 @@
             "1": 7185.0,
             "2": 7293.0,
             "3": 0,
-            "4": "T'as un problème d'audition, toi aussi !?",
+            "4": "Toi aussi t'es sourd !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 58
           }
@@ -3906,7 +3906,7 @@
             "1": 8172.0,
             "2": 8231.0,
             "3": 0,
-            "4": "Prépare toi à crever !",
+            "4": "Prépare-toi à crever !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 62
           }
@@ -4036,7 +4036,7 @@
             "1": 1025.0,
             "2": 1053.0,
             "3": 0,
-            "4": "Je passe.",
+            "4": "Je refuse.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -4046,7 +4046,7 @@
             "1": 1070.0,
             "2": 1148.0,
             "3": 0,
-            "4": "Le clan Go-Ryu des Omi t'offre à boire.",
+            "4": "Le Clan Go-Ryu des Omi t'offre à boire.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -4056,7 +4056,7 @@
             "1": 1161.0,
             "2": 1248.0,
             "3": 0,
-            "4": "Allez, épargne-moi la honte de tout ça.",
+            "4": "Allez, épargne-moi toute cette honte.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -4066,7 +4066,7 @@
             "1": 1271.0,
             "2": 1309.0,
             "3": 0,
-            "4": "Le clan Go-Ryu...",
+            "4": "Le Clan Go-Ryu...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -4116,7 +4116,7 @@
             "1": 1838.0,
             "2": 1880.0,
             "3": 0,
-            "4": "Tu viens du Kanto, mon pote ?",
+            "4": "Tu viens du Kanto, je suppose ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -4146,7 +4146,7 @@
             "1": 2036.0,
             "2": 2182.0,
             "3": 0,
-            "4": "Si un mec comme toi était du Kansai,\r\nj'en aurai entendu des rumeurs depuis.",
+            "4": "Si un mec comme toi était du Kansai,\r\nj'aurai déjà entendu des rumeurs depuis.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -4336,7 +4336,7 @@
             "1": 4579.0,
             "2": 4667.0,
             "3": 0,
-            "4": "Dans tous les cas, c'est pas comme si tu pouvais être lui.",
+            "4": "Dans tous les cas, c'est pas comme si ça pouvait être toi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -4346,7 +4346,7 @@
             "1": 4682.0,
             "2": 4806.0,
             "3": 0,
-            "4": "Si tu l'étais, c'est impossible\r\nque tu sois ici en train de boire.",
+            "4": "Si c'est le cas, c'est impossible\r\nque tu sois ici en train de boire.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -4426,7 +4426,7 @@
             "1": 5499.0,
             "2": 5633.0,
             "3": 0,
-            "4": "Je déteste être appelé Le Dragon du Kansai.",
+            "4": "Je déteste être appelé le Dragon du Kansai.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 47
           }
@@ -4466,7 +4466,7 @@
             "1": 6140.0,
             "2": 6200.0,
             "3": 0,
-            "4": "Y'as pas plus pour d'autre.",
+            "4": "Y'a pas plus de place pour un autre.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 51
           }
@@ -4636,7 +4636,7 @@
             "1": 7959.0,
             "2": 8079.0,
             "3": 0,
-            "4": "Et je deviens le seul vrai dragon.",
+            "4": "Et je deviendrai le seul vrai dragon.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 68
           }
@@ -4646,7 +4646,7 @@
             "1": 8156.0,
             "2": 8218.0,
             "3": 0,
-            "4": "...Mais je t'ai parlé à l'oreille.",
+            "4": "...Mais je t'ai parlé en tête à tête.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 69
           }
@@ -4746,7 +4746,7 @@
             "1": 9578.0,
             "2": 9614.0,
             "3": 0,
-            "4": "À minuit...?",
+            "4": "À minuit... ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 79
           }
@@ -4835,7 +4835,7 @@
             "1": 384.0,
             "2": 449.0,
             "3": 0,
-            "4": "C'est sûrement une sorte de confusion ?",
+            "4": "C'est probablement une sorte de confusion ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -4855,7 +4855,7 @@
             "1": 562.0,
             "2": 618.0,
             "3": 0,
-            "4": "Vous n'étiez pas en train de taper sur la table ?",
+            "4": "Vous n'étiez pas en train de marteler la table ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -4865,7 +4865,7 @@
             "1": 633.0,
             "2": 703.0,
             "3": 0,
-            "4": "J'n'appellerais pas ça un coup de poing.",
+            "4": "J'n'appellerais pas ça marteler.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -4885,7 +4885,7 @@
             "1": 767.0,
             "2": 837.0,
             "3": 0,
-            "4": "Tape ! C'est tout ce que c'était.",
+            "4": "Tape ! Voilà ce que c'était.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -4895,7 +4895,7 @@
             "1": 859.0,
             "2": 922.0,
             "3": 0,
-            "4": "Ca ressemble à de l'extorsion pour moi.",
+            "4": "Ça ressemble à de l'extorsion pour moi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -4915,7 +4915,7 @@
             "1": 1022.0,
             "2": 1157.0,
             "3": 0,
-            "4": "Pincez-nous avec des accusations bidon comme ça\r\net nous ne pourrons plus mettre de la nourriture sur la table !",
+            "4": "Continuez avec des accusations bidon comme ça\r\net on ne pourra plus manger une miette de pain !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -4925,7 +4925,7 @@
             "1": 1164.0,
             "2": 1311.0,
             "3": 0,
-            "4": "Vous auriez dû y penser avant de commencer à balancer\r\nle nom de votre famille de seconde zone pour effrayer les civils.",
+            "4": "Vous auriez dû y penser avant de commencer à balancer\r\nle nom de votre famille de seconde zone pour effrayer des civils.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -4965,7 +4965,7 @@
             "1": 1575.0,
             "2": 1634.0,
             "3": 0,
-            "4": "Bordel de merde, madame !?",
+            "4": "Bordel, madame !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -4975,7 +4975,7 @@
             "1": 1652.0,
             "2": 1780.0,
             "3": 0,
-            "4": "Les vrais yakuzas se démènent pour gagner beaucoup d'argent\r\npas pour faire de la petite monnaie !",
+            "4": "Les vrais yakuzas se démènent pour gagner beaucoup d'argent,\r\npas pour faire de la petite monnaie !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -5015,7 +5015,7 @@
             "1": 1995.0,
             "2": 2058.0,
             "3": 0,
-            "4": "Enlève tes mains, connard !",
+            "4": "Retire tes mains, connard !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -5233,7 +5233,7 @@
             "1": 1665.0,
             "2": 1757.0,
             "3": 0,
-            "4": "Tu ne peux pas t'attendre à ce que je me souvienne de chaque opération.\r\nAssieds-toi.",
+            "4": "T'attends pas à ce que je me souvienne de tout.\r\nAssieds-toi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -5243,7 +5243,7 @@
             "1": 1800.0,
             "2": 1842.0,
             "3": 0,
-            "4": "Fais une sieste ou quelque chose comme ça.",
+            "4": "Fais une sieste ou un truc dans le genre.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -5263,7 +5263,7 @@
             "1": 1975.0,
             "2": 2010.0,
             "3": 0,
-            "4": "Fais le !",
+            "4": "Vas-y !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -5333,7 +5333,7 @@
             "1": 2546.0,
             "2": 2608.0,
             "3": 0,
-            "4": "T'crois que je ne le sais pas ?",
+            "4": "T'crois que j'le sais pas ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 24
           }
@@ -5363,7 +5363,7 @@
             "1": 2860.0,
             "2": 3000.0,
             "3": 0,
-            "4": "Je ne peux pas laisser mon vieux parler\r\nde paix avec le Clan Tojo maintenant.",
+            "4": "J'peux pas laisser mon vieux parler\r\nde paix avec le Clan Tojo maintenant.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -5393,7 +5393,7 @@
             "1": 3339.0,
             "2": 3448.0,
             "3": 0,
-            "4": "C'est le cas\r\nL'Est contre l'Ouest.",
+            "4": "Exactement.\r\nL'Est contre l'Ouest.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 30
           }
@@ -5403,7 +5403,7 @@
             "1": 3499.0,
             "2": 3616.0,
             "3": 0,
-            "4": "C'est tout ce que je veux...\r\nEh bien, ça et une autre chose...",
+            "4": "C'est tout ce que je veux...\r\nEnfin, ça et une autre chose...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -5423,7 +5423,7 @@
             "1": 3714.0,
             "2": 3803.0,
             "3": 0,
-            "4": "C'est vrai. Ta tête sur un plateau.",
+            "4": "Exact. Ta tête sur un plateau.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 33
           }
@@ -5433,7 +5433,7 @@
             "1": 3820.0,
             "2": 3943.0,
             "3": 0,
-            "4": "Tu penses que ça vaut la peine de s'embêter ?\r\nJe dis qu'on va le découvrir !",
+            "4": "Tu penses que ça vaut la peine de s'embêter ?\r\nEh bien on va le découvrir !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 34
           }
@@ -5493,7 +5493,7 @@
             "1": 113.0,
             "2": 178.0,
             "3": 0,
-            "4": "Ce n'est pas fini, et de loin !",
+            "4": "C'est loin d'être fini !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -5513,7 +5513,7 @@
             "1": 273.0,
             "2": 306.0,
             "3": 0,
-            "4": "Scuse moi ?",
+            "4": "S'cuse moi ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -5553,7 +5553,7 @@
             "1": 576.0,
             "2": 670.0,
             "3": 0,
-            "4": "Je n'ai pas fini tant que l'un de nous ne respire pas !",
+            "4": "J'aurai pas fini tant que l'un de nous ne respire plus !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -9146,7 +9146,7 @@
             "1": 4372.0,
             "2": 4493.0,
             "3": 0,
-            "4": "Ca ne sert à rien de donner des détails aux morts.",
+            "4": "Ça ne sert à rien de donner des détails aux morts.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 48
           }
@@ -9656,7 +9656,7 @@
             "1": 720.0,
             "2": 820.0,
             "3": 0,
-            "4": "Ca vous tuerait d'agir comme une dame ?",
+            "4": "Ça vous tuerait d'agir comme une dame ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -9716,7 +9716,7 @@
             "1": 1275.0,
             "2": 1377.0,
             "3": 0,
-            "4": "Ca pourrait être mauvais si ça se retrouvait\r\nsur une scène de crime, non ?",
+            "4": "Ça pourrait être mauvais si ça se retrouvait\r\nsur une scène de crime, non ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -10036,7 +10036,7 @@
             "1": 4847.0,
             "2": 4900.0,
             "3": 0,
-            "4": "Ca ne te concerne pas.",
+            "4": "Ça ne te concerne pas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 43
           }
@@ -12239,7 +12239,7 @@
             "1": 5847.0,
             "2": 5928.0,
             "3": 0,
-            "4": "Vous êtes vraiment le président temporaire ?",
+            "4": "Vous êtes vraiment la présidente suppléante ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -12919,7 +12919,7 @@
             "1": 789.0,
             "2": 855.0,
             "3": 0,
-            "4": "Ca fait un moment que je te veux !",
+            "4": "Ça fait un moment que je te veux !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -13279,7 +13279,7 @@
             "1": 1725.0,
             "2": 1829.0,
             "3": 0,
-            "4": "Président temporaire, mes plus profondes excuses !",
+            "4": "Présidente suppléante, mes plus profondes excuses !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -16309,7 +16309,7 @@
             "1": 383.0,
             "2": 426.0,
             "3": 0,
-            "4": "Ca ressemble à un piège pour moi.",
+            "4": "Ça ressemble à un piège pour moi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -18458,7 +18458,7 @@
             "1": 1829.0,
             "2": 1873.0,
             "3": 0,
-            "4": "Ca me rappelle...",
+            "4": "Ça me rappelle...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -20478,7 +20478,7 @@
             "1": 4865.0,
             "2": 5000.0,
             "3": 0,
-            "4": "Ca montre juste... à quel point tu es spécial.",
+            "4": "Ça montre juste... à quel point tu es spécial.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -21837,7 +21837,7 @@
             "1": 4260.0,
             "2": 4322.0,
             "3": 0,
-            "4": "Ca veut dire que tu es... !",
+            "4": "Ça veut dire que tu es... !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -21987,7 +21987,7 @@
             "1": 6153.0,
             "2": 6245.0,
             "3": 0,
-            "4": "Ca fait aussi partie du plan, je pourrais ajouter.",
+            "4": "Ça fait aussi partie du plan, je pourrais ajouter.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 40
           }
@@ -22117,7 +22117,7 @@
             "1": 8382.0,
             "2": 8442.0,
             "3": 0,
-            "4": "Ca a pris du temps...",
+            "4": "Ça a pris du temps...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 53
           }
@@ -23467,7 +23467,7 @@
             "1": 16102.0,
             "2": 16157.0,
             "3": 0,
-            "4": "Ca n'a pas d'importance.",
+            "4": "Ça n'a pas d'importance.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 100
           }
@@ -23877,7 +23877,7 @@
             "1": 5412.0,
             "2": 5482.0,
             "3": 0,
-            "4": "Ca va exploser !\r\nSors de là !",
+            "4": "Ça va exploser !\r\nSors de là !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -24674,7 +24674,7 @@
             "1": 340.0,
             "2": 380.0,
             "3": 0,
-            "4": "Ca fait un sacré bout de temps...",
+            "4": "Ça fait un sacré bout de temps...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -24814,7 +24814,7 @@
             "1": 681.0,
             "2": 746.0,
             "3": 0,
-            "4": "Je dois mettre des gars à la surveillance ?",
+            "4": "Je dois envoyer des gars pour surveiller ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -24904,7 +24904,7 @@
             "1": 1416.0,
             "2": 1581.0,
             "3": 0,
-            "4": "Une erreur pourrait nous conduire à une guerre totale\r\net ce n'est pas le moment pour ça.",
+            "4": "Une erreur pourrait nous conduire à une guerre totale\r\net c'est pas le moment pour ça.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -24924,7 +24924,7 @@
             "1": 1706.0,
             "2": 1761.0,
             "3": 0,
-            "4": "Personne ne cligne des yeux sans mon accord.",
+            "4": "Personne n'agit sans mon accord.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -25044,7 +25044,7 @@
             "1": 3477.0,
             "2": 3529.0,
             "3": 0,
-            "4": "Et je dis que j'en ai rien à foutre.",
+            "4": "Et j'ai dit que j'en avais rien à foutre.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -25174,7 +25174,7 @@
             "1": 4687.0,
             "2": 4815.0,
             "3": 0,
-            "4": "Cela ne fera pas reposer les âmes\r\nde ceux qui sont morts en vain...",
+            "4": "Ça ne fera pas reposer les âmes\r\nde ceux qui sont morts en vain...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 42
           }
@@ -25253,7 +25253,7 @@
             "1": 765.0,
             "2": 862.0,
             "3": 0,
-            "4": "Mais, monsieur !\r\nCela vous laisse ouvert à une embuscade du Kansai...",
+            "4": "Mais, monsieur !\r\nÇa vous laisse ouvert à une embuscade du Kansai...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -25273,7 +25273,7 @@
             "1": 989.0,
             "2": 1089.0,
             "3": 0,
-            "4": "Ils ne seraient pas assez grossiers\r\npour tacher cet endroit avec plus de mort.",
+            "4": "Ils ne seraient pas assez idiots\r\npour tâcher cet endroit avec plus de morts.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -25413,7 +25413,7 @@
             "1": 2921.0,
             "2": 2949.0,
             "3": 0,
-            "4": "Terada...?",
+            "4": "Terada... ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -25423,7 +25423,7 @@
             "1": 2964.0,
             "2": 2993.0,
             "3": 0,
-            "4": "Ca fait un bail.",
+            "4": "Ça fait un bail.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -25453,7 +25453,7 @@
             "1": 3219.0,
             "2": 3347.0,
             "3": 0,
-            "4": "J'ai quelque chose à dire qui n'est destiné\r\nqu'aux oreilles du quatrième préisdent...",
+            "4": "J'ai quelque chose à dire qui n'est destiné\r\nqu'aux oreilles du quatrième président...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -25463,7 +25463,7 @@
             "1": 3354.0,
             "2": 3456.0,
             "3": 0,
-            "4": "Laisse tomber le \"Quatrième Président\".\r\nJe suis juste un civil maintenant.",
+            "4": "Laisse tomber le \"quatrième président\".\r\nJe suis juste un civil maintenant.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -25543,7 +25543,7 @@
             "1": 4461.0,
             "2": 4528.0,
             "3": 0,
-            "4": "Je ne peux pas permettre que cela se réalise.",
+            "4": "Je ne peux pas laisser ça se réaliser.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -25613,7 +25613,7 @@
             "1": 5218.0,
             "2": 5331.0,
             "3": 0,
-            "4": "Ex-président, comment puis-je aider\r\nle Clan Tojo à traverser cette crise ?",
+            "4": "Ex-président, comment je peux aider\r\nle Clan Tojo à traverser cette crise ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -25643,7 +25643,7 @@
             "1": 6048.0,
             "2": 6098.0,
             "3": 0,
-            "4": "Qu'est-ce que vous faites ici?",
+            "4": "Qu'est-ce que vous faites ici ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 41
           }
@@ -26022,7 +26022,7 @@
             "1": 813.0,
             "2": 839.0,
             "3": 0,
-            "4": "Président temporaire !",
+            "4": "Présidente suppléante !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -26052,7 +26052,7 @@
             "1": 1108.0,
             "2": 1167.0,
             "3": 0,
-            "4": "Cependant, ça ferait une sacrée histoire !",
+            "4": "Mais ça ferait une sacrée histoire !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -26102,7 +26102,7 @@
             "1": 1452.0,
             "2": 1546.0,
             "3": 0,
-            "4": "Je ne vais pas prendre la responsabilité si tu fais\r\nquelque chose de stupide.",
+            "4": "Je ne prendrais pas la responsabilité si tu fais\r\nquelque chose de stupide.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -26112,7 +26112,7 @@
             "1": 1553.0,
             "2": 1594.0,
             "3": 0,
-            "4": "Tu te pencherais alors !?",
+            "4": "Tu te laisserais marcher dessus alors !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -26222,7 +26222,7 @@
             "1": 2727.0,
             "2": 2743.0,
             "3": 0,
-            "4": "Je veux.",
+            "4": "Je le souhaite.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -26262,7 +26262,7 @@
             "1": 3045.0,
             "2": 3093.0,
             "3": 0,
-            "4": "Une erreur, et tu es mort",
+            "4": "Une erreur, et vous êtes mort",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -26352,7 +26352,7 @@
             "1": 4040.0,
             "2": 4080.0,
             "3": 0,
-            "4": "Ce n'est pas ta responsabilité.",
+            "4": "Ce n'est pas votre responsabilité.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -26402,7 +26402,7 @@
             "1": 4649.0,
             "2": 4716.0,
             "3": 0,
-            "4": "Même si je dis non... Tu iras ?",
+            "4": "Même si je dis non... Vous irez ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 43
           }
@@ -26512,7 +26512,7 @@
             "1": 5930.0,
             "2": 5997.0,
             "3": 0,
-            "4": "Cela signifiera la guerre entre l'Est et l'Ouest !",
+            "4": "Ça signifiera la guerre entre l'Est et l'Ouest !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 54
           }
@@ -26522,7 +26522,7 @@
             "1": 6137.0,
             "2": 6201.0,
             "3": 0,
-            "4": "Sachant cela, allez-vous y aller ?",
+            "4": "Sachant ce détail, allez-vous y aller ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 55
           }
@@ -27131,7 +27131,7 @@
             "1": 441.0,
             "2": 494.0,
             "3": 0,
-            "4": "SI tu veux être voyant...",
+            "4": "Si tu veux être voyant...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -27181,7 +27181,7 @@
             "1": 728.0,
             "2": 774.0,
             "3": 0,
-            "4": "Ouais, mais il...!",
+            "4": "Ouais, mais il... !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -27261,7 +27261,7 @@
             "1": 1513.0,
             "2": 1597.0,
             "3": 0,
-            "4": "J'en ai marre des autres quand même.",
+            "4": "Eh bien j'en ai marre de parler à ceux qui ne changent pas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -27291,7 +27291,7 @@
             "1": 1792.0,
             "2": 1843.0,
             "3": 0,
-            "4": "Ouais, eh bien je n'en ai pas besoin.",
+            "4": "Ouais, mais pas moi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -27321,7 +27321,7 @@
             "1": 2027.0,
             "2": 2050.0,
             "3": 0,
-            "4": "Elle l'a fait ?",
+            "4": "Vraiment ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -27341,7 +27341,7 @@
             "1": 2210.0,
             "2": 2247.0,
             "3": 0,
-            "4": "J'ai peur de ne pas pouvoir.",
+            "4": "J'ai bien peur que non.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -27361,7 +27361,7 @@
             "1": 2415.0,
             "2": 2502.0,
             "3": 0,
-            "4": "Je me fiche de ce qui arrive au clan.",
+            "4": "Je m'en fiche de ce qui arrive au clan.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -27401,7 +27401,7 @@
             "1": 2732.0,
             "2": 2791.0,
             "3": 0,
-            "4": "À cause de votre père, le Patriarche Dojima.",
+            "4": "À cause de ton père, Patriarche Dojima.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -27461,7 +27461,7 @@
             "1": 445.0,
             "2": 574.0,
             "3": 0,
-            "4": "L'avenir entier du clan Tojo repose sur cela..",
+            "4": "L'avenir entier du clan Tojo repose sur ça.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -27571,7 +27571,7 @@
             "1": 570.0,
             "2": 649.0,
             "3": 0,
-            "4": "Mais le clan Tojo... S'il te plaît.",
+            "4": "Mais le Clan Tojo... S'il te plaît.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -27671,7 +27671,7 @@
             "1": 1413.0,
             "2": 1508.0,
             "3": 0,
-            "4": "Je me fiche que tu restes ou que tu partes.\r\nJe viens.",
+            "4": "Je m'en fiche que tu restes ou que tu partes.\r\nJe viens.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -27771,7 +27771,7 @@
             "1": 772.0,
             "2": 901.0,
             "3": 0,
-            "4": "Le deuxième patriarche du\r\nclan Go-Ryu de l'Alliance Omi, Ryuji Goda.",
+            "4": "Le deuxième patriarche du\r\nClan Go-Ryu de l'Alliance Omi, Ryuji Goda.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -27841,7 +27841,7 @@
             "1": 1336.0,
             "2": 1461.0,
             "3": 0,
-            "4": "Il y a cinq ans, le clan Go-Ryu se\r\nrendait régulièrement à Kamurocho.",
+            "4": "Il y a cinq ans, le Clan Go-Ryu se\r\nrendait régulièrement à Kamurocho.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -27851,7 +27851,7 @@
             "1": 1480.0,
             "2": 1574.0,
             "3": 0,
-            "4": "Étaient-ils après la vieille famille Dojima ?",
+            "4": "Ils étaient après la vieille famille Dojima ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -27861,7 +27861,7 @@
             "1": 1577.0,
             "2": 1690.0,
             "3": 0,
-            "4": "Cela n'a pas d'importance.\r\nN'importe quel officier de Tojo ferait l'affaire.",
+            "4": "Ça n'a pas d'importance.\r\nN'importe quel officier de Tojo ferait l'affaire.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -27881,7 +27881,7 @@
             "1": 1839.0,
             "2": 1975.0,
             "3": 0,
-            "4": "J'étais assez imprudent à l'époque,\r\net j'ai sauté sur l'appât.",
+            "4": "J'étais assez imprudent à l'époque,\r\net j'e suis tombé dedans.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -27941,7 +27941,7 @@
             "1": 2615.0,
             "2": 2753.0,
             "3": 0,
-            "4": "Pas que je puisse me plaindre à un gars\r\nqui l'a mangé pour le double.",
+            "4": "Pas que je puisse me plaindre à un gars\r\nqui a mangé le double.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -28295,7 +28295,7 @@
             "1": 332.0,
             "2": 445.0,
             "3": 0,
-            "4": "Alors, qu'est-ce que la puissante\r\npolice de Tokyo voudrait que nous fassions, exactement ?",
+            "4": "Alors, qu'est-ce que la puissante\r\nTokyo PD veut qu'on fasse', exactement ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -28325,7 +28325,7 @@
             "1": 563.0,
             "2": 753.0,
             "3": 0,
-            "4": "Si les négociations de paix échouent, et que Kiryu se fait tuer,\r\nil n'y aura pas d'arrêt du bain de sang.",
+            "4": "Si les négociations de paix échouent, et que Kiryu se fait tuer,\r\nle bang de sain continuera.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -28335,7 +28335,7 @@
             "1": 797.0,
             "2": 917.0,
             "3": 0,
-            "4": "Donc ce que vous dites,\r\nc'est que vous voulez que les flics couvrent un yakuza ?",
+            "4": "Donc ce que vous dites,\r\nc'est que les flics doivent couvrir un yakuza ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -28345,7 +28345,7 @@
             "1": 928.0,
             "2": 1042.0,
             "3": 0,
-            "4": "Oui, à peu près. Le temps presse,\r\ndonc on compte sur vous ici.",
+            "4": "Oui, à peu près. Le temps presse,\r\ndonc on compte sur vous.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -28355,7 +28355,7 @@
             "1": 1249.0,
             "2": 1322.0,
             "3": 0,
-            "4": "Ils pensent qu'ils dirigent ce putain de spectacle !",
+            "4": "Ils pensent qu'ils dirigent la situation !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -28375,7 +28375,7 @@
             "1": 1441.0,
             "2": 1573.0,
             "3": 0,
-            "4": "Hein ? Oui, c'était la Division 4 de Tokyo.",
+            "4": "Hein ? Oui, c'était la 4ème Division de Tokyo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -28425,7 +28425,7 @@
             "1": 1907.0,
             "2": 2027.0,
             "3": 0,
-            "4": "S'il mord dans notre jardin,\r\nça va être une tempête de merde d'Est en Ouest !",
+            "4": "S'il rentre dans notre domaine,\r\nça va être un bordel d'Est en Ouest !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -28445,7 +28445,7 @@
             "1": 2133.0,
             "2": 2193.0,
             "3": 0,
-            "4": "Quel putain de bordel...",
+            "4": "Quel bordel...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -28465,7 +28465,7 @@
             "1": 2275.0,
             "2": 2305.0,
             "3": 0,
-            "4": "Oh, bon sang, non.",
+            "4": "Oh non.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -28475,7 +28475,7 @@
             "1": 2325.0,
             "2": 2410.0,
             "3": 0,
-            "4": "Quand j'aurai besoin d'une baby-sitter,\r\ntu n'es pas exactement celle que j'appellerai.",
+            "4": "Quand j'ai besoin d'une baby-sitter,\r\ntu n'es pas exactement celle que j'appellerai.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -28485,7 +28485,7 @@
             "1": 2414.0,
             "2": 2458.0,
             "3": 0,
-            "4": "Ce n'est pas notre grande chance ?",
+            "4": "C'est pas notre grande chance ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -28495,7 +28495,7 @@
             "1": 2468.0,
             "2": 2492.0,
             "3": 0,
-            "4": "Chance comment ?",
+            "4": "Quel genre de chance ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -28535,7 +28535,7 @@
             "1": 2898.0,
             "2": 2958.0,
             "3": 0,
-            "4": "Pour effacer ces sourires suffisants de Tokyo ?",
+            "4": "Pour effacer les sourires suffisants de Tokyo ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -28575,7 +28575,7 @@
             "1": 3337.0,
             "2": 3364.0,
             "3": 0,
-            "4": "Alors j'ai eu le job ?",
+            "4": "Alors j'ai le job ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 31
           }
@@ -28615,7 +28615,7 @@
             "1": 3617.0,
             "2": 3705.0,
             "3": 0,
-            "4": "Je vous le demande en tant que détective principal\r\nde la division 4 de la police d'Osaka.",
+            "4": "Je vous le demande en tant que détective principal\r\nde la 4ème division de la Osaka PD.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 35
           }
@@ -28914,7 +28914,7 @@
             "1": 1221.0,
             "2": 1294.0,
             "3": 0,
-            "4": "J'ai entendu les rumeurs\r\nquatrième président Kiryu.",
+            "4": "J'ai entendu les rumeurs,\r\nquatrième président Kiryu.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -29034,7 +29034,7 @@
             "1": 2717.0,
             "2": 2820.0,
             "3": 0,
-            "4": "Hé... Vous pouvez répéter ces conneries ?",
+            "4": "Hé... Vous pouvez répéter ce truc ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -29044,7 +29044,7 @@
             "1": 2839.0,
             "2": 2950.0,
             "3": 0,
-            "4": "Malheureux ? C'est une sorte de blague de mauvais goût ?",
+            "4": "Malheureux ? C'est quoi cette blague de mauvais goût ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -29084,7 +29084,7 @@
             "1": 3276.0,
             "2": 3350.0,
             "3": 0,
-            "4": "Conneries ! Vous pensez que cela vous excuse !?",
+            "4": "N'importe quoi ! Vous pensez que cela vous excuse !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -29094,7 +29094,7 @@
             "1": 3368.0,
             "2": 3437.0,
             "3": 0,
-            "4": "Arrête de jacasser, mon petit.",
+            "4": "Arrête de jacasser, gamin.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -29134,7 +29134,7 @@
             "1": 3747.0,
             "2": 3857.0,
             "3": 0,
-            "4": "Eh ? Ai-je pas raison, quatrième président de Tojo-han !?",
+            "4": "Eh ? N'ai-je pas raison, quatrième président de Tojo-han !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -29144,7 +29144,7 @@
             "1": 3861.0,
             "2": 3953.0,
             "3": 0,
-            "4": "Ca suffit, Sengoku.\r\nC'était impoli.",
+            "4": "Ça suffit, Sengoku.\r\nC'était impoli.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -29204,7 +29204,7 @@
             "1": 4578.0,
             "2": 4730.0,
             "3": 0,
-            "4": "Ca ne devrait pas vous importer de savoir comment\r\nvotre camp traite les traîtres.",
+            "4": "Ça ne devrait pas vous importer de savoir comment\r\nnotre camp traite les traîtres.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 32
           }
@@ -29324,7 +29324,7 @@
             "1": 6136.0,
             "2": 6349.0,
             "3": 0,
-            "4": "L'incident de Jingu l'année dernière était un\r\nacte indépendant du patriarche du clan Go-Ryu.",
+            "4": "L'incident de Jingu l'année dernière était un\r\nacte indépendant du patriarche du Clan Go-Ryu.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 44
           }
@@ -29374,7 +29374,7 @@
             "1": 6839.0,
             "2": 6998.0,
             "3": 0,
-            "4": "Je soupçonne que ceux qui ont attaqué\r\nTerada étaient aussi le clan Go-Ryu.",
+            "4": "Je soupçonne que ceux qui ont attaqué\r\nTerada étaient aussi le Clan Go-Ryu.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 49
           }
@@ -29454,7 +29454,7 @@
             "1": 7695.0,
             "2": 7737.0,
             "3": 0,
-            "4": "...Plus tard.",
+            "4": "...À plus.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 57
           }
@@ -29504,7 +29504,7 @@
             "1": 8484.0,
             "2": 8656.0,
             "3": 0,
-            "4": "Takashima est un malin\r\nTerada était pareil.",
+            "4": "Takashima est un malin.\r\nTerada était pareil.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 62
           }
@@ -29644,7 +29644,7 @@
             "1": 11301.0,
             "2": 11342.0,
             "3": 0,
-            "4": "Acceptez-vous cela ?",
+            "4": "Acceptez-vous ceci ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 76
           }
@@ -29674,7 +29674,7 @@
             "1": 11666.0,
             "2": 11860.0,
             "3": 0,
-            "4": "Je vais demander à la présidente temporaire du Clan Tojo,\r\nYayoi Dojima, de venir immédiatement.",
+            "4": "Je vais demander à la présidente suppléante du Clan Tojo,\r\nYayoi Dojima, de venir immédiatement.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 79
           }
@@ -29791,7 +29791,7 @@
             "1": 257.0,
             "2": 333.0,
             "3": 0,
-            "4": "Bon sang, quelle bête !",
+            "4": "Bon sang, quel monstre !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -29801,7 +29801,7 @@
             "1": 338.0,
             "2": 400.0,
             "3": 0,
-            "4": "Et moi qui pensais que tu étais un dur à cuire hier soir !",
+            "4": "Et moi qui pensais que t'étais un dur à cuire hier soir !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -29831,7 +29831,7 @@
             "1": 866.0,
             "2": 919.0,
             "3": 0,
-            "4": "Je ne vais pas te laisser m'ignorer.",
+            "4": "J'vais pas te laisser m'ignorer.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -29841,7 +29841,7 @@
             "1": 969.0,
             "2": 1026.0,
             "3": 0,
-            "4": "Je t'ai dit que nous avions des affaires non terminées !",
+            "4": "Je t'ai dit qu'on avait pas fini !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -29851,7 +29851,7 @@
             "1": 1179.0,
             "2": 1351.0,
             "3": 0,
-            "4": "Kiryu-san, celui-là est pour moi.\r\nVa aider le président Goda.",
+            "4": "Kiryu-san, je m'en occupe.\r\nVa aider le président Goda.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -29871,7 +29871,7 @@
             "1": 1428.0,
             "2": 1475.0,
             "3": 0,
-            "4": "Tu as du cran, hein ?",
+            "4": "T'as du cran, hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -29881,7 +29881,7 @@
             "1": 1513.0,
             "2": 1566.0,
             "3": 0,
-            "4": "Oh bien, cependant...",
+            "4": "Eh bien, malheureusement...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -29901,7 +29901,7 @@
             "1": 1683.0,
             "2": 1763.0,
             "3": 0,
-            "4": "J'enverrai d'abord ton cul en enfer !",
+            "4": "Je t'enverrai d'abord en enfer !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -29971,7 +29971,7 @@
             "1": 109.0,
             "2": 156.0,
             "3": 0,
-            "4": "C'est le bazar de mon fils...",
+            "4": "C'est les histoires de mon fils...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -30031,7 +30031,7 @@
             "1": 909.0,
             "2": 979.0,
             "3": 0,
-            "4": "Ce n'est même pas terminé !",
+            "4": "C'est même pas terminé !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -30061,7 +30061,7 @@
             "1": 1166.0,
             "2": 1225.0,
             "3": 0,
-            "4": "Je dois toujours à ce gars<symbol=em_dash_with_outline>",
+            "4": "Je dois toujours à ce gars une<symbol=em_dash_with_outline>",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -30131,7 +30131,7 @@
             "1": 1897.0,
             "2": 1975.0,
             "3": 0,
-            "4": "Le président est avec le clan Tojo maintenant.",
+            "4": "Le président est avec le Clan Tojo maintenant.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -30151,7 +30151,7 @@
             "1": 2110.0,
             "2": 2268.0,
             "3": 0,
-            "4": "Bien, bien...\r\nEncore une chose à faire après que je t'ai tué, alors.",
+            "4": "Bien, bien...\r\nEncore une chose à faire après t'avoir tué, alors.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -30251,7 +30251,7 @@
             "1": 239.0,
             "2": 305.0,
             "3": 0,
-            "4": "Oh... Désolé pour ça.",
+            "4": "Oh... Désolé.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -30261,7 +30261,7 @@
             "1": 365.0,
             "2": 447.0,
             "3": 0,
-            "4": "Excusez-moi si je me trompe, mais...\r\nN'êtes-vous pas l'inspecteur Date ?",
+            "4": "Excusez-moi si je me trompe, mais...\r\nëtes-vous le détective Date ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -30291,7 +30291,7 @@
             "1": 578.0,
             "2": 656.0,
             "3": 0,
-            "4": "Je suis un grand fan !",
+            "4": "Je suis une grande fan !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -30391,7 +30391,7 @@
             "1": 1385.0,
             "2": 1534.0,
             "3": 0,
-            "4": "J'ai entendu dire que vous aviez jeté votre badge\r\nsur le chef et que vous lui en aviez collé une en pleine figure !",
+            "4": "J'ai entendu dire que vous aviez jeté votre badge\r\nsur le chef et que vous lui en avez mis une en pleine figure !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -30441,7 +30441,7 @@
             "1": 1803.0,
             "2": 1845.0,
             "3": 0,
-            "4": "Ca t'a rendu célèbre, hein ?",
+            "4": "Ça t'a rendu célèbre, hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -30451,7 +30451,7 @@
             "1": 1857.0,
             "2": 1923.0,
             "3": 0,
-            "4": "Oh... Inspecteur Kawara...",
+            "4": "Oh... Détective Kawara...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -30581,7 +30581,7 @@
             "1": 3296.0,
             "2": 3341.0,
             "3": 0,
-            "4": "Pas comme si c'était vraiment important maintenant.",
+            "4": "C'est pas comme si c'était vraiment important maintenant.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 34
           }
@@ -30611,7 +30611,7 @@
             "1": 3564.0,
             "2": 3623.0,
             "3": 0,
-            "4": "Je déteste décevoir, mais...",
+            "4": "Je déteste décevoir les gens, mais...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 37
           }
@@ -30621,7 +30621,7 @@
             "1": 3645.0,
             "2": 3658.0,
             "3": 0,
-            "4": "Huh ?",
+            "4": "Hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
@@ -32090,7 +32090,7 @@
             "1": 3760.0,
             "2": 3782.0,
             "3": 0,
-            "4": "Ca fait mal ?",
+            "4": "Ça fait mal ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 37
           }
@@ -32310,7 +32310,7 @@
             "1": 6036.0,
             "2": 6079.0,
             "3": 0,
-            "4": "Ca, je ne sais pas.",
+            "4": "Ça, je ne sais pas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 59
           }
@@ -32560,7 +32560,7 @@
             "1": 175.0,
             "2": 267.0,
             "3": 0,
-            "4": "Ca c'est Omi. Famille Takashima.",
+            "4": "Ça c'est Omi. Famille Takashima.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -34839,7 +34839,7 @@
             "1": 825.0,
             "2": 903.0,
             "3": 0,
-            "4": "Ca fait longtemps, Kiryu-san.",
+            "4": "Ça fait longtemps, Kiryu-san.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -35029,7 +35029,7 @@
             "1": 782.0,
             "2": 906.0,
             "3": 0,
-            "4": "Ca fait trop longtemps... Kiryu-chan !",
+            "4": "Ça fait trop longtemps... Kiryu-chan !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -35089,7 +35089,7 @@
             "1": 1698.0,
             "2": 1783.0,
             "3": 0,
-            "4": "Ca fait un bail, Majima-san.",
+            "4": "Ça fait un bail, Majima-san.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -35579,7 +35579,7 @@
             "1": 7092.0,
             "2": 7205.0,
             "3": 0,
-            "4": "Ca ne sera pas long.\r\nJe te retrouve à Serena.",
+            "4": "Ça ne sera pas long.\r\nJe te retrouve à Serena.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 59
           }
@@ -36204,7 +36204,7 @@
             "1": 159.0,
             "2": 216.0,
             "3": 0,
-            "4": "Ca fait un bail, barman.",
+            "4": "Ça fait un bail, barman.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -36234,7 +36234,7 @@
             "1": 690.0,
             "2": 743.0,
             "3": 0,
-            "4": "Ca vous ramène en arrière, n'est-ce pas ?　",
+            "4": "Ça vous ramène en arrière, n'est-ce pas ?　",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -36894,7 +36894,7 @@
             "1": 441.0,
             "2": 520.0,
             "3": 0,
-            "4": "Ca t'a pris assez longtemps.",
+            "4": "Ça t'a pris assez longtemps.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 45
           }
@@ -38680,7 +38680,7 @@
             "1": 277.0,
             "2": 354.0,
             "3": 0,
-            "4": "Ca fait un moment que je ne t'ai pas vu, Kiryu.",
+            "4": "Ça fait un moment que je ne t'ai pas vu, Kiryu.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -40061,7 +40061,7 @@
             "1": 3244.0,
             "2": 3445.0,
             "3": 0,
-            "4": "C'est une menace ? Ca ne veut pas dire grand chose\r\npour un homme qui a déjà tout abandonné.",
+            "4": "C'est une menace ? Ça ne veut pas dire grand chose\r\npour un homme qui a déjà tout abandonné.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -41101,7 +41101,7 @@
             "1": 3402.0,
             "2": 3484.0,
             "3": 0,
-            "4": "Ca n'a pas d'importance.\r\nPeu importe comment ça se passe...",
+            "4": "Ça n'a pas d'importance.\r\nPeu importe comment ça se passe...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -42508,7 +42508,7 @@
             "1": 1535.0,
             "2": 1593.0,
             "3": 0,
-            "4": "Ca collerait, non ?",
+            "4": "Ça collerait, non ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -43778,7 +43778,7 @@
             "1": 724.0,
             "2": 756.0,
             "3": 0,
-            "4": "Ca fait un bail, monsieur.",
+            "4": "Ça fait un bail, monsieur.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -46372,7 +46372,7 @@
             "1": 1642.0,
             "2": 1709.0,
             "3": 0,
-            "4": "Ca fait partie de la vie d'une maman.",
+            "4": "Ça fait partie de la vie d'une maman.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -46422,7 +46422,7 @@
             "1": 2273.0,
             "2": 2409.0,
             "3": 0,
-            "4": "Ca, et le rat dans mon bureau qui s'est échappé.",
+            "4": "Ça, et le rat dans mon bureau qui s'est échappé.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -49170,7 +49170,7 @@
             "1": 248.0,
             "2": 276.0,
             "3": 0,
-            "4": "Ca fait longtemps.",
+            "4": "Ça fait longtemps.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -50456,7 +50456,7 @@
             "1": 1881.0,
             "2": 1967.0,
             "3": 0,
-            "4": "Ca me tue de te voir vivre comme ça.\r\nTu mérites mieux.",
+            "4": "Ça me tue de te voir vivre comme ça.\r\nTu mérites mieux.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -50856,7 +50856,7 @@
             "1": 2217.0,
             "2": 2350.0,
             "3": 0,
-            "4": "Ca te sortirait d'une accusation de meurtre !\r\nTu portes une arme secrète !",
+            "4": "Ça te sortirait d'une accusation de meurtre !\r\nTu portes une arme secrète !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -52236,7 +52236,7 @@
             "1": 1398.0,
             "2": 1454.0,
             "3": 0,
-            "4": "Ca ne me dérange pas de te donner un coup de main, cependant.",
+            "4": "Ça ne me dérange pas de te donner un coup de main, cependant.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -55201,7 +55201,7 @@
             "1": 2705.0,
             "2": 2878.0,
             "3": 0,
-            "4": "Ca va créer un mauvais précédent dans les rangs.",
+            "4": "Ça va créer un mauvais précédent dans les rangs.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -56729,7 +56729,7 @@
             "1": 10.0,
             "2": 150.0,
             "3": 0,
-            "4": "L'année dernière,\r\nJ'ai perdu des personnes qui m'étaient très chères.",
+            "4": "L'année dernière,\r\nj'ai perdu des personnes qui m'étaient très chères.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -56749,7 +56749,7 @@
             "1": 614.0,
             "2": 870.0,
             "3": 0,
-            "4": "Lorsque je faisais encore partie de la famille Dojima du clan Tojo,\r\nil y avait trois personnes que je pouvais appeler ma famille..",
+            "4": "Lorsque je faisais encore partie de la famille Dojima du Clan Tojo,\r\nil y avait trois personnes que je pouvais appeler ma famille.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -56819,7 +56819,7 @@
             "1": 2600.0,
             "2": 2720.0,
             "3": 0,
-            "4": "Un associé direct de Tojo...",
+            "4": "Un associé direct du Tojo...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -56839,7 +56839,7 @@
             "1": 2945.0,
             "2": 3110.0,
             "3": 0,
-            "4": "Il a essayé de forcer Yumi à faire quelque chose.",
+            "4": "Il a essayé de violer Yumi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -56977,7 +56977,7 @@
             "1": 4790.0,
             "2": 4920.0,
             "3": 0,
-            "4": "Quand le clan m'a coupé les fils,\r\nje me suis senti comme un cerf-volant sans ficelle.",
+            "4": "Quand le clan m'a viré,\r\nje me suis senti comme un cerf-volant sans ficelle.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -56987,7 +56987,7 @@
             "1": 4945.0,
             "2": 5070.0,
             "3": 0,
-            "4": "Mais quelqu'un de l'extérieur se souvient encore de moi.",
+            "4": "Mais quelqu'un de l'extérieur se souvenait encore de moi.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -57077,7 +57077,7 @@
             "1": 6160.0,
             "2": 6190.0,
             "3": 0,
-            "4": "Une somme de 10 milliards de yen.",
+            "4": "Une somme de 10 milliards de yens.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 36
           }
@@ -57107,7 +57107,7 @@
             "1": 6445.0,
             "2": 6580.0,
             "3": 0,
-            "4": "Et tous les voyous étaient sur la piste des 10 milliards manquants.",
+            "4": "Et tous le monde était sur la piste des 10 milliards manquants.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -57227,7 +57227,7 @@
             "1": 215.0,
             "2": 385.0,
             "3": 0,
-            "4": "Haruka était venue d'elle-même\r\ndans la ville pour trouver sa mère..",
+            "4": "Haruka était venue d'elle-même\r\ndans la ville pour trouver sa mère.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -57237,7 +57237,7 @@
             "1": 395.0,
             "2": 570.0,
             "3": 0,
-            "4": "Nous nous sommes rencontrés par pur hasard,\r\n mais il y avait une chose que nous avions en commun.",
+            "4": "Nous nous sommes rencontrés par pur hasard,\r\nmais il y avait une chose que nous avions en commun.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -57377,7 +57377,7 @@
             "1": 2500.0,
             "2": 2630.0,
             "3": 0,
-            "4": "Makoto Date... Anciennement un flic de Première Division .",
+            "4": "Makoto Date... Anciennement un flic de 1ère Division.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -57387,7 +57387,7 @@
             "1": 2645.0,
             "2": 2805.0,
             "3": 0,
-            "4": "Il y a 11 ans, il m'a interrogé,,\r\net sa vie s'est écroulée après..",
+            "4": "Il y a 11 ans, il m'a interrogé,\r\net sa vie s'est écroulée après..",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -57477,7 +57477,7 @@
             "1": 4715.0,
             "2": 4845.0,
             "3": 0,
-            "4": "Sudo, le chef de la Première Divison,\r\nnous a encerclés, et je me suis retrouvé coincé.",
+            "4": "Sudo, le chef de la 1ère Divison,\r\nnous a encerclés, et je me suis retrouvé coincé.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -57507,7 +57507,7 @@
             "1": 4945.0,
             "2": 5000.0,
             "3": 0,
-            "4": "Cela va être mauvais pour toi !",
+            "4": "Tu vas avoir des ennuis !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 30
           }
@@ -57617,7 +57617,7 @@
             "1": 280.0,
             "2": 425.0,
             "3": 0,
-            "4": "Un patriarche direct du clan Tojo après\r\nles 10 milliards, Futoshi Shimano.",
+            "4": "Un patriarche direct du Clan Tojo à la recherche\r\ndes 10 milliards, Futoshi Shimano.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -57777,7 +57777,7 @@
             "1": 2365.0,
             "2": 2455.0,
             "3": 0,
-            "4": "En liberté conditionnelle et déjà en train de soulever l'enfer, hein ?",
+            "4": "En liberté conditionnelle et déjà en train de semer la pagaille, hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -57787,7 +57787,7 @@
             "1": 2490.0,
             "2": 2695.0,
             "3": 0,
-            "4": "Le fleuriste de Sai...\r\nUn informateur légendaire caché sous Kamurocho.",
+            "4": "Le Fleuriste de Sai...\r\nUn informateur légendaire caché sous Kamurocho.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -57817,7 +57817,7 @@
             "1": 2825.0,
             "2": 3010.0,
             "3": 0,
-            "4": "Son intelligence a révélé les choses\r\nqui contrôlent les hommes dans l'ombre.",
+            "4": "Son intelligence a révélé les hommes\r\nqui contrôlent les choses dans l'ombre.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -57857,7 +57857,7 @@
             "1": 3395.0,
             "2": 3580.0,
             "3": 0,
-            "4": "Un politicien était lié aux 10 milliards manquants du clan Tojo.",
+            "4": "Un politicien était lié aux 10 milliards manquants du Clan Tojo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -57867,7 +57867,7 @@
             "1": 3595.0,
             "2": 3815.0,
             "3": 0,
-            "4": "Kyohei Jingu.\r\nIl a détourné l'argent par l'intermédiaire du clan Tojo.",
+            "4": "Kyohei Jingu.\r\nIl a détourné l'argent par l'intermédiaire du Clan Tojo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -57887,7 +57887,7 @@
             "1": 3960.0,
             "2": 4155.0,
             "3": 0,
-            "4": "Le vol de cet argent a été commis\r\npour protéger le clan Tojo de son influence.",
+            "4": "Le vol de cet argent a été commis\r\npour protéger le Clan Tojo de son influence.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -57997,7 +57997,7 @@
             "1": 5385.0,
             "2": 5450.0,
             "3": 0,
-            "4": "...vrais parents ont été tués...",
+            "4": "...Vrais parents ont été tués...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 40
           }
@@ -58007,7 +58007,7 @@
             "1": 5500.0,
             "2": 5535.0,
             "3": 0,
-            "4": "...Par moi.",
+            "4": "...De mes mains.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 41
           }
@@ -58397,7 +58397,7 @@
             "1": 3660.0,
             "2": 3780.0,
             "3": 0,
-            "4": "Au cours de la décennie, nous avions tous deux changé...",
+            "4": "Au cours de la décennie, nous avions tous les deux changé...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -58537,7 +58537,7 @@
             "1": 6920.0,
             "2": 7000.0,
             "3": 0,
-            "4": "Et dit adieu à la vie du clan Tojo.",
+            "4": "Et dit adieu à la vie du Clan Tojo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 41
           }
