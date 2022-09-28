@@ -30261,7 +30261,7 @@
             "1": 365.0,
             "2": 447.0,
             "3": 0,
-            "4": "Excusez-moi si je me trompe, mais...\r\nN'êtes-vous pas l'inspecteur Date ?",
+            "4": "Excusez-moi si je me trompe, mais...\r\nëtes-vous le détective Date ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -30291,7 +30291,7 @@
             "1": 578.0,
             "2": 656.0,
             "3": 0,
-            "4": "Je suis un grand fan !",
+            "4": "Je suis une grande fan !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -30391,7 +30391,7 @@
             "1": 1385.0,
             "2": 1534.0,
             "3": 0,
-            "4": "J'ai entendu dire que vous aviez jeté votre badge\r\nsur le chef et que vous lui en aviez collé une en pleine figure !",
+            "4": "J'ai entendu dire que vous aviez jeté votre badge\r\nsur le chef et que vous lui en avez mis une en pleine figure !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -30451,7 +30451,7 @@
             "1": 1857.0,
             "2": 1923.0,
             "3": 0,
-            "4": "Oh... Inspecteur Kawara...",
+            "4": "Oh... Détective Kawara...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -30581,7 +30581,7 @@
             "1": 3296.0,
             "2": 3341.0,
             "3": 0,
-            "4": "Pas comme si c'était vraiment important maintenant.",
+            "4": "C'est pas comme si c'était vraiment important maintenant.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 34
           }
@@ -30611,7 +30611,7 @@
             "1": 3564.0,
             "2": 3623.0,
             "3": 0,
-            "4": "Je déteste décevoir, mais...",
+            "4": "Je déteste décevoir les gens, mais...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 37
           }
@@ -30621,7 +30621,7 @@
             "1": 3645.0,
             "2": 3658.0,
             "3": 0,
-            "4": "Huh ?",
+            "4": "Hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 38
           }
