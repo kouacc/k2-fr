@@ -10760,7 +10760,7 @@
             "1": 205.0,
             "2": 254.0,
             "3": 0,
-            "4": "Bien. Donnez lui du jus !",
+            "4": "Bien. Donnez-lui du jus !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -10930,7 +10930,7 @@
             "1": 2308.0,
             "2": 2343.0,
             "3": 0,
-            "4": "...Wow.",
+            "4": "...Waouh.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -11100,7 +11100,7 @@
             "1": 4429.0,
             "2": 4483.0,
             "3": 0,
-            "4": "Pourquoi la 4ème division ...?",
+            "4": "Pourquoi la 4ème division... ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 36
           }
@@ -11140,7 +11140,7 @@
             "1": 4983.0,
             "2": 5037.0,
             "3": 0,
-            "4": "Ooh, je l'ai eu !",
+            "4": "Ooh, on t'a eu !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 40
           }
@@ -38291,7 +38291,7 @@
             "1": 77.0,
             "2": 173.0,
             "3": 0,
-            "4": "Cette vidéo ne montre pas la moitié\r\nde ce qui s'est passé là-haut.",
+            "4": "Cette vidéo ne montre même pas la moitié\r\nde ce qui s'est passé là-haut.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -38341,7 +38341,7 @@
             "1": 895.0,
             "2": 921.0,
             "3": 0,
-            "4": "Ne t'embête pas.",
+            "4": "Ne vous embêtez pas.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -38361,7 +38361,7 @@
             "1": 1112.0,
             "2": 1230.0,
             "3": 0,
-            "4": "Et la balle de Makoto trouvée sur la scène du crime\r\n est la \"preuve\" dont ils ont besoin.",
+            "4": "Et la balle de Makoto trouvée sur la scène du crime\r\nest la \"preuve\" dont ils ont besoin.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -38381,7 +38381,7 @@
             "1": 1605.0,
             "2": 1693.0,
             "3": 0,
-            "4": "Est-ce que ces images viennent du fleuriste ?",
+            "4": "Est-ce que ces images viennent du Fleuriste ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -38441,7 +38441,7 @@
             "1": 2335.0,
             "2": 2460.0,
             "3": 0,
-            "4": "Retrouve Daigo,\r\npuis commence à chercher la mafia Jingweon à partir de là.",
+            "4": "Retrouver Daigo,\r\npuis commencer à chercher la mafia Jingweon à partir de là.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
           }
@@ -38690,7 +38690,7 @@
             "1": 375.0,
             "2": 535.0,
             "3": 0,
-            "4": "Je vois que vous êtes passé d'une cachette souterraine\r\nà une suite de luxe de haute volée...",
+            "4": "Je vois que tu es passé d'une cachette souterraine\r\nà une suite de luxe de haute volée...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -38800,7 +38800,7 @@
             "1": 1961.0,
             "2": 2050.0,
             "3": 0,
-            "4": "Alias, la \"Chasseuse de Yakuzas\".\r\nJ'ai oublié quelque chose ?",
+            "4": "Alias, la \"Chasseuse de yakuzas\".\r\nJ'ai oublié quelque chose ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -39210,7 +39210,7 @@
             "1": 7240.0,
             "2": 7321.0,
             "3": 0,
-            "4": "Taihei Boulevard! Le bâtiment est<symbol=em_dash_with_outline>",
+            "4": "Taihei Boulevard ! Le bâtiment est<symbol=em_dash_with_outline>",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 54
           }
@@ -39991,7 +39991,7 @@
             "1": 2461.0,
             "2": 2606.0,
             "3": 0,
-            "4": "Vous êtes la femme détective qu'ils appellent\r\nla Chasseuse de Yakuza, madame ?",
+            "4": "Vous êtes la femme détective qu'ils appellent\r\nla Chasseuse de yakuzas, madame ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -40011,7 +40011,7 @@
             "1": 2677.0,
             "2": 2856.0,
             "3": 0,
-            "4": "Wow, un flic intègre comme vous qui se lie\r\navec un ancien président de yakuza ?",
+            "4": "Waouh, un flic intègre comme vous qui se lie\r\navec un ancien président de yakuzas ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 21
           }
@@ -40051,7 +40051,7 @@
             "1": 3102.0,
             "2": 3228.0,
             "3": 0,
-            "4": "Ajoutez la résistance à l'arrestation si vous continuez.\r\nVous êtes dans le pétrin.",
+            "4": "Ajoute la résistance à l'arrestation si tu continues.\r\nTu es dans le pétrin.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -40061,7 +40061,7 @@
             "1": 3244.0,
             "2": 3445.0,
             "3": 0,
-            "4": "C'est une menace ? Ça ne veut pas dire grand chose\r\npour un homme qui a déjà tout abandonné.",
+            "4": "C'est une menace ? Ça veut pas dire grand chose\r\npour un homme qui a déjà tout abandonné.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 26
           }
@@ -40101,7 +40101,7 @@
             "1": 3733.0,
             "2": 3870.0,
             "3": 0,
-            "4": "J'vais faire en sorte que ça arrive...\r\nMême si ça signifie aller en prison ou pire !",
+            "4": "J'vais faire en sorte que ça arrive...\r\nMême si ça signifie aller en prison !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 30
           }
@@ -40161,7 +40161,7 @@
             "1": 30.0,
             "2": 172.0,
             "3": 0,
-            "4": "T'es toujours une bête... Kiryu...",
+            "4": "T'es toujours un monstre... Kiryu...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -40181,7 +40181,7 @@
             "1": 429.0,
             "2": 528.0,
             "3": 0,
-            "4": "Oui, et l'envoyer ici est un signe clair.",
+            "4": "Oui, et l'envoyer ici est un signe clair et net.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
