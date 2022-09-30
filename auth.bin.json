@@ -37901,7 +37901,7 @@
             "1": 356.0,
             "2": 405.0,
             "3": 0,
-            "4": "Il y a quelque chose qui cloche avec ça !",
+            "4": "Il y a quelque chose qui cloche !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -37961,7 +37961,7 @@
             "1": 1179.0,
             "2": 1280.0,
             "3": 0,
-            "4": "Alors, qui est ce groupe que vous poursuivez ?",
+            "4": "Alors, qui est-ce groupe que vous poursuivez ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
