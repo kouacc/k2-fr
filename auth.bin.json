@@ -16738,7 +16738,7 @@
             "1": 1760.0,
             "2": 1817.0,
             "3": 0,
-            "4": "Un plan qui te convient, Sengoku.",
+            "4": "Un plan qui te ressemble, Sengoku.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -16758,7 +16758,7 @@
             "1": 2022.0,
             "2": 2060.0,
             "3": 0,
-            "4": "Faites comme bon vous semble.",
+            "4": "Fais comme tu veux.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -16868,7 +16868,7 @@
             "1": 687.0,
             "2": 735.0,
             "3": 0,
-            "4": "Je supporte les jeux de ce crétin.",
+            "4": "À supporter les jeux de ce crétin.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
           }
@@ -16918,7 +16918,7 @@
             "1": 1392.0,
             "2": 1504.0,
             "3": 0,
-            "4": "Un homme, mon cul !\r\nTu ne serais rien sans ton père !",
+            "4": "Un homme, mon cul !\r\nTu serais rien sans ton petit papa !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -17008,7 +17008,7 @@
             "1": 3761.0,
             "2": 3900.0,
             "3": 0,
-            "4": "Je suis désolé.\r\nDésolé d'avoir laissé cela t'arriver à nouveau...",
+            "4": "Je suis désolé.\r\nDésolé d'avoir laissé ça t'arriver à nouveau...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -19938,7 +19938,7 @@
             "1": 2359.0,
             "2": 2476.0,
             "3": 0,
-            "4": "Comment je pourrais savoir comment\r\nfonctionne cette merde arc-en-ciel !?",
+            "4": "Comment je pourrais savoir comment\r\nfonctionne ce truc arc-en-ciel !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -19968,7 +19968,7 @@
             "1": 2683.0,
             "2": 2712.0,
             "3": 0,
-            "4": "Ce n'est que de <font_kind=yakuza_italic>instinct</font_kind> !?",
+            "4": "Ce n'est que de <font_kind=yakuza_italic>l'instinct</font_kind> !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -20018,7 +20018,7 @@
             "1": 3103.0,
             "2": 3147.0,
             "3": 0,
-            "4": "Um, boss...",
+            "4": "Hum, patron...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -20038,7 +20038,7 @@
             "1": 3205.0,
             "2": 3223.0,
             "3": 0,
-            "4": "Ouais ?",
+            "4": "Ah ouais ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -20058,7 +20058,7 @@
             "1": 3443.0,
             "2": 3694.0,
             "3": 0,
-            "4": "Plouf-plouf-par-pitié,\r\nmon-dieu-qui-n'explosera-pas ?",
+            "4": "Plouf-plouf-par-pitié,\r\nmon-dieu-lequel-va-pas-tout-péter ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -20088,7 +20088,7 @@
             "1": 3841.0,
             "2": 3866.0,
             "3": 0,
-            "4": "Boss !",
+            "4": "Patron !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 30
           }
@@ -20228,7 +20228,7 @@
             "1": 830.0,
             "2": 932.0,
             "3": 0,
-            "4": "Umm, salut.\r\nDésolée pour la poursuite inutile.",
+            "4": "Humm, salut.\r\nDésolée pour la poursuite inutile.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -21077,7 +21077,7 @@
             "1": 5588.0,
             "2": 5663.0,
             "3": 0,
-            "4": "C'était dans un petit bar à Sotenbori..",
+            "4": "C'était dans un petit bar à Sotenbori.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 45
           }
@@ -21267,7 +21267,7 @@
             "1": 8090.0,
             "2": 8196.0,
             "3": 0,
-            "4": "Tu étais un vrai fils pour moi. Plus.",
+            "4": "Tu étais un vrai fils pour moi. Voir plus.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 64
           }
@@ -23897,7 +23897,7 @@
             "1": 5823.0,
             "2": 5848.0,
             "3": 0,
-            "4": "Kazuma...!",
+            "4": "Kazuma... !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
           }
@@ -24037,7 +24037,7 @@
             "1": 7317.0,
             "2": 7347.0,
             "3": 0,
-            "4": "Dépêche-toi...!",
+            "4": "Dépêche-toi... !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 43
           }
@@ -24167,7 +24167,7 @@
             "1": 9589.0,
             "2": 9632.0,
             "3": 0,
-            "4": "On l'a vraiment fait.",
+            "4": "C'est sûr.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 56
           }
@@ -24605,7 +24605,7 @@
             "1": 3166.0,
             "2": 3185.0,
             "3": 0,
-            "4": "Ah...!",
+            "4": "Ah... !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
@@ -44267,7 +44267,7 @@
             "1": 767.0,
             "2": 807.0,
             "3": 0,
-            "4": "Bref, c'est à toi.",
+            "4": "Bref, c'est à vous.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -44287,7 +44287,7 @@
             "1": 909.0,
             "2": 983.0,
             "3": 0,
-            "4": "Ne me le demandes pas. C'était dans <font_kind=yakuza_italic>ta</font_kind> veste.",
+            "4": "Ne me le demandez pas. C'était dans <font_kind=yakuza_italic>votre</font_kind> veste.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -44327,7 +44327,7 @@
             "1": 1547.0,
             "2": 1633.0,
             "3": 0,
-            "4": "J'sais que j'peux pas t'arrêter,\r\nmais avec cette blessure...",
+            "4": "J'sais que j'peux pas vous arrêter,\r\nmais avec cette blessure...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
           }
@@ -44337,7 +44337,7 @@
             "1": 1679.0,
             "2": 1721.0,
             "3": 0,
-            "4": "Tu pousses ta chance...",
+            "4": "Vous poussez votre chance...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -44357,7 +44357,7 @@
             "1": 2166.0,
             "2": 2248.0,
             "3": 0,
-            "4": "Laisse à Kawara-san le soin de s'occuper de Kaoru.",
+            "4": "Laissez à Kawara-san le soin de s'occuper de Kaoru.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -44367,7 +44367,7 @@
             "1": 2305.0,
             "2": 2406.0,
             "3": 0,
-            "4": "Tu m'entends ? Faites attention dehors, mon sucre.",
+            "4": "Compris ? Faites attention dehors, chéri.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
           }
@@ -44486,7 +44486,7 @@
             "1": 695.0,
             "2": 725.0,
             "3": 0,
-            "4": "Où est Haruka!?",
+            "4": "Où est Haruka !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -48461,7 +48461,7 @@
             "1": 218.0,
             "2": 307.0,
             "3": 0,
-            "4": "Hey. Tu te sens un peu mieux maintenant ?",
+            "4": "Hé. Tu te sens un peu mieux maintenant ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -48481,7 +48481,7 @@
             "1": 448.0,
             "2": 524.0,
             "3": 0,
-            "4": "Tu t'es bien défendu contre le clan Go-Ryu.",
+            "4": "Tu t'es bien défendu contre le Clan Go-Ryu.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -48721,7 +48721,7 @@
             "1": 3522.0,
             "2": 3585.0,
             "3": 0,
-            "4": "Attendez, Majima-san !?",
+            "4": "Attends, Majima-san !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 27
           }
@@ -48850,7 +48850,7 @@
             "1": 806.0,
             "2": 821.0,
             "3": 0,
-            "4": "Huh ?",
+            "4": "Hein ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -48960,7 +48960,7 @@
             "1": 609.0,
             "2": 652.0,
             "3": 0,
-            "4": "Assez de ça !",
+            "4": "C'est bon !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -48980,7 +48980,7 @@
             "1": 823.0,
             "2": 1026.0,
             "3": 0,
-            "4": "Eh bien, je suis affamée.\r\nLe travail me donne tellement faim, t'sais ?",
+            "4": "Eh bien, je suis affamé.\r\nLe travail me donne tellement faim, t'sais ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
@@ -49330,7 +49330,7 @@
             "1": 2225.0,
             "2": 2255.0,
             "3": 0,
-            "4": "Je suis revenu.",
+            "4": "Je suis de retour.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -49340,7 +49340,7 @@
             "1": 2316.0,
             "2": 2395.0,
             "3": 0,
-            "4": "Qu'est-ce que c'est ?\r\nPourquoi tout le monde semble être mort ? ",
+            "4": "Qu'est-ce que c'est ?\r\nPourquoi vous avez l'air dépités ? ",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
           }
@@ -49400,7 +49400,7 @@
             "1": 2805.0,
             "2": 2913.0,
             "3": 0,
-            "4": "Inspecteur adjoint Kaoru Sayama,\r\n4ème division d'Osaka.",
+            "4": "Détective adjointe Kaoru Sayama,\r\n4ème division d'Osaka.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 25
           }
@@ -49540,7 +49540,7 @@
             "1": 4746.0,
             "2": 4766.0,
             "3": 0,
-            "4": "Juste lui?",
+            "4": "Juste lui ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 39
           }
@@ -49620,7 +49620,7 @@
             "1": 5447.0,
             "2": 5499.0,
             "3": 0,
-            "4": "Et tu y vas ?",
+            "4": "Et tu vas y aller ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 47
           }
@@ -49670,7 +49670,7 @@
             "1": 5869.0,
             "2": 5921.0,
             "3": 0,
-            "4": "Je suis l'inspecteur principal de la 4ème division.",
+            "4": "Je suis la détective principale de la 4ème division.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 52
           }
@@ -49690,7 +49690,7 @@
             "1": 6088.0,
             "2": 6138.0,
             "3": 0,
-            "4": "Comment tu peux dire ça maintenant !?",
+            "4": "Comment vous pouvez dire ça maintenant !?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 54
           }
@@ -49780,7 +49780,7 @@
             "1": 7239.0,
             "2": 7314.0,
             "3": 0,
-            "4": "Bien. Alors il y a quelque part\r\n que je veux que tu y ailles en premier.",
+            "4": "Bien. Alors il y a quelque part\r\n que je veux que tu ailles en premier.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 63
           }
@@ -49800,7 +49800,7 @@
             "1": 7565.0,
             "2": 7634.0,
             "3": 0,
-            "4": "Mon chef est en ville à la Tokyo PD.",
+            "4": "Mon chef est en ville au Tokyo PD.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 65
           }
@@ -49850,7 +49850,7 @@
             "1": 8081.0,
             "2": 8150.0,
             "3": 0,
-            "4": "Alors ? Tu vas le rencontrer ?",
+            "4": "Alors ? Tu vas le voir ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 70
           }
