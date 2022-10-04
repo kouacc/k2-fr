@@ -173,7 +173,7 @@
   },
   "3": {
     "free_camera_vertical": {
-      "name": "Contrôle caméra (Vertical)",
+      "name": "Contrôle caméra (verticale)",
       "explanation": "Changer la façon de déplacer la caméra verticalement.",
       "subtable": {
         "ROW_COUNT": 3,
@@ -237,7 +237,7 @@
   },
   "4": {
     "free_camera_horizontal": {
-      "name": "Contrôle caméra (Horizontal)",
+      "name": "Contrôle caméra (horizontale)",
       "explanation": "Changer la façon de déplacer la caméra horizontalement",
       "subtable": {
         "ROW_COUNT": 3,
@@ -413,7 +413,7 @@
   },
   "14": {
     "pov_camera_vertical": {
-      "name": "Vue à la première personne (Vertical)",
+      "name": "Vue à la première personne (verticale)",
       "explanation": "Changer la façon de déplacer verticalement la caméra à la première personne.",
       "subtable": {
         "ROW_COUNT": 3,
@@ -477,7 +477,7 @@
   },
   "15": {
     "pov_camera_horizontal": {
-      "name": "Vue à la première personne (Horizontal)",
+      "name": "Vue à la première personne (horizontale)",
       "explanation": "Changer la façon de déplacer horizontalement la caméra à la première personne.",
       "subtable": {
         "ROW_COUNT": 3,

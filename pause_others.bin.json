@@ -75,7 +75,7 @@
   "5": {
     "audio_option": {
       "name": "Paramètres audio",
-      "explanation": "Ajuster l'audio du jeu. Incluant les paramètres pour l'haut-parleurs\r\ndu contrôleur sans fil, casque, stéréo, et son surround.",
+      "explanation": "Ajuster l'audio du jeu. Incluant les paramètres pour l'haut-parleur\r\ndu contrôleur sans fil, casque, stéréo, et son surround.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
