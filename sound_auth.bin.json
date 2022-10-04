@@ -9206,7 +9206,7 @@
           "": {
             "1": 1645,
             "2": 2,
-            "4": "Tu te plains...\nMais c'est grâce à nous que tu as de la nourriture sur la table !"
+            "4": "Tu te plains...\nMais c'est grâce à nous que t'es là !"
           }
         },
         "19": {
@@ -9227,7 +9227,7 @@
           "": {
             "1": 1645,
             "2": 5,
-            "4": "Si vous avez un problème avec ça...\nEssayez de faire autant que nous !"
+            "4": "Si vous avez un problème...\nEssayez de faire autant que nous !"
           }
         },
         "22": {
@@ -9255,7 +9255,7 @@
           "": {
             "1": 1644,
             "2": 4,
-            "4": "Huh ?"
+            "4": "Hein ?"
           }
         },
         "26": {
@@ -9290,14 +9290,14 @@
           "": {
             "1": 1567,
             "2": 4,
-            "4": "La prochaine chose que je sais, c'est qu'une entreprise vient me d'mander\nd'acheter ce terrain pour pouvoir construire dessus ou un truc dans le genre."
+            "4": "La prochaine chose que je sais, c'est qu'une entreprise vient me demander\nd'acheter ce terrain pour pouvoir construire dessus ou un truc dans le genre."
           }
         },
         "31": {
           "": {
             "1": 1567,
             "2": 5,
-            "4": "Alors j'ai mis un prix fou dessus,\net je me suis retrouvé 'vec un tonneau plein de fric."
+            "4": "Alors j'ai mis un prix fou dessus,\net j'me suis retrouvé avec un tonneau plein de fric."
           }
         },
         "32": {
@@ -9311,7 +9311,7 @@
           "": {
             "1": 1567,
             "2": 7,
-            "4": "Que puis-je dire ?\nL'argent vient facilement quand j'essaie un peu."
+            "4": "Qu'est-ce que je peux dire ?\nL'argent vient facilement quand j'essaie un peu."
           }
         },
         "34": {
@@ -9325,7 +9325,7 @@
           "": {
             "1": 1567,
             "2": 9,
-            "4": "Mais bon sang... Si on s'base uniquement sur le profit,\nle prochain capitaine de clan sera <font_kind=yakuza_italic>moi</font_kind> , entre tous !"
+            "4": "Mais bon sang... Si on s'base uniquement sur le profit,\nle prochain capitaine de clan sera <font_kind=yakuza_italic>moi</font_kind>, de nous tous !"
           }
         },
         "36": {
@@ -9463,14 +9463,14 @@
           "": {
             "1": 1569,
             "2": 7,
-            "4": "C'est le monde qu'on signe en tant que yakuza."
+            "4": "C'est l'univers qu'on signe en tant que yakuza."
           }
         },
         "56": {
           "": {
             "1": 1569,
             "2": 8,
-            "4": "C'est le monde qu'on signe en tant que yakuza."
+            "4": "C'est l'univers qu'on signe en tant que yakuza."
           }
         },
         "57": {
@@ -9526,21 +9526,21 @@
           "": {
             "1": 1568,
             "2": 7,
-            "4": "Hein ? Vous ne le feriez pas ?"
+            "4": "Hein ? Vous ne le voulez pas ?"
           }
         },
         "65": {
           "": {
             "1": 1569,
             "2": 15,
-            "4": "Putain non !\nJ'tiendrais pas une journée avec un escroc comme Terada !"
+            "4": "Bah non !\nJ'tiendrais pas une journée avec un escroc comme Terada !"
           }
         },
         "66": {
           "": {
             "1": 1569,
             "2": 16,
-            "4": "Putain non !\nJ'tiendrais pas une journée avec un escroc comme Terada !"
+            "4": "Bah non !\nJ'tiendrais pas une journée avec un escroc comme Terada !"
           }
         },
         "67": {
@@ -9554,7 +9554,7 @@
           "": {
             "1": 1569,
             "2": 18,
-            "4": "C't'histoire de réformation du clan Tojo n'est qu'une excuse\npour mettre sa propre équipe dans des rôles exécutifs."
+            "4": "C't'histoire de réformation du Clan Tojo n'est qu'une excuse\npour mettre sa propre équipe dans des rôles exécutifs."
           }
         },
         "69": {
@@ -9575,7 +9575,7 @@
           "": {
             "1": 1569,
             "2": 20,
-            "4": "Les Yakuza de nos jours\ntournent trop autour du pot..."
+            "4": "Les yakuzas de nos jours\ntournent trop autour du pot..."
           }
         },
         "72": {
@@ -9624,7 +9624,7 @@
           "": {
             "1": 1570,
             "2": 1,
-            "4": "Huh ?"
+            "4": "Hein ?"
           }
         },
         "79": {
@@ -9680,7 +9680,7 @@
           "": {
             "1": 1572,
             "2": 1,
-            "4": "Cet incident que nous avons...\nVoulez-vous vous expliquer, Majima-san ?"
+            "4": "Cet incident que nous avons à faire face...\nVoulez-vous vous expliquer, Majima-san ?"
           }
         },
         "87": {
@@ -9743,7 +9743,7 @@
           "": {
             "1": 1572,
             "2": 5,
-            "4": "Aucune, pour le moment.\nMais je suis sûr que ce n'est qu'une question de temps avant que je le fasse."
+            "4": "Aucune, pour le moment.\nMais je suis sûr que ce n'est qu'une question de temps avant que j'en trouve."
           }
         },
         "96": {
@@ -9833,7 +9833,7 @@
           "": {
             "1": 1660,
             "2": 1,
-            "4": "Yo. Je savais que tu viendrais, Goro Majima."
+            "4": "Yo. Je savais que vous viendriez, Goro Majima."
           }
         },
         "109": {
@@ -9868,7 +9868,7 @@
           "": {
             "1": 1660,
             "2": 4,
-            "4": "Tout pareil, je suppose.\nQue viens-tu chercher ?"
+            "4": "Tout pareil, je suppose.\nQue venez-vous chercher ?"
           }
         },
         "114": {
@@ -9945,14 +9945,14 @@
           "": {
             "1": 1660,
             "2": 9,
-            "4": "Je veux que vous preniez en charge les opérations."
+            "4": "Je veux que vous prenniez en charge les opérations."
           }
         },
         "125": {
           "": {
             "1": 1574,
             "2": 9,
-            "4": "Purgatoire...?"
+            "4": "Purgatoire... ?"
           }
         },
         "126": {
@@ -10064,14 +10064,14 @@
           "": {
             "1": 1574,
             "2": 17,
-            "4": "Whoa, c'est quoi ce bordel ?"
+            "4": "Whoa, c'est quoi ce bordel !?"
           }
         },
         "142": {
           "": {
             "1": 1660,
             "2": 18,
-            "4": "Tout est dans le travail. Tout est dans le travail. Mon intersection sur l'autoroute\nde l'information de Kamurocho."
+            "4": "Tout est dans le travail. Mon intersection sur l'autoroute\nde l'information de Kamurocho."
           }
         },
         "143": {
@@ -10085,7 +10085,7 @@
           "": {
             "1": 1660,
             "2": 20,
-            "4": "Jete un coup d'oeil à ce moniteur."
+            "4": "Jetez un coup d'oeil à ce moniteur."
           }
         },
         "145": {
@@ -10120,7 +10120,7 @@
           "": {
             "1": 1574,
             "2": 20,
-            "4": "C'est... Kawamura!?"
+            "4": "C'est... Kawamura !?"
           }
         },
         "150": {
@@ -10148,7 +10148,7 @@
           "": {
             "1": 1660,
             "2": 25,
-            "4": "Où vous allez ?"
+            "4": "Où tu vas ?"
           }
         },
         "154": {
@@ -10190,14 +10190,14 @@
           "": {
             "1": 1574,
             "2": 25,
-            "4": "Sotenbori...?"
+            "4": "Sotenbori... ?"
           }
         },
         "160": {
           "": {
             "1": 1575,
             "2": 1,
-            "4": "Ici, parmi tous les endroits..."
+            "4": "Ici, de tous les endroits du monde..."
           }
         },
         "161": {
@@ -10218,7 +10218,7 @@
           "": {
             "1": 1577,
             "2": 2,
-            "4": "Quel course souhaitez-vous ?"
+            "4": "Quelle programme souhaitez-vous ?"
           }
         },
         "164": {
@@ -10365,7 +10365,7 @@
           "": {
             "1": 1577,
             "2": 13,
-            "4": "Hmm... C'était il y a assez longtemps...\nDésolé."
+            "4": "Hmm... C'était il y a assez longtemps...\nDésolée."
           }
         },
         "185": {
@@ -10379,7 +10379,7 @@
           "": {
             "1": 1577,
             "2": 14,
-            "4": "Oh mais monsieur, quelle course voulez-vous ?"
+            "4": "Oh mais monsieur, quel programme voulez-vous ?"
           }
         },
         "187": {
@@ -10421,7 +10421,7 @@
           "": {
             "1": 1576,
             "2": 15,
-            "4": "Donnez-moi la course le plus rapide et la plus courte que vous avez."
+            "4": "Donnez-moi le programme le plus rapide et le plus court que vous avez."
           }
         },
         "193": {
@@ -10601,14 +10601,14 @@
           "": {
             "1": 1579,
             "2": 19,
-            "4": "Oh mon Dieu, je suis désolé de vous avoir fait\nvivre une histoire aussi déprimante !"
+            "4": "Oh mon dieu, je suis désolé de vous avoir fait\nvivre une histoire aussi déprimante !"
           }
         },
         "219": {
           "": {
             "1": 1579,
             "2": 20,
-            "4": "Désolé, je suis très bavarde aujourd'hui pour une certaine raison."
+            "4": "Désolée, je suis très bavarde aujourd'hui pour une certaine raison."
           }
         },
         "220": {
@@ -10636,7 +10636,7 @@
           "": {
             "1": 1580,
             "2": 1,
-            "4": "Boss...?"
+            "4": "Boss... ?"
           }
         },
         "224": {
@@ -10720,7 +10720,7 @@
           "": {
             "1": 1582,
             "2": 2,
-            "4": "Assumez leurs dettes,\net elles sont de l'argile entre vos mains."
+            "4": "Assumez leurs dettes,\net ils sont de l'argile entre vos mains."
           }
         },
         "236": {
@@ -10755,7 +10755,7 @@
           "": {
             "1": 1582,
             "2": 5,
-            "4": "Tu sais quelle est l'une des industries les plus illogiques\net démodées au monde ? C'est le yakuza."
+            "4": "Tu sais quelle est l'une des industries les plus illogiques\net démodées au monde ? C'est les yakuzas."
           }
         },
         "241": {
@@ -10866,7 +10866,7 @@
           "": {
             "1": 1583,
             "2": 6,
-            "4": "L'Omi!?"
+            "4": "L'Omi !?"
           }
         },
         "257": {
@@ -10887,7 +10887,7 @@
           "": {
             "1": 1582,
             "2": 20,
-            "4": "Et je prendrais le poste estimé de\nréorganiser le monde souterrain dans sa structure idéale."
+            "4": "Et je prendrais le poste estimé pour\nréorganiser le monde souterrain dans sa structure idéale."
           }
         },
         "260": {
