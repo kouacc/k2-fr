@@ -435,7 +435,7 @@
   "39": {
     "majima_1syo": {
       "name": "CHAPITRE 1",
-      "explanation": "Jouer au chapitre 1 de la saga Majima.",
+      "explanation": "Jouer au chapitre 1 de la Saga Majima.",
       "category": 10,
       "direct_exit_condition": 0,
       "reARMP_validityBool": "00000110",
@@ -446,7 +446,7 @@
   "40": {
     "majima_2syo": {
       "name": "CHAPITRE 2",
-      "explanation": "Jouer au chapitre 2 de la saga Majima.",
+      "explanation": "Jouer au chapitre 2 de la Saga Majima.",
       "category": 10,
       "direct_exit_condition": 0,
       "reARMP_validityBool": "00000110",
@@ -457,7 +457,7 @@
   "41": {
     "majima_3syo": {
       "name": "CHAPITRE 3",
-      "explanation": "Jouer au chapitre 3 de la saga Majima.",
+      "explanation": "Jouer au chapitre 3 de la Saga Majima.",
       "category": 10,
       "direct_exit_condition": 0,
       "reARMP_validityBool": "00000110",
@@ -573,7 +573,7 @@
   "53": {
     "tgs_clan": {
       "name": "CLAN CREATOR",
-      "explanation": "EDécouvrez la première mission du Clan Creator de Yakuza Kiwami 2.",
+      "explanation": "Découvrez la première mission du Clan Creator de Yakuza Kiwami 2.",
       "category": 6,
       "direct_exit_condition": 142,
       "reARMP_validityBool": "00000010",
@@ -595,7 +595,7 @@
   "55": {
     "majima_continue": {
       "name": "CONTINUER (SAGA MAJIMA)",
-      "explanation": "Continuer un fichier sauvegardé de Saga Majima.",
+      "explanation": "Continuer un fichier sauvegardé de la Saga Majima.",
       "category": 1,
       "direct_exit_condition": 0,
       "reARMP_validityBool": "00000110",
