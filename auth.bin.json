@@ -52226,7 +52226,7 @@
             "1": 1278.0,
             "2": 1365.0,
             "3": 0,
-            "4": "Looks like your janitor's been slacking.",
+            "4": "On dirait que ton concierge s'est relâché.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -52246,7 +52246,7 @@
             "1": 1486.0,
             "2": 1527.0,
             "3": 0,
-            "4": "Enlevons ces ordures.",
+            "4": "Dégageons ces ordures.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -52366,7 +52366,7 @@
             "1": 555.0,
             "2": 602.0,
             "3": 0,
-            "4": "TU gères, mon grand.",
+            "4": "Tu gères, mon grand.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -52666,7 +52666,7 @@
             "1": 65.0,
             "2": 189.0,
             "3": 0,
-            "4": "Ce n'est pas parce que vous êtes intéressé par quelque chose\r\nque tout le monde l'est.",
+            "4": "C'est pas parce que vous êtes intéressé par quelque chose\r\nque tout le monde l'est.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -52886,7 +52886,7 @@
             "1": 726.0,
             "2": 835.0,
             "3": 0,
-            "4": "Dois-je te l'épeler ?",
+            "4": "Je dois te l'épeler ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
           }
@@ -52916,7 +52916,7 @@
             "1": 1128.0,
             "2": 1269.0,
             "3": 0,
-            "4": "C'est... beaucoup à encaisser en ce moment.\r\nPourquoi tu ne m'as pas dit ?",
+            "4": "C'est... beaucoup à encaisser en ce moment.\r\nPourquoi tu ne m'as rien dit ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -53166,7 +53166,7 @@
             "1": 603.0,
             "2": 676.0,
             "3": 0,
-            "4": "Je suis prêt pour un petit soulagement du stress !",
+            "4": "Je suis prêt pour un petit soulagement de stress !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -53206,7 +53206,7 @@
             "1": 1038.0,
             "2": 1141.0,
             "3": 0,
-            "4": "Nous sommes désolés... Nous sommes tellement désolés !\r\nS'il vous plaît, laissez-nous décrocher !",
+            "4": "Nous sommes désolés... Nous sommes tellement désolés !\r\nS'il vous plaît, laissez-nous partir !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
           }
@@ -53216,7 +53216,7 @@
             "1": 1318.0,
             "2": 1457.0,
             "3": 0,
-            "4": "Mec, Aniki.\r\nLes jeunes d'aujourd'hui sont complètement fauchés.",
+            "4": "Putain, Aniki.\r\nLes jeunes d'aujourd'hui sont complètement fauchés.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
           }
@@ -53356,7 +53356,7 @@
             "1": 906.0,
             "2": 1157.0,
             "3": 0,
-            "4": "Tu te fais déjà dessus ? Bien sûr que oui.\r\nIl n'y a pas une seule paire de slips propres en ville avec le Dragon dans les parages.",
+            "4": "Tu te fais déjà dessus ? Bien sûr que oui.\r\nIl n'y a pas une seule paire de slips propres en ville avec le dragon dans les parages.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
           }
