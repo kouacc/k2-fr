@@ -4285,13 +4285,13 @@
   "61": {
     "bouncer_btl20_01": {
       "name": "Une investigation suspecte : Normale",
-      "explanation": "Client : Agence de détectives Darwin\r\nInfiltrez-vous dans le bâtiment Amano\r\net inspectez tous les détails de cet endroit.\r\nIl y a peut-être des sbires dans le\r\ncoin, mais vous pourrez vous en occuper\r\ncomme vous voulez.",
+      "explanation": "Client : Agence de détectives Darwin\r\nInfiltrez-vous dans l'immeuble Amano\r\net inspectez tous les détails de cet endroit.\r\nIl y a peut-être des sbires dans le\r\ncoin, mais vous pourrez vous en occuper\r\ncomme vous voulez.",
       "level": 6,
       "time_limit": 360,
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis avant la fin du temps !",
       "lose_condition_explanation": "La santé tombe à 0\r\nTemps écoulé",
-      "place_text": "Kamurocho : Bâtiment Amano",
+      "place_text": "Kamurocho : immeuble Amano",
       "place_picture": 5429,
       "zako0": 0,
       "zako1": 0,
@@ -4351,13 +4351,13 @@
   "62": {
     "bouncer_btl20_02": {
       "name": "Une investigation suspecte : Difficile",
-      "explanation": "Client : Agence de détectives Darwin\r\nInfiltrez-vous dans le bâtiment Amano\r\net inspectez tous les détails de cet endroit.\r\nIl y a peut-être des sbires dans le\r\ncoin, mais vous pourrez vous en occuper\r\ncomme vous voulez.",
+      "explanation": "Client : Agence de détectives Darwin\r\nInfiltrez-vous dans l'immeuble Amano\r\net inspectez tous les détails de cet endroit.\r\nIl y a peut-être des sbires dans le\r\ncoin, mais vous pourrez vous en occuper\r\ncomme vous voulez.",
       "level": 8,
       "time_limit": 360,
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis avant la fin du temps !",
       "lose_condition_explanation": "La santé tombe à 0\r\nTemps écoulé",
-      "place_text": "Kamurocho : Bâtiment Amano",
+      "place_text": "Kamurocho : immeuble Amano",
       "place_picture": 5429,
       "zako0": 0,
       "zako1": 0,
@@ -4417,13 +4417,13 @@
   "63": {
     "bouncer_btl20_03": {
       "name": "Une investigation suspecte : Légende",
-      "explanation": "Client : Agence de détectives Darwin\r\nInfiltrez-vous dans le bâtiment Amano\r\net inspectez tous les détails de cet endroit.\r\nIl y a peut-être des sbires dans le\r\ncoin, mais vous pourrez vous en occuper\r\ncomme vous voulez.",
+      "explanation": "Client : Agence de détectives Darwin\r\nInfiltrez-vous dans l'immeuble Amano\r\net inspectez tous les détails de cet endroit.\r\nIl y a peut-être des sbires dans le\r\ncoin, mais vous pourrez vous en occuper\r\ncomme vous voulez.",
       "level": 10,
       "time_limit": 360,
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis avant la fin du temps !",
       "lose_condition_explanation": "La santé tombe à 0\r\nTemps écoulé",
-      "place_text": "Kamurocho : Bâtiment Amano",
+      "place_text": "Kamurocho : immeuble Amano",
       "place_picture": 5429,
       "zako0": 0,
       "zako1": 0,

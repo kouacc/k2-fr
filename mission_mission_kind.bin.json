@@ -5066,9 +5066,9 @@
   },
   "117": {
     "lexus2_m_ADV06_0020": {
-      "title": "Aller au bâtiment Amano",
+      "title": "Aller à l'immeuble Amano",
       "mission": "Je ne sais pas où c'est...",
-      "mission_info": "Je devrais demander à Tamura de me renseigner sur le bâtiment Amano.\r\nIl est habituellement sur Theater Square.",
+      "mission_info": "Je devrais demander à Tamura de me renseigner sur l'mmeuble Amano.\r\nIl est habituellement sur Theater Square.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -5111,8 +5111,8 @@
   "118": {
     "lexus2_m_ADV06_0030": {
       "title": "Trouver Tamura sur Theater Square",
-      "mission": "Il saura où se trouve le bâtiment Amano.",
-      "mission_info": "Je devrais demander à Tamura de me renseigner sur le bâtiment Amano.\r\nIl est habituellement sur Theater Square.",
+      "mission": "Il saura où se trouve l'immeuble Amano.",
+      "mission_info": "Je devrais demander à Tamura de me renseigner sur l'immeuble Amano.\r\nIl est habituellement sur Theater Square.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -5154,9 +5154,9 @@
   },
   "119": {
     "lexus2_m_ADV06_0040": {
-      "title": "Aller au bâtiment Amano",
+      "title": "Aller à l'immeuble Amano",
       "mission": "On dirait que c'est gardé...",
-      "mission_info": "Le bâtiment Amano est près du\r\nParc pour enfants. Mais il y a un gang là-bas...",
+      "mission_info": "L'immeuble Amano est près du\r\nParc pour enfants. Mais il y a un gang là-bas...",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -5200,7 +5200,7 @@
     "lexus2_m_ADV06_0060": {
       "title": "Aller derrière la pharmacie",
       "mission": "Ce type va donner la clé.",
-      "mission_info": "Le chef de ce gang de 16 bits a apparemment\r\nla clé du bâtiment Amano...",
+      "mission_info": "Le chef de ce gang de 16 bits a apparemment\r\nla clé de l'immeuble Amano...",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -5242,9 +5242,9 @@
   },
   "121": {
     "lexus2_m_ADV06_0080": {
-      "title": "Aller au bâtiment Amano",
+      "title": "Aller à l'immeuble Amano",
       "mission": "J'ai la clé maintenant.",
-      "mission_info": "J'ai la clé. Je devrais être capable d'entrer\r\ndans le bâtiment Amano.",
+      "mission_info": "J'ai la clé. Je devrais être capable d'entrer\r\ndans l'immeuble Amano.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",

@@ -3901,7 +3901,7 @@
   },
   "459": {
     "k_building_amano_1f": {
-      "name": "Bâtiment Amano RdC",
+      "name": "Immeuble Amano RdC",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3910,7 +3910,7 @@
   },
   "460": {
     "k_building_amano_2f": {
-      "name": "Bâtiment Amano 1er étage",
+      "name": "Immeuble Amano 1er étage",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3919,7 +3919,7 @@
   },
   "461": {
     "k_building_amano_3f": {
-      "name": "Bâtiment Amano 2e étage",
+      "name": "Immeuble Amano 2e étage",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3928,7 +3928,7 @@
   },
   "462": {
     "k_building_amano_4f": {
-      "name": "Bâtiment Amano 3e étage",
+      "name": "Immeuble Amano 3e étage",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3937,7 +3937,7 @@
   },
   "463": {
     "k_building_amano_5f": {
-      "name": "Bâtiment Amano 4e étage",
+      "name": "Immeuble Amano 4e étage",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3946,7 +3946,7 @@
   },
   "464": {
     "k_building_amano_6f": {
-      "name": "Bâtiment Amano 5e étage",
+      "name": "Immeuble Amano 5e étage",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3955,7 +3955,7 @@
   },
   "465": {
     "k_building_amano_sotokaidan": {
-      "name": "Cage d'escalier du bâtiment Amano",
+      "name": "Cage d'escalier de l'immeuble Amano",
       "picture": 0,
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",

@@ -34300,7 +34300,7 @@
             "1": 533.0,
             "2": 749.0,
             "3": 0,
-            "4": "Et l'homme qui a enlevé Daigo t'a dit de venir\r\nau bâtiment Amano à 1h cette nuit ?",
+            "4": "Et l'homme qui a enlevé Daigo t'a dit de venir\r\nà l'immeuble Amano à 1h cette nuit ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
           }
@@ -34430,7 +34430,7 @@
             "1": 2098.0,
             "2": 2172.0,
             "3": 0,
-            "4": "Le bâtiment Amano est ton territoire, non ?",
+            "4": "L'immeuble Amano est ton territoire, non ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
           }
@@ -36274,7 +36274,7 @@
             "1": 1488.0,
             "2": 1642.0,
             "3": 0,
-            "4": "Alors vous êtes allé au bâtiment Amano\r\npour retrouver Daigo Dojima ?",
+            "4": "Alors vous êtes allé à l'immeuble Amano\r\npour retrouver Daigo Dojima ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -37801,7 +37801,7 @@
             "1": 951.0,
             "2": 1000.0,
             "3": 0,
-            "4": "La fusillade du bâtiment Amano...",
+            "4": "La fusillade de l'immeuble Amano...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 8
           }
@@ -38900,7 +38900,7 @@
             "1": 2930.0,
             "2": 3052.0,
             "3": 0,
-            "4": "Les kidnappeurs de Daigo m'ont conduit au bâtiment Amano...",
+            "4": "Les kidnappeurs de Daigo m'ont conduit à l'immeuble Amano...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 23
           }
