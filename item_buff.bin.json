@@ -129,7 +129,7 @@
   "10": {
     "exp_all_up": {
       "param": 1.100000023841858,
-      "name": "All EXP Boost",
+      "name": "Boost de tous les EXP",
       "ui_frame": 8,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
@@ -147,7 +147,7 @@
   "12": {
     "battle_exp_up": {
       "param": 1.5,
-      "name": "Battle EXP Boost",
+      "name": "Boost d'EXP de combat",
       "ui_frame": 8,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 8
@@ -156,7 +156,7 @@
   "13": {
     "encount_up": {
       "param": 0.0,
-      "name": "Encounter Rate Up",
+      "name": "Hausse du taux de rencontre",
       "ui_frame": 15,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
@@ -165,7 +165,7 @@
   "14": {
     "encount_down": {
       "param": 0.0,
-      "name": "Encounter Rate Down",
+      "name": "Baisse du taux de rencontre",
       "ui_frame": 16,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
@@ -174,7 +174,7 @@
   "15": {
     "attack_up_large": {
       "param": 1.2999999523162842,
-      "name": "Attack Boost (Large)",
+      "name": "Boost d'attaque (grand)",
       "ui_frame": 1,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 12
@@ -183,7 +183,7 @@
   "16": {
     "attack_up_small": {
       "param": 1.100000023841858,
-      "name": "Attack Boost (Small)",
+      "name": "Boost d'attaque (petit)",
       "ui_frame": 1,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 13
@@ -192,7 +192,7 @@
   "17": {
     "reaction_up": {
       "param": 5.0,
-      "name": "Knockback Boost",
+      "name": "Boost du contrecoup",
       "ui_frame": 1,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 14
@@ -201,7 +201,7 @@
   "18": {
     "stun_up": {
       "param": 0.0,
-      "name": "Knockout Boost",
+      "name": "Boost d'élimination",
       "ui_frame": 1,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 1
@@ -210,7 +210,7 @@
   "19": {
     "defense_up_large": {
       "param": -0.30000001192092896,
-      "name": "Defense Boost (Large)",
+      "name": "Boost de défense (grand)",
       "ui_frame": 2,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 17
@@ -219,7 +219,7 @@
   "20": {
     "defense_up_small": {
       "param": -0.10000000149011612,
-      "name": "Defense Boost (Small)",
+      "name": "Boost de défense (petit)",
       "ui_frame": 2,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 18
@@ -228,7 +228,7 @@
   "21": {
     "guard_break": {
       "param": -0.10000000149011612,
-      "name": "Guard Break",
+      "name": "Brise de garde",
       "ui_frame": 1,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 21
@@ -237,7 +237,7 @@
   "22": {
     "hact_damage_up": {
       "param": 0.0,
-      "name": "Heat Action Damage Boost",
+      "name": "Boost des dégâts d'actions Heat",
       "ui_frame": 1,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 22
@@ -246,7 +246,7 @@
   "23": {
     "reaction_down": {
       "param": 0.0,
-      "name": "Knockback Resistance Boost",
+      "name": "Boost de la résistance au contrecoup",
       "ui_frame": 2,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 23
@@ -255,7 +255,7 @@
   "24": {
     "weapon_damage_down": {
       "param": -0.5,
-      "name": "Blade/Gun Resistance Boost",
+      "name": "Amélioration de la résistance aux lames/armes",
       "ui_frame": 2,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 24
