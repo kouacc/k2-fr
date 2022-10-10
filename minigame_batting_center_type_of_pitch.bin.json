@@ -440,7 +440,7 @@
   },
   "30": {
     "lexus2_shuuto": {
-      "name": "Tir",
+      "name": "Balle de shoot",
       "particle": 8285,
       "track_parameter": 20,
       "color": "batting_pitch_yellow",

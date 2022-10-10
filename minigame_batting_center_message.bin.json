@@ -170,14 +170,14 @@
   },
   "20": {
     "normal_bat": {
-      "text": "Batte normale",
+      "text": "Batte ordinaire",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 20
     }
   },
   "21": {
     "large_bat": {
-      "text": "Batte facile",
+      "text": "Batte de sérénité",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 21
     }
@@ -205,7 +205,7 @@
   },
   "25": {
     "opened_homerun_competition": {
-      "text": "Vous avez réussi tous les niveaux Avancés !\r\nParlez à Yoshida pour tenter l'ultime\r\nchallenge, la Compétition de Home Runs !",
+      "text": "Vous avez réussi tous les niveaux Avancés !\r\nParlez à Yoshida pour tenter l'ultime\r\ndéfi, la Compétition de Home Runs !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 25
     }

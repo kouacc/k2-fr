@@ -4022,7 +4022,7 @@
           }
         }
       },
-      "name": "Smile Burger (NW Theater Square)",
+      "name": "Smile Burger (Theater Square NO)",
       "icon": 91,
       "type": 2,
       "start_div_pos_x": -113.31620025634766,
@@ -4475,7 +4475,7 @@
           }
         }
       },
-      "name": "Wette Kitchen (W Taihei Blvd.)",
+      "name": "Wette Kitchen (Taihei Blvd. O)",
       "icon": 2104,
       "type": 2,
       "start_div_pos_x": -113.92120361328125,
@@ -4622,7 +4622,7 @@
           }
         }
       },
-      "name": "Wild Jackson (E Millennium Tower St.)",
+      "name": "Wild Jackson (Millennium Tower St. E)",
       "icon": 2105,
       "type": 2,
       "start_div_pos_x": 65.38054656982422,
@@ -6293,7 +6293,7 @@
           }
         }
       },
-      "name": "Poppo (E Shichifuku St.)",
+      "name": "Poppo (Shichifuku St. E)",
       "icon": 2099,
       "type": 1,
       "start_div_pos_x": 0.0,
@@ -6776,7 +6776,7 @@
           }
         }
       },
-      "name": "Poppo (W Shichifuku St.)",
+      "name": "Poppo (Shichifuku St. O)",
       "icon": 2099,
       "type": 1,
       "start_div_pos_x": 0.0,
@@ -20792,7 +20792,7 @@
           }
         }
       },
-      "name": "Bureau de d'échange du Casino Dragon Palace",
+      "name": "Bureau d'échange du Casino Dragon Palace",
       "icon": 0,
       "type": 11,
       "start_div_pos_x": 0.0,

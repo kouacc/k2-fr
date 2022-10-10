@@ -44,28 +44,28 @@
   },
   "2": {
     "chapter2": {
-      "name": "Chapitre 2 : Le Dragon du Kansai",
+      "name": "Chapitre 2 : Le dragon du Kansai",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 2
     }
   },
   "3": {
     "chapter3": {
-      "name": "Chapitre 3 : La Chasseuse de Yakuzas",
+      "name": "Chapitre 3 : La chasseuse de yakuzas",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
   },
   "4": {
     "chapter4": {
-      "name": "Chapitre 4 : Les Quatre Rois d'Omi",
+      "name": "Chapitre 4 : Les quatre rois d'Omi",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
   },
   "5": {
     "chapter5": {
-      "name": "Chapitre 5 : Passé Enfoui",
+      "name": "Chapitre 5 : Passé enfoui",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
@@ -79,7 +79,7 @@
   },
   "7": {
     "chapter7": {
-      "name": "Chapitre 7 : La Menace Extérieure",
+      "name": "Chapitre 7 : La menace extérieure",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
     }
@@ -93,7 +93,7 @@
   },
   "9": {
     "chapter9": {
-      "name": "Chapitre 9 : L'Invasion Omi",
+      "name": "Chapitre 9 : L'invasion Omi",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
     }
@@ -107,14 +107,14 @@
   },
   "11": {
     "chapter11": {
-      "name": "Chapitre 11 : Le Credo de Fer",
+      "name": "Chapitre 11 : Le credo de fer",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
     }
   },
   "12": {
     "chapter12": {
-      "name": "Chapitre 12 : Le Château d'Osaka",
+      "name": "Chapitre 12 : Le château d'Osaka",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 12
     }
@@ -149,21 +149,21 @@
   },
   "17": {
     "majima_chapter1": {
-      "name": "Majima Saga : Réforme du clan Tojo",
+      "name": "Saga Majima : Réforme du Clan Tojo",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 17
     }
   },
   "18": {
     "majima_chapter2": {
-      "name": "Majima Saga : Fils Prodige",
+      "name": "Saga Majima : Fils prodige",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 18
     }
   },
   "19": {
     "majima_chapter3": {
-      "name": "Majima Saga : Le Chien Fou de Shimano",
+      "name": "Saga Majima : Le chien fou de Shimano",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 19
     }
