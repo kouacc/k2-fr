@@ -730,8 +730,8 @@
   },
   "88": {
     "lexus2_adv04_0170_select_01": {
-      "option0": "5,000 yens.",
-      "option1": "10,000 yens.",
+      "option0": "5 000 yens.",
+      "option1": "10 000 yens.",
       "option2": "C'est à vous de décider.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -816,7 +816,7 @@
   "97": {
     "lexus2_adv11_0040_select_01": {
       "option0": "Ne pas payer",
-      "option1": "Payer 30,000 Yen",
+      "option1": "Payer 30 000 yens",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 250
@@ -946,7 +946,7 @@
   },
   "111": {
     "lexus2_mahjong": {
-      "option0": "Entrer le Battle Royale Roaring Dragon",
+      "option0": "Entrer le Battle Royale Dragon Rugissant",
       "option1": "Demander sur les bonus de points",
       "option2": "Rien",
       "reARMP_validityBool": "00000010",
@@ -1005,10 +1005,10 @@
   },
   "117": {
     "lexus2_video_select": {
-      "option0": "Vidéo Sexy",
+      "option0": "Vidéo sexy",
       "option1": "Vidéo de Combat",
-      "option2": "Vidéo Sale",
-      "option3": "Vidéo Suspecte",
+      "option2": "Vidéo sale",
+      "option3": "Vidéo suspecte",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 687
@@ -1097,9 +1097,9 @@
   },
   "127": {
     "lexus2_advsubsa17_040_select_01": {
-      "option0": "Super Kung Fu Man: Hong Kong Fever",
-      "option1": "Escalator to Heaven",
-      "option2": "You Bring The Rope, I'll Bring My Wife",
+      "option0": "Super Kung Fu Man : Hong Kong Fever",
+      "option1": "Ascenseur vers le paradis",
+      "option2": "Tu ramènes la corde, je ramène ma femme",
       "option3": "Take-Chan's High School Heaven",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -1126,7 +1126,7 @@
   },
   "130": {
     "lexus2_advsubsa24_010_select_01": {
-      "option0": "Ceci ne me concerne pas.　",
+      "option0": "Ça ne me concerne pas.　",
       "option1": "Intervenir",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -1144,7 +1144,7 @@
   },
   "132": {
     "lexus2_advsubsa24_015_select_01": {
-      "option0": "Ceci ne me concerne pas.　",
+      "option0": "Ça ne me concerne pas.　",
       "option1": "Intervenir",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -7429,7 +7429,7 @@
   },
   "868": {
     "lexus2_advsubsb13_051_select_01": {
-      "option0": "Louer un Kiosque Vidéo",
+      "option0": "Louer un kiosque vidéo",
       "option1": "Ne rien regarder",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
