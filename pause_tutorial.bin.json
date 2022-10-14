@@ -345,7 +345,7 @@
   },
   "16": {
     "btl_tutorial_01_quick_attack": {
-      "title": "Essayez votre Combo Ruée basique !",
+      "title": "Essayez votre Combo ruée basique !",
       "explanation": "Appuyez sur <Sign:2,Combat> pour effectuer une attaque rapide. Si vous voulez maintenir\r\nla pression, enchaînez les attaques rapides ensemble pour faire un Combo Ruée en\r\nappuyant sur <Sign:2,Combat> jusqu'à quatre fois.\r\nAsséner des attaques rapides peut rendre votre adversaire vulnérable à d'autres attaques.\r\n\r\n<Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>",
       "picture": 4275,
       "timer": 21,

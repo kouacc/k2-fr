@@ -285,7 +285,7 @@
         "2": {
           "": {
             "1": "Bienvenue !",
-            "2": "Bienvenue dans Yakuza Kiwami 2!\r\nMon nom est Kiwami Bob du\r\nNewsletter de conseils.\r\n\r\nJe vous expliquerai tous les\r\ndétails de base du jeu au\r\nfur et à mesure de votre progression.\r\n\r\nN'oubliez pas de revenir ici s'il y a\r\nquelque chose que vous\r\nne comprenez pas !<symbol=keitai_heart>",
+            "2": "Bienvenue dans Yakuza Kiwami 2 !\r\nMon nom est Kiwami Bob du\r\nNewsletter de conseils.\r\n\r\nJe vous expliquerai tous les\r\ndétails de base du jeu au\r\nfur et à mesure de votre progression.\r\n\r\nN'oubliez pas de revenir ici s'il y a\r\nquelque chose que vous\r\nne comprenez pas !<symbol=keitai_heart>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -446,7 +446,7 @@
         },
         "15": {
           "": {
-            "1": "Vous courrez des marathons en un rien de temps !",
+            "1": "Courrez des marathons en un rien de temps !",
             "2": "Ici Kiwami Bob, encore et toujours.\r\nVous connaissez le sprint ?\r\n\r\nSi vous voulez vous déplacer un peu plus\r\nvite, maintenez <action=Action_Run,Default> pour courir.\r\n<symbol=keitai_tension_up> Cependant, vous pouvez pas courir\r\npour toujours, alors assurez-vous de relâcher <action=Action_Run,Default>\r\nde temps en temps et de reprendre votre\r\nsouffle. <symbol=keitai_tension_down>\r\n\r\nVous pouvez améliorer votre endurance\r\ndans le Menu Pause.<symbol=keitai_cat_smile>",
             "3": 0,
             "4": 0,
@@ -1892,7 +1892,7 @@
         },
         "134": {
           "": {
-            "1": "Vous l'avez fait!",
+            "1": "Vous avez réussi !",
             "2": "<symbol=keitai_heart><symbol=keitai_heart><symbol=keitai_heart>\r\nIci Kiwami Bob ! Félicitations pour\r\navoir fini la Liste des Succès !\r\n<symbol=keitai_heart><symbol=keitai_heart><symbol=keitai_heart>\r\nJ'aimerais vous donner une récompense. <symbol=keitai_present>\r\nRendez-vous au Serena ou à Aoi et\r\nouvrez le paquet pour le récupérer !\r\n<symbol=keitai_heart><symbol=keitai_heart><symbol=keitai_heart>",
             "3": 0,
             "4": 0,
@@ -2133,8 +2133,8 @@
         },
         "2": {
           "": {
-            "1": "Attacking",
-            "2": "Dragon of Dojima.\r\n\r\nYou must be comfortable with\r\nthe basics of battle if you\r\never hope to survive this\r\nharsh world.\r\n\r\nRush Combo:\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat>\r\n\r\nFinishing Blows:\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nDouble Finishers:\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nCharge Attacks:\r\nHold, then release <symbol=button_shikaku,Combat>\r\nHold, then release <symbol=button_sankaku,Combat>\r\n\r\nThrow Attacks:\r\n(When near enemy) <symbol=button_maru,Combat> <symbol=button_maru,Combat>\r\n(When near enemy) <symbol=button_maru,Combat> <symbol=button_sankaku,Combat>\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "1": "Attaquer",
+            "2": "Dragon de Dojima.\r\n\r\nTu dois être à l'aise avec\r\nles bases du combat si tu\r\nsouhaites survivre dans ce\r\nrude monde.\r\n\r\nCombo ruée :\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat>\r\n\r\nCoup décisif :\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nDouble coup fatal :\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nAttaques chargées :\r\nMaintenez, et relâchez <symbol=button_shikaku,Combat>\r\nMaintenez, et relâchez <symbol=button_sankaku,Combat>\r\n\r\nLancers :\r\n(Près d'un ennemi) <symbol=button_maru,Combat> <symbol=button_maru,Combat>\r\n(Près d'un ennemi) <symbol=button_maru,Combat> <symbol=button_sankaku,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2267,8 +2267,8 @@
         },
         "13": {
           "": {
-            "1": "Defending",
-            "2": "Dragon of Dojima.\r\n\r\nImpenetrable defense is vital\r\non the path to true might. You\r\nwill never know defeat if you\r\ncan never be hit.\r\n\r\nStrafe around an enemy:\r\nHold <symbol=button_r1,Combat>\r\n\r\nGuard:\r\nHold <symbol=button_l1,Combat>\r\n\r\nEvade enemy attacks:\r\nChoose direction <symbol=button_l_stick,Combat> and press <symbol=button_batsu,Combat>\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "1": "Défendre",
+            "2": "Dragon de Dojima.\r\n\r\nUne défense impénétrable est\r\nvitale dans le chemin de la vérité.\r\nTu ne connaitras jamais la défaite\r\nsi tu es intouchable.\r\n\r\nContourner un ennemi :\r\nMaintiens <symbol=button_r1,Combat>\r\n\r\nGarde :\r\nMaintiens <symbol=button_l1,Combat>\r\n\r\nÉviter les attaques ennemies :\r\nChoissis une direction <symbol=button_l_stick,Combat> et appuie sur <symbol=button_batsu,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2402,7 +2402,7 @@
         "24": {
           "": {
             "1": "Using Your Surroundings",
-            "2": "Dragon of Dojima.\r\n\r\nAt times, the environment\r\naround you will prove useful\r\nin your quest. Use anything\r\nand everything in search of\r\nthe secret to battle success.\r\nRemember, attacks will change\r\ndepending on what object you\r\nare holding at the time.\r\n\r\nGrab object:\r\n<symbol=button_maru,Combat>\r\n\r\nAttack:\r\n(After grabbing object) <symbol=button_shikaku,Combat>\r\n(After grabbing object) <symbol=button_sankaku,Combat>\r\n\r\nThrow object:\r\n(After grabbing object) <symbol=button_maru,Combat>\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "2": "Dragon de Dojima.\r\n\r\nDes fois, l'environnement\r\nautour de toi se prouvera\r\nutile dans ta quête. Utilise tout\r\net n'importe quoi en recherche du\r\nsecret de la réussite.\r\nN'oublie pas, les attaques changent\r\nen fonction de quel objet tu\r\ntiens dans les mains.\r\n\r\nAttraper un objet:\r\n<symbol=button_maru,Combat>\r\n\r\nAttaquer:\r\n(Apprès avoir attrapé un objet) <symbol=button_shikaku,Combat>\r\n(Apprès avoir attrapé un objet) <symbol=button_sankaku,Combat>\r\n\r\nLancer un objet:\r\n(Apprès avoir attrapé un objet) <symbol=button_maru,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2535,8 +2535,8 @@
         },
         "35": {
           "": {
-            "1": "Using Weapons",
-            "2": "Dragon of Dojima.\r\n\r\nIt is time you learn about\r\nweapons. You may equip up to\r\nthree weapons at a time via\r\nthe Equipment menu.\r\n\r\nTo use an equipped weapon,\r\npress the button you equipped\r\nit to (<symbol=button_left,Combat>, <symbol=button_up,Combat>, or <symbol=button_right,Combat>). To put a\r\nweapon away, press <symbol=button_down,Combat>.\r\n\r\nWeapons you take from your\r\nenemies are not automatically\r\nstored in your inventory. To\r\nstore a weapon, press <symbol=button_down,Combat> while\r\nholding it.\r\n\r\nEvery weapon has durability.\r\nIf a weapon's durability runs\r\nout, it cannot be used again\r\nuntil it is repaired.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "1": "Utiliser des armes",
+            "2": "Dragon de Dojima.\r\n\r\nIt is time you learn about\r\nweapons. You may equip up to\r\nthree weapons at a time via\r\nthe Equipment menu.\r\n\r\nTo use an equipped weapon,\r\npress the button you equipped\r\nit to (<symbol=button_left,Combat>, <symbol=button_up,Combat>, or <symbol=button_right,Combat>). To put a\r\nweapon away, press <symbol=button_down,Combat>.\r\n\r\nWeapons you take from your\r\nenemies are not automatically\r\nstored in your inventory. To\r\nstore a weapon, press <symbol=button_down,Combat> while\r\nholding it.\r\n\r\nEvery weapon has durability.\r\nIf a weapon's durability runs\r\nout, it cannot be used again\r\nuntil it is repaired.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
             "3": 0,
             "4": 0,
             "5": 0,
