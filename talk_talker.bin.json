@@ -336,7 +336,7 @@
   },
   "21": {
     "No.1ホスト": {
-      "talk_talker": "Hôte No. 1",
+      "talk_talker": "Hôte N. 1",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -364,7 +364,7 @@
   },
   "23": {
     "ＰＯＰＰＯ店員": {
-      "talk_talker": "Employé du Poppo",
+      "talk_talker": "Employé de Poppo",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -448,7 +448,7 @@
   },
   "29": {
     "アルバトロス赤木": {
-      "talk_talker": "Akagi l'albatros",
+      "talk_talker": "Akagi Albatros",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -462,7 +462,7 @@
   },
   "30": {
     "アルプス店員": {
-      "talk_talker": "Employé du Café Alps",
+      "talk_talker": "Employé de Café Alps",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -476,7 +476,7 @@
   },
   "31": {
     "アルプス店長": {
-      "talk_talker": "Manager du Café Alps",
+      "talk_talker": "Manager de Café Alps",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -532,7 +532,7 @@
   },
   "35": {
     "いきなり！ステーキ店員": {
-      "talk_talker": "Employé du Ikinari Steak",
+      "talk_talker": "Employé de Ikinari Steak",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -560,7 +560,7 @@
   },
   "37": {
     "ヴェッテキッチン店員": {
-      "talk_talker": "Employé du Wette Kitchen",
+      "talk_talker": "Employé de Wette Kitchen",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -588,7 +588,7 @@
   },
   "39": {
     "えびすや店員": {
-      "talk_talker": "Employé du Ebisu Pawn",
+      "talk_talker": "Employé de Ebisu Pawn",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1064,7 +1064,7 @@
   },
   "73": {
     "かに道楽店員": {
-      "talk_talker": "Employé du Kani Douraku",
+      "talk_talker": "Employée de Kani Douraku",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1134,7 +1134,7 @@
   },
   "78": {
     "がんこ寿司店員": {
-      "talk_talker": "Employé du Ganko Sushi",
+      "talk_talker": "Employée de Ganko Sushi",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1246,7 +1246,7 @@
   },
   "86": {
     "くくる店員": {
-      "talk_talker": "Employé du Kukuru",
+      "talk_talker": "Employé de Kukuru",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1358,7 +1358,7 @@
   },
   "94": {
     "ことぶき薬局店員": {
-      "talk_talker": "Employé du Kotobuki Drugs",
+      "talk_talker": "Employé de Kotobuki Drugs",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1498,7 +1498,7 @@
   },
   "104": {
     "シェラック店員": {
-      "talk_talker": "Employé du Shellac",
+      "talk_talker": "Employé de Shellac",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1652,7 +1652,7 @@
   },
   "115": {
     "すしざんまい店員": {
-      "talk_talker": "Employé du Sushi Zanmai",
+      "talk_talker": "Employé de Sushi Zanmai",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1680,7 +1680,7 @@
   },
   "117": {
     "ステイル店員": {
-      "talk_talker": "Barman du Stijl",
+      "talk_talker": "Barman de Stijl",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1708,7 +1708,7 @@
   },
   "119": {
     "スナック葵店員": {
-      "talk_talker": "Barman de l'Aoi",
+      "talk_talker": "Barman de Aoi",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1736,7 +1736,7 @@
   },
   "121": {
     "スマイルバーガー店員": {
-      "talk_talker": "Employé du Smile Burger",
+      "talk_talker": "Employée de Smile Burger",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1834,7 +1834,7 @@
   },
   "128": {
     "づぼらや店員": {
-      "talk_talker": "Employé du Zuboraya",
+      "talk_talker": "Employée de Zuboraya",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1890,7 +1890,7 @@
   },
   "132": {
     "ドン・キホーテ店員": {
-      "talk_talker": "Employé du Don Quijote",
+      "talk_talker": "Employé de Don Quijote",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -1987,7 +1987,7 @@
   },
   "139": {
     "バンタム店員": {
-      "talk_talker": "Employé du Bantam",
+      "talk_talker": "Employé de Bantam",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -2001,7 +2001,7 @@
   },
   "140": {
     "ビーム店員": {
-      "talk_talker": "Employé du Beam",
+      "talk_talker": "Employé de Beam",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -2645,7 +2645,7 @@
   },
   "186": {
     "ラーメン屋店員": {
-      "talk_talker": "Propiétaire du Kyushu No. 1 Star",
+      "talk_talker": "Propiétaire de Kyushu No. 1 Star",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -2729,7 +2729,7 @@
   },
   "192": {
     "リンガーハット店員": {
-      "talk_talker": "Employé de Ringer Hut",
+      "talk_talker": "Employée de Ringer Hut",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -2757,7 +2757,7 @@
   },
   "194": {
     "ワークス上山店員": {
-      "talk_talker": "Employé du Kamiyama Works",
+      "talk_talker": "Employé de Kamiyama Works",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -2771,7 +2771,7 @@
   },
   "195": {
     "ワイルドジャクソン店員": {
-      "talk_talker": "Employé du Wild Jackson",
+      "talk_talker": "Employée de Wild Jackson",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3401,7 +3401,7 @@
   },
   "240": {
     "韓来店員": {
-      "talk_talker": "Employé du Kanrai",
+      "talk_talker": "Employé de Kanrai",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3555,7 +3555,7 @@
   },
   "251": {
     "喫茶アルプス店員": {
-      "talk_talker": "Employé du Café Alps",
+      "talk_talker": "Employé de Café Alps",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3583,7 +3583,7 @@
   },
   "253": {
     "客引きのお姉さん": {
-      "talk_talker": "Racoleur masqué",
+      "talk_talker": "Racoleuse masqué",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3597,7 +3597,7 @@
   },
   "254": {
     "牛角店員": {
-      "talk_talker": "Employé Gyu-Kaku",
+      "talk_talker": "Employée de Gyu-Kaku",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3849,7 +3849,7 @@
   },
   "272": {
     "金龍店員": {
-      "talk_talker": "Employé du Kinryu",
+      "talk_talker": "Employé de Kinryu",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3863,7 +3863,7 @@
   },
   "273": {
     "銀だこハイボール酒場店員": {
-      "talk_talker": "Employé du Gindaco Highball Tavern",
+      "talk_talker": "Employé de Gindaco Highball Tavern",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3877,7 +3877,7 @@
   },
   "274": {
     "九州一番星店員": {
-      "talk_talker": "Propiétaire du Kyushu No. 1 Star",
+      "talk_talker": "Propiétaire de Kyushu No. 1 Star",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3891,7 +3891,7 @@
   },
   "275": {
     "串かつだるま店員": {
-      "talk_talker": "Employé du Kushikatsu Daruma",
+      "talk_talker": "Employée de Kushikatsu Daruma",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -4577,7 +4577,7 @@
   },
   "324": {
     "寿司吟店員": {
-      "talk_talker": "Employé du Sushi Gin",
+      "talk_talker": "Employé de Sushi Gin",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -5095,7 +5095,7 @@
   },
   "361": {
     "神味庵店員": {
-      "talk_talker": "Employé du Komian",
+      "talk_talker": "Employée de Komian",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -5109,7 +5109,7 @@
   },
   "362": {
     "神味庵店主": {
-      "talk_talker": "Propriétaire du Komian",
+      "talk_talker": "Propriétaire de Komian",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -5347,7 +5347,7 @@
   },
   "379": {
     "赤牛丸店員": {
-      "talk_talker": "Employé du Akaushimaru",
+      "talk_talker": "Employé de Akaushimaru",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -5599,7 +5599,7 @@
   },
   "397": {
     "大阪王将店員": {
-      "talk_talker": "Employé du Osaka King",
+      "talk_talker": "Employée de Osaka King",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -6032,7 +6032,7 @@
   },
   "428": {
     "店長": {
-      "talk_talker": "Propiétaire du Kyushu No. 1 Star",
+      "talk_talker": "Propiétaire de Kyushu No. 1 Star",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -6647,7 +6647,7 @@
   },
   "472": {
     "富士そば店員": {
-      "talk_talker": "Employé du Fuji Soba",
+      "talk_talker": "Employé de Fuji Soba",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -6773,7 +6773,7 @@
   },
   "481": {
     "麻雀好きな男": {
-      "talk_talker": "Amoureux du mahjong",
+      "talk_talker": "Amoureux de mahjong",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -7095,7 +7095,7 @@
   },
   "504": {
     "養老乃瀧店員": {
-      "talk_talker": "Employé du Yoronotaki",
+      "talk_talker": "Employé de Yoronotaki",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -7707,7 +7707,7 @@
   },
   "548": {
     "神崎の黒服": {
-      "talk_talker": "Employé du Kanzaki",
+      "talk_talker": "Employé de Kanzaki",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -8256,7 +8256,7 @@
   },
   "590": {
     "聞き覚えのある声": {
-      "talk_talker": "Voix Familière",
+      "talk_talker": "Voix familière",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -8603,7 +8603,7 @@
   },
   "615": {
     "絡まれていた男": {
-      "talk_talker": "Homme anciennement En danger",
+      "talk_talker": "Homme anciennement en danger",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,

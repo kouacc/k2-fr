@@ -1297,7 +1297,7 @@
   "28": {
     "auto_camera": {
       "name": "Caméra automatique",
-      "explanation": "Le point de vue de la caméra se déplace automatiquement\r\nen fonction de la situation. Si vous sélectionnez Désactivé, la\r\nla caméra ne bougera pas, sauf si le joueur la déplace lui-même.",
+      "explanation": "Le point de vue de la caméra se déplace automatiquement\r\nen fonction de la situation. Si vous sélectionnez Désactivé,\r\nla caméra ne bougera pas, sauf si le joueur la déplace lui-même.",
       "subtable": {
         "ROW_COUNT": 3,
         "COLUMN_COUNT": 2,
@@ -1705,7 +1705,7 @@
   "38": {
     "graphics_display_resolution": {
       "name": "Résolution",
-      "explanation": "Sélectionner la résolution de l'écran",
+      "explanation": "Sélectionner la résolution de l'écran.",
       "subtable": {
         "ROW_COUNT": 3,
         "COLUMN_COUNT": 2,
@@ -1911,7 +1911,7 @@
   "41": {
     "graphics_texture_quality": {
       "name": "Qualité de texture",
-      "explanation": "Sélectionner un niveau de qualité de texture",
+      "explanation": "Sélectionner un niveau de qualité de texture.",
       "subtable": {
         "ROW_COUNT": 4,
         "COLUMN_COUNT": 2,
@@ -1982,7 +1982,7 @@
   "42": {
     "graphics_shadow_quality": {
       "name": "Qualité des ombres",
-      "explanation": "Sélectionner un niveau de qualité des ombres",
+      "explanation": "Sélectionner un niveau de qualité des ombres.",
       "subtable": {
         "ROW_COUNT": 4,
         "COLUMN_COUNT": 2,
@@ -2053,7 +2053,7 @@
   "43": {
     "graphics_geometry_quality": {
       "name": "Qualité géométrique",
-      "explanation": "Sélectionner un niveau de qualité géométrique",
+      "explanation": "Sélectionner un niveau de qualité géométrique.",
       "subtable": {
         "ROW_COUNT": 4,
         "COLUMN_COUNT": 2,
@@ -2138,7 +2138,7 @@
   "45": {
     "graphics_motion_blur": {
       "name": "Flou cinétique",
-      "explanation": "Activer ou désactiver le flou cinétique",
+      "explanation": "Activer ou désactiver le flou cinétique.",
       "subtable": {
         "ROW_COUNT": 3,
         "COLUMN_COUNT": 2,
@@ -2266,7 +2266,7 @@
   "47": {
     "graphics_texture_filtering": {
       "name": "Filtrage de texture",
-      "explanation": "Sélectionner un mode de filtrage de texture",
+      "explanation": "Sélectionner un mode de filtrage de texture.",
       "subtable": {
         "ROW_COUNT": 6,
         "COLUMN_COUNT": 2,
@@ -2351,7 +2351,7 @@
   "48": {
     "graphics_realtime_reflections": {
       "name": "Reflets en temps réel",
-      "explanation": "Activer ou désactiver les reflets en temps réel",
+      "explanation": "Activer ou désactiver les reflets en temps réel.",
       "subtable": {
         "ROW_COUNT": 3,
         "COLUMN_COUNT": 2,
@@ -2647,7 +2647,7 @@
   "56": {
     "graphics_fov": {
       "name": "FOV",
-      "explanation": "Régler le champ de vision",
+      "explanation": "Régler le champ de vision.",
       "control": 12,
       "min_value": 25.0,
       "max_value": 75.0,

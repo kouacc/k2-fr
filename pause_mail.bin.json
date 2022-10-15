@@ -474,8 +474,8 @@
         },
         "17": {
           "": {
-            "1": "Challenge Awaits",
-            "2": "It's your boy, Kiwami Bob!\r\nEver taken a look at the Completion\r\nList from the Pause Menu?\r\n\r\nAs you complete the items on\r\nthis list, you'll gain varying\r\namounts of EXP. I recommend\r\nyou clear some of the easier\r\ntasks first so you can net as\r\nmuch EXP as possible early on!\r\n\r\nYou'll unlock new tasks as you\r\ncomplete other ones, so keep\r\nat it and go for 100%!",
+            "1": "L'heure du défi a sonné",
+            "2": "C'est moi, Kiwami Bob !\r\nAvez-vous déjà jeté un coup d'oeil\r\nà la Liste des succès du\r\nmenu Pause ?\r\n\r\nEn complétant les succès de\r\ncette liste, vous gagnerez des quantités\r\nvariables d'EXP. Je vous\r\nrecommande d'accomplir\r\nd'abord les tâches faciles afin\r\nde gagner le plus d'EXP possible\r\ndès le début !\r\n\r\nVous débloquerez de nouvelles tâches\r\nau fur et à mesure que vous\r\nen accomplirez d'autres, alors\r\npersévérez et visez le 100% !",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -502,8 +502,8 @@
         },
         "19": {
           "": {
-            "1": "Controlling the Heavens",
-            "2": "Sup, it's Kiwami Bob. Ever looked\r\nup at the sky and thought, \"I\r\nwish it wasn't so bright out\"?\r\nWell, good news! <symbol=keitai_tension_up>\r\n\r\nYou can use the waiting room\r\ndoor in Serena or the sofa in\r\nAoi to change the time of day.\r\nKeep in mind, some main story\r\nevents will keep you from\r\nchanging the time.\r\n\r\nUse these establishments to\r\nswitch between day and night\r\nas you please. Some events\r\nonly happen at night, so be\r\nsure to explore at both\r\ntimes of day! <symbol=keitai_heart>",
+            "1": "Contrôler les cieux",
+            "2": "Yo, c'es Kiwami Bob. Vous avez\r\ndéjà regardé le ciel et pensé,\r\n\"J'aimerais qu'il ne fasse pas\r\nsi clair dehors\" ?\r\nEh bien, bonne nouvelle ! <symbol=keitai_tension_up>\r\n\r\nVous pouvez utiliser la porte\r\nde la salle d'attente de Serena\r\nou le canapé d'Aoi pour changer\r\nl'heure de la journée.\r\nGardez à l'esprit que certains événements\r\nde l'histoire principale vous\r\nempêcheront de changer l'heure.\r\n\r\nUtilisez ces établissements pour\r\npasser du jour à la nuit\r\ncomme bon vous semble. Certains\r\névénements ne se produisent\r\nque la nuit, alors\r\nassurez-vous d'explorer les deux\r\nmoments de la journée ! <symbol=keitai_heart>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -544,8 +544,8 @@
         },
         "22": {
           "": {
-            "1": "The Fun Never Stops!",
-            "2": "More Kiwami Bob spam!\r\n\r\nPeriodically, you'll receive\r\nYakuza Kiwami 2 Fun Packs to enhance\r\nyour experience!<symbol=keitai_present> Pick them up from \r\nthe package at Serena or Aoi!<symbol=keitai_heart>\r\n\r\nYou can only receive fun packs once\r\nper save file.",
+            "1": "La fête ne s'arrête jamais !",
+            "2": "Encore plus de spam de Kiwami Bob!\r\n\r\nPériodiquement, vous recevrez\r\ndes packs d'amusement Yakuza Kiwami 2 pour\r\naméliorer votre expérience !<symbol=keitai_present> Récupérez-les\r\ndans le paquet à Serena ou Aoi ! <symbol=keitai_heart>\r\n\r\nVous ne pouvez recevoir des packs\r\nd'amusement qu'une fois par fichier\r\nde sauvegarde.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3288,7 +3288,7 @@
           }
         }
       },
-      "name": "Man in Black",
+      "name": "Homme en noir",
       "picture": 0,
       "can_open_directly": "1",
       "takeover": "1",

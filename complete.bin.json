@@ -649,7 +649,7 @@
     "lexus2_walk1": {
       "category": 1,
       "name": "Parcourir 10 km à pied",
-      "explanation": "Travel 10 km on foot",
+      "explanation": "Parcourir 10 km à pied",
       "need_player_point": 50,
       "need_player_point_value": 10000,
       "need_player_point_is_total_add": "0",
@@ -687,7 +687,7 @@
     "lexus2_walk2": {
       "category": 1,
       "name": "Parcourir 50 km à pied",
-      "explanation": "Travel 50 km on foot",
+      "explanation": "Parcourir 50 km à pied",
       "need_player_point": 50,
       "need_player_point_value": 50000,
       "need_player_point_is_total_add": "0",
@@ -725,7 +725,7 @@
     "lexus2_walk3": {
       "category": 1,
       "name": "Parcourir 100 km à pied",
-      "explanation": "Travel 100 km on foot",
+      "explanation": "Parcourir 100 km à pied",
       "need_player_point": 50,
       "need_player_point_value": 100000,
       "need_player_point_is_total_add": "0",
@@ -984,8 +984,8 @@
   "22": {
     "lexus2_make_money1": {
       "category": 1,
-      "name": "Gagner un total de \\200 000",
-      "explanation": "Gagner un total de \\200 000",
+      "name": "Gagner un total de 200 000\\",
+      "explanation": "Gagner un total de 200 000\\",
       "need_player_point": 1,
       "need_player_point_value": 200000,
       "need_player_point_is_total_add": "1",
@@ -1022,8 +1022,8 @@
   "23": {
     "lexus2_make_money2": {
       "category": 1,
-      "name": "Gagner un total de \\500 000",
-      "explanation": "Gagner un total de \\500 000",
+      "name": "Gagner un total de 500 000\\",
+      "explanation": "Gagner un total de 500 000\\",
       "need_player_point": 1,
       "need_player_point_value": 500000,
       "need_player_point_is_total_add": "1",
@@ -1060,8 +1060,8 @@
   "24": {
     "lexus2_make_money3": {
       "category": 1,
-      "name": "Gagner un total de \\1 000 000",
-      "explanation": "Gagner un total de \\1 000 000",
+      "name": "Gagner un total de 1 000 000\\",
+      "explanation": "Gagner un total de 1 000 000\\",
       "need_player_point": 1,
       "need_player_point_value": 1000000,
       "need_player_point_is_total_add": "1",
@@ -1098,8 +1098,8 @@
   "25": {
     "lexus2_make_money4": {
       "category": 1,
-      "name": "Gagner un total de \\5 000 000",
-      "explanation": "Gagner un total de \\5 000 000",
+      "name": "Gagner un total de 5 000 000\\",
+      "explanation": "Gagner un total de 5 000 000\\",
       "need_player_point": 1,
       "need_player_point_value": 5000000,
       "need_player_point_is_total_add": "1",
@@ -1136,8 +1136,8 @@
   "26": {
     "lexus2_make_money5": {
       "category": 1,
-      "name": "Gagner un total de \\10 000 000",
-      "explanation": "Gagner un total de \\10 000 000",
+      "name": "Gagner un total de 10 000 000\\",
+      "explanation": "Gagner un total de 10 000 000\\",
       "need_player_point": 1,
       "need_player_point_value": 10000000,
       "need_player_point_is_total_add": "1",
@@ -4850,8 +4850,8 @@
   "124": {
     "lexus2_clan_use_tension_up1": {
       "category": 5,
-      "name": "Éveiller les esprits ${need_player_point_value} time",
-      "explanation": "Éveiller les esprits ${need_player_point_value} time",
+      "name": "Éveiller les esprits ${need_player_point_value} fois",
+      "explanation": "Éveiller les esprits ${need_player_point_value} fois",
       "need_player_point": 134,
       "need_player_point_value": 1,
       "need_player_point_is_total_add": "0",
@@ -5561,7 +5561,7 @@
     "lexus2_clan_kill_enemy5": {
       "category": 5,
       "name": "Battre ${need_player_point_value} ennemis lors de batailles de clans",
-      "explanation": "Battre a total of ${need_player_point_value} ennemis lors de batailles de clans",
+      "explanation": "Battre un total de ${need_player_point_value} ennemis lors de batailles de clans",
       "need_player_point": 63,
       "need_player_point_value": 800,
       "need_player_point_is_total_add": "0",
@@ -5599,7 +5599,7 @@
     "lexus2_clan_kill_enemy6": {
       "category": 5,
       "name": "Battre ${need_player_point_value} ennemis lors de batailles de clans",
-      "explanation": "Battre a total of ${need_player_point_value} ennemis lors de batailles de clans",
+      "explanation": "Battre un total de ${need_player_point_value} ennemis lors de batailles de clans",
       "need_player_point": 63,
       "need_player_point_value": 1000,
       "need_player_point_is_total_add": "0",
@@ -6812,7 +6812,7 @@
   "176": {
     "lexus2_batting_hit_home_run_at_home_run_course1": {
       "category": 4,
-      "name": "Réaliser ${need_player_point_value} Home Runs dans la course Home Run",
+      "name": "Réaliser ${need_player_point_value} Home Runs dans le défi Home Run",
       "explanation": "Réaliser un total de ${need_player_point_value} Home Runs dans la\r\ncourse Home Run du batting center.",
       "need_player_point": 58,
       "need_player_point_value": 10,
@@ -6850,7 +6850,7 @@
   "177": {
     "lexus2_batting_hit_home_run_at_home_run_course2": {
       "category": 4,
-      "name": "Réaliser ${need_player_point_value} Home Runs dans la course Home Run",
+      "name": "Réaliser ${need_player_point_value} Home Runs dans le défi Home Run",
       "explanation": "Réaliser un total de ${need_player_point_value} Home Runs dans la\r\ncourse Home Run du batting center.",
       "need_player_point": 58,
       "need_player_point_value": 30,
@@ -6888,7 +6888,7 @@
   "178": {
     "lexus2_batting_hit_home_run_at_home_run_course3": {
       "category": 4,
-      "name": "Réaliser ${need_player_point_value} Home Runs dans la course Home Run",
+      "name": "Réaliser ${need_player_point_value} Home Runs dans le défi Home Run",
       "explanation": "Réaliser un total de ${need_player_point_value} Home Runs dans la\r\ncourse Home Run du batting center.",
       "need_player_point": 58,
       "need_player_point_value": 50,
@@ -7155,7 +7155,7 @@
     "lexus2_mahjong_ron_or_tsumo1": {
       "category": 4,
       "name": "Gagner avec Ron ou Tsumo ${need_player_point_value} fois",
-      "explanation": "Obtenir un ron ou un tsumo au mahjong ${need_player_point_value} fois",
+      "explanation": "Obtenir un Ron ou un Tsumo au mahjong ${need_player_point_value} fois",
       "need_player_point": 66,
       "need_player_point_value": 5,
       "need_player_point_is_total_add": "0",
@@ -7193,7 +7193,7 @@
     "lexus2_mahjong_ron_or_tsumo2": {
       "category": 4,
       "name": "Gagner avec Ron ou Tsumo ${need_player_point_value} fois",
-      "explanation": "Obtenir un ron ou un tsumo au mahjong ${need_player_point_value} fois",
+      "explanation": "Obtenir un Ron ou un Tsumo au mahjong ${need_player_point_value} fois",
       "need_player_point": 66,
       "need_player_point_value": 10,
       "need_player_point_is_total_add": "0",
@@ -7231,7 +7231,7 @@
     "lexus2_mahjong_ron_or_tsumo3": {
       "category": 4,
       "name": "Gagner avec Ron ou Tsumo ${need_player_point_value} fois",
-      "explanation": "Obtenir un ron ou un tsumo au mahjong ${need_player_point_value} fois",
+      "explanation": "Obtenir un Ron ou un Tsumo au mahjong ${need_player_point_value} fois",
       "need_player_point": 66,
       "need_player_point_value": 30,
       "need_player_point_is_total_add": "0",
@@ -7268,8 +7268,8 @@
   "188": {
     "lexus2_golf_near_pin_make_point_easy": {
       "category": 4,
-      "name": "Obtenir plus de 300 pts en Approche parfaite (Débutant)",
-      "explanation": "Obtenir 300 pts ou plus dans Approche parfaite\r\n(Débutant)",
+      "name": "Obtenir plus de 300 pts en Approche parfaite (débutant)",
+      "explanation": "Obtenir 300 pts ou plus dans Approche parfaite\r\n(débutant)",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
@@ -7306,8 +7306,8 @@
   "189": {
     "lexus2_golf_near_pin_make_point_normal": {
       "category": 4,
-      "name": "Obtenir plus de 300 pts en Approche parfaite (Intermédiaire)",
-      "explanation": "Obtenir 300 pts ou plus dans Approche parfaite\r\n(Intermédiaire)",
+      "name": "Obtenir plus de 300 pts en Approche parfaite (intermédiaire)",
+      "explanation": "Obtenir 300 pts ou plus dans Approche parfaite\r\n(intermédiaire)",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
@@ -7344,8 +7344,8 @@
   "190": {
     "lexus2_golf_near_pin_make_point_hard": {
       "category": 4,
-      "name": "Obtenir plus de 300 pts en Approche parfaite (Avancé)",
-      "explanation": "Obtenir 300 pts ou plus dans Approche parfaite\r\n(Avancé)",
+      "name": "Obtenir plus de 300 pts en Approche parfaite (avancé)",
+      "explanation": "Obtenir 300 pts ou plus dans Approche parfaite\r\n(avancé)",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
@@ -11332,8 +11332,8 @@
   "295": {
     "lexus2_omizu_make_money1": {
       "category": 6,
-      "name": "Gagner 10,000,000 yen",
-      "explanation": "Gagner un total de 10 000 000 de yens en dirigeant le club.",
+      "name": "Gagner 10 000 000 yens",
+      "explanation": "Gagner un total de 10 000 000 yens en dirigeant le club.",
       "need_player_point": 145,
       "need_player_point_value": 10000000,
       "need_player_point_is_total_add": "1",
@@ -11370,8 +11370,8 @@
   "296": {
     "lexus2_omizu_make_money2": {
       "category": 6,
-      "name": "Gagner 50,000,000 yen",
-      "explanation": "Gagner un total de 50 000 000 de yens en dirigeant le club.",
+      "name": "Gagner 50 000 000 yens",
+      "explanation": "Gagner un total de 50 000 000 yens en dirigeant le club.",
       "need_player_point": 145,
       "need_player_point_value": 50000000,
       "need_player_point_is_total_add": "1",
@@ -11408,8 +11408,8 @@
   "297": {
     "lexus2_omizu_make_money3": {
       "category": 6,
-      "name": "Gagner 100,000,000 yen",
-      "explanation": "Gagner un total de 100 000 000 de yens en dirigeant le club.",
+      "name": "Gagner 100 000 000 yens",
+      "explanation": "Gagner un total de 100 000 000 yens en dirigeant le club.",
       "need_player_point": 145,
       "need_player_point_value": 100000000,
       "need_player_point_is_total_add": "1",
