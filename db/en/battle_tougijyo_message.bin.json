@@ -72,7 +72,7 @@
   },
   "6": {
     "junkessyou": {
-      "message": "Demi-finales",
+      "message": "Demi-finale",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 6
     }
@@ -93,7 +93,7 @@
   },
   "9": {
     "syouri": {
-      "message": "${num} W",
+      "message": "${num} v.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
     }
@@ -107,7 +107,7 @@
   },
   "11": {
     "point": {
-      "message": "${num} pts.",
+      "message": "${num} pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
     }

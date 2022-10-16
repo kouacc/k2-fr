@@ -51,7 +51,7 @@
   },
   "3": {
     "ten": {
-      "text": " pts.",
+      "text": " pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
@@ -100,21 +100,21 @@
   },
   "10": {
     "winning_streak": {
-      "text": "Série de victoires actuelle : ${count}",
+      "text": "Série de victoires actuelle : ${count}",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 10
     }
   },
   "11": {
     "winning": {
-      "text": "　　Série de victoires : ${count}",
+      "text": "　　Série de victoires : ${count}",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
     }
   },
   "12": {
     "max_winning": {
-      "text": "Meilleure série de victoires : ${count}",
+      "text": "Meilleure série de victoires : ${count}",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 12
     }
@@ -135,14 +135,14 @@
   },
   "15": {
     "kyuushukyuuhai": {
-      "text": "Déclarer neuf extrémités et retirer la main ?",
+      "text": "Déclarer neuf extrémités et retirer la main ?",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 15
     }
   },
   "16": {
     "agari_cancel": {
-      "text": "Terminer la partie ?",
+      "text": "Terminer la partie ?",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 16
     }

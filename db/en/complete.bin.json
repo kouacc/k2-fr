@@ -7154,8 +7154,8 @@
   "185": {
     "lexus2_mahjong_ron_or_tsumo1": {
       "category": 4,
-      "name": "Gagner avec Ron ou Tsumo ${need_player_point_value} fois",
-      "explanation": "Obtenir un Ron ou un Tsumo au mahjong ${need_player_point_value} fois",
+      "name": "Gagner avec ron ou Tsumo ${need_player_point_value} fois",
+      "explanation": "Obtenir un ron ou un Tsumo au mahjong ${need_player_point_value} fois",
       "need_player_point": 66,
       "need_player_point_value": 5,
       "need_player_point_is_total_add": "0",
@@ -7192,8 +7192,8 @@
   "186": {
     "lexus2_mahjong_ron_or_tsumo2": {
       "category": 4,
-      "name": "Gagner avec Ron ou Tsumo ${need_player_point_value} fois",
-      "explanation": "Obtenir un Ron ou un Tsumo au mahjong ${need_player_point_value} fois",
+      "name": "Gagner avec ron ou Tsumo ${need_player_point_value} fois",
+      "explanation": "Obtenir un ron ou un Tsumo au mahjong ${need_player_point_value} fois",
       "need_player_point": 66,
       "need_player_point_value": 10,
       "need_player_point_is_total_add": "0",
@@ -7230,8 +7230,8 @@
   "187": {
     "lexus2_mahjong_ron_or_tsumo3": {
       "category": 4,
-      "name": "Gagner avec Ron ou Tsumo ${need_player_point_value} fois",
-      "explanation": "Obtenir un Ron ou un Tsumo au mahjong ${need_player_point_value} fois",
+      "name": "Gagner avec ron ou Tsumo ${need_player_point_value} fois",
+      "explanation": "Obtenir un ron ou un Tsumo au mahjong ${need_player_point_value} fois",
       "need_player_point": 66,
       "need_player_point_value": 30,
       "need_player_point_is_total_add": "0",

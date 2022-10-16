@@ -381,8 +381,8 @@
   },
   "49": {
     "rarabai_weak02": {
-      "ゲーム中の独り言_4": "Je ne peux pas perdre",
-      "ゲーム中の独り言_2": "Un jeu d'enfant",
+      "ゲーム中の独り言_4": "Je ne peux pas perdre.",
+      "ゲーム中の独り言_2": "Un jeu d'enfant.",
       "桐生リーチ時_3": "J'aime ça.",
       "桐生が長考_1": "Ahem. J'attends.",
       "開始時_3": "L'heure d'un peu de fun.",
@@ -390,7 +390,7 @@
       "振込み時_2": "Oùest-ce que je me suis planté ?",
       "アガリ時_2": "J'ai du talent ET de la chance.",
       "汎用　喜び_2": "Prends ça !",
-      "汎用　悔しい_2": "Comme c'est décevant",
+      "汎用　悔しい_2": "Comme c'est décevant.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 59
     }

@@ -58,28 +58,28 @@
   },
   "4": {
     "yonbai_yakuman": {
-      "text": "Yakuman 4x",
+      "text": "Yakuman x4",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
   },
   "5": {
     "gobai_yakuman": {
-      "text": "Yakuman 5x",
+      "text": "Yakuman x5",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
   },
   "6": {
     "rokubai_yakuman": {
-      "text": "Yakuman 6x",
+      "text": "Yakuman x6",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 6
     }
   },
   "7": {
     "nanabai_yakuman": {
-      "text": "Yakuman 7x",
+      "text": "Yakuman x7",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
     }
