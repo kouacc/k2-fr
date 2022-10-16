@@ -92,28 +92,28 @@
   },
   "9": {
     "s_Hanafuda_PointFormat": {
-      "text": "${count} pts.",
+      "text": "${count} pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
     }
   },
   "10": {
     "s_Hanafuda_PointFormat3": {
-      "text": "${count} pts.",
+      "text": "${count} pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 10
     }
   },
   "11": {
     "s_Hanafuda_SumPointFormat": {
-      "text": "Total : ${count} pts.",
+      "text": "Total : ${count} pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
     }
   },
   "12": {
     "s_Hanafuda_SumPointFormatx2": {
-      "text": "Total : ${count} x 2 = ${count_sum} pts.",
+      "text": "Total : ${count} x 2 = ${count_sum} pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 12
     }
@@ -267,7 +267,7 @@
   },
   "34": {
     "s_Hanafuda_ResultPoint": {
-      "text": "Total : ${count1} x ${count2} = ${count_sum} pts.",
+      "text": "Total : ${count1} x ${count2} = ${count_sum} pts",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 34
     }
@@ -435,42 +435,42 @@
   },
   "58": {
     "s_Hanafuda_Kansuji_1": {
-      "text": "Janvier",
+      "text": "janvier",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 58
     }
   },
   "59": {
     "s_Hanafuda_Kansuji_2": {
-      "text": "Février",
+      "text": "février",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 59
     }
   },
   "60": {
     "s_Hanafuda_Kansuji_3": {
-      "text": "Mars",
+      "text": "mars",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 60
     }
   },
   "61": {
     "s_Hanafuda_Kansuji_4": {
-      "text": "Avril",
+      "text": "avril",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 61
     }
   },
   "62": {
     "s_Hanafuda_Kansuji_5": {
-      "text": "Mai",
+      "text": "mai",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 62
     }
   },
   "63": {
     "s_Hanafuda_Kansuji_6": {
-      "text": "Juin",
+      "text": "juin",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 63
     }
@@ -484,35 +484,35 @@
   },
   "65": {
     "s_Hanafuda_Kansuji_8": {
-      "text": "Août",
+      "text": "août",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 65
     }
   },
   "66": {
     "s_Hanafuda_Kansuji_9": {
-      "text": "Septembre",
+      "text": "septembre",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 66
     }
   },
   "67": {
     "s_Hanafuda_Kansuji_10": {
-      "text": "Octobre",
+      "text": "octobre",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 67
     }
   },
   "68": {
     "s_Hanafuda_Kansuji_11": {
-      "text": "Novembre",
+      "text": "novembre",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 68
     }
   },
   "69": {
     "s_Hanafuda_Kansuji_12": {
-      "text": "Décembre",
+      "text": "décembre",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 69
     }
@@ -666,35 +666,35 @@
   },
   "91": {
     "s_Hanafuda_MenuLevelExplain_weak": {
-      "text": "Il vous faut au moins 200 points pour jouer en Débutant.\r\nGains : 10 x différence de score.",
+      "text": "Il vous faut au moins 200 points pour jouer en Débutant.\r\nGains : 10 x différence de score.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 91
     }
   },
   "92": {
     "s_Hanafuda_MenuLevelExplain_normal": {
-      "text": "Il vous faut au moins 800 points pour jouer en Intermédiaire.\r\nGains : 10 x différence de score.",
+      "text": "Il vous faut au moins 800 points pour jouer en Intermédiaire.\r\nGains : 10 x différence de score.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 92
     }
   },
   "93": {
     "s_Hanafuda_MenuLevelExplain_strong": {
-      "text": "Il vous faut au moins 1 400 points pour jouer en Avancé.\r\nGains : 10 x différence de score.",
+      "text": "Il vous faut au moins 1 400 points pour jouer en Avancé.\r\nGains : 10 x différence de score.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 93
     }
   },
   "94": {
     "s_Hanafuda_MenuLevelExplain_alien": {
-      "text": "Il vous faut au moins 2 000 points pour jouer en Expert.\r\nGains : 100 x différence de score.",
+      "text": "Il vous faut au moins 2 000 points pour jouer en Expert.\r\nGains : 100 x différence de score.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 94
     }
   },
   "95": {
     "s_Hanafuda_NoMoney": {
-      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 200 points.",
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 200 points.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 95
     }
@@ -708,14 +708,14 @@
   },
   "97": {
     "s_Hanafuda_Teshi_YouWin": {
-      "text": "Vous avez un carré. Vous avez gagné !",
+      "text": "Vous avez un carré. Vous avez gagné !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 97
     }
   },
   "98": {
     "s_Hanafuda_Kuttuki_YouWin": {
-      "text": "Vous avez quatre paires. Vous avez gagné !",
+      "text": "Vous avez quatre paires. Vous avez gagné !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 98
     }
@@ -736,7 +736,7 @@
   },
   "101": {
     "s_Hanafuda_Space": {
-      "text": "; ",
+      "text": " ; ",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 101
     }

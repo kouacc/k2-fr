@@ -270,7 +270,7 @@
   },
   "8": {
     "ten_mahjong": {
-      "title": "Points de Mahjong",
+      "title": "Points de mahjong",
       "init_value": 0,
       "min_value": 0,
       "max_value": 999999999,

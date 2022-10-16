@@ -43,14 +43,14 @@
   },
   "2": {
     "s_szOichokabuAddCardSelect_0": {
-      "text": "Stand",
+      "text": "Se lever",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 2
     }
   },
   "3": {
     "s_szOichokabuAddCardSelect_1": {
-      "text": "Draw Card",
+      "text": "Piocher",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
@@ -337,7 +337,7 @@
   },
   "44": {
     "s_szOichokabuKake_2": {
-      "text": "Result: ${point} points",
+      "text": "Résultat : ${point} point(s)",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 44
     }
@@ -512,7 +512,7 @@
   },
   "69": {
     "s_szOichokabuDoubleupMessage_5": {
-      "text": "Continuer de doubler ?",
+      "text": "Continuer de doubler ?",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 69
     }
@@ -568,42 +568,42 @@
   },
   "77": {
     "s_szOichokabuMenuLevelExplain_0": {
-      "text": "Il vous faut au moins 100 points pour jouer en Débutant.",
+      "text": "Il vous faut au moins 100 points pour jouer en Débutant.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 77
     }
   },
   "78": {
     "s_szOichokabuMenuLevelExplain_1": {
-      "text": "Il vous faut au moins 500 points pour jouer en Intermédiaire.",
+      "text": "Il vous faut au moins 500 points pour jouer en Intermédiaire.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 78
     }
   },
   "79": {
     "s_szOichokabuMenuLevelExplain_2": {
-      "text": "Il vous faut au moins 1 000 points pour jouer en Avancé.",
+      "text": "Il vous faut au moins 1 000 points pour jouer en Avancé.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 79
     }
   },
   "80": {
     "s_szOichokabuMenuLevelExplain_3": {
-      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 100 points.",
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 100 points.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 80
     }
   },
   "81": {
     "s_szOichokabuMenuLevelExplain_4": {
-      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 500 points.",
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 500 points.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 81
     }
   },
   "82": {
     "s_szOichokabuMenuLevelExplain_5": {
-      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 1,000 points.",
+      "text": "Vous n'avez pas assez de points pour jouer.\r\nIl vous faut au moins 1 000 points.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 82
     }

@@ -1137,7 +1137,7 @@
         },
         "41": {
           "shogi_touha_final": {
-            "text": "Défi Final",
+            "text": "Défi final",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 41
           }
@@ -1599,14 +1599,14 @@
         },
         "107": {
           "shogi_promote_nari_title": {
-            "text": "Promouvoir cette pièce ?",
+            "text": "Promouvoir cette pièce ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 107
           }
         },
         "108": {
           "use_matta_title": {
-            "text": "Utiliser un retrait ?",
+            "text": "Utiliser un retrait ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 108
           }
@@ -1627,14 +1627,14 @@
         },
         "111": {
           "cho_matta_title": {
-            "text": "Utiliser un super retrait ?",
+            "text": "Utiliser un super retrait ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 111
           }
         },
         "112": {
           "tumi_matta_title": {
-            "text": "Échec et mat. Utiliser un retrait ?",
+            "text": "Échec et mat. Utiliser un retrait ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 112
           }

@@ -37,14 +37,14 @@
   },
   "1": {
     "course_nearpin_easy": {
-      "text": "Approche parfaite (Débutant)",
+      "text": "Approche parfaite (débutant)",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 1
     }
   },
   "2": {
     "course_nearpin_normal": {
-      "text": "Approche parfaite (Intermédiaire)",
+      "text": "Approche parfaite (intermédiaire)",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
@@ -57,28 +57,28 @@
   },
   "4": {
     "course_bingo": {
-      "text": "Bingo",
+      "text": "Défi Bingo",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
   },
   "5": {
     "course_nearpin_hard": {
-      "text": "Approche parfaite (Avancé)",
+      "text": "Approche parfaite (avancé)",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
     }
   },
   "6": {
     "to_pin": {
-      "text": "Au drapeau",
+      "text": "jusqu'à l'objectif",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
   },
   "7": {
     "course_substory_b16": {
-      "text": "Approche parfaite (Avancé)",
+      "text": "Approche parfaite (avancé)",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 6
     }

@@ -516,8 +516,8 @@
         },
         "20": {
           "": {
-            "1": "Drink 'Til You Drop!",
-            "2": "2 Kiwami, 2 Bob here. In case you\r\nhaven't noticed, consuming too much\r\nalcohol will get you drunk.\r\nThe more booze you drink, the\r\ndrunker you'll get.\r\n\r\nSober up by drinking water\r\nor waiting for it to wear\r\noff.\r\n\r\nWhen drunk, more enemies will\r\nbother you around town. <symbol=keitai_cat_sad>\r\nHowever, you'll fill your Heat\r\nGauge quicker, so it may be a\r\ngood idea to get drunk every\r\nnow and again! <symbol=keitai_choki>",
+            "1": "Buvez sans modération !",
+            "2": "Ici 2 Kiwami, 2 Bob. Au cas où vous\r\nne l'auriez pas remarqué, consommer\r\ntrop d'alcool vous rendra ivre.\r\nPlus vous buvez d'alcool, plus\r\nvous serez ivre.\r\n\r\nDessaoulez-vous en buvant\r\nde l'eau ou en attendant\r\nque l'effet se dissipe.\r\n\r\nLorsque vous êtes ivre, plus\r\nd'ennemis vous importuneront\r\nen ville. <symbol=keitai_cat_sad>\r\nToutefois, vous remplirez votre\r\njauge de Heat plus rapidement,\r\nalors c'est peut-être une bonne\r\nidée de se saouler de temps\r\nen temps ! <symbol=keitai_choki>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -530,8 +530,8 @@
         },
         "21": {
           "": {
-            "1": "These Items are Key",
-            "2": "Tips? Kiwami Bob's got 'em!\r\n\r\nAs you advance through the\r\nstory, you'll come across some\r\nspecial items called Valuables.\r\nYou can see these in your\r\ninventory from the Pause Menu. <symbol=keitai_paa>\r\n\r\nValuables are often important\r\nto the story, so you cannot\r\nsell them or throw them away.",
+            "1": "Ces objets sont clés",
+            "2": "Des astuces ? Kiwami Bob en a !\r\n\r\nEn avançant dans l'histoire,\r\nvous tomberez sur des objets\r\nspéciaux appelés objets de valeur.\r\nVous pouvez les voir dans votre\r\ninventaire à partir du menu Pause.  <symbol=keitai_paa>\r\n\r\nLes objets de valeur sont souvent\r\nimportants pour l'histoire,\r\nvous ne pouvez donc pas les\r\nvendre ou les jeter.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -545,7 +545,7 @@
         "22": {
           "": {
             "1": "La fête ne s'arrête jamais !",
-            "2": "Encore plus de spam de Kiwami Bob!\r\n\r\nPériodiquement, vous recevrez\r\ndes packs d'amusement Yakuza Kiwami 2 pour\r\naméliorer votre expérience !<symbol=keitai_present> Récupérez-les\r\ndans le paquet à Serena ou Aoi ! <symbol=keitai_heart>\r\n\r\nVous ne pouvez recevoir des packs\r\nd'amusement qu'une fois par fichier\r\nde sauvegarde.",
+            "2": "Encore plus de spam de Kiwami Bob !\r\n\r\nPériodiquement, vous recevrez\r\ndes packs d'amusement Yakuza Kiwami 2 pour\r\naméliorer votre expérience !<symbol=keitai_present> Récupérez-les\r\ndans le paquet à Serena ou Aoi ! <symbol=keitai_heart>\r\n\r\nVous ne pouvez recevoir des packs\r\nd'amusement qu'une fois par fichier\r\nde sauvegarde.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -1758,8 +1758,8 @@
         },
         "123": {
           "": {
-            "1": "Get Some Fresh Digs!",
-            "2": "Kiwami Bob, back at you!\r\n\r\nIf you obtain a new outfit,\r\nyou can use the waiting room\r\nin Serena or Aoi to change\r\ninto it. <symbol=keitai_cat_smile>\r\n\r\nJust so you know, you can\r\nonly change your outfit in\r\nPremium Adventure! <symbol=keitai_paa>",
+            "1": "Faites-vous plaisir !",
+            "2": "Kiwami Bob, de retour !\r\n\r\nSi vous obtenez une nouvelle\r\ntenue, vous pouvez utiliser\r\nla salle d'attente de\r\nSerena ou d'Aoi pour vous\r\nchanger. <symbol=keitai_cat_smile>\r\n\r\nPour info, vous ne pouvez\r\nchanger de tenue que dans\r\nl'Aventure Premium ! <symbol=keitai_paa>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2401,7 +2401,7 @@
         },
         "24": {
           "": {
-            "1": "Using Your Surroundings",
+            "1": "Utiliser l'environnement",
             "2": "Dragon de Dojima.\r\n\r\nDes fois, l'environnement\r\nautour de toi se prouvera\r\nutile dans ta quête. Utilise tout\r\net n'importe quoi en recherche du\r\nsecret de la réussite.\r\nN'oublie pas, les attaques changent\r\nen fonction de quel objet tu\r\ntiens dans les mains.\r\n\r\nAttraper un objet:\r\n<symbol=button_maru,Combat>\r\n\r\nAttaquer:\r\n(Apprès avoir attrapé un objet) <symbol=button_shikaku,Combat>\r\n(Apprès avoir attrapé un objet) <symbol=button_sankaku,Combat>\r\n\r\nLancer un objet:\r\n(Apprès avoir attrapé un objet) <symbol=button_maru,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
@@ -2536,7 +2536,7 @@
         "35": {
           "": {
             "1": "Utiliser des armes",
-            "2": "Dragon de Dojima.\r\n\r\nIt is time you learn about\r\nweapons. You may equip up to\r\nthree weapons at a time via\r\nthe Equipment menu.\r\n\r\nTo use an equipped weapon,\r\npress the button you equipped\r\nit to (<symbol=button_left,Combat>, <symbol=button_up,Combat>, or <symbol=button_right,Combat>). To put a\r\nweapon away, press <symbol=button_down,Combat>.\r\n\r\nWeapons you take from your\r\nenemies are not automatically\r\nstored in your inventory. To\r\nstore a weapon, press <symbol=button_down,Combat> while\r\nholding it.\r\n\r\nEvery weapon has durability.\r\nIf a weapon's durability runs\r\nout, it cannot be used again\r\nuntil it is repaired.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "2": "Dragon de Dojima.\r\n\r\nIl est temps que tu apprennes\r\nà connaître les armes. Tu\r\npeux équiper jusqu'à trois armes\r\nà la fois via le menu Équipement.\r\n\r\nPour utiliser une arme équipée,\r\nappuie sur le bouton sur lequel\r\ntu l'as équipée (<symbol=button_left,Combat>, <symbol=button_up,Combat>, ou <symbol=button_right,Combat>). Pour\r\nranger une arme, appuie sur <symbol=button_down,Combat>.\r\n\r\nLes armes que tu prends à tes\r\nennemis ne sont pas automatiquement\r\nstockées dans ton inventaire.\r\nPour stocker une arme, appuie\r\nsur <symbol=button_down,Combat> tout en la tenant.\r\n\r\nChaque arme a une durabilité.\r\nSi la durabilité d'une arme\r\ns'épuise, elle ne peut plus\r\nêtre utilisée jusqu'à ce\r\nqu'elle soit réparée.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2669,8 +2669,8 @@
         },
         "46": {
           "": {
-            "1": "Armor",
-            "2": "Dragon of Dojima.\r\n\r\nAllow me to explain armor\r\nbonuses to you. Sometimes you\r\nwill gain stat bonuses based\r\non what armor you currently\r\nhave equipped.\r\n\r\nNames and colors play a large\r\nrole in these combinations.\r\nFor example, equipping both\r\nthe Red Binding and the Red\r\nGem Bracelet will activate\r\nthe Red Blessing bonus.\r\n\r\nBe sure to search for new\r\ncombinations when you\r\nacquire new armor.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "1": "Armure",
+            "2": "Dragon de Dojima.\r\n\r\nLaisse-moi t'expliquer les\r\nbonus d'armure. Parfois,\r\ntu gagneras des bonus de stats\r\nen fonction de l'armure que\r\ntu as actuellement équipée.\r\n\r\nLes noms et les couleurs jouent\r\nun rôle important dans ces\r\ncombinaisons. Par exemple, en\r\néquipant à la fois le Sarashi\r\nrouge et le bracelet de gemmes\r\nrouges, tu activeras le bonus\r\nde la bénédiction rouge.\r\n\r\nAssure-toi de rechercher de\r\nnouvelles combinaisons\r\nlorsque tu acquiers de nouveaux\r\néquipements.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2803,8 +2803,8 @@
         },
         "57": {
           "": {
-            "1": "Heat Actions",
-            "2": "Dragon of Dojima.\r\n\r\nLanding attacks in battle will\r\nfill your Heat Gauge. Once it\r\nreaches a certain point, you\r\ncan use Heat Actions when the\r\nHeat Icon (<symbol=button_sankaku,Combat>) appears on the\r\nscreen.\r\n\r\nMost weapon types have unique\r\nHeat Actions as well.\r\n\r\nHeat Actions are extremely\r\npotent, so be sure to remember\r\nwhen and where you can use them.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "1": "Actions Heat",
+            "2": "Dragon de Dojima.\r\n\r\nRéaliser des attaques en combat\r\nremplit ta jauge de Heat. Une\r\nfois qu'elle atteint un certain\r\nniveau, tu peux utiliser les actions\r\nHeat lorsque l'icône de Heat (<symbol=button_sankaku,Combat>)\r\napparaît sur l'écran.\r\n\r\nLa plupart des types d'armes ont\r\négalement des actions Heat uniques.\r\n\r\nLes actions Heat sont\r\nextrêmement puissantes, alors assure-toi\r\nde te rappeler quand et où\r\ntu peux les utiliser.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2937,7 +2937,7 @@
         },
         "68": {
           "": {
-            "1": "Extreme Heat Mode",
+            "1": "Mode Extreme Heat",
             "2": "Long time no speak, Dragon of\r\nDojima.\r\n\r\nI see you have learned how to\r\nenter Extreme Heat Mode. As a\r\nrefresher, it can be activated\r\nby filling your Heat Gauge and\r\npressing <symbol=button_r2,Combat>.\r\n\r\nYou will be surrounded by a\r\nblue flame, and your attack\r\npower will increase. You will\r\nalso be able to grab objects\r\nnormally too heavy for you.\r\n\r\nThere are also Heat Actions\r\nspecific to Extreme Heat Mode.\r\n\r\nI look forward to fighting you\r\nsoon.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
             "3": 0,
             "4": 0,

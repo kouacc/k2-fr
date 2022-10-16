@@ -115,7 +115,7 @@
       "actionBR": 100,
       "actionCC": 0,
       "actionF": 0,
-      "bluff": "C'est nul!",
+      "bluff": "C'est nul !",
       "RaiseAction": 0,
       "OutsCountAction": 1,
       "bluff_probability": 15,
