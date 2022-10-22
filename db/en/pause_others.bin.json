@@ -115,7 +115,7 @@
   },
   "10": {
     "pause_graphics_settings": {
-      "name": "Paramètres graphique",
+      "name": "Paramètres graphiques",
       "explanation": "Changer les paramètres graphiques.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",

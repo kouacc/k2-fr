@@ -531,7 +531,7 @@
         "21": {
           "": {
             "1": "Ces objets sont clés",
-            "2": "Des astuces ? Kiwami Bob en a !\r\n\r\nEn avançant dans l'histoire,\r\nvous tomberez sur des objets\r\nspéciaux appelés objets de valeur.\r\nVous pouvez les voir dans votre\r\ninventaire à partir du menu Pause.  <symbol=keitai_paa>\r\n\r\nLes objets de valeur sont souvent\r\nimportants pour l'histoire,\r\nvous ne pouvez donc pas les\r\nvendre ou les jeter.",
+            "2": "Des astuces ? Kiwami Bob en a !\r\n\r\nEn avançant dans l'histoire,\r\nvous tomberez sur des objets\r\nspéciaux appelés objets de valeur.\r\nVous pouvez les voir dans votre\r\ninventaire à partir du menu Pause. <symbol=keitai_paa>\r\n\r\nLes objets de valeur sont souvent\r\nimportants pour l'histoire,\r\nvous ne pouvez donc pas les\r\nvendre ou les jeter.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -545,7 +545,7 @@
         "22": {
           "": {
             "1": "La fête ne s'arrête jamais !",
-            "2": "Encore plus de spam de Kiwami Bob !\r\n\r\nPériodiquement, vous recevrez\r\ndes packs d'amusement Yakuza Kiwami 2 pour\r\naméliorer votre expérience !<symbol=keitai_present> Récupérez-les\r\ndans le paquet à Serena ou Aoi ! <symbol=keitai_heart>\r\n\r\nVous ne pouvez recevoir des packs\r\nd'amusement qu'une fois par fichier\r\nde sauvegarde.",
+            "2": "Encore plus de spam de Kiwami Bob !\r\n\r\nPériodiquement, vous recevrez\r\ndes packs d'amusement Yakuza Kiwami 2 pour\r\naméliorer votre expérience ! <symbol=keitai_present> Récupérez-les\r\ndans le paquet à Serena ou Aoi ! <symbol=keitai_heart>\r\n\r\nVous ne pouvez recevoir des packs\r\nd'amusement qu'une fois par fichier\r\nde sauvegarde.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3407,7 +3407,7 @@
         "1": {
           "": {
             "1": "Kamurocho K.O.",
-            "2": "Hé, on dirait que vous avez\r\nfait les choses en grand ces\r\nderniers temps, mais ne\r\nbaissez pas votre garde.\r\n\r\nUn boxeur vous a à l'oeil\r\net cherche un match\r\nd'entraînement. Il est au\r\n<color=red>Parc pour Enfants</color>en ce moment.\r\n\r\nLa décision d'accepter ou\r\npas vous appartient.",
+            "2": "Hé, on dirait que vous avez\r\nfait les choses en grand ces\r\nderniers temps, mais ne\r\nbaissez pas votre garde.\r\n\r\nUn boxeur vous a à l'oeil\r\net cherche un match\r\nd'entraînement. Il est au\r\n<color=red>Parc pour Enfants</color> en ce moment.\r\n\r\nLa décision d'accepter ou\r\npas vous appartient.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3421,7 +3421,7 @@
         "2": {
           "": {
             "1": "Des coups électrisés",
-            "2": "Waouh, vous avez réussi à battre\r\nFujiki l'assomeur ?! Très\r\nimpressionant, Kiryu-san! Mais\r\nil y a un autre gars qui vous a\r\ndans le viseur. Comparé à son\r\nfrère, il est un peu plus\r\ncostaud, donc ça veut aussi\r\ndire qu'il tape plus fort.\r\n\r\nIl est près de <color=red>Hotel District</color\r\nsi vous vous sentez prêt\r\npour un autre défi.",
+            "2": "Waouh, vous avez réussi à battre\r\nFujiki l'assomeur ?! Très\r\nimpressionant, Kiryu-san ! Mais\r\nil y a un autre gars qui vous a\r\ndans le viseur. Comparé à son\r\nfrère, il est un peu plus\r\ncostaud, donc ça veut aussi\r\ndire qu'il tape plus fort.\r\n\r\nIl est près de <color=red>Hotel District</color>\r\nsi vous vous sentez prêt\r\npour un autre défi.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3477,7 +3477,7 @@
         "6": {
           "": {
             "1": "L'homme de main solidaire",
-            "2": "Comment allez-vous Kiryu-san ?\r\nBien, j'espère. Je sais que\r\nvous y êtes allés assez fort,\r\nmais attention. Tous ceux que\r\nvous avez éliminés semblent\r\nêtre remontés contre vous—\r\nJ'ai entendu qu'ils ont engagés\r\nun tueur à gages\r\nassez coriace\r\npour se venger.\r\n\r\nIl y a un homme intimidant\r\ncomme ça dans le parking\r\nde <color=red>Taihei Blvd E.</color> Faites ce\r\nqu'il faut faire.",
+            "2": "Comment allez-vous Kiryu-san ?\r\nBien, j'espère. Je sais que\r\nvous y êtes allés assez fort,\r\nmais attention. Tous ceux que\r\nvous avez éliminés semblent\r\nêtre remontés contre vous—\r\nJ'ai entendu qu'ils ont engagés\r\nun tueur à gages assez coriace\r\npour se venger.\r\n\r\nIl y a un homme intimidant\r\ncomme ça dans le parking\r\nde <color=red>Taihei Blvd E.</color> Faites ce\r\nqu'il faut faire.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3491,7 +3491,7 @@
         "7": {
           "": {
             "1": "Un gars dangereux",
-            "2": "Hé, comment ça se passe à\r\nKamurocho ? Pendant votre\r\nabsence, des types dangereux\r\nont dérivé en ville. Prenez ce\r\nyakuza par exemple : on\r\nl'appelle \"Natagiri le cinglé\".\r\nIl parle peut-être avec une\r\nlangue d'argent, mais si on\r\n le prend en grippe, il laisse\r\nses poings faire le reste du\r\ntravail.\r\n\r\nJuste pour que vous sachiez,\r\nil est en face de <color=red>West Park.</color>\r\nRéglez vos affaires, Kiryu-san.",
+            "2": "Hé, comment ça se passe à\r\nKamurocho ? Pendant votre\r\nabsence, des types dangereux\r\nont dérivé en ville. Prenez ce\r\nyakuza par exemple : on\r\nl'appelle \"Natagiri le cinglé\".\r\nIl parle peut-être avec une\r\nlangue d'argent, mais si on\r\nle prend en grippe, il laisse\r\nses poings faire le reste du\r\ntravail.\r\n\r\nJuste pour que vous sachiez,\r\nil est en face de <color=red>West Park.</color>\r\nRéglez vos affaires, Kiryu-san.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3504,7 +3504,7 @@
         },
         "8": {
           "": {
-            "1": "Next-Gen Yakuza",
+            "1": "Yakuza nouvelle génération",
             "2": "Déterminés comme toujours,\r\nn'est-ce pas ? Remettre tous\r\nles fauteurs de trouble à leur\r\nplace et tout le reste. Pas\r\nétonnant que Maître Komaki\r\nvous préfère.\r\n\r\nPour le reste, il y a un type qui\r\nse fait appeler \"la nouvelle génération\r\nde yakuzas\". Il est sur <color=red>Pink Street</color>,\r\nalors pourquoi ne pas y jeter un\r\noeil si vous vous sentez prêt à\r\nrelever le défi ?",
             "3": 0,
             "4": 0,
@@ -3519,7 +3519,7 @@
         "9": {
           "": {
             "1": "Pour le Dragon de Dojima",
-            "2": "Hey, Kiryu-san. Looks like\r\nyou're flying off the handle\r\nlike always. Just another day\r\nfor the Dragon of Dojima, eh?\r\n\r\nAs usual, you better watch\r\nyour back—A lot of guys\r\nare out to use that rep\r\nagainst you. Among them, the\r\nmost notorious is Genso the\r\nGod. I heard he's waiting\r\nfor you around <color=red>Suppon St</color>.\r\n\r\nLegendary yakuza or not,\r\nyou should still stay on\r\nguard if you're going there.",
+            "2": "Hé, Kiryu-san. On dirait\r\nque vous avez perdu la tête, \r\ncomme toujours. Juste un autre \r\njour pour le Dragon de Dojima, \r\nhein ?\r\n\r\nComme d'habitude, vous feriez\r\nmieux de surveiller vos arrières—\r\nBeaucoup de types sont prêts à\r\nutiliser cette réputation contre\r\nvous. Parmi eux, le plus connu est\r\nGenso le Dieu. J'ai entendu dire\r\nqu'il vous attendait sur\r\n<color=red>Suppon Street.</color>\r\n\r\nYakuza légendaire ou pas, vous\r\ndevez quand même rester sur vos\r\ngardes si vous allez là-bas.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3546,8 +3546,8 @@
         },
         "11": {
           "": {
-            "1": "Test Your Skills",
-            "2": "Still laying the smackdown\r\neven in Sotenbori, huh? Lol\r\nthat's just like you. By the\r\nway, there's someone in the\r\narea who's looking to test\r\nhis skills, and he sees you\r\nas the gold standard of\r\nstrength. He should be over\r\nby the takoyaki place on\r\n<color=red>E Sotenbori.</color> Why not give\r\nhim a run for his money?",
+            "1": "Testez vos compétences",
+            "2": "Toujours à mettre la raclée même\r\nà Sotenbori, hein ? Lol, c'est\r\ntout à fait vous. Au fait,\r\nil y a quelqu'un dans le coin\r\nqui cherche à tester ses\r\ncompétences, et il vous voit\r\ncomme l'étalon-or de la force.\r\nIl devrait être près du restaurant\r\nde takoyaki sur <color=red>Sotenbori E.</color> Pourquoi\r\nne pas lui donner du fil à retordre ?",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3560,8 +3560,8 @@
         },
         "12": {
           "": {
-            "1": "The Weapon Hunter",
-            "2": "You still in good shape? 'Cause\r\nI heard there's this so-called\r\n\"weapon hunter\" over by the\r\n<color=red>Bishamon Bridge in Osaka</color>. His\r\ndeal is that he basically\r\nbeats up thugs and confiscates\r\ntheir weapons, and they say\r\nhe's real tough. If that's\r\nenough to get your blood\r\nboiling, why not check it out?\r\n\r\nOh, and let me know if you do!",
+            "1": "Le chasseur d'armes",
+            "2": "Toujours en forme ? Parce que\r\nj'ai entendu parler d'un\r\nsoi-disant \"chasseur d'armes\"\r\nprès du <color=red>pont Bishamon à Osaka</color>.\r\nSon truc, c'est qu'il tabasse\r\ndes voyous et confisque leurs\r\narmes, et on dit qu'il est très\r\nfort. Si cela suffit à vous\r\nfaire bouillir le sang,\r\npourquoi ne pas aller voir ?\r\n\r\nOh, et faites-le moi savoir !",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3574,8 +3574,8 @@
         },
         "13": {
           "": {
-            "1": "Rumble on the Bridge",
-            "2": "Apparently there's this weirdo\r\nposted up at the <color=red>Iwao Bridge</color>,\r\nspouting off some kind of\r\nnonsense about protecting the\r\ncity... Maybe he's some sorta\r\nvigilante? Or maybe he's just\r\nfull of himself. Either way,\r\nhe does exude a certain level\r\nof skill. If beating him up\r\nsounds like a good idea, why\r\ndon't you go check it out?",
+            "1": "Baston sur le pont",
+            "2": "Apparemment, il y a un type\r\nbizarre posté sur le <color=red>pont Iwao</color>,\r\nqui débite une sorte d'absurdité\r\nsur la protection de la ville...\r\nPeut-être que c'est une sorte de\r\njusticier ? Ou peut-être qu'il\r\nest juste fier de lui. Quoi qu'il\r\nen soit, il dégage un certain\r\nniveau de compétence. Si le\r\ntabasser semble être une bonne\r\nidée, pourquoi ne pas aller voir ?",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3588,8 +3588,8 @@
         },
         "14": {
           "": {
-            "1": "Battle Junkie",
-            "2": "Hey, are they still giving\r\nyou trouble in Sotenbori?\r\n\r\nI guess they're just\r\nthirsty for a piece of\r\nthat Kiryu action! Which\r\nreminds me, did you know  \r\nthere's a famous fight\r\nlover who hangs around\r\n<color=red>Hogushi Kaikan?</color> You two\r\nmight just get along, so\r\nwhy not go bump fists?",
+            "1": "Fou de combat",
+            "2": "Hé, ils vous donnent toujours\r\ndu fil à retordre à Sotenbori ?\r\n\r\nJe suppose qu'ils ont juste\r\nsoif d'une partie de cette\r\naction Kiryu ! Ce qui me\r\nrappelle, saviez-vous qu'il\r\ny a un célèbre amateur de\r\ncombat qui traîne au <color=red>Hogushi Kaikan ?</color>\r\nVous pourriez vous entendre,\r\nalors pourquoi ne pas aller\r\nvous battre à coups de poings ?",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3602,8 +3602,8 @@
         },
         "15": {
           "": {
-            "1": "The Breaker",
-            "2": "Whoa, you actually threw down\r\nwith Slayer Nagasawa and\r\nwon? Impressive. This time, a\r\nguy who calls himself \"The\r\nBreaker\" has been looking to\r\nsettle his mettle. Despite\r\nhow ridiculous that sounds,\r\nhe's actually not such a bad\r\ndude. He sort of just...\r\ngets into fights and breaks\r\nthings without realizing it.\r\nRight now he's at the <color=red>Wild</color>\r\n<color=red>Jackson in Shofukucho</color>.",
+            "1": "Le casseur",
+            "2": "Whoa, vous avez vraiment affronté\r\nNagasawa le tueur et gagné ?\r\nImpressionnant. Cette fois,\r\nun gars qui se fait appeler\r\n\"Le casseur\" cherche à\r\nprouver sa valeur. Même si\r\nça semble ridicule, ce n'est\r\npas un si mauvais gars. Il se\r\nbat et casse des choses sans\r\ns'en rendre compte. En ce moment,\r\nil est au <color=red>Wild Jackson à Shofukucho</color>.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3616,8 +3616,8 @@
         },
         "16": {
           "": {
-            "1": "A Formidable Foe",
-            "2": "Hey Kiryu-san, how's that\r\nSotenbori life! Hate to break\r\nit to you, but there's another\r\nbozo running around who thinks\r\nthat he's the coolest dude in\r\ntown. He's got a pretty bad rep\r\ntoo... If you think you can put\r\nhim in his place, he's hanging\r\naround the <color=red>Tsuruha Drugstore</color>.\r\n\r\nGo show him who's boss!",
+            "1": "Un ennemi redoutable",
+            "2": "Hé Kiryu-san, comment va la\r\nvie à Sotenbori ! Je déteste\r\nvous dire ça, mais il y a un\r\nautre clown dans le coin qui\r\npense qu'il est le mec le plus\r\ncool de la ville. Il a aussi une\r\nassez mauvaise réputation... Si\r\nvous pensez pouvoir le remettre\r\nà sa place, il traîne autour de\r\n<color=red>Tsuruha Drugstore.</color>\r\n\r\nAllez lui montrer qui est le patron !",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3630,8 +3630,8 @@
         },
         "17": {
           "": {
-            "1": "The Deadly Assassin",
-            "2": "To challenge the fearsome\r\nyakuza of Sotenbori is a feat\r\nof incredible bravery. As expected\r\nof the Dragon of Dojima! \r\nStay frosty, though— some\r\nof the yakuza you routed\r\nactually sent an assassin\r\nafter you. Not that he'll know\r\nwho you are at first glance,\r\nbut still. Avoid the top floor\r\nof the building on <color=red>South</color>\r\n<color=red>Shofukucho</color> if you'd rather\r\nslip away from this situation.",
+            "1": "L'assassin mortel",
+            "2": "Défier les redoutables yakuzas\r\nde Sotenbori est un exploit\r\nd'une incroyable bravoure.\r\nComme attendu du Dragon de\r\nDojima ! Restez froid, cependant—\r\ncertains des yakuzas que vous\r\navez mis en déroute ont envoyé\r\nun assassin à votre poursuite.\r\nIl ne saura pas qui vous êtes au\r\npremier coup d'oeil, mais quand\r\nmême. Évitez le dernier étage de\r\nl'immeuble sur <color=red>Shofukucho Sud</color> si\r\nvous préférez échapper à cette\r\nsituation.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3644,8 +3644,8 @@
         },
         "18": {
           "": {
-            "1": "The Bloodletter",
-            "2": "Tearing it up as usual, I see.\r\n\r\nI thought so! A word of\r\ncaution, however: there's a\r\nbloodthirsty psycho on the\r\nloose who's been sighted on\r\nthe same street as <color=red>Hogushi</color>\r\n<color=red>Kaikan</color>. Even worse, it seems\r\nhe's caught wind that you're\r\nin town. Whatever you do next\r\nafter hearing this blood-\r\ncurdling news is up to you.",
+            "1": "Le sanguinaire",
+            "2": "Déchirant comme d'habitude, je vois.\r\n\r\nC'est ce que je pensais !\r\nUn avertissement, cependant :\r\nil y a un psychopathe assoiffé\r\nde sang en liberté qui a été\r\naperçu dans la même rue que\r\nle <color=red>Hogushi Kaikan</color>. Pire encore,\r\nil semble qu'il ait eu vent de\r\nvotre présence en ville. Ce\r\nque vous ferez après avoir\r\nentendu cette nouvelle à\r\nvous glacer le sang ne\r\ndépend que de vous.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3658,8 +3658,8 @@
         },
         "19": {
           "": {
-            "1": "All That Glitters",
-            "2": "Hey, seems like you've finally\r\ngot it all under control. But\r\nyou shouldn't get too\r\ncomfortable after I tell you\r\nthis rumor I heard. Apparently\r\nthere's this \"golden samurai\"\r\nwho kicks it behind the\r\nbuilding on <color=red>West Shofukucho</color>. A\r\nsamurai in the middle of the\r\ncity? That's some craziness\r\nright there. If there actually\r\nis a guy like that around,\r\nlemme know.",
+            "1": "Tout ce qui brille",
+            "2": "Hé, on dirait que vous avez\r\nfinalement tout sous contrôle.\r\nMais vous ne devriez pas être\r\ntrop à l'aise après avoir entendu\r\ncette rumeur. Apparemment, il y a\r\nce \"samouraï doré\" qui déchire\r\nderrière l'immeuble de <color=red>Shofukucho</color>\r\n<color=red>Ouest</color>. Un samouraï au milieu de\r\nla ville ? C'est de la folie là\r\nS'il y a vraiment un type comme\r\nça dans le coin, faites-le moi\r\nsavoir.",
             "3": 0,
             "4": 0,
             "5": 0,

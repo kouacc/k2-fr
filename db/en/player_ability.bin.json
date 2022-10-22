@@ -79,7 +79,7 @@
       "rank_c_value": 130,
       "rank_d_value": 110,
       "player_point": 9,
-      "name": "Health",
+      "name": "Santé",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 1
     }
@@ -93,7 +93,7 @@
       "rank_c_value": 130,
       "rank_d_value": 110,
       "player_point": 10,
-      "name": "Attack",
+      "name": "Attaque",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 2
     }
@@ -107,7 +107,7 @@
       "rank_c_value": 130,
       "rank_d_value": 110,
       "player_point": 13,
-      "name": "Heat Gauge",
+      "name": "Jauge de Heat",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
@@ -121,7 +121,7 @@
       "rank_c_value": 130,
       "rank_d_value": 110,
       "player_point": 11,
-      "name": "Defense",
+      "name": "Défense",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
@@ -135,7 +135,7 @@
       "rank_c_value": 0,
       "rank_d_value": 0,
       "player_point": 14,
-      "name": "Blade Resistance",
+      "name": "Résistance aux lames",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
@@ -149,7 +149,7 @@
       "rank_c_value": 0,
       "rank_d_value": 0,
       "player_point": 15,
-      "name": "Gun Resistance",
+      "name": "Résistance aux armes",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 6
     }
@@ -163,7 +163,7 @@
       "rank_c_value": 0,
       "rank_d_value": 0,
       "player_point": 16,
-      "name": "Stamina",
+      "name": "Endurance",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
     }
