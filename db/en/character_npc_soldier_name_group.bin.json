@@ -11422,7 +11422,7 @@
         },
         "55": {
           "": {
-            "1": "Younger Nashino",
+            "1": "Jeune Nashino",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11431,7 +11431,7 @@
         },
         "56": {
           "": {
-            "1": "Older Nashino",
+            "1": "Vieux Nashino",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11458,7 +11458,7 @@
         },
         "59": {
           "": {
-            "1": "Bartender",
+            "1": "Barman",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11520,7 +11520,7 @@
         },
         "66": {
           "": {
-            "1": "Fierce Tiger 1",
+            "1": "Tigre féroce 1",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11529,7 +11529,7 @@
         },
         "67": {
           "": {
-            "1": "Fierce Tiger 2",
+            "1": "Tigre féroce 2",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11565,7 +11565,7 @@
         },
         "71": {
           "": {
-            "1": "Mysterious Assassin",
+            "1": "Assassin mystérieux",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11610,7 +11610,7 @@
         },
         "76": {
           "": {
-            "1": "Man in Black",
+            "1": "Homme en noir",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11619,7 +11619,7 @@
         },
         "77": {
           "": {
-            "1": "Armored Samurai",
+            "1": "Samurai armé",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11637,7 +11637,7 @@
         },
         "79": {
           "": {
-            "1": "Mysterious Foreigner",
+            "1": "Étranger mystérieux",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11646,7 +11646,7 @@
         },
         "80": {
           "": {
-            "1": "Horse-loving Detective",
+            "1": "Détective amoureux",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11655,7 +11655,7 @@
         },
         "81": {
           "": {
-            "1": "Small Delinquent",
+            "1": "Petit délinquent",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11664,7 +11664,7 @@
         },
         "82": {
           "": {
-            "1": "Burly Man",
+            "1": "Homme costaud",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -11953,7 +11953,7 @@
         },
         "118": {
           "": {
-            "1": "Old Shogi Player",
+            "1": "Vieux joueur de shogi",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15740,7 +15740,7 @@
         },
         "21": {
           "": {
-            "1": "Tsujimoto the Bloodletter　",
+            "1": "Tsujimoto le sanguinaire　",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15767,7 +15767,7 @@
         },
         "24": {
           "": {
-            "1": "Golden Samurai",
+            "1": "Samurai doré",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15830,7 +15830,7 @@
         },
         "31": {
           "": {
-            "1": "Genso the God",
+            "1": "Genso le Dieu",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15857,7 +15857,7 @@
         },
         "34": {
           "": {
-            "1": "Patriarch Gondawara",
+            "1": "Patriarche Gondawara",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15884,7 +15884,7 @@
         },
         "37": {
           "": {
-            "1": "Patriarch of the Yamazaki Clan",
+            "1": "Patriarche du Clan Yamazaki",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15902,7 +15902,7 @@
         },
         "39": {
           "": {
-            "1": "Fatal Fukishima",
+            "1": "Fukishima le fatal",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15911,7 +15911,7 @@
         },
         "40": {
           "": {
-            "1": "Nagafuchi the Skanda",
+            "1": "Nagafuchi le Skanda",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15920,7 +15920,7 @@
         },
         "41": {
           "": {
-            "1": "Mammoth Tatsu",
+            "1": "Tatsu le mammouth",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15947,7 +15947,7 @@
         },
         "44": {
           "": {
-            "1": "Knockout Fujiki",
+            "1": "Fujiki l'assomeur",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -15956,7 +15956,7 @@
         },
         "45": {
           "": {
-            "1": "Iron Fist Sakai",
+            "1": "Sakai au poing de fer",
             "2": 0,
             "reARMP_validityBool": "00000010",
             "reARMP_isValid": "1",
@@ -16007,7 +16007,7 @@
         },
         "1": {
           "": {
-            "1": "Knockout Fujiki",
+            "1": "Fujiki l'assomeur",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
@@ -16022,7 +16022,7 @@
         },
         "3": {
           "": {
-            "1": "Stealthy Kurosawa",
+            "1": "Kurosawa le furtif",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 19
@@ -16030,7 +16030,7 @@
         },
         "4": {
           "": {
-            "1": "Fatal Fukishima",
+            "1": "Fukishima le fatal",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
@@ -16038,7 +16038,7 @@
         },
         "5": {
           "": {
-            "1": "Convenience Store Hunter Saito",
+            "1": "Saito le chasseur de supérettes",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 4
@@ -16046,7 +16046,7 @@
         },
         "6": {
           "": {
-            "1": "Samurai Mask",
+            "1": "Masque de samurai",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 5
@@ -16054,7 +16054,7 @@
         },
         "7": {
           "": {
-            "1": "Nutjob Natagiri",
+            "1": "Natagiri le cinglé",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 6
@@ -16062,7 +16062,7 @@
         },
         "8": {
           "": {
-            "1": "Fire Karasawa",
+            "1": "Karasawa l'enflammé",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 7
@@ -16078,7 +16078,7 @@
         },
         "10": {
           "": {
-            "1": "Nagafuchi the Skanda",
+            "1": "Nagafuchi le Skanda",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
@@ -16086,7 +16086,7 @@
         },
         "11": {
           "": {
-            "1": "Sakyo the Weapon Hunter",
+            "1": "Sakyo le chasseur d'armes",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
@@ -16094,7 +16094,7 @@
         },
         "12": {
           "": {
-            "1": "Ukyo the Bridge Guard",
+            "1": "Ukyo le gardien du pont",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
@@ -16102,7 +16102,7 @@
         },
         "13": {
           "": {
-            "1": "Slayer Nagasawa",
+            "1": "Nagasawa le tueur",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 12
@@ -16110,7 +16110,7 @@
         },
         "14": {
           "": {
-            "1": "Minegishi the Breaker",
+            "1": "Minegishi le briseur",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 13
@@ -16118,7 +16118,7 @@
         },
         "15": {
           "": {
-            "1": "Iron Fist Sakai",
+            "1": "Sakai au poing de fer",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
@@ -16126,7 +16126,7 @@
         },
         "16": {
           "": {
-            "1": "Mysterious Assassin",
+            "1": "Assassin mystérieux",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 15
@@ -16134,7 +16134,7 @@
         },
         "17": {
           "": {
-            "1": "Tsujimoto the Bloodletter",
+            "1": "Tsujimoto le sanguinaire",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 16
@@ -16142,7 +16142,7 @@
         },
         "18": {
           "": {
-            "1": "Ferocious Tiger",
+            "1": "Tigre féroce",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 17
@@ -16150,7 +16150,7 @@
         },
         "19": {
           "": {
-            "1": "Muscleman Fujiki",
+            "1": "Fujiki le musclé",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 18
@@ -16158,7 +16158,7 @@
         },
         "20": {
           "": {
-            "1": "Golden Kanamoto",
+            "1": "Kanamoto le doré",
             "2": 0,
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20

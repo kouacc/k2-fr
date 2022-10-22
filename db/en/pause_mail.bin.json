@@ -2134,7 +2134,7 @@
         "2": {
           "": {
             "1": "Attaquer",
-            "2": "Dragon de Dojima.\r\n\r\nTu dois être à l'aise avec\r\nles bases du combat si tu\r\nsouhaites survivre dans ce\r\nrude monde.\r\n\r\nCombo ruée :\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat>\r\n\r\nCoup décisif :\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nDouble coup fatal :\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nAttaques chargées :\r\nMaintenez, et relâchez <symbol=button_shikaku,Combat>\r\nMaintenez, et relâchez <symbol=button_sankaku,Combat>\r\n\r\nLancers :\r\n(Près d'un ennemi) <symbol=button_maru,Combat> <symbol=button_maru,Combat>\r\n(Près d'un ennemi) <symbol=button_maru,Combat> <symbol=button_sankaku,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nVous devez être à l'aise avec\r\nles bases du combat si vous\r\nsouhaitez survivre dans ce\r\nrude monde.\r\n\r\nCombo ruée :\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat>\r\n\r\nCoup décisif :\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nDouble coup fatal :\r\n<symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n<symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_shikaku,Combat> <symbol=button_sankaku,Combat> <symbol=button_sankaku,Combat>\r\n\r\nAttaques chargées :\r\nMaintenez, et relâchez <symbol=button_shikaku,Combat>\r\nMaintenez, et relâchez <symbol=button_sankaku,Combat>\r\n\r\nLancers :\r\n(Près d'un ennemi) <symbol=button_maru,Combat> <symbol=button_maru,Combat>\r\n(Près d'un ennemi) <symbol=button_maru,Combat> <symbol=button_sankaku,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2268,7 +2268,7 @@
         "13": {
           "": {
             "1": "Défendre",
-            "2": "Dragon de Dojima.\r\n\r\nUne défense impénétrable est\r\nvitale dans le chemin de la vérité.\r\nTu ne connaitras jamais la défaite\r\nsi tu es intouchable.\r\n\r\nContourner un ennemi :\r\nMaintiens <symbol=button_r1,Combat>\r\n\r\nGarde :\r\nMaintiens <symbol=button_l1,Combat>\r\n\r\nÉviter les attaques ennemies :\r\nChoissis une direction <symbol=button_l_stick,Combat> et appuie sur <symbol=button_batsu,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nUne défense impénétrable est\r\nvitale dans le chemin de la vérité.\r\nVous ne connaitrez jamais la défaite\r\nsi vous êtes intouchable.\r\n\r\nContourner un ennemi :\r\nMaintenez <symbol=button_r1,Combat>\r\n\r\nGarde :\r\nMaintenez <symbol=button_l1,Combat>\r\n\r\nÉviter les attaques ennemies :\r\nChoississez une direction <symbol=button_l_stick,Combat> et appuyez sur <symbol=button_batsu,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2402,7 +2402,7 @@
         "24": {
           "": {
             "1": "Utiliser l'environnement",
-            "2": "Dragon de Dojima.\r\n\r\nDes fois, l'environnement\r\nautour de toi se prouvera\r\nutile dans ta quête. Utilise tout\r\net n'importe quoi en recherche du\r\nsecret de la réussite.\r\nN'oublie pas, les attaques changent\r\nen fonction de quel objet tu\r\ntiens dans les mains.\r\n\r\nAttraper un objet:\r\n<symbol=button_maru,Combat>\r\n\r\nAttaquer:\r\n(Apprès avoir attrapé un objet) <symbol=button_shikaku,Combat>\r\n(Apprès avoir attrapé un objet) <symbol=button_sankaku,Combat>\r\n\r\nLancer un objet:\r\n(Apprès avoir attrapé un objet) <symbol=button_maru,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nDes fois, l'environnement\r\nautour de vous se prouvera\r\nutile dans votre quête. Utilisez tout\r\net n'importe quoi en recherche du\r\nsecret de la réussite.\r\nN'oubliez pas, les attaques changent\r\nen fonction de quel objet vous\r\ntenez dans les mains.\r\n\r\nAttraper un objet :\r\n<symbol=button_maru,Combat>\r\n\r\nAttaquer :\r\n(Apprès avoir attrapé un objet) <symbol=button_shikaku,Combat>\r\n(Apprès avoir attrapé un objet) <symbol=button_sankaku,Combat>\r\n\r\nLancer un objet :\r\n(Apprès avoir attrapé un objet) <symbol=button_maru,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2536,7 +2536,7 @@
         "35": {
           "": {
             "1": "Utiliser des armes",
-            "2": "Dragon de Dojima.\r\n\r\nIl est temps que tu apprennes\r\nà connaître les armes. Tu\r\npeux équiper jusqu'à trois armes\r\nà la fois via le menu Équipement.\r\n\r\nPour utiliser une arme équipée,\r\nappuie sur le bouton sur lequel\r\ntu l'as équipée (<symbol=button_left,Combat>, <symbol=button_up,Combat>, ou <symbol=button_right,Combat>). Pour\r\nranger une arme, appuie sur <symbol=button_down,Combat>.\r\n\r\nLes armes que tu prends à tes\r\nennemis ne sont pas automatiquement\r\nstockées dans ton inventaire.\r\nPour stocker une arme, appuie\r\nsur <symbol=button_down,Combat> tout en la tenant.\r\n\r\nChaque arme a une durabilité.\r\nSi la durabilité d'une arme\r\ns'épuise, elle ne peut plus\r\nêtre utilisée jusqu'à ce\r\nqu'elle soit réparée.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nIl est temps que vous apprenez\r\nà connaître les armes. Vous\r\npouvez équiper jusqu'à trois armes\r\nà la fois via le menu Équipement.\r\n\r\nPour utiliser une arme équipée,\r\nappuyez sur le bouton sur lequel\r\nvous l'avez équipée (<symbol=button_left,Combat>, <symbol=button_up,Combat>, ou <symbol=button_right,Combat>). Pour\r\nranger une arme, appuyez sur <symbol=button_down,Combat>.\r\n\r\nLes armes que vous prennez à vos\r\nennemis ne sont pas automatiquement\r\nstockées dans votre inventaire.\r\nPour stocker une arme, appuyez\r\nsur <symbol=button_down,Combat> tout en la tenant.\r\n\r\nChaque arme a une durabilité.\r\nSi la durabilité d'une arme\r\ns'épuise, elle ne peut plus\r\nêtre utilisée jusqu'à ce\r\nqu'elle soit réparée.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2670,7 +2670,7 @@
         "46": {
           "": {
             "1": "Armure",
-            "2": "Dragon de Dojima.\r\n\r\nLaisse-moi t'expliquer les\r\nbonus d'armure. Parfois,\r\ntu gagneras des bonus de stats\r\nen fonction de l'armure que\r\ntu as actuellement équipée.\r\n\r\nLes noms et les couleurs jouent\r\nun rôle important dans ces\r\ncombinaisons. Par exemple, en\r\néquipant à la fois le Sarashi\r\nrouge et le bracelet de gemmes\r\nrouges, tu activeras le bonus\r\nde la bénédiction rouge.\r\n\r\nAssure-toi de rechercher de\r\nnouvelles combinaisons\r\nlorsque tu acquiers de nouveaux\r\néquipements.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nLaissez-moi vous expliquer les\r\nbonus d'armure. Parfois,\r\nvous gagnerez des bonus de stats\r\nen fonction de l'armure que\r\nvous avez actuellement équipée.\r\n\r\nLes noms et les couleurs jouent\r\nun rôle important dans ces\r\ncombinaisons. Par exemple, en\r\néquipant à la fois le Sarashi\r\nrouge et le bracelet de gemmes\r\nrouges, vous activerez le bonus\r\nde la bénédiction rouge.\r\n\r\nAssurez-vous de rechercher de\r\nnouvelles combinaisons\r\nlorsque vous acquérez de nouveaux\r\néquipements.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2804,7 +2804,7 @@
         "57": {
           "": {
             "1": "Actions Heat",
-            "2": "Dragon de Dojima.\r\n\r\nRéaliser des attaques en combat\r\nremplit ta jauge de Heat. Une\r\nfois qu'elle atteint un certain\r\nniveau, tu peux utiliser les actions\r\nHeat lorsque l'icône de Heat (<symbol=button_sankaku,Combat>)\r\napparaît sur l'écran.\r\n\r\nLa plupart des types d'armes ont\r\négalement des actions Heat uniques.\r\n\r\nLes actions Heat sont\r\nextrêmement puissantes, alors assure-toi\r\nde te rappeler quand et où\r\ntu peux les utiliser.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nRéaliser des attaques en combat\r\nremplit votre jauge de Heat. Une\r\nfois qu'elle atteint un certain\r\nniveau, vous pouvez utiliser les actions\r\nHeat lorsque l'icône de Heat (<symbol=button_sankaku,Combat>)\r\napparaît sur l'écran.\r\n\r\nLa plupart des types d'armes ont\r\négalement des actions Heat uniques.\r\n\r\nLes actions Heat sont\r\nextrêmement puissantes, alors assurez-vous\r\nde vous rappeler quand et où\r\nvous pouvez les utiliser.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -2938,7 +2938,7 @@
         "68": {
           "": {
             "1": "Mode Extreme Heat",
-            "2": "Long time no speak, Dragon of\r\nDojima.\r\n\r\nI see you have learned how to\r\nenter Extreme Heat Mode. As a\r\nrefresher, it can be activated\r\nby filling your Heat Gauge and\r\npressing <symbol=button_r2,Combat>.\r\n\r\nYou will be surrounded by a\r\nblue flame, and your attack\r\npower will increase. You will\r\nalso be able to grab objects\r\nnormally too heavy for you.\r\n\r\nThere are also Heat Actions\r\nspecific to Extreme Heat Mode.\r\n\r\nI look forward to fighting you\r\nsoon.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "2": "Ça fait un bail, Dragon de Dojima.\r\n\r\nJe vois que vous avez appris comment\r\nactiver le mode Extreme Heat.\r\nPour rappel, il peut être\r\nactivé en remplissant ta jauge\r\nde Heat et en appuyant sur <symbol=button_r2,Combat>.\r\n\r\nVous serez entouré d'une flamme\r\nbleue, et votre puissance d'attaque\r\naugmentera. Vous serez également\r\ncapable de saisir des objets\r\nnormalement trop lourds pour vous.\r\n\r\nIl existe également des actions\r\nHeat spécifiques au mode\r\nExtreme Heat.\r\n\r\nJ'ai hâte de me battre contre\r\nvous.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3071,8 +3071,8 @@
         },
         "79": {
           "": {
-            "1": "Surpass Your Limits",
-            "2": "Dragon of Dojima.\r\n\r\nThis is my final message to\r\nyou. Your training is not yet\r\nat an end. Raise your stats to\r\ntheir highest possible levels,\r\nand you will gain the ability\r\nto surpass your limits.\r\n\r\nAim to become the strongest\r\nman in the world.\r\n\r\nThat is all.\r\n\r\n-Man in Black",
+            "1": "Surpassez vos limites",
+            "2": "Dragon de Dojima.\r\n\r\nVoici mon dernier message\r\npour vous. Votre entrainement\r\nn'est pas encore fini.\r\nAugmentez vos stats jusqu'aux\r\nniveaux les plus hauts\r\npossible, et vous gagnerez\r\nl'abilité de surpasser vos\r\nlimites.\r\n\r\nVisez à devenir l'homme le\r\nplus fort du monde.\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3205,8 +3205,8 @@
         },
         "90": {
           "": {
-            "1": "Test Your Skill",
-            "2": "A pleasure to make your\r\nacquaintance, Mad Dog.\r\n\r\nIt must be boring, only ever\r\nbattling street thugs. If you\r\nhunger for opponents with more\r\nof a backbone, go to Children's\r\nPark behind Theater Square.\r\n\r\nI guarantee your satisfaction.",
+            "1": "Testez vos compétences",
+            "2": "C'est un plaisir de faire\r\nvotre connaissance, Chien fou.\r\n\r\nÇa doit être ennuyeux de ne se\r\nbattre que contre des voyous\r\nde rue. Si vous avez envie\r\nd'adversaires plus costauds,\r\nallez au Parc pour enfants\r\nderrière Theater Square.\r\n\r\nJe garantis votre satisfaction.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3247,8 +3247,8 @@
         },
         "93": {
           "": {
-            "1": "Test Your Skill",
-            "2": "How are you, Mad Dog?\r\n\r\nYou must be worried about\r\nbeing bored once you leave the\r\nvibrant street of Kamurocho.\r\n\r\nBut do not worry. There will\r\nbe strong opponents down in\r\nSotenbori as well. Simply go\r\nover to the parking lot in\r\nWest Shofukucho.\r\n\r\nI guarantee your satisfaction.",
+            "1": "Testez vos compétences",
+            "2": "Comment allez-vous, Chien fou ?\r\n\r\nVous devez craindre de vous\r\nennuyer une fois que vous aurez\r\nquitté les rues vibrante de\r\nKamurocho.\r\n\r\nMais pas d'inquiétude. Il y\r\naura aussi des adversaires de\r\ntaille à Sotenbori. Il suffit\r\nd'aller sur le parking de\r\nShofukucho Ouest.\r\n\r\nJe garantis votre satisfaction.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3407,7 +3407,7 @@
         "1": {
           "": {
             "1": "Kamurocho K.O.",
-            "2": "Hey, it seems like you've\r\nbeen doing it big these days,\r\nbut don't let your guard down.\r\n\r\nSome boxer's got his eye on\r\nyou and is looking for a\r\nsparring match. He's at\r\n<color=red>Children's Park</color> right now.\r\n\r\nWhether you accept or run is\r\nall up to you.",
+            "2": "Hé, on dirait que vous avez\r\nfait les choses en grand ces\r\nderniers temps, mais ne\r\nbaissez pas votre garde.\r\n\r\nUn boxeur vous a à l'oeil\r\net cherche un match\r\nd'entraînement. Il est au\r\n<color=red>Parc pour Enfants</color>en ce moment.\r\n\r\nLa décision d'accepter ou\r\npas vous appartient.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3420,8 +3420,8 @@
         },
         "2": {
           "": {
-            "1": "Brawlectric Boogaloo",
-            "2": "Whoa, you managed to beat\r\nKnockout Fujiki!? Very\r\nimpressive, Kiryu-san! Though\r\nthere is another guy who has\r\nyou in his sights. Compared to\r\nhis brother, he's a bit more\r\nof a musclehead, which means\r\nhe also packs a stronger punch.\r\n\r\nHe's near the <color=red>Hotel District</color>\r\nif you feel like taking on\r\nanother challenge.",
+            "1": "Des coups électrisés",
+            "2": "Waouh, vous avez réussi à battre\r\nFujiki l'assomeur ?! Très\r\nimpressionant, Kiryu-san! Mais\r\nil y a un autre gars qui vous a\r\ndans le viseur. Comparé à son\r\nfrère, il est un peu plus\r\ncostaud, donc ça veut aussi\r\ndire qu'il tape plus fort.\r\n\r\nIl est près de <color=red>Hotel District</color\r\nsi vous vous sentez prêt\r\npour un autre défi.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3434,8 +3434,8 @@
         },
         "3": {
           "": {
-            "1": "The Ambush Specialist",
-            "2": "Watch out, Kiryu, there's yet\r\nanother guy gunning for you.\r\nThey call him \"Stealthy\r\nKurosawa\", and just as his\r\nname implies, his specialty\r\nis ambushing. He's over on\r\n<color=red>Senryo Avenue</color> right now.\r\nOh, and he probably won't\r\nrecognize you at first.",
+            "1": "Le spécialiste de l'ambuscade",
+            "2": "Faites attention, Kiryu, il y a un\r\nautre gars qui veut vous tuer.\r\nIls l'appelent \"Kurosawa le furtif\",\r\net comme son nom l'indique,\r\nl'ambuscade est sa spécialité.\r\nIl est sur <color=red>Senryo Avenue</color> en\r\nce moment. Oh, et il ne vous\r\nreconnaîtra tout de suite.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3448,8 +3448,8 @@
         },
         "4": {
           "": {
-            "1": "On The Wrong Team",
-            "2": "Hey, looks like you're doing\r\nbetter than usual, Kiryu-san.\r\nHow would I know, you ask?\r\nWell that's because of a\r\nrumor I heard recently that\r\nyou've been taking down any\r\ndelinquent dumb enough to\r\nface you. Speaking of which,\r\none of them is looking for\r\nyou around <color=red>N Senryo Ave.</color>\r\nI'd avoid going there if\r\nyou'd rather have nothing\r\nmore to do with them.",
+            "1": "Dans la mauvaise équipe",
+            "2": "Hé, on dirait que vous faites\r\nmieux que d'habitude, Kiryu-san.\r\nComment le saurais-je, me\r\ndemandez-vous ? Eh bien,\r\nc'est à cause d'une rumeur\r\nque j'ai entendu récemment\r\ndisant que vous avez battu\r\nun délinquant assez débile\r\npour vous faire face. À ce\r\npropos, l'un d'entre eux\r\nvous cherche vers <color=red>Senryo Ave N</color>.\r\nJ'éviterais d'y aller si vous\r\npréférez n'avoir rien d'autre\r\nà faire avec eux.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3462,8 +3462,8 @@
         },
         "5": {
           "": {
-            "1": "Convenience Store Hunter",
-            "2": "Did you know? Apparently some\r\nhoodlums were planning on\r\nraiding convenience stores\r\nin the area, but thanks to\r\nyou handing them a sound\r\nass-whooping, they've all\r\nbut stopped in their tracks.\r\n\r\nThey seem to be holding a\r\ngrudge against you for that,\r\nso I would avoid going near\r\nthe convenience store on\r\n<color=red>W Shichifuku St.</color> if you\r\ndon't want to run afoul\r\nof their boss.",
+            "1": "Le chasseur de supérettes",
+            "2": "Vous le saviez ? Apparement des\r\nvoyous avaient prévu d'envahir\r\ndes supérettes dans la zone,\r\nmais grâce à vous qui leur\r\navez donné une bonne raclée,\r\nils se sont arrêtés dans leur élan.\r\n\r\nIls ont l'air de vous en vouloir\r\npour ça, alors j'éviterais d'aller\r\nprès de la supérette de\r\n<color=red>Shichifuku St. O</color> si vous\r\nvoulez pas vous mettre leur\r\nboss sur le dos.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3476,8 +3476,8 @@
         },
         "6": {
           "": {
-            "1": "The Lone Henchman",
-            "2": "How've you been, Kiryu-san?\r\nDoing well, I hope. I know\r\nyou've been going at it pretty\r\nhard, but watch out. Everyone\r\nyou've taken out seems to be\r\nriled up against you—I hear\r\nthey've hired a pretty tough\r\nhitman to exact their revenge.\r\n\r\nThere's an intimidating man\r\nlike that in the parking lot\r\non <color=red>E Taihei Blvd</color>. Do whatever\r\nyou gotta do.",
+            "1": "L'homme de main solidaire",
+            "2": "Comment allez-vous Kiryu-san ?\r\nBien, j'espère. Je sais que\r\nvous y êtes allés assez fort,\r\nmais attention. Tous ceux que\r\nvous avez éliminés semblent\r\nêtre remontés contre vous—\r\nJ'ai entendu qu'ils ont engagés\r\nun tueur à gages\r\nassez coriace\r\npour se venger.\r\n\r\nIl y a un homme intimidant\r\ncomme ça dans le parking\r\nde <color=red>Taihei Blvd E.</color> Faites ce\r\nqu'il faut faire.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3490,8 +3490,8 @@
         },
         "7": {
           "": {
-            "1": "A Dangerous Fellow",
-            "2": "Hey, how's it hanging in\r\nKamurocho? During your\r\nabsence, some dangerous dudes\r\nhave drifted into town. Take\r\nthis yakuza for instance: they\r\ncall him \"Nutjob Natagiri\".\r\nHe may speak with a silver\r\ntongue, but get on his bad\r\nside, and he lets his fists\r\ndo the rest of the talking.\r\n\r\nJust so you know, he's in\r\nfront of <color=red>West Park</color>. Handle\r\nyour business, Kiryu-san.",
+            "1": "Un gars dangereux",
+            "2": "Hé, comment ça se passe à\r\nKamurocho ? Pendant votre\r\nabsence, des types dangereux\r\nont dérivé en ville. Prenez ce\r\nyakuza par exemple : on\r\nl'appelle \"Natagiri le cinglé\".\r\nIl parle peut-être avec une\r\nlangue d'argent, mais si on\r\n le prend en grippe, il laisse\r\nses poings faire le reste du\r\ntravail.\r\n\r\nJuste pour que vous sachiez,\r\nil est en face de <color=red>West Park.</color>\r\nRéglez vos affaires, Kiryu-san.",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3505,7 +3505,7 @@
         "8": {
           "": {
             "1": "Next-Gen Yakuza",
-            "2": "Resolute as always, aren't we?\r\nPutting all the troublemakers\r\nin their place and whatnot.\r\nNo wonder Master Komaki\r\nfavors you.\r\n\r\nAs for the rest, there's some\r\nguy who's started calling himself\r\nthe \"next generation of yakuza.\"\r\nHe's around <color=red>Pink Street</color>, so\r\nwhy not take a look if you're\r\nfeeling up to the challenge?",
+            "2": "Déterminés comme toujours,\r\nn'est-ce pas ? Remettre tous\r\nles fauteurs de trouble à leur\r\nplace et tout le reste. Pas\r\nétonnant que Maître Komaki\r\nvous préfère.\r\n\r\nPour le reste, il y a un type qui\r\nse fait appeler \"la nouvelle génération\r\nde yakuzas\". Il est sur <color=red>Pink Street</color>,\r\nalors pourquoi ne pas y jeter un\r\noeil si vous vous sentez prêt à\r\nrelever le défi ?",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3518,7 +3518,7 @@
         },
         "9": {
           "": {
-            "1": "To the Dragon of Dojima",
+            "1": "Pour le Dragon de Dojima",
             "2": "Hey, Kiryu-san. Looks like\r\nyou're flying off the handle\r\nlike always. Just another day\r\nfor the Dragon of Dojima, eh?\r\n\r\nAs usual, you better watch\r\nyour back—A lot of guys\r\nare out to use that rep\r\nagainst you. Among them, the\r\nmost notorious is Genso the\r\nGod. I heard he's waiting\r\nfor you around <color=red>Suppon St</color>.\r\n\r\nLegendary yakuza or not,\r\nyou should still stay on\r\nguard if you're going there.",
             "3": 0,
             "4": 0,
@@ -3918,7 +3918,7 @@
         },
         "1": {
           "": {
-            "1": "Untitled",
+            "1": "Sans objet",
             "2": "Thanks a ton 4 agreeing\r\n2 this!! ^_^ U can call\r\nme Masa, btw. (^o^)/\r\n\r\nAs 4 the job, I hid a key\r\nunder a bench in Public\r\nPark 3.（￣ー￣）\r\n\r\nJust snag it and scoot\r\nyour butt on over to the\r\ncoin lockers. Oh yeah, and\r\nthe stuff in the locker is\r\nmy little secret~ (^_-)/",
             "3": 0,
             "4": 2,
@@ -3932,7 +3932,7 @@
         },
         "2": {
           "": {
-            "1": "Untitled",
+            "1": "Sans objet",
             "2": "Hiya! Looks like u got ur\r\nhands on my box~ (*^^*)\r\n\r\nNow take it over 2 the\r\nguy in the suit behind\r\nShine! ￣ー￣  ",
             "3": 0,
             "4": 2,
@@ -3946,7 +3946,7 @@
         },
         "3": {
           "": {
-            "1": "Untitled",
+            "1": "Sans objet",
             "2": "Hiya! For your last task, get your\r\nbutt over to Kamuro Theater.\r\n\r\nFind the guy with the hair, and ask\r\nhim how many bells he needs. (^3^)",
             "3": 0,
             "4": 2,
@@ -3960,7 +3960,7 @@
         },
         "4": {
           "": {
-            "1": "Untitled",
+            "1": "Sans objet",
             "2": "Hiya pal! Sorry for all the fuss.\r\n(*^^*)\r\n\r\nIt's me, Masa! I was wondering,\r\nhow about u and me team up? (^o^)/",
             "3": 0,
             "4": 2,
@@ -4056,7 +4056,7 @@
         "1": {
           "": {
             "1": "Hayato-kun",
-            "2": "Hi Uncle Kaz!\r\nThe headmistress told me\r\nabout your idea for helping\r\nHayato-kun. Do you remember\r\nthe puppy we saved last year?\r\nI was thinking maybe we\r\ncould find him and bring\r\nhim to Sunflower. What do\r\nyou think?",
+            "2": "Salut Oncle Kaz !\r\nLa directrice m'a dit ton idée\r\npour aider Hayato-kun. Tu te\r\nsouviens du chiot qu'on a sauvé\r\nl'année dernière ? Je pensais\r\nqu'on pouvait peut-être le\r\nretrouver et l'ammener à\r\nSunflower. Qu'est-ce que t'en\r\npenses ?",
             "3": 0,
             "4": 2,
             "5": 102,
@@ -4070,7 +4070,7 @@
         "2": {
           "": {
             "1": "Pochitaro",
-            "2": "Hi Uncle Kaz!\r\nThanks for finding Pochi\r\nfor me! Hayato-kun loves\r\ndogs. He already took\r\nPochi for a walk!",
+            "2": "Salut Oncle Kaz !\r\nMerci d'avoir retrouvé\r\nPochi ! Hayato-kun adore\r\nles chiens. Il a déjà emmené\r\nPochi en balade !",
             "3": 3579,
             "4": 2,
             "5": 102,
@@ -4083,8 +4083,8 @@
         },
         "3": {
           "": {
-            "1": "No More Leak!",
-            "2": "Hiya Uncle Kaz!\r\nThe roof's fixed! All the\r\nkids are really thankful\r\nfor what you did for them,\r\nso they sent you a letter!\r\nI think Suenaga-san has it.",
+            "1": "Plus de fuite !",
+            "2": "Salut Oncle Kaz !\r\nLe toit est réparé ! Tous\r\nles enfants sont vraiment\r\ncontents pour ce que tu as\r\nfait pour eux, donc ils t'ont\r\nenvoyé une lettre ! Je crois\r\nque Suenaga-san l'a.",
             "3": 0,
             "4": 2,
             "5": 110,
@@ -4097,8 +4097,8 @@
         },
         "4": {
           "": {
-            "1": "Even Pochi's Excited!",
-            "2": "Hiya Uncle Kaz!\r\nThey just finished building\r\na playground at Sunflower!\r\nSuenaga-san gave it to us\r\nas a present. Isn't that\r\nincredible?\r\n\r\nI hope it's sunny all the\r\ntime!",
+            "1": "Même Pochi est content !",
+            "2": "Salut Oncle Kaz !\r\nIls viennent de finir de\r\nconstruire une aire de jeux\r\nà Sunflower ! Suenaga-san\r\nnous l'a offert. C'est pas\r\nincroyable ?\r\n\r\nJ'espère qu'il fait beau\r\ntout le temps !",
             "3": 0,
             "4": 2,
             "5": 111,
@@ -4192,8 +4192,8 @@
         },
         "1": {
           "": {
-            "1": "No More Leak!",
-            "2": "Hiya Uncle Kaz!\r\nThe roof's fixed! All the\r\nkids are really thankful\r\nfor what you did for them,\r\nso they sent you a letter!\r\nI think Suenaga-san has it.",
+            "1": "Plus de fuite !",
+            "2": "Salut Oncle Kaz !\r\nLe toit est réparé ! Tous\r\nles enfants sont vraiment\r\ncontents pour ce que tu as\r\nfait pour eux, donc ils t'ont\r\nenvoyé une lettre ! Je crois\r\nque Suenaga-san l'a.",
             "3": 0,
             "4": 2,
             "5": 110,
@@ -4287,8 +4287,8 @@
         },
         "1": {
           "": {
-            "1": "Even Pochi's Excited!",
-            "2": "Hiya Uncle Kaz!\r\nThey just finished building\r\na playground at Sunflower!\r\nSuenaga-san gave it to us\r\nas a present. Isn't that\r\nincredible?\r\n\r\nI hope it's sunny all the\r\ntime!",
+            "1": "Même Pochi est content !",
+            "2": "Salut Oncle Kaz !\r\nIls viennent de finir de\r\nconstruire une aire de jeux\r\nà Sunflower ! Suenaga-san\r\nnous l'a offert. C'est pas\r\nincroyable ?\r\n\r\nJ'espère qu'il fait beau\r\ntout le temps !",
             "3": 0,
             "4": 2,
             "5": 111,
@@ -4383,7 +4383,7 @@
         "1": {
           "": {
             "1": "[Dernier avertissement]",
-            "2": "Payment Overdue\r\n\r\nAs of today, your debt repayment\r\nis overdue. If you do not repay\r\nthe designated amount within\r\nthe next 24 hours, we will be\r\nforced to take more serious\r\nmeasures.\r\n\r\nAmount Owed: 580,000 yen\r\nAccount Number: *****\r\nBranch Number: ******",
+            "2": "Facture impayée\r\n\r\nÀ ce jour, votre recouvrement\r\nde dette est impayé. Si vous ne\r\npayez pas le montant désigné\r\nd'ici les prochaines 24 heures,\r\nnous serons forcés de prendre\r\ndes mesures radicales.\r\n\r\nMontant dû : 580 000 yens\r\nNuméro de compte : *****\r\nNuméro de branche : ******",
             "3": 0,
             "4": 2,
             "5": 117,
@@ -4477,8 +4477,8 @@
         },
         "1": {
           "": {
-            "1": "[Your Modem Contract]",
-            "2": "Hello again, sir!\r\n\r\nThis is Tanabe from Happy\r\nNet Online. Have you come\r\nto a conclusion regarding\r\nyour modem contract?",
+            "1": "[Votre contrat de modem]",
+            "2": "Re-bonjour, monsieur !\r\n\r\nC'est Tanabe de Happy\r\nNet Online. Êtes-vous venu\r\nà une conclusion à propos\r\nde votre contrat de modem ?",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -4491,8 +4491,8 @@
         },
         "2": {
           "": {
-            "1": "[Please Respond]",
-            "2": "What do you wish to do\r\nabout your contract, sir?\r\nPlease be advised, there\r\nwill be quite a large\r\ncancellation fee if you\r\nopt out!",
+            "1": "[Merci de répondre]",
+            "2": "Que voulez-vous faire à\r\npropos de votre contrat,\r\nmonsieur ?\r\nSoyez informé qu'il y aura\r\nd'énormes frais d'annulation\r\nsi vous voulez résilier !",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -4506,7 +4506,7 @@
         "3": {
           "": {
             "1": "[Confirmation]",
-            "2": "This is Happy Net Online!\r\nWe will contact you again\r\nsoon with further details!",
+            "2": "Ici Happy Net Online !\r\nNous vous contacteront bientôt\r\navec plus de détails !",
             "3": 0,
             "4": 0,
             "5": 0,

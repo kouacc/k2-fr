@@ -3798,7 +3798,7 @@
     "lexus2_m_ADV02_0020": {
       "title": "Explorer la ville",
       "mission": "Cela fait des années que je ne suis pas venu ici.",
-      "mission_info": "Je devrais voir ce qui a change à Sotenbori.",
+      "mission_info": "Je devrais voir ce qui a changé à Sotenbori.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -3930,7 +3930,7 @@
     "lexus2_m_ADV02_0070": {
       "title": "Aller voir l'écran géant extérieur",
       "mission": "Quelque chose ne va pas...",
-      "mission_info": "Qu'est-ce que Ryuji Goda voulait dire par \"feux d'artifice?\"\r\nJe devrais aller voir sur l'écran géant.",
+      "mission_info": "Qu'est-ce que Ryuji Goda voulait dire par \"feux d'artifice\" ?\r\nJe devrais aller voir sur l'écran géant.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -4236,8 +4236,8 @@
   },
   "98": {
     "lexus2_m_ADV04_0080": {
-      "title": "Acheter des bandages et retourner à l'Aoi",
-      "mission": "Le propriétaire a besoin de plus pour soigner le Sayama.",
+      "title": "Acheter des bandages et retourner à Aoi",
+      "mission": "La propriétaire a besoin de plus pour soigner le Sayama.",
       "mission_info": "Je devrais pouvoir trouver des bandages dans\r\nune pharmacie, puis je les apporterai à Aoi.",
       "priority": 0,
       "bgm_type": 0,
@@ -4326,7 +4326,7 @@
     "lexus2_m_ADV04_0100": {
       "title": "Trouver Jongka",
       "mission": "Apparemment, c'est un accro des UFO catchers",
-      "mission_info": "Alors ce Jongka est accro aux UFO\r\ncatchers? Je devrais regarder dans les salles d'arcade.",
+      "mission_info": "Alors ce Jongka est accro aux UFO\r\ncatchers ? Je devrais regarder dans les salles d'arcade.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -4936,7 +4936,7 @@
     "lexus2_m_ADV05_0130": {
       "title": "Aller au Purgatoire",
       "mission": "De tous les endroits où il pourrait aller...",
-      "mission_info": "J'espère que Sayama est prêt à voir le Purgatoire...",
+      "mission_info": "J'espère que Sayama est prête à voir le Purgatoire...",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -5068,7 +5068,7 @@
     "lexus2_m_ADV06_0020": {
       "title": "Aller à l'immeuble Amano",
       "mission": "Je ne sais pas où c'est...",
-      "mission_info": "Je devrais demander à Tamura de me renseigner sur l'mmeuble Amano.\r\nIl est habituellement sur Theater Square.",
+      "mission_info": "Je devrais demander à Tamura de me renseigner sur l'immeuble Amano.\r\nIl est habituellement sur Theater Square.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -23514,7 +23514,7 @@
     "lexus2_m_ADV01_0040": {
       "title": "Trouver Daigo Dojima",
       "mission": "Où t'es-tu trompé, Daigo ?",
-      "mission_info": "Daigo... Je devrais aller dans les rues pour voir\r\n ce que je peux trouver.",
+      "mission_info": "Daigo... Je devrais aller dans les rues pour voir\r\nce que je peux trouver.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",

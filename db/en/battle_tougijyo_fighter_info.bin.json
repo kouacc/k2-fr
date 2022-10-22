@@ -852,7 +852,7 @@
   },
   "35": {
     "gondawara": {
-      "name": "Boss Gondawara",
+      "name": "Patriarche Gondawara",
       "catch_phrase": "Bébé fou",
       "picture": 4171,
       "nationality": "Japonais",
@@ -918,7 +918,7 @@
   },
   "38": {
     "yamazaki": {
-      "name": "Le Yakuza masqué",
+      "name": "Le yakuza masqué",
       "catch_phrase": "Patriarche du clan Yamazaki",
       "picture": 4225,
       "nationality": "Japonais",
@@ -962,7 +962,7 @@
   },
   "40": {
     "fukishima": {
-      "name": "Fatal Fukishima",
+      "name": "Fukishima le fatal",
       "catch_phrase": "Le prêcheur du tuyau de fer",
       "picture": 4165,
       "nationality": "Japonais",
@@ -1072,7 +1072,7 @@
   },
   "45": {
     "boxer": {
-      "name": "Knockout Fujiki",
+      "name": "Fujiki l'assomeur",
       "catch_phrase": "Le tueur d'outsiders",
       "picture": 4147,
       "nationality": "Japonais",

@@ -1400,7 +1400,7 @@
   },
   "97": {
     "コンビニハンター斉藤": {
-      "talk_talker": "Saito, chasseur d'épiceries",
+      "talk_talker": "Saito le chasseur de supérettes",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3933,7 +3933,7 @@
   },
   "278": {
     "血飛沫の辻本": {
-      "talk_talker": "Tsujimoto le massacreur",
+      "talk_talker": "Tsujimoto le sanguinaire",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -8519,7 +8519,7 @@
   },
   "609": {
     "金色の金本": {
-      "talk_talker": "Golden Kanamoto",
+      "talk_talker": "Kanamoto le doré",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
