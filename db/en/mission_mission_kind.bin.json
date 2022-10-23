@@ -27517,7 +27517,7 @@
   "643": {
     "lexus2_s_ADVsubsA23_010": {
       "title": "Granny en péril",
-      "mission": "Attendre l'email de Granny White",
+      "mission": "Attendre l'e-mail de Granny White",
       "mission_info": "Je suppose que je vais juste me promener\r\nen ville. Qui sait si Granny White ne va pas\r\nessayer de me contacter.",
       "priority": 0,
       "bgm_type": 0,
@@ -41682,7 +41682,7 @@
   "976": {
     "lexus2_s_ADVsubsA23_030": {
       "title": "Granny en péril",
-      "mission": "Attendre l'email de Granny White",
+      "mission": "Attendre l'e-mail de Granny White",
       "mission_info": "Quelle vieille dame étrange. Je suppose\r\nque je vais continuer à me promener jusqu'à\r\nce qu'elle m'envoie un nouveau mail.",
       "priority": 0,
       "bgm_type": 0,
@@ -50844,7 +50844,7 @@
   },
   "1190": {
     "lexus2_s_ADVsubsA11_020": {
-      "title": "Association Forestière de Kamurocho",
+      "title": "Association forestière de Kamurocho",
       "mission": "Signé la pétition.",
       "mission_info": "J'ai inscrit mon nom pour le futur de Kamurocho.",
       "priority": 0,

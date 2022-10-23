@@ -346,7 +346,7 @@
   "16": {
     "btl_tutorial_01_quick_attack": {
       "title": "Essayez votre Combo ruée basique !",
-      "explanation": "Appuyez sur <Sign:2,Combat> pour effectuer une attaque rapide. Si vous voulez maintenir\r\nla pression, enchaînez les attaques rapides ensemble pour faire un Combo Ruée en\r\nappuyant sur <Sign:2,Combat> jusqu'à quatre fois.\r\nAsséner des attaques rapides peut rendre votre adversaire vulnérable à d'autres attaques.\r\n\r\n<Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>",
+      "explanation": "Appuyez sur <Sign:2,Combat> pour effectuer une attaque rapide. Si vous voulez maintenir\r\nla pression, enchaînez les attaques rapides ensemble pour faire un Combo ruée en\r\nappuyant sur <Sign:2,Combat> jusqu'à quatre fois.\r\nAsséner des attaques rapides peut rendre votre adversaire vulnérable à d'autres attaques.\r\n\r\n<Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>",
       "picture": 4275,
       "timer": 21,
       "disp_pause_menu": "0",
@@ -364,8 +364,8 @@
   },
   "17": {
     "btl_tutorial_02_strong_attack": {
-      "title": "Épicez vos attaques avec un Coup Décisif !",
-      "explanation": "Pendant un Combo Ruée, appuyer sur <Sign:1,Combat> assènera une attaque puissante appelée\r\nCoup Décisif. Non seulement le Coup Décisif cause de sérieux dégâts, mais\r\nil peut aussi étourdir quiconque en est victime.\r\n\r\n<Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>",
+      "title": "Épicez vos attaques avec un Coup décisif !",
+      "explanation": "Pendant un Combo ruée, appuyer sur <Sign:1,Combat> assènera une attaque puissante appelée\r\nCoup décisif. Non seulement le Coup décisif cause de sérieux dégâts, mais\r\nil peut aussi étourdir quiconque en est victime.\r\n\r\n<Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>",
       "picture": 4276,
       "timer": 21,
       "disp_pause_menu": "0",
@@ -383,8 +383,8 @@
   },
   "18": {
     "btl_tutorial_03_down_attack": {
-      "title": "Allez plus loin avec un Double Coup Fatal !",
-      "explanation": "Vous pouvez suivre un Coup Décisif en appuyant sur <Sign:1,Combat> à nouveau pour \r\ndéchaîner un Double Coup Fatal. Bien qu'il abaisse votre garde, un Double Coup Fatal\r\nfait des dégâts massifs et détruit vos ennemis.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>",
+      "title": "Allez plus loin avec un Double coup fatal !",
+      "explanation": "Vous pouvez suivre un Coup Décisif en appuyant sur <Sign:1,Combat> à nouveau pour \r\ndéchaîner un Double coup fatal. Bien qu'il abaisse votre garde, un Double coup fatal\r\nfait des dégâts massifs et détruit vos ennemis.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>",
       "picture": 4277,
       "timer": 21,
       "disp_pause_menu": "0",
@@ -403,7 +403,7 @@
   "19": {
     "btl_tutorial_04_guard": {
       "title": "Maintenez le bouton pour parer !",
-      "explanation": "Quand vous prenez des coups de tous côtés, vous devez savoir comment\r\nvous défendre. Maintenez <Sign:6,Combat> pour lever votre garde et bloquer les coups.\r\n\r\nSoyez attentif aux failles dans les attaques ennemies et frappez !",
+      "explanation": "Quand vous prenez des coups de tous les côtés, vous devez savoir comment\r\nvous défendre. Maintenez <Sign:6,Combat> pour lever votre garde et bloquer les coups.\r\n\r\nSoyez attentif aux failles dans les attaques ennemies et frappez !",
       "picture": 4278,
       "timer": 21,
       "disp_pause_menu": "0",
@@ -441,7 +441,7 @@
   "21": {
     "btl_tutorial_06_lock_on": {
       "title": "Concentrez-vous sur une seule cible !",
-      "explanation": "Si vous voulez garder votre regard sur un adversaire, maintenez <Sign:4,Combat>\r\npour le verouiller sur lui.\r\n\r\nKiryu sera toujours face à l'ennemi peu importe vos déplacements.\r\nRester concentré sur le combat est important en attaque et en défense.",
+      "explanation": "Si vous voulez garder votre regard sur un adversaire, maintenez <Sign:4,Combat>\r\npour verouiller sur lui.\r\n\r\nKiryu sera toujours face à l'ennemi peu importe vos déplacements.\r\nRester concentré sur le combat est important en attaque et en défense.",
       "picture": 4280,
       "timer": 21,
       "disp_pause_menu": "0",
@@ -460,7 +460,7 @@
   "22": {
     "btl_tutorial_07_charge_attack": {
       "title": "Chargez votre puissance !",
-      "explanation": "Maintenez et relâchez <Sign:2,Combat> pour asséner une puissante Attaque Chargée\r\nqui peut étourdir vos ennemis.\r\n\r\nElle est particulièrement efficace contre les ennemis qui\r\ntendent à parer, n'oubliez donc pas d'observer les patterns de vos\r\nennemis avant d'effectuer une Attaque Chargée.",
+      "explanation": "Maintenez et relâchez <Sign:2,Combat> pour asséner une puissante attaque chargée\r\nqui peut étourdir vos ennemis.\r\n\r\nElle est particulièrement efficace contre les ennemis qui\r\ntendent à parer, n'oubliez donc pas d'observer les habitudes de vos\r\nennemis avant d'effectuer une attaque chargée.",
       "picture": 4281,
       "timer": 21,
       "disp_pause_menu": "0",
@@ -479,11 +479,11 @@
   "23": {
     "btl_tutorial_08_hact": {
       "title": "Ressentez le Heat !",
-      "explanation": "Attaquer des ennemis chauffe Kiryu et remplit la Jauge de Heat.\r\nAppuyez sur <Sign:1,Combat> quand l'Icône de Heat apparaît au milieu de l'écran\r\npour dépenser une partie de votre Jauge de Heat et utiliser\r\nune Action Heat. Il y a beaucoup d'Actions Heat différentes en fonction\r\nde la situation, donc soyez prêt à appuyer sur <Sign:1,Combat> dès que\r\nvous voyez l'Icône de Heat !",
+      "explanation": "Attaquer des ennemis chauffe Kiryu et remplit la Jauge de Heat.\r\nAppuyez sur <Sign:1,Combat> quand l'icône de Heat apparaît au milieu de l'écran\r\npour dépenser une partie de votre jauge de Heat et utiliser\r\nune Action Heat. Il y a beaucoup d'actions Heat différentes en fonction\r\nde la situation, donc soyez prêt à appuyer sur <Sign:1,Combat> dès que\r\nvous voyez l'icône de Heat !",
       "picture": 4282,
       "timer": 21,
       "disp_pause_menu": "0",
-      "command": "Appuyez sur <symbol=button_sankaku,Combat> quand vous voyez l'Icône de Heat enflammée !",
+      "command": "Appuyez sur <symbol=button_sankaku,Combat> quand vous voyez l'icône de Heat enflammée !",
       "is_last_enemy_no_die": "1",
       "is_all_enemy_no_die": "0",
       "count": 0,
@@ -517,7 +517,7 @@
   "25": {
     "btl_tutorial_13_weapon_set": {
       "title": "Équipez votre arme !",
-      "explanation": "Sélectionnez la case d'équipement à la gauche de l'écran,\r\npuis choisissez l'arme que vous désirez équiper dans votre\r\ninventaire à la droite de l'écran.\r\n\r\nVous pouvez les changer à n'importe quel moment dans le Menu Pause.",
+      "explanation": "Sélectionnez la case d'équipement à la gauche de l'écran,\r\npuis choisissez l'arme que vous désirez équiper dans votre\r\ninventaire à la droite de l'écran.\r\n\r\nVous pouvez les changer à n'importe quel moment dans le menu Pause.",
       "picture": 0,
       "timer": 0,
       "disp_pause_menu": "0",
@@ -554,7 +554,7 @@
   "27": {
     "btl_tutorial_15__weapon_equip": {
       "title": "Utiliser l'équipement",
-      "explanation": "Sélectionnez la case d'équipement à la gauche de l'écran,\r\npuis choisissez quelque chose que vous désirez équiper dans votre\r\ninventaire à la droite de l'écran.\r\n\r\nÉquiper des armures peut augmenter votre défense, et\r\ndans certains cas, activer des effets supplémentaires.\r\n\r\nVous pouvez aussi obtenir des Bonus d'Équipement si vous équipez\r\ncertaines combinaisons d'items.",
+      "explanation": "Sélectionnez la case d'équipement à la gauche de l'écran,\r\npuis choisissez quelque chose que vous désirez équiper dans votre\r\ninventaire à la droite de l'écran.\r\n\r\nÉquiper des armures peut augmenter votre défense, et\r\ndans certains cas, activer des effets supplémentaires.\r\n\r\nVous pouvez aussi obtenir des bonus d'équipement si vous équipez\r\ncertaines combinaisons d'items.",
       "picture": 0,
       "timer": 0,
       "disp_pause_menu": "0",
@@ -572,7 +572,7 @@
   "28": {
     "get_ability_1": {
       "title": "Compétences",
-      "explanation": "Vous pouvez dépenser de l'EXP pour booster les stats de Kiryu, comme\r\nla Santé ou l'attaque, ou apprendre des Capacités de Combat\r\npour débloquer de nouvelles actions.\r\n\r\nCertaines capacités ne peuvent être débloquées pour le moment.\r\nVous devez remplir des conditions pour débloquer ces compétences.\r\n\r\nPour l'instant, essayez d'apprendre <color=red>Attaque Chargée Puissante</color> depuis\r\nla page des Compétences de Combat.",
+      "explanation": "Vous pouvez dépenser de l'EXP pour booster les stats de Kiryu, comme\r\nla santé ou l'attaque, ou apprendre des compétences de combat\r\npour débloquer de nouvelles actions.\r\n\r\nCertaines capacités ne peuvent être débloquées pour le moment.\r\nVous devez remplir des conditions pour débloquer ces compétences.\r\n\r\nPour l'instant, essayez d'apprendre <color=red>Attaque chargée puissante</color> depuis\r\nla page des compétences de combat.",
       "picture": 0,
       "timer": 0,
       "disp_pause_menu": "0",
@@ -644,7 +644,7 @@
   "32": {
     "btl_tutorial_16": {
       "title": "Super-chargez vous !",
-      "explanation": "Certains ennemis <color=red>ne peuvent être renversés avec des attaques normales</color>.\r\nSi vous rencontrez de tels ennemis, chargez et relâchez <Sign:1,Combat> pour asséner une\r\nAttaque Chargée puissante et les mettre à terre !",
+      "explanation": "Certains ennemis <color=red>ne peuvent être renversés avec des attaques normales</color>.\r\nSi vous rencontrez de tels ennemis, chargez et relâchez <Sign:1,Combat> pour asséner une\r\nAttaque chargée puissante et les mettre à terre !",
       "picture": 4287,
       "timer": 0,
       "disp_pause_menu": "0",
@@ -663,7 +663,7 @@
   "33": {
     "exbtl_tutorial_01": {
       "title": "Mode Extreme Heat",
-      "explanation": "Quand votre Jauge de Heat est pleine, appuyez sur <Sign:5,Combat> pour activer\r\nun mode spécial appelé Mode Extreme Heat. Votre Jauge de Heat\r\nsera progressivement drainée dans ce mode, mais vous pourrez utiliser\r\ndes armes et attaques spéciales habituellement indisponibles.",
+      "explanation": "Quand votre jauge de Heat est pleine, appuyez sur <Sign:5,Combat> pour activer\r\nun mode spécial appelé Extreme Heat. Votre jauge de Heat\r\nsera progressivement drainée dans ce mode, mais vous pourrez utiliser\r\ndes armes et attaques spéciales habituellement indisponibles.",
       "picture": 4288,
       "timer": 0,
       "disp_pause_menu": "1",
@@ -681,8 +681,8 @@
   },
   "34": {
     "exbtl_tutorial_02": {
-      "title": "Renvoi de Coup Komaki",
-      "explanation": "Appuyez sur <Sign:1,Combat> lorsqu'un ennemi est sur le point de vous frapper\r\npour activer le Renvoi de Coup Komaki.\r\n\r\nIl s'agit d'une contre-attaque puissante qui change selon\r\nla direction d'où l'ennemi vous attaque.\r\nUtilisez la judicieusement !",
+      "title": "Renvoi de coup Komaki",
+      "explanation": "Appuyez sur <Sign:1,Combat> lorsqu'un ennemi est sur le point de vous frapper\r\npour activer le Renvoi de coup Komaki.\r\n\r\nIl s'agit d'une contre-attaque puissante qui change selon\r\nla direction d'où l'ennemi vous attaque.\r\nUtilisez-la judicieusement !",
       "picture": 4289,
       "timer": 0,
       "disp_pause_menu": "0",
@@ -700,12 +700,12 @@
   },
   "35": {
     "exbtl_tutorial_03": {
-      "title": "Retournement d'Arme à feu Komaki",
-      "explanation": "Appuyez sur <Sign:1,Combat> lorsque vous êtes proche d'un ennemi avec une arme à feu\r\npour activer le Retournement d'Arme à feu Komaki.\r\n\r\nIl s'agit d'une contre-attaque puissante qui forcera l'ennemi\r\nà lâcher son arme.",
+      "title": "Retournement d'armes Komaki",
+      "explanation": "Appuyez sur <Sign:1,Combat> lorsque vous êtes proche d'un ennemi avec une arme à feu\r\npour activer le Retournement d'armes Komaki.\r\n\r\nIl s'agit d'une contre-attaque puissante qui forcera l'ennemi\r\nà lâcher son arme.",
       "picture": 4290,
       "timer": 0,
       "disp_pause_menu": "0",
-      "command": "<symbol=button_r1,Combat> to enter fighting stance, then <symbol=button_sankaku,Combat> near enemy with gun",
+      "command": "<symbol=button_r1,Combat> pour entrer en position de combat, puis <symbol=button_sankaku,Combat> près d'un ennemi avec une arme",
       "is_last_enemy_no_die": "0",
       "is_all_enemy_no_die": "1",
       "count": 1,
@@ -719,12 +719,12 @@
   },
   "36": {
     "btl_tutorial_17": {
-      "title": "Essence du Coup Fatal",
-      "explanation": "Certains combats de l'histoire vous permettent de botter le cul de vos adversaires avec style.\r\n\r\nBaissez d'abord la santé de votre adversaire, puis attendez l'icône vous\r\ndemandant d'appuyer rapidement sur <Sign:2,Combat> pour charger votre Heat.\r\nLorsque votre Jauge de Heat est remplie, appuyez sur <Sign:1,Combat> pour\r\nactiver l'Essence du Coup Fatal !",
+      "title": "Essence du coup fatal",
+      "explanation": "Certains combats de l'histoire vous permettent de botter le cul de vos adversaires avec style.\r\n\r\nBaissez d'abord la santé de votre adversaire, puis attendez l'icône vous\r\ndemandant d'appuyer rapidement sur <Sign:2,Combat> pour charger votre Heat.\r\nLorsque votre jauge de Heat est remplie, appuyez sur <Sign:1,Combat> pour\r\nactiver l'Essence du coup fatal !",
       "picture": 5212,
       "timer": 0,
       "disp_pause_menu": "1",
-      "command": "<symbol=button_shikaku,Combat> rapidly to build up Heat, then <symbol=button_sankaku,Combat>",
+      "command": "<symbol=button_shikaku,Combat> rapidement pour gagner du Heat, puis <symbol=button_sankaku,Combat>",
       "is_last_enemy_no_die": "0",
       "is_all_enemy_no_die": "0",
       "count": 0,
@@ -756,7 +756,7 @@
   },
   "38": {
     "encount_boss_info": {
-      "title": "Boss de Rue",
+      "title": "Boss de rue",
       "explanation": "Lorsque vous gagnez un certain nombre de combats de rue, un\r\npuissant boss de rue peut apparaître quelque part en ville\r\n\r\nFaites attention à bien vous préparez avant de les affronter !",
       "picture": 5399,
       "timer": 0,
