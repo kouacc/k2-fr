@@ -2268,7 +2268,7 @@
         "13": {
           "": {
             "1": "Défendre",
-            "2": "Dragon de Dojima.\r\n\r\nUne défense impénétrable est\r\nvitale dans le chemin de la vérité.\r\nVous ne connaitrez jamais la défaite\r\nsi vous êtes intouchable.\r\n\r\nContourner un ennemi :\r\nMaintenez <symbol=button_r1,Combat>\r\n\r\nGarde :\r\nMaintenez <symbol=button_l1,Combat>\r\n\r\nÉviter les attaques ennemies :\r\nChoississez une direction <symbol=button_l_stick,Combat> et appuyez sur <symbol=button_batsu,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nUne défense impénétrable est\r\nvitale dans le chemin de la vérité.\r\nVous ne connaitrez jamais la défaite\r\nsi vous êtes intouchable.\r\n\r\nContourner un ennemi :\r\nMaintenez <symbol=button_r1,Combat>\r\n\r\nGarde :\r\nMaintenez <symbol=button_l1,Combat>\r\n\r\nÉviter les attaques ennemies :\r\nChoississez une direction <symbol=button_l_stick,Combat> et\r\nappuyez sur <symbol=button_batsu,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,

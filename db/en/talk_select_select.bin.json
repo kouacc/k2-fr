@@ -2626,8 +2626,8 @@
   },
   "307": {
     "lexus2_advsubsb12_010_select_02": {
-      "option0": "I don't have time for this.",
-      "option1": "Help Him",
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "L'aider",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 813
@@ -2635,8 +2635,8 @@
   },
   "308": {
     "lexus2_advsubsb12_040_select_01": {
-      "option0": "I don't have time for this.",
-      "option1": "Help Him Again",
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "L'aider encore",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 814
@@ -2694,8 +2694,8 @@
   },
   "315": {
     "lexus2_advsubsb12_020_select_01": {
-      "option0": "I don't have time for this.",
-      "option1": "Help Him",
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "L'aider",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 821
@@ -2703,8 +2703,8 @@
   },
   "316": {
     "lexus2_advsubsb12_030_select_01": {
-      "option0": "I don't have time for this.",
-      "option1": "Help Him Again",
+      "option0": "Je n'ai pas le temps pour ça.",
+      "option1": "L'aider encore",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 822
