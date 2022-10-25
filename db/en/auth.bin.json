@@ -22667,7 +22667,7 @@
             "1": 3386.0,
             "2": 3485.0,
             "3": 0,
-            "4": "Nous voulions tous les deux écraser le clan Tojo.",
+            "4": "Nous voulions tous les deux écraser le Clan Tojo.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 20
           }
@@ -23217,7 +23217,7 @@
             "1": 11949.0,
             "2": 12124.0,
             "3": 0,
-            "4": "Un salaud comme toi...\r\nNe pourrais jamais être au sommet...",
+            "4": "Un salaud comme toi...\r\nNe pourra jamais être au sommet...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 75
           }
@@ -23477,7 +23477,7 @@
             "1": 16186.0,
             "2": 16272.0,
             "3": 0,
-            "4": "Nous n'avons... plus de temps.",
+            "4": "Nous n'avons... plus le temps.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 101
           }
@@ -24107,7 +24107,7 @@
             "1": 8761.0,
             "2": 8863.0,
             "3": 0,
-            "4": "Date-san, c'est trop dangereux de s'approcher !\r\nNous avons plus de temps !",
+            "4": "Date-san, c'est trop dangereux de s'approcher !\r\nNous n'avons plus de temps !",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 50
           }
@@ -24475,7 +24475,7 @@
             "1": 1399.0,
             "2": 1480.0,
             "3": 0,
-            "4": "Il n'a jamais voulu que le truc explose.",
+            "4": "Il n'a jamais voulu que ce truc explose.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -24485,7 +24485,7 @@
             "1": 1558.0,
             "2": 1681.0,
             "3": 0,
-            "4": "Quand même, ça me donne des frissons de penser\r\nà cette bombe qui explose...",
+            "4": "Quand même, ça me donne des frissons d'imaginer\r\ncette bombe exploser...",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
           }
@@ -24515,7 +24515,7 @@
             "1": 2000.0,
             "2": 2122.0,
             "3": 0,
-            "4": "Attends... Tu savais que la bombe\r\nne se déclenchait pas depuis le début ?",
+            "4": "Attends... Tu savais que la bombe\r\nne se déclencherait pas depuis le début ?",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 14
           }
@@ -50020,7 +50020,7 @@
             "1": 230.0,
             "2": 278.0,
             "3": 0,
-            "4": "Donc tu étais le gars.",
+            "4": "Donc c'était toi ce jeune garçon.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -50030,7 +50030,7 @@
             "1": 391.0,
             "2": 549.0,
             "3": 0,
-            "4": "C'est vrai. Yeongmin et moi avons vécu toute\r\nune nuit grâce à Kazama-san.",
+            "4": "C'est vrai. Yeongmin et moi avons survécu cette\r\nnuit-là grâce à Kazama-san.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 3
           }
@@ -50220,7 +50220,7 @@
             "1": 2952.0,
             "2": 3052.0,
             "3": 0,
-            "4": "Notre organisation a abandonné l'humanité.",
+            "4": "Notre organisation a abandonné son humanité.",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 22
           }
@@ -51726,7 +51726,7 @@
             "1": 495.0,
             "2": 581.0,
             "3": 0,
-            "4": "[Merde ! On n'est pas de taille pour eux...]",
+            "4": "[Merde ! On n'est pas de taille contre eux...]",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }

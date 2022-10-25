@@ -793,7 +793,7 @@
       "*": 128,
       "**": 18,
       "***": 2,
-      "text": "Balles Restantes"
+      "text": "Balles restantes"
     }
   },
   "100": {
@@ -922,7 +922,7 @@
       "*": 295,
       "**": 18,
       "***": 1,
-      "text": "Balles Restantes"
+      "text": "Balles restantes"
     }
   },
   "117": {
@@ -969,7 +969,7 @@
       "*": 519,
       "**": 1,
       "***": 3,
-      "text": "Jeteons restants :"
+      "text": "Jetons restants :"
     }
   },
   "123": {
@@ -1009,7 +1009,7 @@
       "*": 273,
       "**": 24,
       "***": 2,
-      "text": "Utiliser un Objet"
+      "text": "Utiliser un objet"
     }
   },
   "128": {
@@ -1390,7 +1390,7 @@
       "*": 263,
       "**": 88,
       "***": 4,
-      "text": "Liste d'Hôtesses"
+      "text": "Liste d'hôtesses"
     }
   },
   "177": {
@@ -1398,7 +1398,7 @@
       "*": 263,
       "**": 88,
       "***": 5,
-      "text": "Statut du Club"
+      "text": "Statut du club"
     }
   },
   "178": {
@@ -1758,7 +1758,7 @@
       "*": 267,
       "**": 49,
       "***": 9,
-      "text": "EXP Total Gagné"
+      "text": "EXP total gagné"
     }
   },
   "223": {
@@ -1782,7 +1782,7 @@
       "*": 267,
       "**": 100,
       "***": 24,
-      "text": "Top Rang"
+      "text": "Top rang"
     }
   },
   "226": {
@@ -1790,7 +1790,7 @@
       "*": 267,
       "**": 100,
       "***": 36,
-      "text": "Règles Spéciales"
+      "text": "Règles spéciales"
     }
   },
   "227": {
@@ -1830,7 +1830,7 @@
       "*": 267,
       "**": 3,
       "***": 27,
-      "text": "Ventes de produits alimentaires"
+      "text": "Ventes de nourriture"
     }
   },
   "232": {
@@ -1854,7 +1854,7 @@
       "*": 267,
       "**": 3,
       "***": 39,
-      "text": "Bonus Spécial"
+      "text": "Bonus spécial"
     }
   },
   "235": {
@@ -1926,7 +1926,7 @@
       "*": 267,
       "**": 2,
       "***": 27,
-      "text": "Ventes de produits alimentaires"
+      "text": "Ventes de nourriture"
     }
   },
   "244": {
@@ -1950,7 +1950,7 @@
       "*": 267,
       "**": 2,
       "***": 39,
-      "text": "Bonus Spécial"
+      "text": "Bonus spécial"
     }
   },
   "247": {
@@ -1958,7 +1958,7 @@
       "*": 267,
       "**": 2,
       "***": 43,
-      "text": "Gains Totaux　"
+      "text": "Gains totaux　"
     }
   },
   "248": {
@@ -2226,7 +2226,7 @@
       "*": 140,
       "**": 138,
       "***": 3,
-      "text": "Passer au Precédent/Prochain Équipement"
+      "text": "Precédent/prochain équipement"
     }
   },
   "282": {
@@ -2266,7 +2266,7 @@
       "*": 140,
       "**": 50,
       "***": 3,
-      "text": "Commencer la bataille"
+      "text": "Commencer"
     }
   },
   "287": {
@@ -2367,7 +2367,7 @@
       "*": 140,
       "**": 89,
       "***": 19,
-      "text": "EXP Gagné"
+      "text": "EXP gagné"
     }
   },
   "300": {
@@ -2375,7 +2375,7 @@
       "*": 140,
       "**": 89,
       "***": 20,
-      "text": "Récompenses Gagnés"
+      "text": "Récompenses gagnés"
     }
   },
   "301": {
@@ -2431,7 +2431,7 @@
       "*": 137,
       "**": 166,
       "***": 23,
-      "text": "Lv."
+      "text": "Niv."
     }
   },
   "308": {
@@ -2487,7 +2487,7 @@
       "*": 137,
       "**": 71,
       "***": 3,
-      "text": "Afficher Comp. & Capa."
+      "text": "Afficher comp. & capa."
     }
   },
   "315": {
@@ -2535,7 +2535,7 @@
       "*": 137,
       "**": 72,
       "***": 3,
-      "text": "Afficher Comp. & Capa."
+      "text": "Afficher comp. & capa."
     }
   },
   "321": {
@@ -2543,7 +2543,7 @@
       "*": 137,
       "**": 192,
       "***": 34,
-      "text": "Liste d'Employés"
+      "text": "Liste d'employés"
     }
   },
   "322": {
@@ -2591,7 +2591,7 @@
       "*": 137,
       "**": 197,
       "***": 14,
-      "text": "Employés Nécessaires"
+      "text": "Employés nécessaires"
     }
   },
   "328": {
@@ -2631,7 +2631,7 @@
       "*": 137,
       "**": 217,
       "***": 11,
-      "text": "Lv."
+      "text": "Niv."
     }
   },
   "333": {
@@ -2847,7 +2847,7 @@
       "*": 227,
       "**": 3,
       "***": 8,
-      "text": "Time:"
+      "text": "Temps :"
     }
   },
   "360": {
@@ -2863,7 +2863,7 @@
       "*": 227,
       "**": 3,
       "***": 16,
-      "text": "Argent Gagné:"
+      "text": "Argent gagné :"
     }
   },
   "362": {
@@ -3554,7 +3554,7 @@
       "*": 238,
       "**": 2,
       "***": 4,
-      "text": "Sélectionner un type de fléchette."
+      "text": "Sélectionner un type de fléchettes."
     }
   },
   "450": {
@@ -4354,7 +4354,7 @@
       "*": 417,
       "**": 33,
       "***": 12,
-      "text": "Meilleur Score"
+      "text": "Meilleur score"
     }
   },
   "563": {
@@ -4546,7 +4546,7 @@
       "*": 416,
       "**": 3,
       "***": 2,
-      "text": "Score Total"
+      "text": "Score total"
     }
   },
   "587": {
@@ -4722,7 +4722,7 @@
       "*": 298,
       "**": 71,
       "***": 2,
-      "text": "Utiliser un Objet"
+      "text": "Utiliser un objet"
     }
   },
   "609": {
@@ -4841,7 +4841,7 @@
       "*": 320,
       "**": 24,
       "***": 4,
-      "text": "Type de Carte"
+      "text": "Type de carte"
     }
   },
   "624": {
@@ -4881,7 +4881,7 @@
       "*": 320,
       "**": 12,
       "***": 4,
-      "text": "Vos Points"
+      "text": "Vos points"
     }
   },
   "629": {
@@ -4889,7 +4889,7 @@
       "*": 320,
       "**": 42,
       "***": 2,
-      "text": "Utiliser un Objet"
+      "text": "Utiliser un objet"
     }
   },
   "630": {
@@ -4961,7 +4961,7 @@
       "*": 127,
       "**": 29,
       "***": 15,
-      "text": "Meilleur Score"
+      "text": "Meilleurs scores"
     }
   },
   "639": {
@@ -4969,7 +4969,7 @@
       "*": 127,
       "**": 29,
       "***": 16,
-      "text": "Meilleur Rang"
+      "text": "Meilleur rang"
     }
   },
   "640": {
@@ -5009,7 +5009,7 @@
       "*": 127,
       "**": 29,
       "***": 32,
-      "text": "Assistance Vocale"
+      "text": "Assistance vocale"
     }
   },
   "645": {
@@ -5033,7 +5033,7 @@
       "*": 127,
       "**": 32,
       "***": 9,
-      "text": "Voir les Paroles"
+      "text": "Voir les paroles"
     }
   },
   "648": {
@@ -5057,7 +5057,7 @@
       "*": 127,
       "**": 50,
       "***": 10,
-      "text": "Suivant"
+      "text": "Suiv."
     }
   },
   "651": {
@@ -5089,7 +5089,7 @@
       "*": 127,
       "**": 45,
       "***": 4,
-      "text": "Liste de Films"
+      "text": "Liste de films"
     }
   },
   "655": {
@@ -5097,7 +5097,7 @@
       "*": 127,
       "**": 45,
       "***": 3,
-      "text": "Le Plus Joué"
+      "text": "Le plus joué"
     }
   },
   "656": {
@@ -5105,7 +5105,7 @@
       "*": 127,
       "**": 45,
       "***": 5,
-      "text": "Meilleur Score"
+      "text": "Meilleur score"
     }
   },
   "657": {
@@ -5171,7 +5171,7 @@
       "*": 107,
       "**": 27,
       "***": 4,
-      "text": "Tuiles Restantes"
+      "text": "Tuiles restantes"
     }
   },
   "666": {
@@ -5291,7 +5291,7 @@
       "*": 107,
       "**": 7,
       "***": 8,
-      "text": "Style de Jeu"
+      "text": "Style de jeu"
     }
   },
   "681": {
@@ -5307,7 +5307,7 @@
       "*": 107,
       "**": 7,
       "***": 10,
-      "text": "Deux Han Minimum"
+      "text": "Deux han minimum"
     }
   },
   "683": {
@@ -5315,7 +5315,7 @@
       "*": 107,
       "**": 7,
       "***": 11,
-      "text": "Dora Rouge"
+      "text": "Dora rouge"
     }
   },
   "684": {
@@ -5339,7 +5339,7 @@
       "*": 107,
       "**": 47,
       "***": 2,
-      "text": "Utiliser un Objet"
+      "text": "Utiliser un objet"
     }
   },
   "687": {
@@ -5371,7 +5371,7 @@
       "*": 460,
       "**": 7,
       "***": 2,
-      "text": "Style de Jeu"
+      "text": "Style de jeu"
     }
   },
   "691": {
@@ -5387,7 +5387,7 @@
       "*": 460,
       "**": 7,
       "***": 4,
-      "text": "Deux Han Minimum"
+      "text": "Deux han minimum"
     }
   },
   "693": {
@@ -5395,7 +5395,7 @@
       "*": 460,
       "**": 7,
       "***": 5,
-      "text": "Red Dora"
+      "text": "Dora rouge"
     }
   },
   "694": {
@@ -5686,7 +5686,7 @@
       "*": 332,
       "**": 7,
       "***": 3,
-      "text": "Insérer 500 Yen"
+      "text": "Insérer 500 yens"
     }
   },
   "734": {
@@ -5694,7 +5694,7 @@
       "*": 332,
       "**": 8,
       "***": 3,
-      "text": "Start"
+      "text": "Démarrer"
     }
   },
   "735": {
@@ -5783,7 +5783,7 @@
       "*": 213,
       "**": 1,
       "***": 26,
-      "text": "Start game by inserting 100 yen\r\nSkip Intros and etc (Available 1P side only)"
+      "text": "Commencez la partie en insérant 100 yens\r\nPasser les intros et etc (disponible uniquement en 1P)"
     }
   },
   "747": {
@@ -5807,7 +5807,7 @@
       "*": 213,
       "**": 1,
       "***": 23,
-      "text": "Autres Contrôles"
+      "text": "Autres contrôles"
     }
   },
   "750": {
@@ -5952,7 +5952,7 @@
       "*": 148,
       "**": 9,
       "***": 2,
-      "text": "Photo Précédente"
+      "text": "Photo précédente"
     }
   },
   "769": {
@@ -6008,7 +6008,7 @@
       "*": 347,
       "**": 9,
       "***": 2,
-      "text": "Photo Précédente"
+      "text": "Photo précédente"
     }
   },
   "776": {
@@ -6811,7 +6811,7 @@
       "*": 415,
       "**": 46,
       "***": 21,
-      "text": "Rés. armes à feu"
+      "text": "Rés. armes"
     }
   },
   "887": {
@@ -7011,7 +7011,7 @@
       "*": 415,
       "**": 49,
       "***": 9,
-      "text": "Evasion"
+      "text": "Évasion"
     }
   },
   "912": {
@@ -7035,7 +7035,7 @@
       "*": 415,
       "**": 49,
       "***": 12,
-      "text": "Rés. armes à feu"
+      "text": "Rés. armes"
     }
   },
   "915": {
@@ -7067,7 +7067,7 @@
       "*": 415,
       "**": 34,
       "***": 12,
-      "text": "Usages Restants"
+      "text": "Usages restants"
     }
   },
   "919": {
@@ -7115,7 +7115,7 @@
       "*": 75,
       "**": 4,
       "***": 3,
-      "text": "Alimentation/Boisson"
+      "text": "Alimentation/Boissons"
     }
   },
   "925": {
@@ -7171,7 +7171,7 @@
       "*": 75,
       "**": 36,
       "***": 11,
-      "text": "Récup. Santé"
+      "text": "Récup. santé"
     }
   },
   "932": {
@@ -7243,7 +7243,7 @@
       "*": 438,
       "**": 8,
       "***": 16,
-      "text": "Rés. armes à feu"
+      "text": "Rés. armes"
     }
   },
   "941": {
@@ -7331,7 +7331,7 @@
       "*": 438,
       "**": 7,
       "***": 7,
-      "text": "Usages Restants"
+      "text": "Usages restants"
     }
   },
   "952": {
@@ -7732,7 +7732,7 @@
       "*": 42,
       "**": 17,
       "***": 11,
-      "text": "Jauge d'EXP & Faim"
+      "text": "Jauge d'EXP & faim"
     }
   },
   "1006": {
@@ -7868,7 +7868,7 @@
       "*": 91,
       "**": 92,
       "***": 26,
-      "text": "Rés. armes à feu "
+      "text": "Rés. armes "
     }
   },
   "1023": {
@@ -8036,7 +8036,7 @@
       "*": 91,
       "**": 40,
       "***": 8,
-      "text": "Non Appris"
+      "text": "Non appris"
     }
   },
   "1044": {
@@ -8148,7 +8148,7 @@
       "*": 91,
       "**": 76,
       "***": 12,
-      "text": "Rés. armes à feu"
+      "text": "Rés. armes"
     }
   },
   "1058": {
@@ -9733,7 +9733,7 @@
       "*": 346,
       "**": 10,
       "***": 3,
-      "text": "Limite de Temps"
+      "text": "Limite de temps"
     }
   },
   "1268": {
@@ -9741,7 +9741,7 @@
       "*": 346,
       "**": 29,
       "***": 2,
-      "text": "Utiliser un Objet"
+      "text": "Utiliser un objet"
     }
   },
   "1269": {
@@ -10050,7 +10050,7 @@
       "*": 151,
       "**": 18,
       "***": 47,
-      "text": "Rés. armes à feu"
+      "text": "Rés. armes"
     }
   },
   "1311": {
@@ -10074,7 +10074,7 @@
       "*": 151,
       "**": 18,
       "***": 11,
-      "text": "Usages Restants"
+      "text": "Usages restants"
     }
   },
   "1314": {
@@ -10626,7 +10626,7 @@
       "*": 315,
       "**": 2,
       "***": 4,
-      "text": "Weapons & Gear"
+      "text": "Armes & équipements"
     }
   },
   "1387": {
@@ -10851,7 +10851,7 @@
       "*": 62,
       "**": 34,
       "***": 4,
-      "text": "Nouvelle Partie"
+      "text": "Nouvelle partie"
     }
   },
   "1418": {
@@ -11015,7 +11015,7 @@
       "*": 62,
       "**": 74,
       "***": 3,
-      "text": "Configurer les Paramètres"
+      "text": "Configurer les paramètres"
     }
   },
   "1439": {
@@ -11063,7 +11063,7 @@
       "*": 62,
       "**": 49,
       "***": 3,
-      "text": "Nouvelle Partie"
+      "text": "Nouvelle partie"
     }
   },
   "1445": {
@@ -11159,7 +11159,7 @@
       "*": 377,
       "**": 4,
       "***": 20,
-      "text": "Age"
+      "text": "Âge"
     }
   },
   "1457": {
@@ -11215,7 +11215,7 @@
       "*": 377,
       "**": 34,
       "***": 3,
-      "text": "Détails du Match"
+      "text": "Détails du match"
     }
   },
   "1464": {
@@ -11223,7 +11223,7 @@
       "*": 377,
       "**": 36,
       "***": 13,
-      "text": "Points Acquis"
+      "text": "Points acquis"
     }
   },
   "1465": {
@@ -11311,7 +11311,7 @@
       "*": 377,
       "**": 29,
       "***": 7,
-      "text": "Points Acquis"
+      "text": "Points acquis"
     }
   },
   "1476": {
@@ -11505,7 +11505,7 @@
       "*": 442,
       "**": 14,
       "***": 15,
-      "text": "Limite de Temps"
+      "text": "Limite de temps"
     }
   },
   "1501": {

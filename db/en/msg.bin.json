@@ -3341,7 +3341,7 @@
         },
         "88": {
           "": {
-            "1": "Bonus de clear",
+            "1": "Bonus de complétion",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 72
           }
@@ -3423,7 +3423,7 @@
         },
         "101": {
           "": {
-            "1": "Bonus Pas de mort",
+            "1": "Bonus aucune mort",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 85
           }
@@ -3463,7 +3463,7 @@
         },
         "107": {
           "": {
-            "1": "Bonus économie d'argent",
+            "1": "Bonus d'économie d'argent",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 115
           }

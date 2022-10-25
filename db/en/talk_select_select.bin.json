@@ -520,7 +520,7 @@
   },
   "60": {
     "lexus2_karaoke_addtime01": {
-      "headline": "Prolonger votre session pour 500 yen ?",
+      "headline": "Prolonger votre session pour 500 yens ?",
       "option0": "Oui",
       "option1": "Non",
       "reARMP_validityBool": "00000010",
@@ -713,7 +713,7 @@
   "86": {
     "lexus2_adv04_0100_select_01": {
       "option0": "Je suis un peu occupé.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 604
@@ -795,7 +795,7 @@
   },
   "95": {
     "lexus2_adv06_0030_select_01": {
-      "option0": "Tu connais Kazuki ?",
+      "option0": "Vous connaissez Kazuki ?",
       "option1": "Où est l'immeuble Amano ?",
       "option2": "Un mot sur Daigo Dojima ?",
       "reARMP_validityBool": "00000010",
@@ -906,7 +906,7 @@
   },
   "107": {
     "lexus2_darts_solo": {
-      "headline": "Jouer au fléchettes seul ?\r\nUn round vous coûtera 200 yen.",
+      "headline": "Jouer aux fléchettes seul ?\r\nUn round vous coûtera 200 yens.",
       "option0": "Oui",
       "option1": "Non",
       "reARMP_validityBool": "00000010",
@@ -916,7 +916,7 @@
   },
   "108": {
     "lexus2_darts_asada": {
-      "headline": "Jouer au fléchettes ?\r\nUn round vous coûtera 200 yen.",
+      "headline": "Jouer aux fléchettes ?\r\nUn round vous coûtera 200 yens.",
       "option0": "Oui",
       "option1": "Non",
       "reARMP_validityBool": "00000010",
@@ -926,7 +926,7 @@
   },
   "109": {
     "lexus2_darts_kinoshita": {
-      "headline": "Jouer au fléchettes ?\r\nUn round vous coûtera 200 yen.",
+      "headline": "Jouer aux fléchettes ?\r\nUn round vous coûtera 200 yens.",
       "option0": "Oui",
       "option1": "Non",
       "reARMP_validityBool": "00000010",
@@ -936,7 +936,7 @@
   },
   "110": {
     "lexus2_darts_women1": {
-      "headline": "Jouer au fléchettes ?\r\nUn round vous coûtera 200 yen.",
+      "headline": "Jouer aux fléchettes ?\r\nUn round vous coûtera 200 yens.",
       "option0": "Oui",
       "option1": "Non",
       "reARMP_validityBool": "00000010",
@@ -1279,8 +1279,8 @@
   },
   "147": {
     "lexus2_advsubsb04_010_select_01": {
-      "option0": "You can't give up now.",
-      "option1": "Maybe you should find a new career.",
+      "option0": "Vous ne pouvez pas abandonner maintenant.",
+      "option1": "Vous devriez trouver une nouvelle carrière.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 655
@@ -1306,9 +1306,9 @@
   },
   "150": {
     "lexus2_advsubsb07_010_select_01": {
-      "option0": "You're right. That's practically slander.",
-      "option1": "You should forgive them.",
-      "option2": "Wait... You really didn't do it?",
+      "option0": "Vous avez raison. C'est pratiquement de la diffamation.",
+      "option1": "Vous devriez leur pardonner.",
+      "option2": "Attendez... Vous ne l'avez vraiment pas fait ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 652
@@ -1316,8 +1316,8 @@
   },
   "151": {
     "lexus2_advsubsb09_010_select_01": {
-      "option0": "Wait and see what happens.",
-      "option1": "Help the Girl",
+      "option0": "Attendre et voir ce qui se passe.",
+      "option1": "Aider la fille",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 651
@@ -1325,8 +1325,8 @@
   },
   "152": {
     "lexus2_advsubsb09_020_select_01": {
-      "option0": "Wait and see what happens.",
-      "option1": "Help the Girl",
+      "option0": "Attendre et voir ce qui se passe.",
+      "option1": "Aider la fille",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 650
@@ -1744,7 +1744,7 @@
     "lexus2_advsubsa04_030_select_04": {
       "option0": "Tu es en tort ici aussi.",
       "option1": "Tu devrais être reconnaissant qu'elle soit en sécurité.",
-      "option2": "ShElle a dû s'amuser à ce rendez-vous.",
+      "option2": "Elle a dû s'amuser à ce rendez-vous.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 188
@@ -2349,8 +2349,8 @@
   },
   "277": {
     "lexus2_advsubsa13_010_select_01": {
-      "option0": "Sorry, not interested.",
-      "option1": "Sure, I'll give it a listen.",
+      "option0": "Désolé, pas intéressé.",
+      "option1": "D'accord, je vais écouter.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 841
@@ -2432,8 +2432,8 @@
   },
   "286": {
     "lexus2_advsubsb01_010_select_02": {
-      "option0": "You should ask someone else.",
-      "option1": "A little baseball never hurt anyone.",
+      "option0": "Vous devriez demander à quelqu'un d'autre.",
+      "option1": "Un peu de baseball ne fait de mal à personne.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 850
@@ -2441,8 +2441,8 @@
   },
   "287": {
     "lexus2_advsubsb01_015_sselct_01": {
-      "option0": "I think I'll pass.",
-      "option1": "Give It To Him",
+      "option0": "Je vais passer mon tour.",
+      "option1": "Lui donner",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 851
@@ -2450,8 +2450,8 @@
   },
   "288": {
     "lexus2_advsubsb01_015_sselct_02": {
-      "option0": "You should ask someone else.",
-      "option1": "A little baseball never hurt anyone.",
+      "option0": "Vous devriez demander à quelqu'un d'autre.",
+      "option1": "Un peu de baseball ne fait de mal à personne.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 852
@@ -2459,8 +2459,8 @@
   },
   "289": {
     "lexus2_advsubsb01_025_select_01": {
-      "option0": "I don't think I can get it.",
-      "option1": "Let me try again.",
+      "option0": "Je ne pense pas pouvoir y arriver.",
+      "option1": "Je vais réessayer.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 853
@@ -2468,8 +2468,8 @@
   },
   "290": {
     "lexus2_advsubsb01_040_select_01": {
-      "option0": "I think I'll pass.",
-      "option1": "Give It To Him",
+      "option0": "Je vais passer mon tour.",
+      "option1": "Lui donner",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 854
@@ -2477,8 +2477,8 @@
   },
   "291": {
     "lexus2_advsubsb01_040_select_02": {
-      "option0": "Sorry, I'm busy.",
-      "option1": "A little baseball never hurt anyone.",
+      "option0": "Désolé, je suis occupé.",
+      "option1": "Un peu de baseball ne fait de mal à personne.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 855
@@ -2486,8 +2486,8 @@
   },
   "292": {
     "lexus2_advsubsb01_045_select_01": {
-      "option0": "I think I'll pass.",
-      "option1": "Give It To Him",
+      "option0": "Je vais passer mon tour.",
+      "option1": "Lui donner",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 856
@@ -2495,8 +2495,8 @@
   },
   "293": {
     "lexus2_advsubsb01_045_select_02": {
-      "option0": "Not right now.",
-      "option1": "A little baseball never hurt anyone.",
+      "option0": "Pas maintenant.",
+      "option1": "Un peu de baseball ne fait de mal à personne.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 799
@@ -2504,8 +2504,8 @@
   },
   "294": {
     "lexus2_advsubsb01_055_select_02": {
-      "option0": "I don't think I can get it.　",
-      "option1": "Let me try again.",
+      "option0": "Je ne pense pas pouvoir y arriver.",
+      "option1": "Je vais réessayer.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 800
@@ -2513,9 +2513,9 @@
   },
   "295": {
     "lexus2_advsubsb02_010_select_01": {
-      "option0": "I'm fine, thanks.",
-      "option1": "I think I broke a bone.",
-      "option2": "I should be asking you that.",
+      "option0": "Je vais bien, merci.",
+      "option1": "Je crois m'être cassé un os.",
+      "option2": "Je devrais vous demander ça.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 801
@@ -2523,8 +2523,8 @@
   },
   "296": {
     "lexus2_advsubsb02_020_select_01": {
-      "option0": "Maybe some other time.",
-      "option1": "I'll play.",
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je vais jouer.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 802
@@ -2532,8 +2532,8 @@
   },
   "297": {
     "lexus2_advsubsb02_030_select_01": {
-      "option0": "Maybe some other time.",
-      "option1": "I'll play.",
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je vais jouer.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 803
@@ -2541,7 +2541,7 @@
   },
   "298": {
     "lexus2_advsubsb02_060_select_01": {
-      "option0": "Don't Get Involved",
+      "option0": "Ne pas s'impliquer",
       "option1": "Intervenir",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -2550,7 +2550,7 @@
   },
   "299": {
     "lexus2_advsubsb02_070_select_01": {
-      "option0": "Don't Get Involved",
+      "option0": "Ne pas s'impliquer",
       "option1": "Intervenir",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -2559,9 +2559,9 @@
   },
   "300": {
     "lexus2_advsubsb02_090_select_01": {
-      "option0": "Give 100 Yen",
-      "option1": "Give 10,000 Yen",
-      "option2": "Give 100,000 Yen",
+      "option0": "Donner 100 yens",
+      "option1": "Donner 10 000 yens",
+      "option2": "Donner 100 000 yens",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 806
@@ -2569,8 +2569,8 @@
   },
   "301": {
     "lexus2_advsubsb10_010_select_01": {
-      "option0": "Who's Cathy?",
-      "option1": "Are you talking about the car?",
+      "option0": "Qui est Cathy ?",
+      "option1": "Vous parlez de la voiture ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 807
@@ -2578,8 +2578,8 @@
   },
   "302": {
     "lexus2_advsubsb11_020_select_01": {
-      "option0": "You could say that.",
-      "option1": "...What are you talking about?",
+      "option0": "On peut dire ça.",
+      "option1": "...De quoi vous parlez ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 808
@@ -2587,7 +2587,7 @@
   },
   "303": {
     "lexus2_advsubsb11_030_select_01": {
-      "option0": "No chance.",
+      "option0": "Pas de chance.",
       "option1": "D'accord, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -2596,9 +2596,9 @@
   },
   "304": {
     "lexus2_advsubsb11_030_select_02": {
-      "option0": "I'm not sure that's enough.",
+      "option0": "Je ne suis pas sûr que ce soit suffisant.",
       "option1": "D'accord, pourquoi pas.",
-      "option2": "I don't want to trade.",
+      "option2": "Je ne veux pas échanger.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 810
@@ -2606,9 +2606,9 @@
   },
   "305": {
     "lexus2_advsubsb11_030_select_03": {
-      "option0": "I'm actually pretty attached to it.",
+      "option0": "J'y suis en fait assez attaché.",
       "option1": "D'accord, pourquoi pas.",
-      "option2": "I don't want to trade.",
+      "option2": "Je ne veux pas échanger.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 811
@@ -2616,9 +2616,9 @@
   },
   "306": {
     "lexus2_advsubsb12_010_select_01": {
-      "option0": "Go to the hospital.",
-      "option1": "Try hitting your head again.",
-      "option2": "Let me hit you.",
+      "option0": "Allez à l'hôpital.",
+      "option1": "Essayez de vous frapper la tête à nouveau.",
+      "option2": "Laissez-moi vous frapper.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 812
@@ -2712,8 +2712,8 @@
   },
   "317": {
     "lexus2_advsubsb13_070_select_01": {
-      "option0": "Maybe some other time.",
-      "option1": "Sure, let's talk.",
+      "option0": "Peut-être une autre fois.",
+      "option1": "D'accord, parlons-en.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 823
@@ -2721,8 +2721,8 @@
   },
   "318": {
     "lexus2_advsubsb13_080_select_01": {
-      "option0": "Maybe some other time.",
-      "option1": "Sure, let's talk.",
+      "option0": "Peut-être une autre fois.",
+      "option1": "D'accord, parlons-en.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 824
@@ -2730,9 +2730,9 @@
   },
   "319": {
     "lexus2_advsubsb13_090_select_01": {
-      "option0": "A yakuza who fights for the woman he loves.",
-      "option1": "A young girl who swaps bodies with a yakuza.",
-      "option2": "A yakuza who fights off a colossal monster.",
+      "option0": "Un yakuza qui se bat pour la femme qu'il aime.",
+      "option1": "Une jeune fille qui échange son corps avec un yakuza.",
+      "option2": "Un yakuza qui se bat contre un monstre colossal.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 825
@@ -2740,9 +2740,9 @@
   },
   "320": {
     "lexus2_advsubsb13_090_select_02": {
-      "option0": "The music was mediocre.",
-      "option1": "The actors didn't fit their roles.",
-      "option2": "The action was subpar.",
+      "option0": "La musique était médiocre.",
+      "option1": "Les acteurs ne convenaient pas à leurs rôles.",
+      "option2": "L'action était moyenne.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 826
@@ -2750,8 +2750,8 @@
   },
   "321": {
     "lexus2_advsubsb13_090_select_03": {
-      "option0": "Good luck with that, then.",
-      "option1": "I can teach you.",
+      "option0": "Bonne chance, alors.",
+      "option1": "Je peux vous apprendre.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 827
@@ -2759,8 +2759,8 @@
   },
   "322": {
     "lexus2_advsubsb13_090_select_04": {
-      "option0": "Can we take a raincheck?",
-      "option1": "Sure, let's talk.",
+      "option0": "On peut remettre ça à plus tard ?",
+      "option1": "D'accord, parlons-en.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 828
@@ -2768,8 +2768,8 @@
   },
   "323": {
     "lexus2_advsubsb13_100_select_01": {
-      "option0": "Good luck with that, then.",
-      "option1": "I can teach you.",
+      "option0": "Bonne chance, alors.",
+      "option1": "Je peux vous apprendre.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 829
@@ -2777,8 +2777,8 @@
   },
   "324": {
     "lexus2_advsubsb13_100_select_02": {
-      "option0": "Can we take a raincheck?",
-      "option1": "Sure, let's talk.",
+      "option0": "On peut remettre ça à plus tard ?",
+      "option1": "D'accord, parlons-en.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 830
@@ -2786,8 +2786,8 @@
   },
   "325": {
     "lexus2_advsubsb13_110_select_01": {
-      "option0": "Can we take a raincheck?",
-      "option1": "Sure, let's talk.",
+      "option0": "On peut remettre ça à plus tard ?",
+      "option1": "D'accord, parlons-en.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 831
@@ -2795,8 +2795,8 @@
   },
   "326": {
     "lexus2_advsubsb14_010_select_01": {
-      "option0": "Let me think it over.",
-      "option1": "All right, I'll do it.",
+      "option0": "Laissez-moi y réfléchir.",
+      "option1": "D'accord, je vais le faire.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 832
@@ -2804,8 +2804,8 @@
   },
   "327": {
     "lexus2_advsubsb14_020_select_01": {
-      "option0": "Uh, no.",
-      "option1": "Sure, I'll model for you.",
+      "option0": "Euh, non.",
+      "option1": "Oui, je vais poser pour vous.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 833
@@ -2813,8 +2813,8 @@
   },
   "328": {
     "lexus2_advsubsb15_010_select_01": {
-      "option0": "Sorry, but the answer's no.",
-      "option1": "All right, I'll do it.",
+      "option0": "Désolé, mais la réponse est non.",
+      "option1": "D'accord, je vais le faire.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 834
@@ -2822,8 +2822,8 @@
   },
   "329": {
     "lexus2_advsubsb15_020_select_01": {
-      "option0": "Sorry, the answer's still no.",
-      "option1": "...Okay, I'll do it.",
+      "option0": "Désolé, la réponse est toujours non.",
+      "option1": "...Ok, je vais le faire.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 835
@@ -2831,8 +2831,8 @@
   },
   "330": {
     "lexus2_advsubsb14_030_select_01": {
-      "option0": "Pose As a Lion Stalking Its Prey",
-      "option1": "Extend Both Arms and Scream to the Heavens",
+      "option0": "Poser comme un lion à l'affût de sa proie",
+      "option1": "Tendre les deux bras et crier vers les cieux",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 836
@@ -2840,8 +2840,8 @@
   },
   "331": {
     "lexus2_advsubsb14_030_select_02": {
-      "option0": "Pose As a Cute Maid",
-      "option1": "Pose As a Superhero",
+      "option0": "Poser comme une jolie jeune fille",
+      "option1": "Poser comme un super-héros",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 858
@@ -2849,8 +2849,8 @@
   },
   "332": {
     "lexus2_advsubsb14_030_select_03": {
-      "option0": "Pose As an Old Man With a Cane",
-      "option1": "Pose As a Man Lighting a Cigarette",
+      "option0": "Poser comme un vieil homme avec une canne",
+      "option1": "Poser comme un homme qui allume une cigarette",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 169
@@ -2858,8 +2858,8 @@
   },
   "333": {
     "lexus2_advsubsb14_030_select_04": {
-      "option0": "Pose As a Bodybuilder",
-      "option1": "Pose As a Sumo Wrestler",
+      "option0": "Poser comme un bodybuilder",
+      "option1": "Poser comme un lutteur de sumo",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 170
@@ -2867,9 +2867,9 @@
   },
   "334": {
     "lexus2_advsubsb15_030_select_01": {
-      "option0": "Yeah, it's nice to be alone.",
-      "option1": "You smell awful.",
-      "option2": "Wait. There's someone else here!",
+      "option0": "Oui, c'est bien d'être seul.",
+      "option1": "Tu pues.",
+      "option2": "Attends. Il y a quelqu'un d'autre ici !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 171
@@ -2877,9 +2877,9 @@
   },
   "335": {
     "lexus2_advsubsb15_030_select_02": {
-      "option0": "You've been a great friend.",
-      "option1": "You're really annoying.",
-      "option2": "I've always seen you as a man.",
+      "option0": "Tu as été un ami formidable.",
+      "option1": "Tu es vraiment chiant.",
+      "option2": "Je t'ai toujours vu comme un homme.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 172
@@ -2887,9 +2887,9 @@
   },
   "336": {
     "lexus2_advsubsb15_030_select_03": {
-      "option0": "I want you to be my first.",
-      "option1": "Meet your parents.",
-      "option2": "Have a pissing contest.",
+      "option0": "Je veux que tu sois mon premier.",
+      "option1": "Je veux rencontrer tes parents.",
+      "option2": "Faisons un concours de pisse.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 173
@@ -2897,9 +2897,9 @@
   },
   "337": {
     "lexus2_advsubsb15_030_select_04": {
-      "option0": "Ready for what?",
-      "option1": "Please be gentle with me.",
-      "option2": "Actually, I have to go.",
+      "option0": "Prêt pour quoi ?",
+      "option1": "S'il te plaît, sois doux avec moi.",
+      "option2": "En fait, je dois y aller.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 174
@@ -3140,8 +3140,8 @@
   },
   "362": {
     "lexus2_k_encboss01": {
-      "option0": "no, you've got the wrong guy.",
-      "option1": "And what if it does?",
+      "option0": "Non, tu te trompes de gars.",
+      "option1": "Et si c'est le cas ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 683
@@ -3149,8 +3149,8 @@
   },
   "363": {
     "lexus2_k_encboss02": {
-      "option0": "I'm not in the mood.",
-      "option1": "Then I'll take you on.",
+      "option0": "Je ne suis pas d'humeur.",
+      "option1": "Alors j'accepte.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 684
@@ -3158,8 +3158,8 @@
   },
   "364": {
     "lexus2_k_encboss03": {
-      "option0": "Can't say I know him.",
-      "option1": "I'm that Kiryu.",
+      "option0": "Je peux pas dire que je le connais.",
+      "option1": "Je suis ce Kiryu.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 685
@@ -3167,8 +3167,8 @@
   },
   "365": {
     "lexus2_k_encboss04": {
-      "option0": "I don't recall anything like that.",
-      "option1": "I was just taking out the trash.",
+      "option0": "Je ne me souviens absolument pas de ça.",
+      "option1": "Je sortais juste les poubelles.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 686
@@ -3176,8 +3176,8 @@
   },
   "366": {
     "lexus2_k_encboss05": {
-      "option0": "no, you've got the wrong guy.",
-      "option1": "You're going down too.",
+      "option0": "Non, tu te trompes de personne.",
+      "option1": "Tu vas tomber toi aussi.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 870
@@ -3185,8 +3185,8 @@
   },
   "367": {
     "lexus2_k_encboss06": {
-      "option0": "I don't know him.",
-      "option1": "The name's Kiryu.",
+      "option0": "Je le connais pas.",
+      "option1": "C'est Kiryu.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 871
@@ -3194,8 +3194,8 @@
   },
   "368": {
     "lexus2_k_encboss07": {
-      "option0": "Only if you don't try to fight me.",
-      "option1": "Do you really plan on just \"talking this out\"?",
+      "option0": "Seulement si tu n'essaies pas de te battre avec moi.",
+      "option1": "Tu as vraiment l'intention de simplement \"parler\" ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 862
@@ -3203,8 +3203,8 @@
   },
   "369": {
     "lexus2_k_encboss08": {
-      "option0": "I might be a little old-fashioned...",
-      "option1": "You wanna test that out?",
+      "option0": "Je pourrais être un peu vieux jeu...",
+      "option1": "Tu veux le tester ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 863
@@ -3212,8 +3212,8 @@
   },
   "370": {
     "lexus2_k_encboss09": {
-      "option0": "How stupid.",
-      "option1": "Fine, let's do this.",
+      "option0": "Quelle stupidité.",
+      "option1": "Bien, faisons ça.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 864
@@ -3221,8 +3221,8 @@
   },
   "371": {
     "lexus2_k_encboss10": {
-      "option0": "No, you've got the wrong guy.",
-      "option1": "And what if it does?",
+      "option0": "Non, tu fais erreur.",
+      "option1": "Et si c'est le cas ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 866
@@ -3230,8 +3230,8 @@
   },
   "372": {
     "lexus2_s_encboss01": {
-      "option0": "No thanks.",
-      "option1": "Then let's see what happens.",
+      "option0": "Non merci.",
+      "option1": "Alors voyons ce qui se passe.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 867
@@ -3239,8 +3239,8 @@
   },
   "373": {
     "lexus2_s_encboss02": {
-      "option0": "no, I don't have any.",
-      "option1": "Suppose I am.",
+      "option0": "Non, je n'ai rien.",
+      "option1": "Admettons que ce soit le cas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 873
@@ -3248,8 +3248,8 @@
   },
   "374": {
     "lexus2_s_encboss03": {
-      "option0": "You got the wrong guy.",
-      "option1": "I'm not wreaking havoc on purpose.",
+      "option0": "Tu te trompes de personne.",
+      "option1": "Je ne fais pas de ravages exprès.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 874
@@ -3257,8 +3257,8 @@
   },
   "375": {
     "lexus2_s_encboss04": {
-      "option0": "I hardly have time for that.",
-      "option1": "True, that does sound interesting.",
+      "option0": "J'ai à peine le temps pour ça.",
+      "option1": "C'est vrai, ça a l'air intéressant.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 876
@@ -3266,8 +3266,8 @@
   },
   "376": {
     "lexus2_s_encboss05": {
-      "option0": "Not interested.",
-      "option1": "Oh, so you're down for a round?",
+      "option0": "Pas intéressé.",
+      "option1": "Oh, donc t'es prêt pour un round ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 695
@@ -3275,8 +3275,8 @@
   },
   "377": {
     "lexus2_s_encboss06": {
-      "option0": "Go waste someone else's time.",
-      "option1": "So you want me to fight you?",
+      "option0": "Fais perdre le temps de quelqu'un d'autre.",
+      "option1": "Alors tu veux que je me batte avec toi ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 875
@@ -3284,8 +3284,8 @@
   },
   "378": {
     "lexus2_s_encboss07": {
-      "option0": "I'm not obliged to answer you.",
-      "option1": "What do you want with me?",
+      "option0": "Je ne suis pas obligé de te répondre.",
+      "option1": "Qu'est-ce que tu me veux ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 696
@@ -3293,8 +3293,8 @@
   },
   "379": {
     "lexus2_s_encboss08": {
-      "option0": "Fine.",
-      "option1": "Or else what?",
+      "option0": "D'accord.",
+      "option1": "Ou sinon quoi ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 699
@@ -3302,8 +3302,8 @@
   },
   "380": {
     "lexus2_s_encboss09": {
-      "option0": "...I won't get involved.",
-      "option1": "What the hell is this guy...",
+      "option0": "...Je ne m'impliquerai pas.",
+      "option1": "Qu'est-ce que c'est que ce type...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 700
@@ -3311,8 +3311,8 @@
   },
   "381": {
     "lexus2_s_encboss10": {
-      "option0": "No, you've got the wrong guy.",
-      "option1": "And what if it does?",
+      "option0": "Non, tu te trompes de personne.",
+      "option1": "Et si c'est le cas ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 701
@@ -4186,9 +4186,9 @@
   "468": {
     "lexus2_toba_kamuro_kifuda": {
       "headline": "De combien as-tu besoin ? C'est 100 yens le point.",
-      "option0": "Acheter 50 Points (5,000 yen)",
-      "option1": "Acheter 100 Points (10,000 yen)",
-      "option2": "Acheter 1,000 Points (100,000 yen)",
+      "option0": "Acheter 50 points (5 000 yens)",
+      "option1": "Acheter 100 points (10 000 yens)",
+      "option2": "Acheter 1 000 points (100 000 yens)",
       "option3": "Annuler",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -4571,7 +4571,7 @@
   },
   "508": {
     "lexus2_caba_date_aika_01": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4581,7 +4581,7 @@
   },
   "509": {
     "lexus2_caba_date_aika_02": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4591,7 +4591,7 @@
   },
   "510": {
     "lexus2_caba_date_aika_03": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4601,7 +4601,7 @@
   },
   "511": {
     "lexus2_caba_date_kana_01": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4611,7 +4611,7 @@
   },
   "512": {
     "lexus2_caba_date_kana_02": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4621,7 +4621,7 @@
   },
   "513": {
     "lexus2_caba_date_kana_03": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4631,7 +4631,7 @@
   },
  "514": {
     "lexus2_caba_date_kirara_01": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4641,7 +4641,7 @@
   },
   "515": {
     "lexus2_caba_date_kirara_02": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4651,7 +4651,7 @@
   },
   "516": {
     "lexus2_caba_date_kirara_03": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4661,7 +4661,7 @@
   },
   "517": {
     "lexus2_caba_date_koyuki_01": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4671,7 +4671,7 @@
   },
   "518": {
     "lexus2_caba_date_koyuki_02": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4681,7 +4681,7 @@
   },
   "519": {
     "lexus2_caba_date_koyuki_03": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4691,7 +4691,7 @@
   },
   "520": {
     "lexus2_caba_date_shoko_01": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4701,7 +4701,7 @@
   },
   "521": {
     "lexus2_caba_date_shoko_02": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4711,7 +4711,7 @@
   },
   "522": {
     "lexus2_caba_date_shoko_03": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4721,7 +4721,7 @@
   },
   "523": {
     "lexus2_caba_date_yua_01": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4731,7 +4731,7 @@
   },
   "524": {
     "lexus2_caba_date_yua_02": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4741,7 +4741,7 @@
   },
   "525": {
     "lexus2_caba_date_yua_03": {
-      "headline": "Prendre cette fille pour un rendez-vous ?",
+      "headline": "Emmener cette fille pour un rendez-vous ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -4752,9 +4752,9 @@
   "526": {
     "lexus2_casino_kamuro_tip": {
       "headline": "Combien en voulez-vous, monsieur ? ",
-      "option0": "Acheter 50 Jetons (5,000 yen)",
-      "option1": "Acheter 100 Jetons (10,000 yen)",
-      "option2": "Acheter 1,000 Jetons (100,000 yen)",
+      "option0": "Acheter 50 jetons (5 000 yens)",
+      "option1": "Acheter 100 jetons (10 000 yens)",
+      "option2": "Acheter 1 000 jetons (100 000 yens)",
       "option3": "Annuler",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -4765,7 +4765,7 @@
     "lexus2_advsubsb13_120_select_01": {
       "option0": "Merci pour vos services.",
       "option1": "Bienvenue, jeune maître.",
-      "option2": "Bienvenue chez vous, Maître ! <symbol=heart_with_outline>",
+      "option2": "Bienvenue chez vous, maître ! <symbol=heart_with_outline>",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 365
@@ -4775,7 +4775,7 @@
     "lexus2_advsubsb13_120_select_02": {
       "option0": "Va-t'en, petit doigt !",
       "option1": "Ce couteau est trop tranchant !",
-      "option2": "J'ai échoué, Patriarche !",
+      "option2": "J'ai échoué, patriarche !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 366
@@ -4824,8 +4824,8 @@
   },
   "533": {
     "lexus2_advsubsb27_010_select_01": {
-      "option0": "Maybe some other time.",
-      "option1": "I guess so.",
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je suppose.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 371
@@ -4833,8 +4833,8 @@
   },
   "534": {
     "lexus2_advsubsb27_020_select_01": {
-      "option0": "Maybe some other time.",
-      "option1": "I guess so.",
+      "option0": "Peut-être une autre fois.",
+      "option1": "Je suppose.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 372
@@ -4843,7 +4843,7 @@
   "535": {
     "lexus2_advsubsb27_040_select_01": {
       "option0": "L'attraper",
-      "option1": "Wait and See",
+      "option1": "Attendre et observer",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 373
@@ -4852,7 +4852,7 @@
   "536": {
     "lexus2_advsubsb27_040_select_02": {
       "option0": "L'attraper",
-      "option1": "Wait and See",
+      "option1": "Attendre et observer",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 374
@@ -4861,7 +4861,7 @@
   "537": {
     "lexus2_advsubsb27_040_select_03": {
       "option0": "L'attraper",
-      "option1": "Wait and See",
+      "option1": "Attendre et observer",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 375
@@ -4870,7 +4870,7 @@
   "538": {
     "lexus2_advsubsb27_040_select_04": {
       "option0": "L'attraper",
-      "option1": "Wait and See",
+      "option1": "Attendre et observer",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 376
@@ -4943,7 +4943,7 @@
   },
   "546": {
     "lexus2_cln_snack_02": {
-      "option0": "Bien sûr, Pourquoi pas.",
+      "option0": "Bien sûr, pourquoi pas.",
       "option1": "Je suis un peu occupé.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -5113,7 +5113,7 @@
   "565": {
     "lexus2_caba_date_aika_01_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 530
@@ -5132,7 +5132,7 @@
   "567": {
     "lexus2_caba_date_aika_02_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 84
@@ -5151,7 +5151,7 @@
   "569": {
     "lexus2_caba_date_aika_03_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 86
@@ -5208,7 +5208,7 @@
   "575": {
     "lexus2_caba_date_kana_03_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 92
@@ -5322,7 +5322,7 @@
   "587": {
     "lexus2_caba_date_koyuki_03_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 187
@@ -5398,7 +5398,7 @@
   "595": {
     "lexus2_caba_date_yua_01_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 705
@@ -5417,7 +5417,7 @@
   "597": {
     "lexus2_caba_date_yua_02_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 726
@@ -5436,7 +5436,7 @@
   "599": {
     "lexus2_caba_date_yua_03_010_select_01": {
       "option0": "Désolé, je suis occupé en ce moment.",
-      "option1": "Bien sûr, Pourquoi pas.",
+      "option1": "Bien sûr, pourquoi pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 59
@@ -6366,7 +6366,7 @@
   },
   "722": {
     "lexus2_ms_encboss07": {
-      "option0": "Excuse moi ?",
+      "option0": "Excuse-moi ?",
       "option1": "Je mords...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -6393,7 +6393,7 @@
   },
   "725": {
     "lexus2_majima_atm_01": {
-      "headline": "Faire un don de 100,000 yens ?",
+      "headline": "Faire un don de 100 000 yens ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -6403,7 +6403,7 @@
   },
   "726": {
     "lexus2_majima_atm_02": {
-      "headline": "Faire un don de 1,000,000 yens ?",
+      "headline": "Faire un don de 1 000 000 yens ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -6413,7 +6413,7 @@
   },
   "727": {
     "lexus2_majima_atm_03": {
-      "headline": "Faire un don de 3,000,000 yens ?",
+      "headline": "Faire un don de 3 000 000 yens ?",
       "option0": "Non",
       "option1": "Oui",
       "reARMP_validityBool": "00000010",
@@ -7504,8 +7504,8 @@
   },
   "878": {
     "lexus2_advsubsa26_010_select_00": {
-      "option0": "Donner le Bento Yakiniku",
-      "option1": "Ne Rien Donner",
+      "option0": "Donner le bento Yakiniku",
+      "option1": "Ne rien donner",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 610
@@ -7514,7 +7514,7 @@
   "879": {
     "lexus2_advsubsa27_010_select_00": {
       "option0": "Donner le Staminan XX",
-      "option1": "Ne Rien Donner",
+      "option1": "Ne rien donner",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 611
