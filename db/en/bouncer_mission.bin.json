@@ -1329,7 +1329,7 @@
   },
   "16": {
     "bouncer_btl05_01": {
-      "name": "Eclaire le marché noir : Normal",
+      "name": "Éclaire le marché noir : Normal",
       "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans ton futur si tu arrive à les arrêter.",
       "level": 3,
       "time_limit": 0,
@@ -1395,7 +1395,7 @@
   },
   "17": {
     "bouncer_btl05_02": {
-      "name": "Eclaire le marché noir : Difficile",
+      "name": "Éclaire le marché noir : Difficile",
       "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans ton futur si tu arrive à les arrêter.",
       "level": 5,
       "time_limit": 0,
@@ -1461,7 +1461,7 @@
   },
   "18": {
     "bouncer_btl05_03": {
-      "name": "Eclaire le marché noir : Légende",
+      "name": "Éclaire le marché noir : Légende",
       "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans ton futur si tu arrive à les arrêter.",
       "level": 7,
       "time_limit": 0,
@@ -3690,7 +3690,7 @@
   },
   "52": {
     "bouncer_btl17_01": {
-      "name": "Le Samouraï obsédé : Normal",
+      "name": "Le samouraï obsédé : Normal",
       "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous s'il-vous-plaît !",
       "level": 9,
       "time_limit": 0,
@@ -3756,7 +3756,7 @@
   },
   "53": {
     "bouncer_btl17_02": {
-      "name": "Le Samouraï obsédé : Difficile",
+      "name": "LLe samouraï obsédé : Difficile",
       "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous s'il-vous-plaît !",
       "level": 11,
       "time_limit": 0,
@@ -3822,7 +3822,7 @@
   },
   "54": {
     "bouncer_btl17_03": {
-      "name": "Le Samouraï obsédé : Légende",
+      "name": "Le samouraï obsédé : Légende",
       "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous s'il-vous-plaît !",
       "level": 13,
       "time_limit": 0,
@@ -5655,8 +5655,8 @@
   },
   "82": {
     "bouncer_btl27_01": {
-      "name": "Redman de retour : Normal",
-      "explanation": "Client : Propriétaire de l'hôtel Sommet de l'océan\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
+      "name": "Redman revient : Normal",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
       "level": 8,
       "time_limit": 0,
       "area_num": 1,
@@ -5721,8 +5721,8 @@
   },
   "83": {
     "bouncer_btl27_02": {
-      "name": "Redman de retour : Difficile",
-      "explanation": "Client : Propriétaire de l'hôtel Sommet de l'océan\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
+      "name": "Redman revient : Difficile",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
       "level": 10,
       "time_limit": 0,
       "area_num": 1,
@@ -5787,8 +5787,8 @@
   },
   "84": {
     "bouncer_btl27_03": {
-      "name": "Redman de retour : Légende",
-      "explanation": "Client : Propriétaire de l'hôtel Sommet de l'océan\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
+      "name": "Redman revient : Légende",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
       "level": 12,
       "time_limit": 0,
       "area_num": 1,

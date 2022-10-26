@@ -14257,7 +14257,7 @@
       "picture": 4442,
       "name": "Corps impénétrable du Lotus",
       "explanation": "Exprimez l'esprit de combat des Lotus. En mode Extreme Heat,\r\nvous ne chancellerez pas, même en cas de coups violents.",
-      "locked_message": "Doit lire un livre de techniques et apprendre le Mode Extreme Heat.",
+      "locked_message": "Doit lire un livre de techniques et apprendre le mode Extreme Heat.",
       "need_skill1": 0,
       "movie": 0,
       "kind": 0,

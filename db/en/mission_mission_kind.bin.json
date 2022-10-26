@@ -5679,7 +5679,7 @@
   },
   "131": {
     "lexus2_m_BTL01_0010": {
-      "title": "Vaincre les Assassins d'Omi",
+      "title": "Vaincre les assassins d'Omi",
       "mission": "Ils nous attaquent dans un cimetière !?",
       "mission_info": "Vaincre les assassins d'Omi.",
       "priority": 100,
@@ -5987,9 +5987,9 @@
   },
   "138": {
     "lexus2_m_BTL03_0010": {
-      "title": "Vaincre le clan Go-Ryu",
+      "title": "Vaincre le Clan Go-Ryu",
       "mission": "Ils envahissent leur propre QG...",
-      "mission_info": "Vaincre le clan Go-Ryu.",
+      "mission_info": "Vaincre le Clan Go-Ryu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -6119,9 +6119,9 @@
   },
   "141": {
     "lexus2_m_BTL04_0010": {
-      "title": "Vaincre les Yakuzas",
+      "title": "Vaincre les yakuzas",
       "mission": "Ils n'ont aucune chance.",
-      "mission_info": "Vaincre les Yakuzas.",
+      "mission_info": "Vaincre les yakuzas.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -6207,7 +6207,7 @@
   },
   "143": {
     "lexus2_m_BTL05_0010": {
-      "title": "Vaincre l'Assassin",
+      "title": "Vaincre l'assassin",
       "mission": "C'est quoi le problème de ce type ?",
       "mission_info": "Vaincre le mystérieux assassin.",
       "priority": 100,
@@ -6776,9 +6776,9 @@
   },
   "156": {
     "lexus2_m_BTL08_0040": {
-      "title": "Vaincre le clan Go-Ryu",
+      "title": "Vaincre le Clan Go-Ryu",
       "mission": "Je me battrai autant qu'il faudra.",
-      "mission_info": "Vaincre le clan Go-Ryu.",
+      "mission_info": "Vaincre le Clan Go-Ryu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -6820,9 +6820,9 @@
   },
   "157": {
     "lexus2_m_BTL09_0010": {
-      "title": "Vaincre le clan Go-Ryu",
+      "title": "Vaincre le Clan Go-Ryu",
       "mission": "Je me battrai autant qu'il faudra.",
-      "mission_info": "Vaincre le clan Go-Ryu.",
+      "mission_info": "Vaincre le Clan Go-Ryu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -6996,9 +6996,9 @@
   },
   "161": {
     "lexus2_m_BTL10_0010": {
-      "title": "Vaincre les Punks",
+      "title": "Vaincre les punks",
       "mission": "Ils vont payer pour ça.",
-      "mission_info": "Vaincre les Punks.",
+      "mission_info": "Vaincre les punks.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -7084,9 +7084,9 @@
   },
   "163": {
     "lexus2_m_BTL11_0010": {
-      "title": "Vaincre le vieux joueur de Shogi",
+      "title": "Vaincre le vieux joueur de shogi",
       "mission": "C'est bientôt un échec et mat.",
-      "mission_info": "Vaincre le vieux joueur de Shogi.",
+      "mission_info": "Vaincre le vieux joueur de shogi.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -7521,9 +7521,9 @@
   },
   "173": {
     "lexus2_m_BTL14_0010": {
-      "title": "Vaincre le clan Go-Ryu",
+      "title": "Vaincre le Clan Go-Ryu",
       "mission": "On ne vous donnera pas cette ville !",
-      "mission_info": "Vaincre le clan Go-Ryu.",
+      "mission_info": "Vaincre le Clan Go-Ryu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -7565,9 +7565,9 @@
   },
   "174": {
     "lexus2_m_BTL14_0020": {
-      "title": "Vaincre le clan Go-Ryu",
+      "title": "Vaincre le Clan Go-Ryu",
       "mission": "On ne vous donnera pas cette ville !",
-      "mission_info": "Vaincre le clan Go-Ryu.",
+      "mission_info": "Vaincre le Clan Go-Ryu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -7609,9 +7609,9 @@
   },
   "175": {
     "lexus2_m_BTL14_0030": {
-      "title": "Vaincre le clan Go-Ryu",
+      "title": "Vaincre le Clan Go-Ryu",
       "mission": "On ne vous donnera pas cette ville !",
-      "mission_info": "Vaincre le clan Go-Ryu.",
+      "mission_info": "Vaincre le Clan Go-Ryu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -7697,9 +7697,9 @@
   },
   "177": {
     "lexus2_m_BTL16_0020": {
-      "title": "Vaincre l'Homme en noir",
+      "title": "Vaincre l'homme en noir",
       "mission": "De quelle organisation vient de ce gars ?",
-      "mission_info": "Vaincre l'Homme en noir.",
+      "mission_info": "Vaincre l'homme en noir.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -7786,7 +7786,7 @@
   "179": {
     "lexus2_m_BTL16_0040": {
       "title": "Vaincre Daejin Kim",
-      "mission": "Terada, vos plans meurent ici.",
+      "mission": "Terada, vos plans tomberont ici.",
       "mission_info": "Vaincre Daejin Kim.",
       "priority": 100,
       "bgm_type": 0,
@@ -17048,7 +17048,7 @@
     "lexus2_m_ADV09_0020": {
       "title": "Aller au siège du Clan Tojo",
       "mission": "C'est l'enterrement de Terada. Tout le reste peut attendre.",
-      "mission_info": "Aujourd'hui, ce sont les funérailles de Terada.\r\nJe devrais prendre un taxi pour le QG du clan Tojo.",
+      "mission_info": "Aujourd'hui, ce sont les funérailles de Terada.\r\nJe devrais prendre un taxi pour le QG du Clan Tojo.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -17091,7 +17091,7 @@
   "405": {
     "lexus2_m_ADV09_0030": {
       "title": "Aller au service funéraire",
-      "mission": "Cela devrait commencer bientôt.",
+      "mission": "Ça devrait bientôt commencer.",
       "mission_info": "Les funérailles de Terada se passent au premier\r\nétage. Je devrais y aller.",
       "priority": 0,
       "bgm_type": 0,
@@ -17608,7 +17608,7 @@
     "lexus2_m_ADV10_0050": {
       "title": "Parler à Takashi",
       "mission": "Tu as de la chance, gamin.",
-      "mission_info": "Le fleuriste peut accorder quelques minutes à son fils.\r\nJe vais aller lui dire.",
+      "mission_info": "Le Fleuriste peut accorder quelques minutes à son fils.\r\nJe vais aller lui dire.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -18570,7 +18570,7 @@
     "lexus2_m_ADV16_0020": {
       "title": "Faire les préparations finales",
       "mission": "On y est.",
-      "mission_info": "Il est l'heire de mettre fin à tout ça. Je parlerai\r\nà Date-sandès que je suis prêt.",
+      "mission_info": "Il est l'heire de mettre fin à tout ça. Je parlerai\r\nà Date-san dès que je suis prêt.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -18744,7 +18744,7 @@
   },
   "443": {
     "lexus2_m_ADV15_0070": {
-      "title": "Prendre un taxi vers Tokyo PD",
+      "title": "Prendre un taxi vers le Tokyo PD",
       "mission": "Pas ma destination favorite, mais...",
       "mission_info": "Bessho-san veut qu'on se rencontre au Tokyo PD.\r\nOn va prendre un taxi.",
       "priority": 0,
@@ -19008,7 +19008,7 @@
   },
   "449": {
     "lexus2_m_ADV13_0150": {
-      "title": "Retourner à l'Aoi",
+      "title": "Retourner à Aoi",
       "mission": "On doit retourner à Kamurocho.",
       "mission_info": "Ça pourrait être ma dernière fois à Sotenbori.\r\nJe devrais aller à Aoi quand je serai prêt.",
       "priority": 0,
@@ -19318,7 +19318,7 @@
     "lexus2_m_ADV14_0110": {
       "title": "Aider les résidents de la ville",
       "mission": "Mes amis ont des ennuis !",
-      "mission_info": "Le clan Go-Ryu a attaqué ! Je dois\r\nveiller à ce que tout le monde soit indemne !",
+      "mission_info": "Le Clan Go-Ryu a attaqué ! Je dois\r\nveiller à ce que tout le monde soit indemne !",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -22159,7 +22159,7 @@
   "521": {
     "lexus2_s_ADVsubsB03_030": {
       "title": "Le conseiller charmant",
-      "mission": "Sauvé Conseiller Saeki.",
+      "mission": "Conseiller Saeki sauvé.",
       "mission_info": "J'ai reçu un livre en échange de mon aide\r\npour le conseiller Saeki. Je ne pense pas\r\nvraiment avoir besoin de ce truc...",
       "priority": 0,
       "bgm_type": 0,
@@ -24084,9 +24084,9 @@
   },
   "565": {
     "lexus2_b_BTL05_01": {
-      "title": "Light Up the Black Market: Normal",
-      "mission": "Put a stop to the foreign mafia's deal",
-      "mission_info": "Sounds like a black market deal is going down\r\nwith some foreign agents. They apparently have\r\nguns, too... I should be careful.",
+      "title": "Éclaire le marché noir : Normal",
+      "mission": "Mettre un terme au marché de la mafia étrangère",
+      "mission_info": "On dirait qu'un marché noir est en cours avec des\r\nagents étrangers. Ils ont aussi des armes à\r\nfeu... Je devrais faire attention.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24128,9 +24128,9 @@
   },
   "566": {
     "lexus2_b_BTL05_02": {
-      "title": "Light Up the Black Market: Difficile",
-      "mission": "Put a stop to the foreign mafia's deal",
-      "mission_info": "Sounds like a black market deal is going down\r\nwith some foreign agents. They apparently have\r\nguns, too... I should be careful.",
+      "title": "Éclaire le marché noir : Difficile",
+      "mission": "Mettre un terme au marché de la mafia étrangère",
+      "mission_info": "On dirait qu'un marché noir est en cours avec des\r\nagents étrangers. Ils ont aussi des armes à\r\nfeu... Je devrais faire attention.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24172,9 +24172,9 @@
   },
   "567": {
     "lexus2_b_BTL05_03": {
-      "title": "Light Up the Black Market: Légende",
-      "mission": "Put a stop to the foreign mafia's deal",
-      "mission_info": "Sounds like a black market deal is going down\r\nwith some foreign agents. They apparently have\r\nguns, too... I should be careful.",
+      "title": "Éclaire le marché noir : Légende",
+      "mission": "Mettre un terme au marché de la mafia étrangère",
+      "mission_info": "On dirait qu'un marché noir est en cours avec des\r\nagents étrangers. Ils ont aussi des armes à\r\nfeu... Je devrais faire attention.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24216,9 +24216,9 @@
   },
   "568": {
     "lexus2_b_BTL06_01": {
-      "title": "The Wandering Swordsmen: Normal",
-      "mission": "Chase the swordsmen away",
-      "mission_info": "Sounds like there's trouble in the Theater\r\nUnderground. Drunk foreigners and guys\r\nwith swords... Not the best combination.",
+      "title": "Les épéistes errants : Normal",
+      "mission": "Chasser les épéistes",
+      "mission_info": "On dirait qu'il y a des problèmes dans Theater\r\nUnderground. Des étrangers bourrés et des gars\r\navec des épées... Pas la meilleure combinaison.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24260,9 +24260,9 @@
   },
   "569": {
     "lexus2_b_BTL06_02": {
-      "title": "The Wandering Swordsmen: Difficile",
-      "mission": "Chase the swordsmen away",
-      "mission_info": "Sounds like there's trouble in the Theater\r\nUnderground. Drunk foreigners and guys\r\nwith swords... Not the best combination.",
+      "title": "Les épéistes errants : Difficile",
+      "mission": "Chasser les épéistes",
+      "mission_info": "On dirait qu'il y a des problèmes dans Theater\r\nUnderground. Des étrangers bourrés et des gars\r\navec des épées... Pas la meilleure combinaison.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24304,9 +24304,9 @@
   },
   "570": {
     "lexus2_b_BTL06_03": {
-      "title": "The Wandering Swordsmen: Légende",
-      "mission": "Chase the swordsmen away",
-      "mission_info": "Sounds like there's trouble in the Theater\r\nUnderground. Drunk foreigners and guys\r\nwith swords... Not the best combination.",
+      "title": "Les épéistes errants : Légende",
+      "mission": "Chasser les épéistes",
+      "mission_info": "On dirait qu'il y a des problèmes dans Theater\r\nUnderground. Des étrangers bourrés et des gars\r\navec des épées... Pas la meilleure combinaison.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24348,9 +24348,9 @@
   },
   "571": {
     "lexus2_b_BTL07_01": {
-      "title": "Towering Giants: Normal",
-      "mission": "Vaincre les ennemis on Shichifuku Street",
-      "mission_info": "Some big guys have laid claim to the parking\r\nlot on Shichifuku Street and are using it for\r\nmalicious purposes. I should chase them off.",
+      "title": "Géants imposants : Normal",
+      "mission": "Vaincre les ennemis sur Shichifuku Street",
+      "mission_info": "Des gros bras ont revendiqué le parking de\r\nShichifuku Street et l'utilisent à des fins\r\nmalveillantes. Je devrais les chasser.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24392,9 +24392,9 @@
   },
   "572": {
     "lexus2_b_BTL07_02": {
-      "title": "Towering Giants: Difficile",
-      "mission": "Vaincre les ennemis on Shichifuku Street",
-      "mission_info": "Some big guys have laid claim to the parking\r\nlot on Shichifuku Street and are using it for\r\nmalicious purposes. I should chase them off.",
+      "title": "Géants imposants : Difficile",
+      "mission": "Vaincre les ennemis sur Shichifuku Street",
+      "mission_info": "Des gros bras ont revendiqué le parking de\r\nShichifuku Street et l'utilisent à des fins\r\nmalveillantes. Je devrais les chasser.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24436,9 +24436,9 @@
   },
   "573": {
     "lexus2_b_BTL07_03": {
-      "title": "Towering Giants: Légende",
-      "mission": "Vaincre les ennemis on Shichifuku Street",
-      "mission_info": "Some big guys have laid claim to the parking\r\nlot on Shichifuku Street and are using it for\r\nmalicious purposes. I should chase them off.",
+      "title": "Géants imposants : Légende",
+      "mission": "Vaincre les ennemis sur Shichifuku Street",
+      "mission_info": "Des gros bras ont revendiqué le parking de\r\nShichifuku Street et l'utilisent à des fins\r\nmalveillantes. Je devrais les chasser.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24480,9 +24480,9 @@
   },
   "574": {
     "lexus2_b_BTL08_01": {
-      "title": "The Tonfa Threat: Normal",
-      "mission": "Pacify the tonfa-wielding thugs",
-      "mission_info": "West Park is being ravaged by a group of thugs\r\nwith tonfa. Some people have no manners...",
+      "title": "La menace tonfa : Normal",
+      "mission": "Calmer les voyous porteurs de tonfa.",
+      "mission_info": "West Park est ravagé par un groupe de voyous avec\r\ndes tonfa. Certaines personnes n'ont pas de manières...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24524,9 +24524,9 @@
   },
   "575": {
     "lexus2_b_BTL08_02": {
-      "title": "The Tonfa Threat: Difficile",
-      "mission": "Pacify the tonfa-wielding thugs",
-      "mission_info": "West Park is being ravaged by a group of thugs\r\nwith tonfa. Some people have no manners...",
+      "title": "La menace tonfa : Difficile",
+      "mission": "Calmer les voyous porteurs de tonfa.",
+      "mission_info": "West Park est ravagé par un groupe de voyous avec\r\ndes tonfa. Certaines personnes n'ont pas de manières...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24568,9 +24568,9 @@
   },
   "576": {
     "lexus2_b_BTL08_03": {
-      "title": "The Tonfa Threat: Légende",
-      "mission": "Pacify the tonfa-wielding thugs",
-      "mission_info": "West Park is being ravaged by a group of thugs\r\nwith tonfa. Some people have no manners...",
+      "title": "La menace tonfa : Légende",
+      "mission": "Calmer les voyous porteurs de tonfa.",
+      "mission_info": "West Park est ravagé par un groupe de voyous avec\r\ndes tonfa. Certaines personnes n'ont pas de manières...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24612,9 +24612,9 @@
   },
   "577": {
     "lexus2_b_BTL09_01": {
-      "title": "Questionable Crates: Normal",
-      "mission": "Destroy the crates",
-      "mission_info": "Some weird wooden crates have popped up in the\r\nChampion District. I'm not sure what's in them,\r\nbut I should get rid of them ASAP.",
+      "title": "Caisses suspectes : Normal",
+      "mission": "Détruire les caisses",
+      "mission_info": "D'étranges caisses en bois sont apparues dans\r\nChampion District. Je ne suis pas sûr de ce\r\nqu'elles contiennent, mais je devrais m'en\r\ndébarrasser au plus vite.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24656,9 +24656,9 @@
   },
   "578": {
     "lexus2_b_BTL09_02": {
-      "title": "Questionable Crates: Difficile",
-      "mission": "Destroy the crates",
-      "mission_info": "Some weird wooden crates have popped up in the\r\nChampion District. I'm not sure what's in them,\r\nbut I should get rid of them ASAP.",
+      "title": "Caisses suspectes : Difficile",
+      "mission": "Détruire les caisses",
+      "mission_info": "D'étranges caisses en bois sont apparues dans\r\nChampion District. Je ne suis pas sûr de ce\r\nqu'elles contiennent, mais je devrais m'en\r\ndébarrasser au plus vite.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24700,9 +24700,9 @@
   },
   "579": {
     "lexus2_b_BTL09_03": {
-      "title": "Questionable Crates: Légende",
-      "mission": "Destroy the crates",
-      "mission_info": "Some weird wooden crates have popped up in the\r\nChampion District. I'm not sure what's in them,\r\nbut I should get rid of them ASAP.",
+      "title": "Caisses suspectes : Légende",
+      "mission": "Détruire les caisses",
+      "mission_info": "D'étranges caisses en bois sont apparues dans\r\nChampion District. Je ne suis pas sûr de ce\r\nqu'elles contiennent, mais je devrais m'en\r\ndébarrasser au plus vite.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24744,9 +24744,9 @@
   },
   "580": {
     "lexus2_b_BTL10_01": {
-      "title": "Sotenbori Purification: Normal",
-      "mission": "Defeat the thugs by the river",
-      "mission_info": "Some thugs are on a rampage down by the river.\r\nMaybe tossing them in will cool them off a bit.",
+      "title": "Purification de Sotenbori : Normal",
+      "mission": "Vaincre les voyous près de la rivière",
+      "mission_info": "Des voyous se déchaînent près de la rivière.\r\nPeut-être que les jeter à l'eau les calmera\r\nun peu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24788,9 +24788,9 @@
   },
   "581": {
     "lexus2_b_BTL10_02": {
-      "title": "Sotenbori Purification: Difficile",
-      "mission": "Defeat the thugs by the river",
-      "mission_info": "Some thugs are on a rampage down by the river.\r\nMaybe tossing them in will cool them off a bit.",
+      "title": "Purification de Sotenbori : Difficile",
+      "mission": "Vaincre les voyous près de la rivière",
+      "mission_info": "Des voyous se déchaînent près de la rivière.\r\nPeut-être que les jeter à l'eau les calmera\r\nun peu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24832,9 +24832,9 @@
   },
   "582": {
     "lexus2_b_BTL10_03": {
-      "title": "Sotenbori Purification: Légende",
-      "mission": "Defeat the thugs by the river",
-      "mission_info": "Some thugs are on a rampage down by the river.\r\nMaybe tossing them in will cool them off a bit.",
+      "title": "Purification de Sotenbori : Légende",
+      "mission": "Vaincre les voyous près de la rivière",
+      "mission_info": "Des voyous se déchaînent près de la rivière.\r\nPeut-être que les jeter à l'eau les calmera\r\nun peu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24876,9 +24876,9 @@
   },
   "583": {
     "lexus2_b_BTL11_01": {
-      "title": "The Kali Stick Festival: Normal",
-      "mission": "Defeat the kali stick thugs",
-      "mission_info": "A group of thugs with kali sticks has shown\r\nup in Shofukucho. I need to take them down\r\nand bring peace back to Sotenbori.",
+      "title": "Le festival des bâtons de kali : Normal",
+      "mission": "Vaincre les voyous avec les bâtons de kali.",
+      "mission_info": "Un groupe de voyous armés de bâtons de kali\r\ns'est manifesté à Shofukucho. Je dois les\r\narrêter et ramener la paix à Sotenbori.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24920,9 +24920,9 @@
   },
   "584": {
     "lexus2_b_BTL11_02": {
-      "title": "The Kali Stick Festival: Difficile",
-      "mission": "Defeat the kali stick thugs",
-      "mission_info": "A group of thugs with kali sticks has shown\r\nup in Shofukucho. I need to take them down\r\nand bring peace back to Sotenbori.",
+      "title": "Le festival des bâtons de kali : Difficile",
+      "mission": "Vaincre les voyous avec les bâtons de kali.",
+      "mission_info": "Un groupe de voyous armés de bâtons de kali\r\ns'est manifesté à Shofukucho. Je dois les\r\narrêter et ramener la paix à Sotenbori.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -24964,9 +24964,9 @@
   },
   "585": {
     "lexus2_b_BTL11_03": {
-      "title": "The Kali Stick Festival: Légende",
-      "mission": "Defeat the kali stick thugs",
-      "mission_info": "A group of thugs with kali sticks has shown\r\nup in Shofukucho. I need to take them down\r\nand bring peace back to Sotenbori.",
+      "title": "Le festival des bâtons de kali : Légende",
+      "mission": "Vaincre les voyous avec les bâtons de kali.",
+      "mission_info": "Un groupe de voyous armés de bâtons de kali\r\ns'est manifesté à Shofukucho. Je dois les\r\narrêter et ramener la paix à Sotenbori.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25008,9 +25008,9 @@
   },
   "586": {
     "lexus2_b_BTL12_01": {
-      "title": "The Unleashed Titans: Normal",
-      "mission": "Defeat the giants in northern Sotenbori",
-      "mission_info": "Axe-wielding giants... This feels familiar\r\nsomehow.",
+      "title": "Les titans déchaînés : Normal",
+      "mission": "Vaincre les géants au nord de Sotenbori",
+      "mission_info": "Des géants brandissant des haches... Ça me\r\nsemble familier.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25052,9 +25052,9 @@
   },
   "587": {
     "lexus2_b_BTL12_02": {
-      "title": "The Unleashed Titans: Difficile",
-      "mission": "Defeat the giants in northern Sotenbori",
-      "mission_info": "Axe-wielding giants... This feels familiar\r\nsomehow.",
+      "title": "Les titans déchaînés : Difficile",
+      "mission": "Vaincre les géants au nord de Sotenbori",
+      "mission_info": "Des géants brandissant des haches... Ça me\r\nsemble familier.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25096,9 +25096,9 @@
   },
   "588": {
     "lexus2_b_BTL12_03": {
-      "title": "The Unleashed Titans: Légende",
-      "mission": "Defeat the giants in northern Sotenbori",
-      "mission_info": "Axe-wielding giants... This feels familiar\r\nsomehow.",
+      "title": "Les titans déchaînés : Légende",
+      "mission": "Vaincre les géants au nord de Sotenbori",
+      "mission_info": "Des géants brandissant des haches... Ça me\r\nsemble familier.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25140,9 +25140,9 @@
   },
   "589": {
     "lexus2_b_BTL13_01": {
-      "title": "Sotenbori Ablaze: Normal",
-      "mission": "Stop the vengeful thugs in Shofukucho",
-      "mission_info": "Sotenbori's going up in flames if I don't do\r\nsomething. Time to go teach those guys what\r\nhappens when you play with fire.",
+      "title": "Sotenbori en feu : Normal",
+      "mission": "Arrêter les voyous vengeurs à Shofukucho",
+      "mission_info": "Sotenbori va partir en flammes si je ne fais\r\npas quelque chose. Il est temps d'aller\r\napprendre à ces gars ce qui se passe quand\r\non joue avec le feu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25184,9 +25184,9 @@
   },
   "590": {
     "lexus2_b_BTL13_02": {
-      "title": "Sotenbori Ablaze: Difficile",
-      "mission": "Stop the vengeful thugs in Shofukucho",
-      "mission_info": "Sotenbori's going up in flames if I don't do\r\nsomething. Time to go teach those guys what\r\nhappens when you play with fire.",
+      "title": "Sotenbori en feu : Difficile",
+      "mission": "Arrêter les voyous vengeurs à Shofukucho",
+      "mission_info": "Sotenbori va partir en flammes si je ne fais\r\npas quelque chose. Il est temps d'aller\r\napprendre à ces gars ce qui se passe quand\r\non joue avec le feu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25228,9 +25228,9 @@
   },
   "591": {
     "lexus2_b_BTL13_03": {
-      "title": "Sotenbori Ablaze: Légende",
-      "mission": "Stop the vengeful thugs in Shofukucho",
-      "mission_info": "Sotenbori's going up in flames if I don't do\r\nsomething. Time to go teach those guys what\r\nhappens when you play with fire.",
+      "title": "Sotenbori en feu : Légende",
+      "mission": "Arrêter les voyous vengeurs à Shofukucho",
+      "mission_info": "Sotenbori va partir en flammes si je ne fais\r\npas quelque chose. Il est temps d'aller\r\napprendre à ces gars ce qui se passe quand\r\non joue avec le feu.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25272,9 +25272,9 @@
   },
   "592": {
     "lexus2_b_BTL14_01": {
-      "title": "Sotenbori Street Match: Normal",
-      "mission": "Stop the martial arts duel",
-      "mission_info": "Martial artists dueling in the streets...?\r\nGuess I should go put a stop to it.",
+      "title": "Match de rue de Sotenbori : Normal",
+      "mission": "Arrêter le duel d'arts martiaux",
+      "mission_info": "Des artistes martiaux qui s'affrontent en duel\r\ndans les rues... Je crois que je devrais aller\r\nmettre un terme à tout ça.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25316,9 +25316,9 @@
   },
   "593": {
     "lexus2_b_BTL14_02": {
-      "title": "Sotenbori Street Match: Difficile",
-      "mission": "Stop the martial arts duel",
-      "mission_info": "Martial artists dueling in the streets...?\r\nGuess I should go put a stop to it.",
+      "title": "Match de rue de Sotenbori : Difficile",
+      "mission": "Arrêter le duel d'arts martiaux",
+      "mission_info": "Des artistes martiaux qui s'affrontent en duel\r\ndans les rues... Je crois que je devrais aller\r\nmettre un terme à tout ça.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25360,9 +25360,9 @@
   },
   "594": {
     "lexus2_b_BTL14_03": {
-      "title": "Sotenbori Street Match: Légende",
-      "mission": "Stop the martial arts duel",
-      "mission_info": "Martial artists dueling in the streets...?\r\nGuess I should go put a stop to it.",
+      "title": "Match de rue de Sotenbori : Légende",
+      "mission": "Arrêter le duel d'arts martiaux",
+      "mission_info": "Des artistes martiaux qui s'affrontent en duel\r\ndans les rues... Je crois que je devrais aller\r\nmettre un terme à tout ça.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25404,9 +25404,9 @@
   },
   "595": {
     "lexus2_b_BTL15_01": {
-      "title": "An Explosive Plot: Normal",
-      "mission": "Defeat the terrorists within the time limit",
-      "mission_info": "Foreign terrorists, huh? I never thought I'd\r\nhave to fight off such dangerous enemies...",
+      "title": "Un complot explosif : Normal",
+      "mission": "Vaincre les terroristes dans le temps imparti",
+      "mission_info": "Des terroristes étrangers, hein ? Je n'aurais\r\njamais pensé avoir à combattre des ennemis\r\naussi dangereux...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25448,9 +25448,9 @@
   },
   "596": {
     "lexus2_b_BTL15_02": {
-      "title": "An Explosive Plot: Difficile",
-      "mission": "Defeat the terrorists within the time limit",
-      "mission_info": "Foreign terrorists, huh? I never thought I'd\r\nhave to fight off such dangerous enemies...",
+      "title": "Un complot explosif : Difficile",
+      "mission": "Vaincre les terroristes dans le temps imparti",
+      "mission_info": "Des terroristes étrangers, hein ? Je n'aurais\r\njamais pensé avoir à combattre des ennemis\r\naussi dangereux...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25492,9 +25492,9 @@
   },
   "597": {
     "lexus2_b_BTL15_03": {
-      "title": "An Explosive Plot: Légende",
-      "mission": "Defeat the terrorists within the time limit",
-      "mission_info": "Foreign terrorists, huh? I never thought I'd\r\nhave to fight off such dangerous enemies...",
+      "title": "Un complot explosif : Légende",
+      "mission": "Vaincre les terroristes dans le temps imparti",
+      "mission_info": "Des terroristes étrangers, hein ? Je n'aurais\r\njamais pensé avoir à combattre des ennemis\r\naussi dangereux...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25668,9 +25668,9 @@
   },
   "601": {
     "lexus2_b_BTL17_01": {
-      "title": "The Sex-starved Samurai: Normal",
-      "mission": "Defeat the samurai on Pink Street",
-      "mission_info": "Sounds like some samurai are going girl-crazy\r\nover on Pink Street. What's this world coming\r\nto...?",
+      "title": "Le samouraï obsédé : Normal",
+      "mission": "Vaincre le samouraï de Pink Street",
+      "mission_info": "On dirait que certains samouraïs deviennent fous\r\nde filles dans Pink Street. Qu'est-ce que ce\r\nmonde devient... ?",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25712,9 +25712,9 @@
   },
   "602": {
     "lexus2_b_BTL17_02": {
-      "title": "The Sex-starved Samurai: Difficile",
-      "mission": "Defeat the samurai on Pink Street",
-      "mission_info": "Sounds like some samurai are going girl-crazy\r\nover on Pink Street. What's this world coming\r\nto...?",
+      "title": "Le samouraï obsédé : Difficile",
+      "mission": "Vaincre le samouraï de Pink Street",
+      "mission_info": "On dirait que certains samouraïs deviennent fous\r\nde filles dans Pink Street. Qu'est-ce que ce\r\nmonde devient... ?",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25756,9 +25756,9 @@
   },
   "603": {
     "lexus2_b_BTL17_03": {
-      "title": "The Sex-starved Samurai: Légende",
-      "mission": "Defeat the samurai on Pink Street",
-      "mission_info": "Sounds like some samurai are going girl-crazy\r\nover on Pink Street. What's this world coming\r\nto...?",
+      "title": "Le samouraï obsédé : Légende",
+      "mission": "Vaincre le samouraï de Pink Street",
+      "mission_info": "On dirait que certains samouraïs deviennent fous\r\nde filles dans Pink Street. Qu'est-ce que ce\r\nmonde devient... ?",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25800,9 +25800,9 @@
   },
   "604": {
     "lexus2_b_BTL18_01": {
-      "title": "A Noxious Smell: Normal",
-      "mission": "Defeat the extremists in Theater Square",
-      "mission_info": "What are these guys thinking, filling Theater\r\nSquare with gas drums...?",
+      "title": "Une odeur toxique : Normal",
+      "mission": "Vaincre les extrémistes à Theater Square",
+      "mission_info": "À quoi pensent ces types, remplir Theater Square\r\nde bidons d'essence... ?",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25844,9 +25844,9 @@
   },
   "605": {
     "lexus2_b_BTL18_02": {
-      "title": "A Noxious Smell: Difficile",
-      "mission": "Defeat the extremists in Theater Square",
-      "mission_info": "What are these guys thinking, filling Theater\r\nSquare with gas drums...?",
+      "title": "Une odeur toxique : Difficile",
+      "mission": "Vaincre les extrémistes à Theater Square",
+      "mission_info": "À quoi pensent ces types, remplir Theater Square\r\nde bidons d'essence... ?",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25888,9 +25888,9 @@
   },
   "606": {
     "lexus2_b_BTL18_03": {
-      "title": "A Noxious Smell: Légende",
-      "mission": "Defeat the extremists in Theater Square",
-      "mission_info": "What are these guys thinking, filling Theater\r\nSquare with gas drums...?",
+      "title": "Une odeur toxique : Légende",
+      "mission": "Vaincre les extrémistes à Theater Square",
+      "mission_info": "À quoi pensent ces types, remplir Theater Square\r\nde bidons d'essence... ?",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25932,9 +25932,9 @@
   },
   "607": {
     "lexus2_b_BTL19_01": {
-      "title": "Hidden from the World: Normal",
-      "mission": "Defeat the ninjas at the batting center",
-      "mission_info": "Ninjas? Seriously? Guess I should head over to\r\nthe batting center and let them know playtime\r\nis over.",
+      "title": "Caché du monde : Normal",
+      "mission": "Vaincre les ninjas au batting center.",
+      "mission_info": "Des ninjas ? Sérieusement ? Je suppose que je\r\ndevrais aller au batting center et leur faire\r\nsavoir que la récréation est terminée.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -25976,9 +25976,9 @@
   },
   "608": {
     "lexus2_b_BTL19_02": {
-      "title": "Hidden from the World: Difficile",
-      "mission": "Defeat the ninjas at the batting center",
-      "mission_info": "Ninjas? Seriously? Guess I should head over to\r\nthe batting center and let them know playtime\r\nis over.",
+      "title": "Caché du monde : Difficile",
+      "mission": "Vaincre les ninjas au batting center.",
+      "mission_info": "Des ninjas ? Sérieusement ? Je suppose que je\r\ndevrais aller au batting center et leur faire\r\nsavoir que la récréation est terminée.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26020,9 +26020,9 @@
   },
   "609": {
     "lexus2_b_BTL19_03": {
-      "title": "Hidden from the World: Légende",
-      "mission": "Defeat the ninjas at the batting center",
-      "mission_info": "Ninjas? Seriously? Guess I should head over to\r\nthe batting center and let them know playtime\r\nis over.",
+      "title": "Caché du monde : Légende",
+      "mission": "Vaincre les ninjas au batting center.",
+      "mission_info": "Des ninjas ? Sérieusement ? Je suppose que je\r\ndevrais aller au batting center et leur faire\r\nsavoir que la récréation est terminée.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26064,9 +26064,9 @@
   },
   "610": {
     "lexus2_b_BTL20_01": {
-      "title": "A Shady Investigation: Normal",
-      "mission": "Vaincre les ennemis and escape",
-      "mission_info": "Damn, guess this isn't gonna be as simple as\r\nit sounded. I should get out of here as soon\r\nas possible.",
+      "title": "Une investigation suspecte : Normal",
+      "mission": "Vaincre les ennemis et s'échapper",
+      "mission_info": "Mince, je suppose que ça ne va pas être aussi\r\nsimple que ça en avait l'air. Je devrais sortir\r\nd'ici le plus vite possible.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26108,9 +26108,9 @@
   },
   "611": {
     "lexus2_b_BTL20_02": {
-      "title": "A Shady Investigation: Difficile",
-      "mission": "Vaincre les ennemis and escape",
-      "mission_info": "Damn, guess this isn't gonna be as simple as\r\nit sounded. I should get out of here as soon\r\nas possible.",
+      "title": "Une investigation suspecte : Difficile",
+      "mission": "Vaincre les ennemis et s'échapper",
+      "mission_info": "Mince, je suppose que ça ne va pas être aussi\r\nsimple que ça en avait l'air. Je devrais sortir\r\nd'ici le plus vite possible.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26152,9 +26152,9 @@
   },
   "612": {
     "lexus2_b_BTL20_03": {
-      "title": "A Shady Investigation: Légende",
-      "mission": "Vaincre les ennemis and escape",
-      "mission_info": "Damn, guess this isn't gonna be as simple as\r\nit sounded. I should get out of here as soon\r\nas possible.",
+      "title": "Une investigation suspecte : Légende",
+      "mission": "Vaincre les ennemis et s'échapper",
+      "mission_info": "Mince, je suppose que ça ne va pas être aussi\r\nsimple que ça en avait l'air. Je devrais sortir\r\nd'ici le plus vite possible.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26196,9 +26196,9 @@
   },
   "613": {
     "lexus2_b_BTL21_01": {
-      "title": "Millennium Tower Showdown: Normal",
-      "mission": "Liberate the Millennium Tower",
-      "mission_info": "Looks like some armed thugs have taken over\r\nthe Millennium Tower. I can't let them get\r\naway with this.",
+      "title": "Confrontation dans la Millenium Tower : Normal",
+      "mission": "Libérer la Millennium Tower",
+      "mission_info": "On dirait que des voyous armés ont pris le\r\ncontrôle de la Millennium Tower. Je ne peux\r\npas les laisser s'enfuir avec ça.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26240,9 +26240,9 @@
   },
   "614": {
     "lexus2_b_BTL21_02": {
-      "title": "Millennium Tower Showdown: Difficile",
-      "mission": "Liberate the Millennium Tower",
-      "mission_info": "Looks like some armed thugs have taken over\r\nthe Millennium Tower. I can't let them get\r\naway with this.",
+      "title": "Confrontation dans la Millenium Tower : Difficile",
+      "mission": "Libérer la Millennium Tower",
+      "mission_info": "On dirait que des voyous armés ont pris le\r\ncontrôle de la Millennium Tower. Je ne peux\r\npas les laisser s'enfuir avec ça.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26284,9 +26284,9 @@
   },
   "615": {
     "lexus2_b_BTL21_03": {
-      "title": "Millennium Tower Showdown: Légende",
-      "mission": "Liberate the Millennium Tower",
-      "mission_info": "Looks like some armed thugs have taken over\r\nthe Millennium Tower. I can't let them get\r\naway with this.",
+      "title": "Confrontation dans la Millenium Tower : Légende",
+      "mission": "Libérer la Millennium Tower",
+      "mission_info": "On dirait que des voyous armés ont pris le\r\ncontrôle de la Millennium Tower. Je ne peux\r\npas les laisser s'enfuir avec ça.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26328,9 +26328,9 @@
   },
   "616": {
     "lexus2_b_BTL22_01": {
-      "title": "Midnight Shootout: Normal",
-      "mission": "Prevent the weapons deal",
-      "mission_info": "Apparently there's a weapons deal going down\r\nbehind the Millennium Tower. This is way above\r\nmy pay grade...",
+      "title": "Fusillade de minuit : Normal",
+      "mission": "Empêcher la vente d'armes",
+      "mission_info": "Apparemment, il y a un trafic d'armes derrière\r\nla Millennium Tower. C'est bien au-dessus\r\nde mes compétences...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26372,9 +26372,9 @@
   },
   "617": {
     "lexus2_b_BTL22_02": {
-      "title": "Midnight Shootout: Difficile",
-      "mission": "Prevent the weapons deal",
-      "mission_info": "Apparently there's a weapons deal going down\r\nbehind the Millennium Tower. This is way above\r\nmy pay grade...",
+      "title": "Fusillade de minuit : Difficile",
+      "mission": "Empêcher la vente d'armes",
+      "mission_info": "Apparemment, il y a un trafic d'armes derrière\r\nla Millennium Tower. C'est bien au-dessus\r\nde mes compétences...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26416,9 +26416,9 @@
   },
   "618": {
     "lexus2_b_BTL22_03": {
-      "title": "Midnight Shootout: Légende",
-      "mission": "Prevent the weapons deal",
-      "mission_info": "Apparently there's a weapons deal going down\r\nbehind the Millennium Tower. This is way above\r\nmy pay grade...",
+      "title": "Fusillade de minuit : Légende",
+      "mission": "Empêcher la vente d'armes",
+      "mission_info": "Apparemment, il y a un trafic d'armes derrière\r\nla Millennium Tower. C'est bien au-dessus\r\nde mes compétences...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26460,9 +26460,9 @@
   },
   "619": {
     "lexus2_b_BTL23_01": {
-      "title": "A Shady Investigation, Part 2: Normal",
-      "mission": "Vaincre les ennemis and escape Shangri-La",
-      "mission_info": "Doesn't look like they'll let me go without\r\na fight. I never liked sneaking around...",
+      "title": "Une investigation suspecte, partie 2 : Normal",
+      "mission": "Vaincre les ennemis et s'échapper de Shangri-La",
+      "mission_info": "On dirait qu'ils ne me laisseront pas y aller\r\nsans se battre. Je n'ai jamais aimé me faufiler...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26504,9 +26504,9 @@
   },
   "620": {
     "lexus2_b_BTL23_02": {
-      "title": "A Shady Investigation, Part 2: Difficile",
-      "mission": "Vaincre les ennemis and escape Shangri-La",
-      "mission_info": "Doesn't look like they'll let me go without\r\na fight. I never liked sneaking around...",
+      "title": "Une investigation suspecte, partie 2 : Difficile",
+      "mission": "Vaincre les ennemis et s'échapper de Shangri-La",
+      "mission_info": "On dirait qu'ils ne me laisseront pas y aller\r\nsans se battre. Je n'ai jamais aimé me faufiler...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26548,9 +26548,9 @@
   },
   "621": {
     "lexus2_b_BTL23_03": {
-      "title": "A Shady Investigation, Part 2: Légende",
-      "mission": "Vaincre les ennemis and escape Shangri-La",
-      "mission_info": "Doesn't look like they'll let me go without\r\na fight. I never liked sneaking around...",
+      "title": "Une investigation suspecte, partie 2 : Légende",
+      "mission": "Vaincre les ennemis et s'échapper de Shangri-La",
+      "mission_info": "On dirait qu'ils ne me laisseront pas y aller\r\nsans se battre. Je n'ai jamais aimé me faufiler...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26592,9 +26592,9 @@
   },
   "622": {
     "lexus2_b_BTL24_01": {
-      "title": "The Battle for Debolah: Normal",
-      "mission": "Subdue the rioters",
-      "mission_info": "There are a lot of guys here... This won't be\r\neasy.",
+      "title": "La bataille pour Debolah : Normal",
+      "mission": "Maîtriser les émeutiers",
+      "mission_info": "Il y a beaucoup de gars ici... Ce ne sera pas\r\nfacile.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26636,9 +26636,9 @@
   },
   "623": {
     "lexus2_b_BTL24_02": {
-      "title": "The Battle for Debolah: Difficile",
-      "mission": "Subdue the rioters",
-      "mission_info": "There are a lot of guys here... This won't be\r\neasy.",
+      "title": "La bataille pour Debolah : Difficile",
+      "mission": "Maîtriser les émeutiers",
+      "mission_info": "Il y a beaucoup de gars ici... Ce ne sera pas\r\nfacile.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26680,9 +26680,9 @@
   },
   "624": {
     "lexus2_b_BTL24_03": {
-      "title": "The Battle for Debolah: Légende",
-      "mission": "Subdue the rioters",
-      "mission_info": "There are a lot of guys here... This won't be\r\neasy.",
+      "title": "La bataille pour Debolah : Légende",
+      "mission": "Maîtriser les émeutiers",
+      "mission_info": "Il y a beaucoup de gars ici... Ce ne sera pas\r\nfacile.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26724,9 +26724,9 @@
   },
   "625": {
     "lexus2_b_BTL25_01": {
-      "title": "Champion District Charlatans: Normal",
-      "mission": "Defeat the charlatans",
-      "mission_info": "I can't let those guys keep causing trouble\r\nfor the Champion District. I wonder how they\r\nscraped together so many people, though...",
+      "title": "Charlatans du Champion District : Normal",
+      "mission": "Vaincre les charlatans",
+      "mission_info": "Je ne peux pas laisser ces gars continuer à\r\ncauser des problèmes au Champion District.\r\nJe me demande comment ils ont fait pour\r\nrassembler autant de personnes, cependant...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26768,9 +26768,9 @@
   },
   "626": {
     "lexus2_b_BTL25_02": {
-      "title": "Champion District Charlatans: Difficile",
-      "mission": "Defeat the charlatans",
-      "mission_info": "I can't let those guys keep causing trouble\r\nfor the Champion District. I wonder how they\r\nscraped together so many people, though...",
+      "title": "Charlatans du Champion District : Difficile",
+      "mission": "Vaincre les charlatans",
+      "mission_info": "Je ne peux pas laisser ces gars continuer à\r\ncauser des problèmes au Champion District.\r\nJe me demande comment ils ont fait pour\r\nrassembler autant de personnes, cependant...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26812,9 +26812,9 @@
   },
   "627": {
     "lexus2_b_BTL25_03": {
-      "title": "Champion District Charlatans: Légende",
-      "mission": "Defeat the charlatans",
-      "mission_info": "I can't let those guys keep causing trouble\r\nfor the Champion District. I wonder how they\r\nscraped together so many people, though...",
+      "title": "Charlatans du Champion District : Légende",
+      "mission": "Vaincre les charlatans",
+      "mission_info": "Je ne peux pas laisser ces gars continuer à\r\ncauser des problèmes au Champion District.\r\nJe me demande comment ils ont fait pour\r\nrassembler autant de personnes, cependant...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26856,9 +26856,9 @@
   },
   "628": {
     "lexus2_b_BTL26_01": {
-      "title": "Scattered Weapons: Normal",
-      "mission": "Vaincre les ennemis in the Millennium Tower",
-      "mission_info": "Some thugs are wreaking havoc over at the\r\nMillennium Tower. I should make use of the\r\nweapons hidden along the path there.",
+      "title": "Armes éparpillées : Normal",
+      "mission": "Vaincre les ennemis dans la Millennium Tower",
+      "mission_info": "Des voyous font des ravages dans la Millenium\r\nTower. Je devrais utiliser les armes cachées\r\nle long du chemin là-bas.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26900,9 +26900,9 @@
   },
   "629": {
     "lexus2_b_BTL26_02": {
-      "title": "Scattered Weapons: Difficile",
-      "mission": "Vaincre les ennemis in the Millennium Tower",
-      "mission_info": "Some thugs are wreaking havoc over at the\r\nMillennium Tower. I should make use of the\r\nweapons hidden along the path there.",
+      "title": "Armes éparpillées : Difficile",
+      "mission": "Vaincre les ennemis dans la Millennium Tower",
+      "mission_info": "Des voyous font des ravages dans la Millenium\r\nTower. Je devrais utiliser les armes cachées\r\nle long du chemin là-bas.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26944,9 +26944,9 @@
   },
   "630": {
     "lexus2_b_BTL26_03": {
-      "title": "Scattered Weapons: Légende",
-      "mission": "Vaincre les ennemis in the Millennium Tower",
-      "mission_info": "Some thugs are wreaking havoc over at the\r\nMillennium Tower. I should make use of the\r\nweapons hidden along the path there.",
+      "title": "Armes éparpillées : Légende",
+      "mission": "Vaincre les ennemis dans la Millennium Tower",
+      "mission_info": "Des voyous font des ravages dans la Millenium\r\nTower. Je devrais utiliser les armes cachées\r\nle long du chemin là-bas.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -26988,9 +26988,9 @@
   },
   "631": {
     "lexus2_b_BTL27_01": {
-      "title": "Redman Returns: Normal",
-      "mission": "Head to Bantam and defeat Redman",
-      "mission_info": "So that weird guy is back again... I feel bad\r\nfor the Bantam bartender.",
+      "title": "Redman revient : Normal",
+      "mission": "Aller à Bantam et vaincre Redman",
+      "mission_info": "Alors ce type bizarre est de retour... Je me sens\r\nmal pour le barman de Bantam.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27032,9 +27032,9 @@
   },
   "632": {
     "lexus2_b_BTL27_02": {
-      "title": "Redman Returns: Difficile",
-      "mission": "Head to Bantam and defeat Redman",
-      "mission_info": "So that weird guy is back again... I feel bad\r\nfor the Bantam bartender.",
+      "title": "Redman revient : Difficile",
+      "mission": "Aller à Bantam et vaincre Redman",
+      "mission_info": "Alors ce type bizarre est de retour... Je me sens\r\nmal pour le barman de Bantam.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27076,9 +27076,9 @@
   },
   "633": {
     "lexus2_b_BTL27_03": {
-      "title": "Redman Returns: Légende",
-      "mission": "Head to Bantam and defeat Redman",
-      "mission_info": "So that weird guy is back again... I feel bad\r\nfor the Bantam bartender.",
+      "title": "Redman revient : Légende",
+      "mission": "Aller à Bantam et vaincre Redman",
+      "mission_info": "Alors ce type bizarre est de retour... Je me sens\r\nmal pour le barman de Bantam.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27120,9 +27120,9 @@
   },
   "634": {
     "lexus2_b_BTL28_01": {
-      "title": "Between a Rock and a Difficile Place: Normal",
-      "mission": "Subdue the Tenkaichi Street mob",
-      "mission_info": "A mob that holds a grudge against bouncers,\r\nhuh? Something seems fishy here...",
+      "title": "Entre le marteau et l'enclume : Normal",
+      "mission": "Maîtriser la foule de Tenkaichi Street",
+      "mission_info": "Une bande qui en veut aux videurs, hein ?\r\nIl y a quelque chose de louche ici...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27164,9 +27164,9 @@
   },
   "635": {
     "lexus2_b_BTL28_02": {
-      "title": "Between a Rock and a Difficile Place: Difficile",
-      "mission": "Subdue the Tenkaichi Street mob",
-      "mission_info": "A mob that holds a grudge against bouncers,\r\nhuh? Something seems fishy here...",
+      "title": "Entre le marteau et l'enclume : Difficile",
+      "mission": "Maîtriser la foule de Tenkaichi Street",
+      "mission_info": "Une bande qui en veut aux videurs, hein ?\r\nIl y a quelque chose de louche ici...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27208,9 +27208,9 @@
   },
   "636": {
     "lexus2_b_BTL28_03": {
-      "title": "Between a Rock and a Difficile Place: Légende",
-      "mission": "Subdue the Tenkaichi Street mob",
-      "mission_info": "A mob that holds a grudge against bouncers,\r\nhuh? Something seems fishy here...",
+      "title": "Entre le marteau et l'enclume : Légende",
+      "mission": "Maîtriser la foule de Tenkaichi Street",
+      "mission_info": "Une bande qui en veut aux videurs, hein ?\r\nIl y a quelque chose de louche ici...",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27252,9 +27252,9 @@
   },
   "637": {
     "lexus2_b_BTL29_01": {
-      "title": "Eternal Twilight: Normal",
-      "mission": "Defeat the martial artists in Sotenbori",
-      "mission_info": "Sotenbori, huh? Sounds like my name's\r\nbeen thrown around, too. How do I keep\r\ngetting dragged into these things...?  ",
+      "title": "Crépuscule sans fin : Normal",
+      "mission": "Vaincre les artistes martiaux de Sotenbori.",
+      "mission_info": "Sotenbori, hein ? On dirait que mon nom a\r\naussi été cité. Comment je fais pour ne pas\r\nme laisser entraîner dans ces choses-là... ?  ",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27296,9 +27296,9 @@
   },
   "638": {
     "lexus2_b_BTL29_02": {
-      "title": "Eternal Twilight: Difficile",
-      "mission": "Defeat the martial artists in Sotenbori",
-      "mission_info": "Sotenbori, huh? Sounds like my name's\r\nbeen thrown around, too. How do I keep\r\ngetting dragged into these things...?  ",
+      "title": "Crépuscule sans fin : Difficile",
+      "mission": "Vaincre les artistes martiaux de Sotenbori.",
+      "mission_info": "Sotenbori, hein ? On dirait que mon nom a\r\naussi été cité. Comment je fais pour ne pas\r\nme laisser entraîner dans ces choses-là... ?  ",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27340,9 +27340,9 @@
   },
   "639": {
     "lexus2_b_BTL29_03": {
-      "title": "Eternal Twilight: Légende",
-      "mission": "Defeat the martial artists in Sotenbori",
-      "mission_info": "Sotenbori, huh? Sounds like my name's\r\nbeen thrown around, too. How do I keep\r\ngetting dragged into these things...?  ",
+      "title": "Crépuscule sans fin : Légende",
+      "mission": "Vaincre les artistes martiaux de Sotenbori.",
+      "mission_info": "Sotenbori, hein ? On dirait que mon nom a\r\naussi été cité. Comment je fais pour ne pas\r\nme laisser entraîner dans ces choses-là... ?  ",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27384,9 +27384,9 @@
   },
   "640": {
     "lexus2_b_BTL30_01": {
-      "title": "Pandemonium: Normal",
-      "mission": "Subdue the massive Theater Square riot",
-      "mission_info": "I can't let this get out of hand. Guess\r\nthere's only one option.",
+      "title": "Pandemonium : Normal",
+      "mission": "Maîtriser l'émeute massive de Theater Square",
+      "mission_info": "Je ne peux pas laisser ça devenir incontrôlable.\r\nIl n'y a qu'une seule option.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27428,9 +27428,9 @@
   },
   "641": {
     "lexus2_b_BTL30_02": {
-      "title": "Pandemonium: Difficile",
-      "mission": "Subdue the massive Theater Square riot",
-      "mission_info": "I can't let this get out of hand. Guess\r\nthere's only one option.",
+      "title": "Pandemonium : Difficile",
+      "mission": "Maîtriser l'émeute massive de Theater Square",
+      "mission_info": "Je ne peux pas laisser ça devenir incontrôlable.\r\nIl n'y a qu'une seule option.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27472,9 +27472,9 @@
   },
   "642": {
     "lexus2_b_BTL30_03": {
-      "title": "Pandemonium: Légende",
-      "mission": "Subdue the massive Theater Square riot",
-      "mission_info": "I can't let this get out of hand. Guess\r\nthere's only one option.",
+      "title": "Pandemonium : Légende",
+      "mission": "Maîtriser l'émeute massive de Theater Square",
+      "mission_info": "Je ne peux pas laisser ça devenir incontrôlable.\r\nIl n'y a qu'une seule option.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27815,9 +27815,9 @@
   },
   "650": {
     "lexus2_m_BTL91_0010": {
-      "title": "Defeat the Assassins",
-      "mission": "This the best ya got?",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "C'est tout ce que vous avez ?",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27859,9 +27859,9 @@
   },
   "651": {
     "lexus2_m_BTL92_0010": {
-      "title": "Defeat the Uematsu Family",
-      "mission": "This won't end well for ya, boys.",
-      "mission_info": "Defeat the Uematsu Family.",
+      "title": "Vaincre la famille Uematsu",
+      "mission": "Ça finira mal pour vous, les gars.",
+      "mission_info": "Vaincre la famille Uematsu",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27903,9 +27903,9 @@
   },
   "652": {
     "lexus2_m_BTL92_0020": {
-      "title": "Defeat the Assassins",
-      "mission": "Not today, fellas.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Pas aujourd'hui, les gars.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27947,9 +27947,9 @@
   },
   "653": {
     "lexus2_m_BTL93_0010": {
-      "title": "Defeat Kawamura",
-      "mission": "Kid, ya done fucked up.",
-      "mission_info": "Defeat Kawamura.",
+      "title": "Vaincre Kawamura",
+      "mission": "Gamin, t'as merdé.",
+      "mission_info": "Vaincre Kawamura.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27991,9 +27991,9 @@
   },
   "654": {
     "lexus2_m_BTL93_0020": {
-      "title": "Defeat Ibuchi",
-      "mission": "I hope I pissed him off.",
-      "mission_info": "Defeat Ibuchi.",
+      "title": "Vaincre Ibuchi",
+      "mission": "J'espère l'avoir énervé.",
+      "mission_info": "Vaincre Ibuchi.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -28079,9 +28079,9 @@
   },
   "656": {
     "lexus2_m_C91_0040": {
-      "title": "Return to the Majima Office",
-      "mission": "Time to plan some Majima magic.",
-      "mission_info": "Guess I'll chill for a bit at the Majima Family\r\noffice.",
+      "title": "Retourner au bureau de Majima",
+      "mission": "C'est l'heure d'un peu de magie façon Majima.",
+      "mission_info": "Je vais aller me détendre un peu au bureau de la\r\nfamille Majima.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -29958,9 +29958,9 @@
   },
   "699": {
     "lexus2_m_BTL11_0020_01": {
-      "title": "Defeat the Yakuza",
-      "mission": "Stop getting in my way.",
-      "mission_info": "Defeat the yakuza.",
+      "title": "Vaincre les yakuzas",
+      "mission": "Arrêtez de vous mettre sur mon chemin.",
+      "mission_info": "Vaincre les yakuzas.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -30002,9 +30002,9 @@
   },
   "700": {
     "lexus2_m_BTL11_0020_02": {
-      "title": "Defeat the Thugs",
-      "mission": "I've got no time for this.",
-      "mission_info": "Defeat the thugs.",
+      "title": "Vaincre les voyous",
+      "mission": "Je n'ai pas de temps pour ça.",
+      "mission_info": "Vaincre les voyous.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -30046,9 +30046,9 @@
   },
   "701": {
     "lexus2_m_BTL11_0020_03": {
-      "title": "Defeat the Yakuza",
-      "mission": "This is getting old, guys.",
-      "mission_info": "Defeat the yakuza.",
+      "title": "Vaincre les yakuzas",
+      "mission": "Ça devient vieux, les gars.",
+      "mission_info": "Vaincre les yakuzas.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -30090,9 +30090,9 @@
   },
   "702": {
     "lexus2_m_BTL11_0020_04": {
-      "title": "Defeat the Thugs",
-      "mission": "Stop getting in my way.",
-      "mission_info": "Defeat the thugs.",
+      "title": "Vaincre les voyous",
+      "mission": "Arrêtez de vous mettre sur mon chemin.",
+      "mission_info": "Vaincre les voyous.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -30348,9 +30348,9 @@
   },
   "708": {
     "lexus2_m_BTL13_0025_01": {
-      "title": "Defeat the Jingweon Mafia",
-      "mission": "Justice will trump vengeance.",
-      "mission_info": "Defeat the Jingweon Mafia.",
+      "title": "Vaincre la mafia Jingweon",
+      "mission": "La justice l'emportera sur la vengeance.",
+      "mission_info": "Vaincre la mafia Jingweon.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -30392,9 +30392,9 @@
   },
   "709": {
     "lexus2_m_BTL13_0025_02": {
-      "title": "Defeat the Jingweon Mafia",
-      "mission": "I have to beat them.",
-      "mission_info": "Defeat the Jingweon Mafia.",
+      "title": "Vaincre la mafia Jingweon",
+      "mission": "Je dois les vaincre.",
+      "mission_info": "Vaincre la mafia Jingweon.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -30436,9 +30436,9 @@
   },
   "710": {
     "lexus2_m_BTL13_0025_03": {
-      "title": "Defeat the Jingweon Mafia",
-      "mission": "I can't let them win this.",
-      "mission_info": "Defeat the Jingweon Mafia.",
+      "title": "Vaincre la mafia Jingweon",
+      "mission": "Je ne peux pas les laisser gagner.",
+      "mission_info": "Vaincre la mafia Jingweon.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -32786,7 +32786,7 @@
   },
   "765": {
     "lexus2_s_ADVsubsA11_010": {
-      "title": "Association Forestière de Kamurocho",
+      "title": "Association forestière de Kamurocho",
       "mission": "Signer la pétition",
       "mission_info": "J'ai rencontré un activiste qui parlait des\r\nforêts de Kamurocho. Ça ne me dérange\r\npas de signer sa pétition si\r\nça peut améliorer la ville.",
       "priority": 0,
@@ -35195,7 +35195,7 @@
   },
   "822": {
     "lexus2_s_ADVsubsA11_030": {
-      "title": "Association Forestière de Kamurocho",
+      "title": "Association forestière de Kamurocho",
       "mission": "Enquêter sur l'appel téléphonique",
       "mission_info": "J'ai reçu un appel téléphonique à propos\r\nd'un prêt que je n'ai jamais contracté.\r\nJ'ai besoin de comprendre ce qui se passe.",
       "priority": 0,
@@ -35239,7 +35239,7 @@
   },
   "823": {
     "lexus2_s_ADVsubsA11_060": {
-      "title": "Association Forestière de Kamurocho",
+      "title": "Association forestière de Kamurocho",
       "mission": "Parler à Morita",
       "mission_info": "Apparemment, Morita est au courant de ces\r\nfaux prêts frauduleux. Je devrais aller à\r\nTheater Square et lui parler.",
       "priority": 0,
@@ -35283,7 +35283,7 @@
   },
   "824": {
     "lexus2_s_ADVsubsA11_070": {
-      "title": "Association Forestière de Kamurocho",
+      "title": "Association forestière de Kamurocho",
       "mission": "Se rendre au bureau des fraudeurs",
       "mission_info": "Ces fraudeurs sont au troisième étage de\r\nl'immeuble sur Park Blvd. Je dois me\r\nrendre là-bas.",
       "priority": 0,
@@ -35327,7 +35327,7 @@
   },
   "825": {
     "lexus2_s_ADVsubsA11_080": {
-      "title": "Association Forestière de Kamurocho",
+      "title": "Association forestière de Kamurocho",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -36989,9 +36989,9 @@
   },
   "865": {
     "lexus2_m_BTL12_0005_01": {
-      "title": "Defeat the Thugs",
-      "mission": "You're getting in my way.",
-      "mission_info": "Defeat the thugs.",
+      "title": "Vaincre les voyous",
+      "mission": "Vous êtes sur mon chemin.",
+      "mission_info": "Vaincre les voyous.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -37033,9 +37033,9 @@
   },
   "866": {
     "lexus2_m_BTL12_0005_02": {
-      "title": "Defeat the Thugs",
-      "mission": "I've had enough of this.",
-      "mission_info": "Defeat the thugs.",
+      "title": "Vaincre les voyous",
+      "mission": "J'en ai assez.",
+      "mission_info": "Vaincre les voyous.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38430,9 +38430,9 @@
   },
   "900": {
     "lexus2_majima_enc_adv92_0060_e01": {
-      "title": "Defeat the Assassins",
-      "mission": "This the best ya got?",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "C'est tout ce que vous avez ?",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38474,9 +38474,9 @@
   },
   "901": {
     "lexus2_majima_enc_adv92_0060_e02": {
-      "title": "Defeat the Assassins",
-      "mission": "Who keeps sendin' heavies at me?",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Qui continue à m'envoyer des bombes ?",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38518,9 +38518,9 @@
   },
   "902": {
     "lexus2_majima_enc_adv93_0010_e01": {
-      "title": "Defeat the Assassins",
-      "mission": "These jackasses don't seem to learn.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Ces crétins n'ont pas l'air d'apprendre.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38562,9 +38562,9 @@
   },
   "903": {
     "lexus2_majima_enc_adv93_0010_e02": {
-      "title": "Defeat the Assassins",
-      "mission": "Again? This is gettin' old.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Encore ? Ça commence à dater.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38607,8 +38607,8 @@
   "904": {
     "lexus2_majima_enc_adv93_0010_e03": {
       "title": "Defeat the Assassins",
-      "mission": "I've had it with these clowns.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "mission": "J'en ai assez de ces clowns.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38650,9 +38650,9 @@
   },
   "905": {
     "lexus2_majima_enc_adv93_0010_e04": {
-      "title": "Defeat the Assassins",
-      "mission": "This is gettin' comical.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Ça devient drôle.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38694,9 +38694,9 @@
   },
   "906": {
     "lexus2_majima_enc_adv93_0010_e05": {
-      "title": "Defeat the Assassins",
-      "mission": "These guys couldn't kill a goldfish.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Ces types ne feraient pas de mal à une mouche.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -38738,9 +38738,9 @@
   },
   "907": {
     "lexus2_majima_enc_adv93_0010_e06": {
-      "title": "Defeat the Assassins",
-      "mission": "Oh look, the worst assassins ever.",
-      "mission_info": "Defeat the Mysterious Assassins.",
+      "title": "Vaincre les assassins",
+      "mission": "Oh regarde, les pires assassins de tous les temps.",
+      "mission_info": "Vaincre les mystérieux assassins.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -40568,7 +40568,7 @@
   },
   "949": {
     "k_eve_enc01": {
-      "title": "Vaincre les harceleurs ",
+      "title": "Vaincre les harceleurs",
       "mission": "Vaincre les ennemis.",
       "mission_info": "Ces types sont une vraie épine dans mon pied.\r\nJe n'ai pas vraiment d'autre choix que de les combattre.",
       "priority": 100,
@@ -41771,7 +41771,7 @@
     "k_eve_enc02": {
       "title": "Vaincre les harceleurs ",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "Ces types sont une vraie épine dans mon pied.\r\nJe n'ai pas vraiment d'autre choix que de les combattre.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -41813,9 +41813,9 @@
   },
   "979": {
     "k_eve_enc03": {
-      "title": "Shake Up the Shakedown Squad",
+      "title": "Défoncer le groupe de racketteurs",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -41857,9 +41857,9 @@
   },
   "980": {
     "k_eve_enc04": {
-      "title": "Shake Up the Shakedown Squad",
+      "title": "Défoncer le groupe de racketteurs",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -41901,9 +41901,9 @@
   },
   "981": {
     "k_eve_enc05": {
-      "title": "Shake Up the Shakedown Squad",
+      "title": "Défoncer le groupe de racketteurs",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -41945,9 +41945,9 @@
   },
   "982": {
     "k_eve_enc06": {
-      "title": "A Danger to Dating",
+      "title": "Le danger des rendez-vous",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -41989,9 +41989,9 @@
   },
   "983": {
     "k_eve_enc07": {
-      "title": "A Danger to Dating",
+      "title": "Le danger des rendez-vous",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -42033,9 +42033,9 @@
   },
   "984": {
     "o_eve_enc01": {
-      "title": "A Danger to Dating",
+      "title": "Le danger des rendez-vous",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -42079,7 +42079,7 @@
     "o_eve_enc02": {
       "title": "Vaincre les harceleurs ",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "Ces types sont une vraie épine dans mon pied.\r\nJe n'ai pas vraiment d'autre choix que de les combattre.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -42121,9 +42121,9 @@
   },
   "986": {
     "o_eve_enc03": {
-      "title": "Shake Up the Shakedown Squad",
+      "title": "Défoncer le groupe de racketteurs",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
@@ -42209,9 +42209,9 @@
   },
   "988": {
     "o_eve_enc05": {
-      "title": "Shake Up the Shakedown Squad",
+      "title": "Défoncer le groupe de racketteurs",
       "mission": "Vaincre les ennemis.",
-      "mission_info": "These guys are a real thorn in my side.\r\nNot much choice but to fight them, though.",
+      "mission_info": "Ces types sont une vraie plaie pour moi.\r\nJe n'ai pas vraiment d'autre choix que de\r\nles combattre.",
       "priority": 100,
       "bgm_type": 0,
       "is_battle": "1",
