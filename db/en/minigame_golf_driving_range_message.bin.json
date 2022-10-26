@@ -57,7 +57,7 @@
   },
   "4": {
     "course_bingo": {
-      "text": "Défi Bingo",
+      "text": "Challenge Bingo",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
@@ -71,7 +71,7 @@
   },
   "6": {
     "to_pin": {
-      "text": "jusqu'à l'objectif",
+      "text": "Jusqu'à l'objectif",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }

@@ -7420,8 +7420,8 @@
   "192": {
     "lexus2_golf_bingo_three_line": {
       "category": 4,
-      "name": "Obtenir 3 Bingos dans le défi Bingo",
-      "explanation": "Obtenir au moins 3 lignes dans une partie du\r\ndéfi Bingo",
+      "name": "Obtenir 3 Bingos dans le Challenge Bingo",
+      "explanation": "Obtenir au moins 3 lignes dans une partie du\r\nChallenge Bingo",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",

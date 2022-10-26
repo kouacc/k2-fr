@@ -3433,7 +3433,7 @@
     "lexus2_golf_menu": {
       "headline": "Que voulez-vous faire aujourd'hui, monsieur ?",
       "option0": "Jouer à l'Approche parfaite (1 000 yens)",
-      "option1": "Jouer au challenge Bingo (1 000 yens)",
+      "option1": "Jouer au Challenge Bingo (1 000 yens)",
       "option2": "Voir les records",
       "option3": "Annuler",
       "reARMP_validityBool": "00000010",
@@ -4815,8 +4815,8 @@
     "lexus2_advsubsa24_035_select_01": {
       "option0": "Je suis ici pour acheter.",
       "option1": "Je suis ici pour vendre.",
-      "option2": "Je suis ici pour vendre des armes.",
-      "option3": "Je suis ici pour vendre de l'équipement.",
+      "option2": "Je suis ici pour vendre de l'équipement.",
+      "option3": "Je suis ici pour réparer des armes.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 370
