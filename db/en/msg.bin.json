@@ -947,7 +947,7 @@
         },
         "2": {
           "": {
-            "1": "Si vous n'avez pas sauvegardé manuellement, il est\r\nrecommandé de le faire afin\r\nd'éviter de perdre tout progression. Continuer ?",
+            "1": "Si vous n'avez pas sauvegardé manuellement, il est\r\nrecommandé de le faire afin d'éviter de\r\nperdre tout progression. Continuer ?",
             "reARMP_validityBool": "00000110",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 56

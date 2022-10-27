@@ -15385,7 +15385,7 @@
       "base_coefficient": 0.0,
       "picture": 0,
       "name": "Essence du lancer aplatissant",
-      "explanation": "Jetez brutalement l'ennemi que vous tenez contre\r\ncontre des ennemis déjà mis à terre.",
+      "explanation": "Jetez brutalement l'ennemi que vous tenez\r\ncontre des ennemis déjà mis à terre.",
       "locked_message": "Déverrouillé en lisant un livre de techniques.",
       "unlocked_message": "Tout en attrapant un ennemi, appuyez sur <Sign:1,Combat> près des ennemis terrassés.",
       "need_skill1": 0,
