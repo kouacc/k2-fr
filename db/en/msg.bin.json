@@ -344,7 +344,7 @@
         },
         "36": {
           "": {
-            "1": "Majima ne peut récupérer de la santé qu'en mangeant.\r\nIl ne gagnera pas d'EXP. Par ailleurs, veuillez noter\r\nque vous ne pouvez pas dépasser votre jauge de faim\r\nlorsque vous êtes dans la saga Majima.",
+            "1": "Majima ne peut récupérer de la santé qu'en mangeant.\r\nIl ne gagnera pas d'EXP. Par ailleurs, veuillez noter\r\nque vous ne pouvez pas dépasser votre jauge de faim\r\nlorsque vous êtes dans la Saga Majima.",
             "reARMP_validityBool": "00000110",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 29
