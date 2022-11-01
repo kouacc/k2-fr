@@ -862,7 +862,7 @@
   "92": {
     "tougi_01": {
       "is_wnd_size_large": "0",
-      "msg_system": "Règles du Colisée\r\n\r\n1. Celui qui se bat jusqu'à la fin est le gagnant.\r\n2. 30% de la santé maximale est récupérée pendant les intervalles de match.\r\n3. L'honneur est donné au vainqueur du championnat.",
+      "msg_system": "Règles du Colisée\r\n\r\n1. Celui qui se bat jusqu'à la fin est le gagnant.\r\n2. 30% de la santé maximale est récupérée pendant les\r\nintervalles de match.\r\n3. L'honneur est donné au vainqueur du championnat.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 74

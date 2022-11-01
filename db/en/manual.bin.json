@@ -1893,7 +1893,7 @@
         },
         "32": {
           "": {
-            "6": "Réussir à réprimander l'ennemi vous gagnera un bonus de défense. Le montant\r\nd'argent que vous gagnez dépend du type de bonus de défense que vous obtenez. Les bonus\r\nde défense sont répartis en les types suivants.\r\n\r\n<color=mg_relu_topic>Équipements restants</color>\r\nBasé selon le nombre de pièces d'équipement que vous avez laissées.\r\n<color=mg_relu_topic>Durabilité des équipements</color>\r\nBasé selon la durabilité de vos équipements.\r\n<color=mg_relu_topic>Temps passé</color>\r\nBasé selon le temps nécessaire pour vaincre tous les ennemis.\r\n<color=mg_relu_topic>Conservation d'argent</color>\r\nBasé selon le montant d'argent restant à la fin du combat.\r\n<color=mg_relu_topic>Essence de la Bonne Chance</color>\r\nBasé sur votre utilisation de la compétence Essence de la Bonne Chance.",
+            "6": "Réussir à vaincre l'ennemi vous fera gagner un bonus de défense. La somme\r\nd'argent que vous gagnerez dépendra du type de bonus de défense que vous obtenez. Les bonus\r\nde défense sont répartis selon les types suivants.\r\n\r\n<color=mg_relu_topic>Équipements restants</color>\r\nBasé selon le nombre de pièces d'équipement que vous avez laissées.\r\n<color=mg_relu_topic>Durabilité des équipements</color>\r\nBasé selon la durabilité de vos équipements.\r\n<color=mg_relu_topic>Temps passé</color>\r\nBasé selon le temps nécessaire pour vaincre tous les ennemis.\r\n<color=mg_relu_topic>Conservation d'argent</color>\r\nBasé selon le montant d'argent restant à la fin du combat.\r\n<color=mg_relu_topic>Essence de la Bonne Chance</color>\r\nBasé sur votre utilisation de la compétence Essence de la Bonne Chance.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1919,7 +1919,7 @@
         },
         "34": {
           "": {
-            "6": "Basé sur votre performance dans une mission, vous gagnerez des Prix du Président,\r\nqui peuvent être utilisées dans le menu du Clan Creator pour renforcer vos unités.\r\n\r\n<color=mg_relu_topic>Bonus de réussite</color>\r\nObtenu en terminant la mission.\r\n<color=mg_relu_topic>Bonus de survie</color>\r\nObtenu en faisant survivre toutes les unités à la mission.\r\n<color=mg_relu_topic>Rang</color>\r\nObtenu en fonction de votre rang de bonus de défense.",
+            "6": "Basé sur votre performance dans une mission, vous gagnerez des Prix du Président,\r\nqui peuvent être utilisés dans le menu du Clan Creator pour renforcer vos unités.\r\n\r\n<color=mg_relu_topic>Bonus de réussite</color>\r\nObtenu en terminant la mission.\r\n<color=mg_relu_topic>Bonus de survie</color>\r\nObtenu en faisant survivre toutes les unités à la mission.\r\n<color=mg_relu_topic>Rang</color>\r\nObtenu en fonction de votre rang de bonus de défense.",
             "7": 0,
             "9": 0,
             "11": 0,

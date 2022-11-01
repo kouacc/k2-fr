@@ -181,7 +181,7 @@
   },
   "6": {
     "aoyama_movie00": {
-      "name": "Ravi de te rencontrer",
+      "name": "Ravie de vous rencontrer",
       "texture": 4799,
       "movie": 580,
       "running_time": 24.0,
@@ -487,7 +487,7 @@
   },
   "23": {
     "aoyama_movie17": {
-      "name": "Est-ce que ça fait quelque chose ?",
+      "name": "Ça fait quelque chose ?",
       "texture": 4816,
       "movie": 597,
       "running_time": 23.0,
@@ -829,7 +829,7 @@
   },
   "42": {
     "aoyama_movie36": {
-      "name": "Bienvenue à la maison, Maître",
+      "name": "Bienvenue chez vous, maître",
       "texture": 4835,
       "movie": 616,
       "running_time": 24.0,
@@ -919,7 +919,7 @@
   },
   "47": {
     "aoyama_movie41": {
-      "name": "Remerciez-moi, Maître !",
+      "name": "Remerciez-moi, maître !",
       "texture": 4840,
       "movie": 621,
       "running_time": 22.0,
@@ -1063,7 +1063,7 @@
   },
   "55": {
     "aoyama_movie49": {
-      "name": "Trop agressif",
+      "name": "Trop agressive",
       "texture": 4848,
       "movie": 629,
       "running_time": 22.0,
@@ -1135,7 +1135,7 @@
   },
   "59": {
     "aoyama_movie53": {
-      "name": "Je suis embarrassé !",
+      "name": "Je suis embarrassée !",
       "texture": 4852,
       "movie": 633,
       "running_time": 24.0,
@@ -1297,7 +1297,7 @@
   },
   "68": {
     "aoyama_movie62": {
-      "name": "Prenez des tonnes de photos !",
+      "name": "Prenez beaucoup de photos !",
       "texture": 4861,
       "movie": 642,
       "running_time": 28.0,
@@ -1477,7 +1477,7 @@
   },
   "78": {
     "hashimoto_movie00": {
-      "name": "Pleased to Meet Ya",
+      "name": "Enchantée de vous rencontrer",
       "texture": 5086,
       "movie": 652,
       "running_time": 20.0,
@@ -1495,7 +1495,7 @@
   },
   "79": {
     "hashimoto_movie01": {
-      "name": "Prenez toutes les photos que vous voulez",
+      "name": "Prenez autant de photos",
       "texture": 5087,
       "movie": 653,
       "running_time": 22.0,
@@ -1945,7 +1945,7 @@
   },
   "104": {
     "hashimoto_movie26": {
-      "name": "On ne peut pas attendre, hein ?",
+      "name": "Impatient, hein ?",
       "texture": 5112,
       "movie": 678,
       "running_time": 24.0,
@@ -1999,7 +1999,7 @@
   },
   "107": {
     "hashimoto_movie29": {
-      "name": "Quelques poses supplémentaires",
+      "name": "Quelques poses en plus",
       "texture": 5115,
       "movie": 681,
       "running_time": 28.0,
@@ -2341,7 +2341,7 @@
   },
   "126": {
     "hashimoto_movie48": {
-      "name": "Des maillots de bain, tout le temps",
+      "name": "Des maillots, tout le temps",
       "texture": 5134,
       "movie": 700,
       "running_time": 27.0,
@@ -2629,7 +2629,7 @@
   },
   "142": {
     "hashimoto_movie64": {
-      "name": "Quelque chose d'encore plus sexy",
+      "name": "Encore plus sexy",
       "texture": 5150,
       "movie": 716,
       "running_time": 21.0,
@@ -2701,7 +2701,7 @@
   },
   "146": {
     "hashimoto_movie68": {
-      "name": "Impossible de supporter la chaleur",
+      "name": "Dur de supporter la chaleur",
       "texture": 5154,
       "movie": 719,
       "running_time": 14.0,

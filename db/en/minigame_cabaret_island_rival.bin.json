@@ -216,7 +216,7 @@
     "league_01": {
       "shop_name": "Kineicho Platinum Goddess",
       "fan_num": 13000,
-      "explanation": "Le champion de la Ligue Millionnaire.\r\nUne équipe d'as, menée par\r\nYua.",
+      "explanation": "Le champion de la Ligue\r\nMillionnaire. Une équipe\r\nd'as, menée par Yua.",
       "cast": "Yua",
       "cast_texture": 3705,
       "league_id": 16,
@@ -248,7 +248,7 @@
     "league_03": {
       "shop_name": "Osaka Heaven's Goddess",
       "fan_num": 4000,
-      "explanation": "Le champion de la Ligue Paradise.\r\nUn club populaire d'Osaka\r\nconnu pour son\r\nambiance énergique.",
+      "explanation": "Le champion de la Ligue Paradise.\r\nUn club populaire d'Osaka connu\r\npour son ambiance\r\nénergique.",
       "cast": "Aika",
       "cast_texture": 3680,
       "league_id": 18,
@@ -264,7 +264,7 @@
     "league_04": {
       "shop_name": "Hiroshima Sweet Goddess",
       "fan_num": 1500,
-      "explanation": "Le champion de la Ligue Fresh.\r\nUn nouveau club du groupe Kanzaki\r\nqui fait des progrès grâce à\r\nson as, Kana.",
+      "explanation": "Le champion de la Ligue Fresh.\r\nUn nouveau club du groupe\r\nKanzaki qui fait des progrès\r\ngrâce à son as, Kana.",
       "cast": "Kana",
       "cast_texture": 3685,
       "league_id": 19,
