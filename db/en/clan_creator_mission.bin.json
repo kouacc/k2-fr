@@ -5465,7 +5465,7 @@
   "62": {
     "cln_04_btl_04": {
       "name": "Affrontement avec le Dragon",
-      "explanation": "Battez l'un des trois mousquetaires, le Dragon\r\nFujinami !",
+      "explanation": "Battez l'un des trois mousquetaires, Fujinami le dragon !",
       "category": 1,
       "next_scenario": 5110,
       "stage": 1,
@@ -5805,7 +5805,7 @@
   "66": {
     "cln_07_btl_08": {
       "name": "Choshu entre en scène",
-      "explanation": "Repoussez les hommes de main de Choshu et protégez Majima Construction !",
+      "explanation": "Repoussez les hommes de main de Choshu et protégez\r\nMajima Construction !",
       "category": 1,
       "next_scenario": 5122,
       "stage": 1,
@@ -6144,7 +6144,7 @@
   },
   "70": {
     "cln_09_btl_12": {
-      "name": "La véritable force de Mutoh Immobilier",
+      "name": "La véritable force de Mutoh Realty",
       "explanation": "Mutoh envoie encore plus d'hommes. Éliminez-les !",
       "category": 1,
       "next_scenario": 5126,
@@ -6230,7 +6230,7 @@
   "71": {
     "cln_10_btl_13": {
       "name": "Un affrontement charismatique",
-      "explanation": "Le temps est venu d'affronter Mutoh et Chono directement.\r\nBattez-les et détruisez les ambitions tordues de Mutoh Immobilier !",
+      "explanation": "Le temps est venu d'affronter Mutoh et Chono directement.\r\nBattez-les et détruisez les ambitions tordues de Mutoh Realty !",
       "category": 1,
       "next_scenario": 5113,
       "stage": 1,
@@ -6314,8 +6314,8 @@
   },
   "72": {
     "cln_11_btl_14": {
-      "name": "A Clash with Chono",
-      "explanation": "Repel Chono's thugs and protect Majima Construction!",
+      "name": "Un conflit avec Chono",
+      "explanation": "Repoussez les voyous de Chono et protégez Majima Construction !",
       "category": 1,
       "next_scenario": 5128,
       "stage": 1,
@@ -6333,7 +6333,7 @@
       "level": 5,
       "win_condition_explanation": "Vaincre tous les ennemis",
       "lose_condition_explanation": "Tous les équipements/unités perdues",
-      "place_text": "Kamurocho: Theater Square",
+      "place_text": "Kamurocho : Theater Square",
       "place_picture": 2531,
       "reward_member": 0,
       "boss0": 524,
@@ -7750,7 +7750,7 @@
   "89": {
     "CLN_ON_06": {
       "name": "Les légendes renaissent !",
-      "explanation": "Une mission spéciale en ligne où les légendes viennent\r\napporter la douleur ! Relèverez-vous le défi, ou succomberez-vous à leur puissance ?",
+      "explanation": "Une mission spéciale en ligne où les légendes viennent\r\napporter la douleur ! Relèverez-vous le défi, ou succomberez-vous\r\nà leur puissance ?",
       "category": 4,
       "next_scenario": 5440,
       "stage": 1,

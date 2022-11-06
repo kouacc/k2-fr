@@ -2781,7 +2781,7 @@
         },
         "3": {
           "": {
-            "1": "Lv.${level}",
+            "1": "Nv.${level}",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 90
           }
@@ -5172,7 +5172,7 @@
         },
         "1": {
           "": {
-            "1": "Difficulté: ${value}",
+            "1": "Difficulté : ${value}",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }

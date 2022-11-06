@@ -1848,7 +1848,7 @@
   },
   "129": {
     "ディーラー": {
-      "talk_talker": "Dealer",
+      "talk_talker": "Donneur",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -7109,7 +7109,7 @@
   },
   "505": {
     "絡まれていた女": {
-      "talk_talker": "Femme anciennement En danger",
+      "talk_talker": "Femme en danger",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,

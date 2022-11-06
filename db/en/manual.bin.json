@@ -205,7 +205,7 @@
         },
         "4": {
           "": {
-            "6": "Ce jeu se joue avec un paquet de cartes hanafuda. Réaliser une paire avec une carte de votre main\r\net une carte sur la table vous permet de prendre cette carte. Le but du jeu\r\nest de former des combinaisons de cartes spéciales pour battre vos adversaires.\r\n\r\n*Il y a douze familles de cartes (Janvier à Décembre).\r\n*Chaque famille se compose de quatre cartes.  ",
+            "6": "Ce jeu se joue avec un paquet de cartes hanafuda. Réaliser une paire avec une\r\ncarte de votre main et une carte sur la table vous permet de prendre cette\r\ncarte. Le but du jeu est de former des combinaisons de cartes spéciales pour\r\nbattre vos adversaires.\r\n\r\n*Il y a douze familles de cartes (janvier à décembre).\r\n*Chaque famille se compose de quatre cartes.  ",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -229,7 +229,7 @@
         },
         "6": {
           "": {
-            "6": "Quand vous formez une combinaison spéciale avec des cartes capturées, vous pouvez\r\ndécider de continuer en disant \"Koi\".\r\n<color=mg_relu_topic>Dire \"Koi\"</color>\r\nLa manche continue et vous essayez de former d'autres combinaisons.\r\n<color=mg_relu_topic>Ne pas dire \"Koi\"</color>\r\nLa manche s'arrête et vous calculez les points en fonction des combinaisons que vous avez.",
+            "6": "Quand vous formez une combinaison spéciale avec des cartes capturées,\r\nvous pouvez décider de continuer en disant \"Koi\".\r\n<color=mg_relu_topic>Dire \"Koi\"</color>\r\nLa manche continue et vous essayez de former d'autres combinaisons.\r\n<color=mg_relu_topic>Ne pas dire \"Koi\"</color>\r\nLa manche s'arrête et vous calculez les points en fonction des combinaisons\r\nque vous avez.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -374,7 +374,7 @@
         },
         "6": {
           "": {
-            "6": "Ce jeu se joue avec un paquet de cartes hanafuda, mais seules les cartes de\r\nJanvier à Octobre sont utilisées. Chaque mois a une valeur numérique correspondant à son emplacement\r\ndans le calendrier (par exemple, janvier vaut 1, octobre 10).\r\n\r\nLes joueurs reçoivent chacun deux ou trois cartes qu'ils additionnent. Pour\r\nles résultats supérieurs à 10, seul le dernier chiffre (celui des unités) est pris en compte. Le joueur\r\nle plus proche de 9 gagne.\r\n\r\nIl y a quatre joueurs dont un donneur. Le donneur joue contre\r\nles autres joueurs qui misent.\r\n\r\nLe donneur change à chaque nouvelle manche.",
+            "6": "Ce jeu se joue avec un paquet de cartes hanafuda, mais seules les cartes de\r\njanvier à octobre sont utilisées. Chaque mois a une valeur numérique\r\ncorrespondant à son emplacement dans le calendrier (par exemple, janvier vaut 1, octobre 10).\r\n\r\nLes joueurs reçoivent chacun deux ou trois cartes qu'ils additionnent. Pour\r\nles résultats supérieurs à 10, seul le dernier chiffre (celui des unités) est pris\r\nen compte. Le joueur le plus proche de 9 gagne.\r\n\r\nIl y a quatre joueurs dont un donneur. Le donneur joue contre\r\nles autres joueurs qui misent.\r\n\r\nLe donneur change à chaque nouvelle manche.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -386,7 +386,7 @@
         },
         "7": {
           "": {
-            "6": "Quatre cartes sont posées face visible sur la table.\r\n\r\nChaque joueur sélectionne une carte parmi les quatre sur la table sur laquelle\r\nmiser.\r\n\r\nEnsuite, chaque joueur reçoit une carte supplémentaire de la pioche.\r\n\r\nLes joueurs hors donneur peuvent garder deux cartes ou tirer une troisième carte\r\npour aller jusqu'à l'abattage avec un total de trois cartes.\r\n\r\nLes joueurs qui choisissent de prendre une troisième carte la pioche à ce moment-là.",
+            "6": "Quatre cartes sont posées face visible sur la table.\r\n\r\nChaque joueur sélectionne une carte parmi les quatre sur la table\r\nsur laquelle miser.\r\n\r\nEnsuite, chaque joueur reçoit une carte supplémentaire de la pioche.\r\n\r\nLes joueurs hors donneur peuvent garder deux cartes ou tirer une troisième carte\r\npour aller jusqu'à l'abattage avec un total de trois cartes.\r\n\r\nLes joueurs qui choisissent de prendre une troisième carte la pioche à ce moment-là.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -398,7 +398,7 @@
         },
         "8": {
           "": {
-            "6": "Le donneur pioche une fois que les trois autres joueurs ont pris leurs décisions.\r\n\r\nAprès avoir pioché deux cartes, le donneur peut choisir d'en tirer une troisième. Le\r\ndonneur peut également choisir quels joueurs défier avec deux cartes et lesquels\r\navec trois cartes.\r\n\r\nUne fois les vainqueurs déterminés et les points calculés, le donneur\r\nchange et on passe à la manche suivante.",
+            "6": "Le donneur pioche une fois que les trois autres joueurs ont pris leurs décisions.\r\n\r\nAprès avoir pioché deux cartes, le donneur peut choisir d'en tirer une troisième.\r\nLe donneur peut également choisir quels joueurs défier avec deux cartes et lesquels\r\navec trois cartes.\r\n\r\nUne fois les vainqueurs déterminés et les points calculés, le donneur\r\nchange et on passe à la manche suivante.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -446,7 +446,7 @@
         },
         "12": {
           "": {
-            "6": "　　<color=mg_relu_topic>Dix-dix-un</color> : Deux cartes ont une valeur de 10 et une\r\n　　de 1. Valable pour le donneur et les joueurs. Rapporte 20 fois la mise.\r\n　　<color=mg_relu_topic>Quatre-six</color> : Les deux premières cartes distribuées étaient 4 et 6. Valable pour\r\n　　le donneur et les joueurs. Le joueur peut choisir d'abandonner\r\n　　la manche en cours.  ",
+            "6": "　　<color=mg_relu_topic>Dix-dix-un</color> : Deux cartes ont une valeur de 10 et une de 1.\r\n　　Valable pour le donneur et les joueurs. Rapporte 20 fois la mise.\r\n　　<color=mg_relu_topic>Quatre-six</color> : Les deux premières cartes distribuées étaient 4 et 6.\r\n　　Valable pour le donneur et les joueurs. Le joueur peut choisir\r\n　　d'abandonner la manche en cours.  ",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -560,7 +560,7 @@
         },
         "1": {
           "": {
-            "6": "Le poker est un jeu dans lequel le joueur ayant la plus forte main de 5 cartes à la fin d'un tour gagne.\r\n\r\nAu début de chaque tour, les joueurs reçoivent les cartes qui\r\ndeviendront leur main. Pour le Texas Hold'em, vous recevrez deux cartes. Les\r\ntrois autres cartes qui composent votre main proviennent des cinq\r\ncartes communes.",
+            "6": "Le poker est un jeu dans lequel le joueur ayant la plus forte main de 5 cartes à la fin d'un tour gagne.\r\n\r\nAu début de chaque tour, les joueurs reçoivent les cartes qui deviendront\r\nleur main. Pour le Texas Hold'em, vous recevrez deux cartes. Les trois\r\nautres cartes qui composent votre main proviennent des cinq cartes communes.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -572,7 +572,7 @@
         },
         "2": {
           "": {
-            "6": "Créez une main en combinant les deux cartes qui vous ont été distribuées avec au moins\r\ntrois des cinq cartes communes. Votre main doit être composée de cinq cartes,\r\net vous pouvez utiliser n'importe quelle carte commune.",
+            "6": "Créez une main en combinant les deux cartes qui vous ont été distribuées avec au moins\r\ntrois des cinq cartes communes. Votre main doit être composée de cinq cartes, et vous\r\npouvez utiliser n'importe quelle carte commune.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -584,7 +584,7 @@
         },
         "3": {
           "": {
-            "6": "Les cartes communes sont révélées une par une. Après chaque révélation,\r\nvous pouvez choisir de relancer la mise, de rester ou de vous coucher. Dans ce type de jeu,\r\nvous ne pouvez pas échanger les cartes que vous avez en main.",
+            "6": "Les cartes communes sont révélées une par une. Après chaque révélation,\r\nvous pouvez choisir de relancer la mise, de rester ou de vous coucher.\r\nDans ce type de jeu, vous ne pouvez pas échanger les cartes que vous\r\navez en main.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -2313,7 +2313,7 @@
         },
         "25": {
           "": {
-            "6": "<color=mg_relu_topic>Double suite pure (Iipeikou) :</color>\r\n\r\nUne main cachée avec des suites identiques (même famille et même suite de 3 chiffres). ",
+            "6": "<color=mg_relu_topic>Double suite pure (Iipeikou) :</color>\r\nUne main cachée avec des suites identiques (même famille et même suite de 3 chiffres). ",
             "7": 1055,
             "9": 0,
             "11": 0,
@@ -2581,7 +2581,7 @@
           "": {
             "6": "<color=mg_relu_topic>Quatre grands vents (Daisuushii) :</color>\r\nUne main avec des brelans des quatre vents, cachée ou ouverte.",
             "7": 1087,
-            "8": "<color=mg_relu_topic>Neuf portes pures (Junsei Chuuren Poutou) :</color>\r\nMême main que Neuf portes, mais vous finissez en attendant de former une paire à partir des nombres 1 à 9.",
+            "8": "<color=mg_relu_topic>Neuf portes pures (Junsei Chuuren Poutou) :</color>\r\nMême main que Neuf portes, mais vous finissez en attendant de former une paire à partir\r\ndes nombres 1 à 9.",
             "9": 1088,
             "11": 0,
             "12": 17,
@@ -2747,7 +2747,7 @@
         },
         "7": {
           "": {
-            "6": "Il s'agit d'un jeu de rythme où vous devez appuyer sur les boutons affichés à l'écran\r\nen rythme avec une chanson. Appuyez sur le bouton\r\ncorrespondant lorsque le curseur l'atteint pour interpréter\r\nla chanson correctement.",
+            "6": "Il s'agit d'un jeu de rythme où vous devez appuyer sur les boutons affichés\r\nà l'écran en rythme avec une chanson. Appuyez sur le bouton correspondant\r\nlorsque le curseur l'atteint pour interpréter la chanson correctement.",
             "7": 1507,
             "9": 0,
             "11": 0,
@@ -2759,7 +2759,7 @@
         },
         "8": {
           "": {
-            "6": "Si votre timing est vraiment mauvais ou si vous avez appuyé sur\r\nle mauvais bouton, ça ne comptera pas. Plus votre timing\r\nest bon, plus vous gagnez de points.",
+            "6": "Si votre timing est vraiment mauvais ou si vous avez appuyé sur le mauvais\r\nbouton, ça ne comptera pas. Plus votre timing est bon, plus vous gagnez\r\nde points.",
             "7": 1508,
             "9": 0,
             "11": 0,
@@ -2771,19 +2771,19 @@
         },
         "9": {
           "": {
-            "6": "Kiryu peut même passer en <color=mg_relu_strong>Mode Ferveur</color> au karaoké.\r\nEntrez en Mode Ferveur en enchaînant 20 pressions réussies sur les boutons.\r\n\r\nPendant le <color=mg_relu_strong>mode Heat</color>, vous gagnerez plus de points.\r\nCependant, faites une erreur et le <color=mg_relu_strong>Mode Ferveur</color> est terminé.",
+            "6": "Kiryu peut même passer en <color=mg_relu_strong>Mode Ferveur</color> au karaoké.\r\nEntrez en Mode Ferveur en enchaînant 20 pressions réussies sur les boutons.\r\n\r\nPendant le <color=mg_relu_strong>Mode Ferveur</color>, vous gagnerez plus de points.\r\nCependant, faites une erreur et le <color=mg_relu_strong>Mode Ferveur</color> est terminé.",
             "7": 1509,
             "9": 0,
             "11": 0,
             "12": 1,
-            "14": "Mode Heat",
+            "14": "Mode Ferveur",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
         },
         "10": {
           "": {
-            "6": "Pour les chansons où quelqu'un d'autre chante, vous pouvez choisir entre <color=mg_relu_strong>Soutien occasionnel</color>\r\net <color=mg_relu_strong>Soutien passionné</color>.\r\n<color=mg_relu_strong>Soutien occasionnel</color> a des commandes simples, mais vous ne pouvez pas dépasser 90 points.\r\nSi vous voulez viser haut, choisissez <color=mg_relu_strong>Soutien passionné</color>.",
+            "6": "Pour les chansons où quelqu'un d'autre chante, vous pouvez choisir entre\r\n<color=mg_relu_strong>Soutien occasionnel</color> et <color=mg_relu_strong>Soutien passionné</color>.\r\nLe <color=mg_relu_strong>Soutien occasionnel</color> a des commandes simples, mais vous ne pouvez pas\r\ndépasser 90 points. Si vous voulez viser haut, choisissez <color=mg_relu_strong>Soutien passionné</color>.",
             "7": 1510,
             "9": 0,
             "11": 0,
@@ -2951,7 +2951,7 @@
         },
         "8": {
           "": {
-            "6": "Visez à arrêter la jauge de puissance à l'intérieur du périmètre de tir dans la zone rose foncée. Plus vous vous rapprochez, plus votre\r\nfléchette sera proche de l'endroit où vous avez visé.  ",
+            "6": "Visez à arrêter la jauge de puissance à l'intérieur du\r\npérimètre de tir dans la zone rose foncée. Plus vous\r\nvous rapprochez, plus votre fléchette sera proche de\r\nl'endroit où vous avez visé.  ",
             "7": 2505,
             "8": "Plus vous vous éloignez du périmètre de tir,\r\nmoins Kiryu aura le contrôle de son lancer.",
             "9": 0,
@@ -2965,7 +2965,7 @@
         },
         "9": {
           "": {
-            "6": "Le but du jeu est de soustraire des points de votre\r\nscore prédéterminé et de le ramener exactement à 0.",
+            "6": "Le but du jeu est de soustraire des points de votre score prédéterminé\r\net de le ramener exactement à 0.",
             "7": 1126,
             "9": 0,
             "11": 0,
@@ -2996,7 +2996,7 @@
             "9": 0,
             "11": 0,
             "12": 1,
-            "13": "'01 Game",
+            "13": "Partie '01",
             "14": "Règles basiques",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 11
@@ -3004,7 +3004,7 @@
         },
         "12": {
           "": {
-            "6": "Lorsqu'un joueur bust, le score revient à celui qu'il avait\r\nau début du tour et les joueurs s'échangent.",
+            "6": "Lorsqu'un joueur bust, le score revient à celui qu'il avait au début du\r\ntour et les joueurs s'échangent.",
             "7": 1129,
             "9": 0,
             "11": 0,
@@ -3017,7 +3017,7 @@
         },
         "13": {
           "": {
-            "6": "Les joueurs commencent à 0 point et s'affrontent pour gagner\r\nle plus de points au terme d'un nombre prédéterminé de manches.",
+            "6": "Les joueurs commencent à 0 point et s'affrontent pour gagner le plus de\r\npoints au terme d'un nombre prédéterminé de manches.",
             "7": 1130,
             "9": 0,
             "11": 0,
@@ -3030,7 +3030,7 @@
         },
         "14": {
           "": {
-            "6": "Le joueur ayant le meilleur score après un\r\nnombre de tours déterminé gagne.",
+            "6": "Le joueur ayant le meilleur score après un nombre de tours déterminé gagne.",
             "7": 1131,
             "9": 0,
             "11": 0,
@@ -3043,7 +3043,7 @@
         },
         "15": {
           "": {
-            "6": "Il s'agit d'un jeu stratégique où vous utilisez\r\nuniquement les numéros 15 à 20 et le bull's eye",
+            "6": "Il s'agit d'un jeu stratégique où vous utilisez uniquement les\r\nnuméros 15 à 20 et le bull's eye",
             "7": 1132,
             "9": 0,
             "11": 0,
@@ -3056,7 +3056,7 @@
         },
         "16": {
           "": {
-            "6": "Le joueur ayant le meilleur score après un\r\nnombre de tours déterminé gagne.",
+            "6": "Le joueur ayant le meilleur score après un nombre de tours\r\ndéterminé gagne.",
             "7": 1133,
             "9": 0,
             "11": 0,
@@ -3069,7 +3069,7 @@
         },
         "17": {
           "": {
-            "6": "Si vous touchez une cible disponible, le nombre est compté comme\r\nun hit. En obtenant un total de trois hits\r\ndans la même zone, vous capturez la zone.",
+            "6": "Si vous touchez une cible disponible, le nombre est compté comme un hit.\r\nEn obtenant un total de trois hits dans la même zone, vous capturez la zone.",
             "7": 1134,
             "9": 0,
             "11": 0,
@@ -3082,7 +3082,7 @@
         },
         "18": {
           "": {
-            "6": "Les simples comptent pour un coup, les doubles pour deux coups,\r\net les triples pour trois coups.",
+            "6": "Les simples comptent pour un coup, les doubles pour deux coups, et les triples\r\npour trois coups.",
             "7": 1135,
             "9": 0,
             "11": 0,
@@ -3095,7 +3095,7 @@
         },
         "19": {
           "": {
-            "6": "Si vous touchez trois fois le même numéro, celui-ci devient ouvert\r\net vous pouvez marquer des points sur ce numéro. Si les deux joueurs touchent le même numéro\r\ntrois fois, le numéro devient fermé et aucun des deux ne pourra gagner de points\r\nsur cette zone.",
+            "6": "Si vous touchez trois fois le même numéro, celui-ci devient ouvert et vous\r\npouvez marquer des points sur ce numéro. Si les deux joueurs touchent le\r\nmême numéro trois fois, le numéro devient fermé et aucun des deux ne pourra\r\ngagner de points sur cette zone.",
             "7": 1617,
             "9": 0,
             "11": 0,
@@ -3222,12 +3222,12 @@
         },
         "2": {
           "": {
-            "6": "<color=mg_relu_topic>Commandes</color>\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> ajustera votre swing au lancer de la machine à balles.\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Appuyez sur <symbol=button_batsu,Minigame_BattingCenter></color>au bon moment pour frapper la balle.\r\n\r\n<color=mg_relu_topic>Terminer la course</color>\r\n<color=mg_relu_point><symbol=bullet_point></color>Tapez la balle au bon moment pour réussir un <color=mg_relu_strong>home run</color>.\r\n<color=mg_relu_point><symbol=bullet_point></color>Frapper <color=mg_relu_strong>7 home runs ou plus en 10 lancers </color>vous vaudra un <color=mg_relu_strong>rang A</color>.\r\n  Cela permettra terminer la course.",
+            "6": "<color=mg_relu_topic>Commandes</color>\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> ajustera votre swing au lancer de la machine à balles.\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Appuyez sur <symbol=button_batsu,Minigame_BattingCenter></color> au bon moment pour frapper la balle.\r\n\r\n<color=mg_relu_topic>Terminer l'épreuve</color>\r\n<color=mg_relu_point><symbol=bullet_point></color>Frappez la balle au bon moment pour réussir un <color=mg_relu_strong>home run</color>.\r\n<color=mg_relu_point><symbol=bullet_point></color>Faites <color=mg_relu_strong>7 home runs ou plus en 10 lancers </color>vous vaudra un <color=mg_relu_strong>rang A</color>.\r\n  Cela vous permettra de terminer l'épreuve.",
             "7": 0,
             "9": 0,
             "11": 0,
             "12": 7,
-            "14": "Course Home Run",
+            "14": "Épreuve Home Run",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 2
           }
@@ -3873,12 +3873,12 @@
         },
         "1": {
           "": {
-            "6": "<color=mg_relu_topic>Commandes</color>\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> ajustera votre swing au lancer de la machine à balles.\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Appuyez sur <symbol=button_batsu,Minigame_BattingCenter></color> au bon moment pour frapper la balle.\r\n\r\n<color=mg_relu_topic>Terminer la course</color>\r\n<color=mg_relu_point><symbol=bullet_point></color>Essayez de frapper la balle vers le <color=mg_relu_strong>panneau de frappe</color> à l'intérieur des cages.\r\n<color=mg_relu_point><symbol=bullet_point></color>Le nombre de bases que vous obtenez dépend de <color=mg_relu_strong>l'endroit où vous frappez le panneau</color>.\r\n<color=mg_relu_point><symbol=bullet_point></color>Obtenez le nombre total de runs spécifié en <color=mg_relu_strong>10 balles ou moins</color> pour terminer la course.",
+            "6": "<color=mg_relu_topic>Commandes</color>\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> ajustera votre swing au lancer de la machine à balles.\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Appuyez sur <symbol=button_batsu,Minigame_BattingCenter></color> au bon moment pour frapper la balle.\r\n\r\n<color=mg_relu_topic>Terminer l'épreuve</color>\r\n<color=mg_relu_point><symbol=bullet_point></color>Essayez de frapper la balle vers le <color=mg_relu_strong>panneau de frappe</color> à l'intérieur des cages.\r\n<color=mg_relu_point><symbol=bullet_point></color>Le nombre de bases que vous obtenez dépend de <color=mg_relu_strong>l'endroit où vous frappez le panneau</color>.\r\n<color=mg_relu_point><symbol=bullet_point></color>Obtenez le nombre total de runs spécifié en <color=mg_relu_strong>10 balles ou moins</color> pour terminer l'épreuve.",
             "7": 0,
             "9": 0,
             "11": 0,
             "12": 7,
-            "14": "Course Challenge",
+            "14": "Épreuve Défi",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 1
           }
@@ -4185,7 +4185,7 @@
         },
         "1": {
           "": {
-            "6": "Devenez la pince et attrapez un prix !\r\n\r\nVous pouvez jouer 3 fois pour 500 yens.\r\n\r\nCommencez le jeu en maintenant <symbol=button_batsu,Minigame_UFO_Catcher> pour déplacer la pince horizontalement. Elle se déplacera\r\ntant que tu maintiendras le bouton <symbol=button_batsu,Minigame_UFO_Catcher> enfoncé. Relâchez une fois que vous avez atteint\r\nl'endroit souhaité.\r\n\r\nEnsuite, maintenez <symbol=button_batsu,Minigame_UFO_Catcher> pour déplacer la pince verticalement. Encore une fois, relâchez la pince une fois\r\nque vous avez atteint l'endroit désiré.\r\n\r\nSeuls les attrapeurs les plus habiles gagneront des prix !",
+            "6": "Devenez la pince et attrapez un prix !\r\n\r\nVous pouvez jouer 3 fois pour 500 yens.\r\n\r\nCommencez le jeu en maintenant <symbol=button_batsu,Minigame_UFO_Catcher> pour déplacer la pince horizontalement. Elle se déplacera\r\ntant que vous maintiendrez le bouton <symbol=button_batsu,Minigame_UFO_Catcher> enfoncé. Relâchez une fois que vous avez atteint\r\nl'endroit souhaité.\r\n\r\nEnsuite, maintenez <symbol=button_batsu,Minigame_UFO_Catcher> pour déplacer la pince verticalement. Encore une fois, relâchez la pince\r\nune fois que vous avez atteint l'endroit désiré.\r\n\r\nSeuls les joueurs les plus habiles gagneront des prix !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -4290,7 +4290,7 @@
         },
         "1": {
           "": {
-            "6": "<color=mg_relu_topic>Bataille d'éclaboussures ! Milky Nose</color>\r\n<symbol=bullet_point>Faites correspondre votre flux de lait avec celui de votre adversaire pour charger votre\r\njauge de destruction ! Une fois que votre jauge est pleine, augmentez la puissance et faites exploser\r\nvotre adversaire avec une attaque de lait spéciale !\r\n<color=mg_relu_topic>The North Wind and The Sun... And Me</color>\r\n<symbol=bullet_point>Expulsez autant de liquide que possible pour alimenter le vent pervers !",
+            "6": "<color=mg_relu_topic>Bataille d'éclaboussures ! Milky Nose</color>\r\n<symbol=bullet_point>Faites correspondre votre flux avec celui de votre adversaire pour charger votre jauge de\r\ndestruction ! Une fois que votre jauge est pleine, augmentez la puissance et faites\r\nexploser votre adversaire avec une attaque spéciale !\r\n<color=mg_relu_topic>The North Wind and The Sun... And Me</color>\r\n<symbol=bullet_point>Expulsez autant de liquide que possible pour alimenter le vent pervers !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5527,7 +5527,7 @@
         },
         "10": {
           "": {
-            "6": "Virtual-On est un jeu d'action révolutionnaire basé sur les méchas qui combine\r\nle combat et le tir dans des affrontements passionnés.\r\n\r\nChoisissez l'un des huit Virtuaroids uniques, chacun ayant ses propres\r\ncapacités, et affrontez-les dans des combats en un contre un sur des\r\nterrains en 3D tels que des forêts ou des bases lunaires.\r\n\r\nLes combats sont rythmés et peuvent passer à tout moment du combat\r\nde mêlée rapproché aux fusillades à longue distance.",
+            "6": "Virtual-On est un jeu d'action révolutionnaire basé sur les méchas qui\r\ncombine le combat et le tir dans des affrontements passionnés.\r\n\r\nChoisissez l'un des huit Virtuaroids uniques, chacun ayant ses propres\r\ncapacités, et affrontez-les dans des combats en un contre un sur des\r\nterrains en 3D tels que des forêts ou des bases lunaires.\r\n\r\nLes combats sont rythmés et peuvent passer à tout moment du combat\r\nen mêlée rapproché aux fusillades à longue distance.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5551,7 +5551,7 @@
         },
         "12": {
           "": {
-            "6": "<color=mg_relu_topic>SRV-1-A Fei-Yen</color>\r\nLe Fei-Yen est le plus rapide des Virtuaroids du groupe DN, il est élégant\r\net conçu pour être manoeuvré à grande vitesse. L'équipe de recherche\r\net développement a dû réduire le nombre de blindages et d'armes lourdes,\r\nmais on dit que le Fei-Yen possède un système d'attaque secret et dévastateur pour une\r\ndéfense ultime.",
+            "6": "<color=mg_relu_topic>SRV-1-A Fei-Yen</color>\r\nLe Fei-Yen est le plus rapide des Virtuaroids du groupe DN, il est élégant\r\net conçu pour être manoeuvré à grande vitesse. L'équipe de recherche\r\net développement a dû réduire le nombre de blindages et d'armes lourdes,\r\nmais on dit que le Fei-Yen possède un système d'attaque secret et dévastateur\r\npour une défense ultime.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5563,7 +5563,7 @@
         },
         "13": {
           "": {
-            "6": "<color=mg_relu_topic>TRV-06K-H Viper II</color>\r\nDéveloppé pour un déploiement tactique rapide, le Viper II étend le\r\nprototype du Viper à un nouveau niveau de rapidité et d'agilité. Des sacrifices\r\nont été faits au niveau du blindage et de l'arsenal à courte portée\r\ndu Viper II, mais la plupart des machines ont du mal à s'approcher\r\nsuffisamment pour le toucher.",
+            "6": "<color=mg_relu_topic>TRV-06K-H Viper II</color>\r\nDéveloppé pour un déploiement tactique rapide, le Viper II étend le\r\nprototype du Viper à un nouveau niveau de rapidité et d'agilité.\r\nDes sacrifices ont été faits au niveau du blindage et de l'arsenal\r\nà courte portée du Viper II, mais la plupart des machines ont du mal\r\nà s'approcher suffisamment pour le toucher.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5575,7 +5575,7 @@
         },
         "14": {
           "": {
-            "6": "<color=mg_relu_topic>MBV-09-C Apharmd</color>\r\nLes modèles Apharmd sont conçus pour être utilisés comme des\r\ntroupes de choc de guérilla, avec une paire de tonfa spécialement adaptée\r\nau combat au corps à corps. La vitesse fulgurante et l'armure robuste font\r\ndu droïde Apharmd une force avec laquelle il faut compter sur\r\nn'importe quel champ de bataille.",
+            "6": "<color=mg_relu_topic>MBV-09-C Apharmd</color>\r\nLes modèles Apharmd sont conçus pour être utilisés comme des troupes\r\nde choc de guérilla, avec une paire de tonfa spécialement adaptée au\r\ncombat au corps à corps. La vitesse fulgurante et l'armure robuste\r\nfont du droïde Apharmd une force avec laquelle il faut compter sur\r\nn'importe quel champ de bataille.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5587,7 +5587,7 @@
         },
         "15": {
           "": {
-            "6": "<color=mg_relu_topic>HBV-10-B Dorkas</color>\r\nProduit des premières expérimentations avec une structure blindée plus solide,\r\nle Dorkas est construit plus lentement que les autres Virtuaroids, mais\r\nil est plus puissant. La longue portée et le pouvoir de franchissement d'obstacles de son\r\nattaque marteau en font un adversaire particulièrement coriace\r\ndans les arènes à champ brisé.",
+            "6": "<color=mg_relu_topic>HBV-10-B Dorkas</color>\r\nProduit des premières expérimentations avec une structure blindée\r\nplus solide, le Dorkas est construit plus lentement que les autres\r\nVirtuaroids, mais il est plus puissant. La longue portée et le\r\npouvoir de franchissement d'obstacles de son attaque marteau en\r\nfont un adversaire particulièrement coriace dans les arènes à\r\nchamp brisé.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5599,7 +5599,7 @@
         },
         "16": {
           "": {
-            "6": "<color=mg_relu_topic>SAV-07-D Belgdor</color>\r\nBasé sur le populaire droïde de combat Raiden, le Belgdor est une variante\r\nlégèrement mobile dotée d'un formidable système de missiles\r\nà tête chercheuse. Le Belgdor n'a pas la capacité de mettre KO en\r\nun coup de poing un Dorkas ou un Raiden, mais il les bat tous\r\nles deux en vitesse et en distance de saut.",
+            "6": "<color=mg_relu_topic>SAV-07-D Belgdor</color>\r\nBasé sur le populaire droïde de combat Raiden, le Belgdor est une\r\nvariante légèrement mobile dotée d'un formidable système de missiles\r\nà tête chercheuse. Le Belgdor n'a pas la capacité de mettre KO en\r\nun coup de poing un Dorkas ou un Raiden, mais il les bat tous les\r\ndeux en vitesse et en distance de saut.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5611,7 +5611,7 @@
         },
         "17": {
           "": {
-            "6": "<color=mg_relu_topic>XBV-13-T11 Bal-Bas-Bow</color>\r\nLe Bal-Bas-Bow est sorti bien après les autres Virtuaroids de DN Group,\r\net il représente une nouvelle direction dans les tech-droïdes de guerre virtuelle. Avec\r\nune puissance de saut plus importante et des systèmes de guidage intelligents\r\nde nouvelle génération, le Bal-Bas-Bow pourrait être la dernière étape\r\nde l'évolution des robots de combat.",
+            "6": "<color=mg_relu_topic>XBV-13-T11 Bal-Bas-Bow</color>\r\nLe Bal-Bas-Bow est sorti bien après les autres Virtuaroids du\r\ngroupe DN, et il représente une nouvelle direction dans les\r\ntech-droïdes de guerre virtuelle. Avec une puissance de saut plus\r\nimportante et des systèmes de guidage intelligents de nouvelle\r\ngénération, le Bal-Bas-Bow pourrait être la dernière étape de\r\nl'évolution des robots de combat.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5623,7 +5623,7 @@
         },
         "18": {
           "": {
-            "6": "<color=mg_relu_topic>HBV-05-E Raiden</color>\r\nLes droïdes Raiden sont redoutés autant pour leurs doubles canons laser\r\nque pour leur armure en alliage de strontium. Si ces machines ont un point faible,\r\nc'est leur manque de vitesse et de capacité de saut, mais elles n'ont pas\r\nbesoin de passer beaucoup de temps à essayer de s'écarter\r\ndu chemin.",
+            "6": "<color=mg_relu_topic>HBV-05-E Raiden</color>\r\nLes droïdes Raiden sont redoutés autant pour leurs doubles canons\r\nlaser que pour leur armure en alliage de strontium. Si ces machines\r\nont un point faible, c'est leur manque de vitesse et de capacité\r\nde saut, mais elles n'ont pas besoin de passer beaucoup de temps\r\nà essayer de s'écarter du chemin.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5728,7 +5728,7 @@
         },
         "2": {
           "": {
-            "6": "Tout d'abord, sélectionnez une direction pour votre tir avec <symbol=button_l_stick,Minigame_Golf>. Une fois que vous avez fait cela,\r\ncommencez à charger la jauge d'énergie en appuyant sur <symbol=button_batsu,Minigame_Golf>.",
+            "6": "Tout d'abord, sélectionnez une direction pour votre tir avec <symbol=button_l_stick,Minigame_Golf>.\r\nUne fois que vous avez fait cela, commencez à charger la jauge\r\nd'énergie en appuyant sur <symbol=button_batsu,Minigame_Golf>.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5740,7 +5740,7 @@
         },
         "3": {
           "": {
-            "6": "Quand la jauge atteint la puissance que vous voulez, appuyez à nouveau sur <symbol=button_batsu,Minigame_Golf> pour confirmer.\r\nLa jauge va commencer à redescendre, alors appuyez sur <symbol=button_batsu,Minigame_Golf> une fois de plus pour\r\ndéterminer votre précision. Arrêtez le marqueur dans la zone rouge pour une précision\r\nparfaite, ou à gauche et à droite de la zone rouge pour ajouter de l'effet à votre\r\ntir. Si vous n'arrêtez pas le marqueur dans la zone rouge ou jaune, votre\r\ntir sera raté. Si vous voulez changer de direction ou de puissance, vous pouvez\r\nannuler votre tir en appuyant sur <symbol=button_maru,Minigame_Golf>.",
+            "6": "Quand la jauge atteint la puissance que vous voulez, appuyez à nouveau sur <symbol=button_batsu,Minigame_Golf>\r\npour confirmer. La jauge va commencer à redescendre, alors appuyez sur <symbol=button_batsu,Minigame_Golf> une\r\nfois de plus pour déterminer votre précision. Arrêtez le marqueur dans la\r\nzone rouge pour une précision parfaite, ou à gauche et à droite de la zone\r\nrouge pour ajouter de l'effet à votre tir. Si vous n'arrêtez pas le marqueur\r\ndans la zone rouge ou jaune, votre tir sera raté. Si vous voulez changer de\r\ndirection ou de puissance, vous pouvez annuler votre tir en appuyant sur <symbol=button_maru,Minigame_Golf>.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5752,7 +5752,7 @@
         },
         "4": {
           "": {
-            "6": "Dans ce mode, votre objectif est de vous rapprocher le plus possible du drapeau\r\nà chaque tir. Plus vous vous rapprochez du drapeau, plus vous gagnez de points. Votre\r\nscore final correspondra au total des points de chacun des 10 rounds.\r\nUn score final plus élevé vous permettra d'obtenir de meilleures récompenses !",
+            "6": "Dans ce mode, votre objectif est de vous rapprocher le plus possible du drapeau\r\nà chaque tir. Plus vous vous rapprochez du drapeau, plus vous gagnez de points.\r\nVotre score final correspondra au total des points de chacun des 10 rounds.\r\nUn score final plus élevé vous permettra d'obtenir de meilleures récompenses !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5764,7 +5764,7 @@
         },
         "5": {
           "": {
-            "6": "Dans ce mode, votre objectif est de réaliser le plus de bingos (lignes de trois)\r\npossible en dix coups. Chaque fois que vous frappez le plateau, il se déplace\r\npour augmenter la difficulté. Un plus grand nombre de bingos à la fin du jeu vous\r\npermettra d'obtenir de meilleures récompenses !",
+            "6": "Dans ce mode, votre objectif est de réaliser le plus de bingos (lignes de trois)\r\npossible en dix coups. Chaque fois que vous frappez le plateau, il se déplace\r\npour augmenter la difficulté. Un plus grand nombre de bingos à la fin du jeu\r\nvous permettra d'obtenir de meilleures récompenses !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -5895,7 +5895,7 @@
         },
         "4": {
           "": {
-            "6": "Vous pouvez compléter une scène en vous assurant que la fille est de bonne humeur lorsque\r\nla séance de photos se termine. Si vous travaillez dur, elle pourrait même essayer de\r\nnouvelles tenues pour que vous puissiez les voir !",
+            "6": "Vous pouvez compléter une scène en vous assurant que la fille est de bonne humeur\r\nlorsque la séance de photos se termine. Si vous travaillez dur, elle pourrait même\r\nessayer de nouvelles tenues pour que vous puissiez les voir !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6051,7 +6051,7 @@
         },
         "7": {
           "": {
-            "6": "Le blackjack est un jeu où la valeur de vos cartes doit se rapprocher\r\nau plus près de 21. Vous gagnez si le total de votre main est plus près de 21 que celle\r\ndu croupier. Si vous dépassez 21, vous \"sautez\", en d'autres termes\r\nvous perdez.",
+            "6": "Le blackjack est un jeu où la valeur de vos cartes doit se rapprocher\r\nau plus près de 21. Vous gagnez si le total de votre main est plus près\r\nde 21 que celle du croupier. Si vous dépassez 21, vous \"sautez\", en\r\nd'autres termes vous perdez.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6077,7 +6077,7 @@
         },
         "9": {
           "": {
-            "6": "<color=mg_relu_topic>Blackjack</color>\r\n　　Une main de deux cartes comprenant un As et un Roi,\r\n　　une Dame, un Valet ou un 10 s'appelle un Blackjack.\r\n　　C'est la meilleuremain possible dans le jeu et elle rapporte 2,5 fois votre\r\n　　mise initiale (sauf si le croupier a aussi un Blackjack).",
+            "6": "<color=mg_relu_topic>Blackjack</color>\r\n　　Une main de deux cartes comprenant un As et un Roi,\r\n　　une Dame, un Valet ou un 10 s'appelle un Blackjack.\r\n　　C'est la meilleure main possible dans le jeu et elle rapporte 2,5 fois\r\n　　votre mise initiale (sauf si le croupier a aussi un Blackjack).",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6090,7 +6090,7 @@
         },
         "10": {
           "": {
-            "6": "<color=mg_relu_topic>・Tirer</color>\r\n　　Piochez une carte et ajoutez-la à votre main. \r\n\r\n<color=mg_relu_topic>・Rester</color>\r\n　　Gardez votre main actuelle. \r\n\r\n<color=mg_relu_topic>・Partager</color>\r\n　　Si vous recevez deux fois la même carte, vous pouvez choisir de\r\n　　les séparer et de faire deux mains. Vous jouerez alors\r\n　　les deux mains en même temps.",
+            "6": "<color=mg_relu_topic>・Tirer</color>\r\n　　Piochez une carte et ajoutez-la à votre main. \r\n\r\n<color=mg_relu_topic>・Rester</color>\r\n　　Gardez votre main actuelle. \r\n\r\n<color=mg_relu_topic>・Partager</color>\r\n　　Si vous recevez deux fois la même carte, vous pouvez choisir\r\n　　de les séparer et de faire deux mains. Vous jouerez alors\r\n　　les deux mains en même temps.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6103,7 +6103,7 @@
         },
         "11": {
           "": {
-            "6": "<color=mg_relu_topic>・Doubler</color>\r\n　　Cette option vous permet de doubler votre mise après avoir vu\r\n　　la main qui vous a été distribuée. Toutefois, vous devez dans ce cas\r\n　　piocher une carte supplémentaire. Optez pour cette solution si\r\n　　le total de votre main atteint 11.\r\n\r\n<color=mg_relu_topic>・Abandonner</color>\r\n　　Sélectionnez cette option pour abandonner votre main actuelle. Vous récupèrerez\r\n　　la moitié de votre mise, alors utilisez-la si vous êtes sûr\r\n　　de ne pas pouvoir gagner une main.",
+            "6": "<color=mg_relu_topic>・Doubler</color>\r\n　　Cette option vous permet de doubler votre mise après avoir vu\r\n　　la main qui vous a été distribuée. Toutefois, vous devez dans ce cas\r\n　　piocher une carte supplémentaire. Optez pour cette solution si\r\n　　le total de votre main atteint 11.\r\n\r\n<color=mg_relu_topic>・Abandonner</color>\r\n　　Sélectionnez cette option pour abandonner votre main actuelle.\r\n　　Vous récupèrerez la moitié de votre mise, alors utilisez-la si\r\n　　vous êtes sûr de ne pas pouvoir gagner une main.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6116,7 +6116,7 @@
         },
         "12": {
           "": {
-            "6": "<color=mg_relu_topic>・Assurance</color>\r\n　　Si la carte révélée du croupier est un As, vous pouvez placer une\r\n　　 mise en assurance jusqu'à la moitié de votre mise initiale.\r\n\r\n　　Vous perdrez votre mise initiale si le croupier a un Blackjack,\r\n　　mais vous empocherez le double du montant de l'assurance.",
+            "6": "<color=mg_relu_topic>・Assurance</color>\r\n　　Si la carte révélée du croupier est un As, vous pouvez placer une\r\n　　mise en assurance jusqu'à la moitié de votre mise initiale.\r\n\r\n　　Vous perdrez votre mise initiale si le croupier a un Blackjack,\r\n　　mais vous empocherez le double du montant de l'assurance.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6129,7 +6129,7 @@
         },
         "13": {
           "": {
-            "6": "<color=mg_relu_topic>・Six cartes Charlie</color>\r\n　　Totaliser six cartes dans votre main sans sauter\r\n　　s'appelle un Six cartes Charlie. C'est une victoire automatique.\r\n\r\n<color=mg_relu_topic>・Carte verte</color>\r\n　　Si une carte verte apparaît pendant que vous jouez, toutes les cartes\r\n　　non distribuées seront remélangées dans le jeu.",
+            "6": "<color=mg_relu_topic>・Six cartes Charlie</color>\r\n　　Totaliser six cartes dans votre main sans sauter s'appelle\r\n　　un Six cartes Charlie. C'est une victoire automatique.\r\n\r\n<color=mg_relu_topic>・Carte verte</color>\r\n　　Si une carte verte apparaît pendant que vous jouez,\r\n　　toutes les cartes non distribuées seront remélangées\r\n　　dans le jeu.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6289,7 +6289,7 @@
         },
         "6": {
           "": {
-            "6": "<color=mg_relu_topic>Trois lumières (6points)</color>\r\nTrois cartes à 20 points sans Homme au parapluie. ",
+            "6": "<color=mg_relu_topic>Trois lumières (6 points)</color>\r\nTrois cartes à 20 points sans Homme au parapluie. ",
             "7": 5263,
             "8": "<color=mg_relu_topic>Quatre lumières de pluie (7 points)</color>\r\nHomme au parapluie avec trois autres cartes à 20 points.",
             "9": 5264,
@@ -6559,7 +6559,7 @@
         },
         "2": {
           "": {
-            "6": "Lors du premier tour, chaque joueur reçoit deux cartes. Trois\r\ncartes communes sont distribuées au second tour. Les quatrième et cinquième\r\ncartes communes sont distribuées respectivement lors des quatrième et cinquième tours.\r\n\r\n<color=mg_relu_topic>Passer au tour suivant</color>\r\n<symbol=bullet_point>Tous les joueurs ont misé le même montant.\r\n<symbol=bullet_point>Au moment du tournant, tout le monde fait parole.\r\n\r\nÀ la fin du quatrième tour, tous les joueurs révèlent leur main au moment de\r\nl'abattage. Le joueur avec la main la plus forte gagne.",
+            "6": "Lors du premier tour, chaque joueur reçoit deux cartes. Trois cartes\r\ncommunes sont distribuées au second tour. Les quatrième et cinquième\r\ncartes communes sont distribuées respectivement lors des quatrième et cinquième tours.\r\n\r\n<color=mg_relu_topic>Passer au tour suivant</color>\r\n<symbol=bullet_point>Tous les joueurs ont misé le même montant.\r\n<symbol=bullet_point>Au moment du tournant, tout le monde fait parole.\r\n\r\nÀ la fin du quatrième tour, tous les joueurs révèlent leur main au moment\r\nde l'abattage. Le joueur avec la main la plus forte gagne.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6572,7 +6572,7 @@
         },
         "3": {
           "": {
-            "6": "<color=mg_relu_topic>Actions possibles à chaque tour</color>\r\n　<symbol=bullet_point>Miser : misez une quantité de jetons fixe.\r\n　<symbol=bullet_point>Suivre : misez la même quantité de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Relancer : misez plus de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Parole : vous ne pariez pas et c'est au tour du joueur suivant.\r\n　<symbol=bullet_point>Se coucher : vous ne misez pas et vous ne jouez plus durant cette partie.\r\n\r\n*Vous pouvez miser si aucun des autres joueurs n'a encore misé.\r\n*Vous pouvez faire parole si aucun des autres joueurs n'a encore parié, ou si tous\r\nles autres joueurs ont suivi la grosse blinde. ",
+            "6": "<color=mg_relu_topic>Actions possibles à chaque tour</color>\r\n　<symbol=bullet_point>Miser : misez une quantité de jetons fixe.\r\n　<symbol=bullet_point>Suivre : misez la même quantité de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Relancer : misez plus de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Parole : vous ne pariez pas et c'est au tour du joueur suivant.\r\n　<symbol=bullet_point>Se coucher : vous ne misez pas et vous ne jouez plus durant cette partie.\r\n\r\n*Vous pouvez miser si aucun des autres joueurs n'a encore misé.\r\n*Vous pouvez faire parole si aucun des autres joueurs n'a encore parié,\r\nou si tous les autres joueurs ont suivi la grosse blinde. ",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7029,7 +7029,7 @@
         },
         "1": {
           "": {
-            "6": "<color=mg_relu_topic>Déplacement des pièces</color>\r\nLes déplacements diffèrent selon les pièces. La façon dont chaque pièce peut être\r\ndéplacée sera expliquée dans les pages suivantes.    \r\n<color=mg_relu_topic>Promotion</color>\r\nLes trois premières lignes du joueur adverse sur le plateau constituent\r\nla zone de promotion. Lorsque certaines pièces atteignent cette zone, elles sont\r\npromues et leurs déplacements possibles changent.",
+            "6": "<color=mg_relu_topic>Déplacement des pièces</color>\r\nLes déplacements diffèrent selon les pièces. La façon dont chaque pièce\r\npeut être déplacée sera expliquée dans les pages suivantes.    \r\n<color=mg_relu_topic>Promotion</color>\r\nLes trois premières lignes du joueur adverse sur le plateau constituent\r\nla zone de promotion. Lorsque certaines pièces atteignent cette zone,\r\nelles sont promues et leurs déplacements possibles changent.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7188,7 +7188,7 @@
         },
         "1": {
           "": {
-            "6": "<color=mg_relu_topic>Commandes</color>\r\n</color>\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> ajustera votre swing au lancer de la machine à balles.\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Appuyez sur <symbol=button_batsu,Minigame_BattingCenter></color> au bon moment pour frapper la balle.\r\n\r\n<color=mg_relu_topic>Terminer le défi</color>\r\n<color=mg_relu_point><symbol=bullet_point></color>Tapez la balle au bon moment pour réussir un <color=mg_relu_strong>home run</color>. \r\n<color=mg_relu_point><symbol=bullet_point></color>Réussissez <color=mg_relu_strong>au moins 8 home runs</color> avec 10 balles maximum pour passer à la manche suivante. \r\n<color=mg_relu_point><symbol=bullet_point></color>Plus vous réussissez de manches, plus vous gagnez de points. Parlez à Yoshida pour\r\n   récupérer des récompenses avec les points que vous avez gagnés.",
+            "6": "<color=mg_relu_topic>Commandes</color>\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> ajustera votre swing au lancer de la machine à balles.\r\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Appuyez sur <symbol=button_batsu,Minigame_BattingCenter></color> au bon moment pour frapper la balle.\r\n\r\n<color=mg_relu_topic>Terminer la compétition</color>\r\n<color=mg_relu_point><symbol=bullet_point></color>Frappez la balle au bon moment pour réussir un <color=mg_relu_strong>home run</color>. \r\n<color=mg_relu_point><symbol=bullet_point></color>Réussissez <color=mg_relu_strong>au moins 8 home runs</color> avec 10 balles maximum pour passer à la manche suivante. \r\n<color=mg_relu_point><symbol=bullet_point></color>Plus vous réussissez de manches, plus vous gagnez de points. Parlez à Yoshida pour\r\n   récupérer des récompenses avec les points que vous avez gagnés.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7666,7 +7666,7 @@
         },
         "1": {
           "": {
-            "6": "Les missions du videur sont des demandes de combat spéciales qui vous conduiront dans\r\ndes endroits spécifiques pour vaincre des ennemis. Le barman de Debolah sera\r\nvotre contact pour ces missions, alors parlez-lui dès que vous\r\nvoulez en effectuer une.\r\n\r\n<color=mg_relu_topic>Progression des missions</color>\r\n<color=important_a>Débloquez de nouvelles missions en réussissant les missions déjà disponibles</color>. Ces missions\r\ndeviendront de plus en plus difficiles, alors continuez à vous\r\nentraîner et essayez de réussir chaque mission ! Vous obtiendrez également\r\nun bonus spécial en accomplissant une mission pour la première fois, alors assurez-vous\r\nd'accomplir toutes les missions pour obtenir tous les bonus !",
+            "6": "Les missions de videur sont des demandes de combat spéciales qui vous conduiront dans\r\ndes endroits spécifiques pour vaincre des ennemis. Le barman de Debolah sera votre\r\ncontact pour ces missions, alors parlez-lui dès que vous voulez en effectuer une.\r\n\r\n<color=mg_relu_topic>Progression des missions</color>\r\n<color=important_a>Débloquez de nouvelles missions en réussissant les missions déjà disponibles</color>.\r\nCes missions deviendront de plus en plus difficiles, alors continuez à vous\r\nentraîner et essayez de réussir chaque mission ! Vous obtiendrez également\r\nun bonus spécial en accomplissant une mission pour la première fois, alors\r\nassurez-vous d'accomplir toutes les missions pour obtenir tous les bonus !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7679,7 +7679,7 @@
         },
         "2": {
           "": {
-            "6": "<color=mg_relu_topic>Commandes</color>\r\nLes commandes de base pour les missions de videur sont les mêmes que\r\npour les batailles normales dans la rue. Faites attention cependant, car vous ne pouvez pas utiliser d'objets de récupération\r\npendant une mission. Cependant, vous pouvez toujours changer votre armure et vos équipements,\r\nalors préparez votre inventaire et allez-y !\r\n\r\n<color=mg_relu_topic>Limite de temps</color>\r\nCertaines missions auront des limites de temps. Réussissez ces missions\r\naussi vite que possible, et gardez toujours un oeil sur l'horloge !\r\n\r\n<color=mg_relu_topic>Conditions de défaite et abandon des missions</color>\r\nVous échouerez à la mission et serez renvoyé à Debolah si votre santé\r\natteint 0 ou si votre temps est écoulé. Vous pouvez également quitter\r\nune mission à tout moment en appuyant sur <symbol=button_touchpad,Combat>.",
+            "6": "<color=mg_relu_topic>Commandes</color>\r\nLes commandes de base pour les missions de videur sont les mêmes que pour les combats\r\nnormaux dans la rue. Faites attention cependant, car vous ne pouvez pas utiliser d'objets\r\nde récupération pendant une mission. Cependant, vous pouvez toujours changer votre armure et\r\nvos équipements, alors préparez votre inventaire et allez-y !\r\n\r\n<color=mg_relu_topic>Limite de temps</color>\r\nCertaines missions auront des limites de temps. Réussissez ces missions\r\naussi vite que possible, et gardez toujours un oeil sur l'horloge !\r\n\r\n<color=mg_relu_topic>Conditions de défaite et abandon des missions</color>\r\nVous échouerez à la mission et serez renvoyé à Debolah si votre santé\r\natteint 0 ou si votre temps est écoulé. Vous pouvez également quitter\r\nune mission à tout moment en appuyant sur <symbol=button_touchpad,Combat>.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7692,7 +7692,7 @@
         },
         "3": {
           "": {
-            "6": "<color=mg_relu_topic>Prenez les armes dans les caisses !</color>\r\nDe temps en temps, vous trouverez des <color=important_a>caisses en bois</color> qui\r\ncontiennent des <color=important_a>armes</color>. N'oubliez pas de les casser pour voir ce qu'il y a dedans !\r\n\r\n<color=mg_relu_topic>Stocker les armes</color>\r\nLes armes trouvés dans les missions de videur ne peuvent pas être rangés, donc n'ayez pas\r\npeur de les utiliser avant qu'elles cassent !",
+            "6": "<color=mg_relu_topic>Prenez les armes dans les caisses !</color>\r\nDe temps en temps, vous trouverez des <color=important_a>caisses en bois</color> qui\r\ncontiennent des <color=important_a>armes</color>. N'oubliez pas de les casser pour voir\r\nce qu'il y a dedans !\r\n\r\n<color=mg_relu_topic>Stocker les armes</color>\r\nLes armes trouvés dans les missions de videur ne peuvent pas\r\nêtre rangés, donc n'ayez pas peur de les utiliser avant\r\nqu'elles cassent !",
             "7": 5915,
             "9": 0,
             "11": 0,
