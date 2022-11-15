@@ -184,7 +184,7 @@
   "18": {
     "attack_blind": {
       "param": 0.0,
-      "name": "Blind",
+      "name": "Aveuglement",
       "param1": 0,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 16
@@ -193,7 +193,7 @@
   "19": {
     "attack_piyori": {
       "param": 0.0,
-      "name": "Stun",
+      "name": "Étourdissement",
       "param1": 0,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 17
@@ -202,7 +202,7 @@
   "20": {
     "attack_stun": {
       "param": 0.0,
-      "name": "Paralysis",
+      "name": "Paralysie",
       "param1": 0,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 43
@@ -211,7 +211,7 @@
   "21": {
     "attack_fire": {
       "param": 0.0,
-      "name": "Burn",
+      "name": "Brulûre",
       "param1": 0,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 18

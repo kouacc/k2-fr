@@ -1236,7 +1236,7 @@
         },
         "56": {
           "": {
-            "6": "Quatre joueurs s'affrontent pour être le premier à avoir 14 tuiles en main.\r\nCette main se compose généralement de 4 combinaisons de 3 tuiles et d'1 paire. \r\n\r\nLa valeur des points de la main d'un joueur est déterminée par les tuiles collectées.\r\nPour une liste des mains de mahjong, veuillez vous reporter à la rubrique Mains. \r\n\r\nChacun leur tour, les joueurs piochent et défaussent des tuiles pour construire leur main jusqu'à remplir les\r\nconditions de victoire.\r\nEn plus de piocher, les joueurs peuvent voler certaines tuiles dans la défausse de leurs adversaires. \r\n",
+            "6": "Quatre joueurs s'affrontent pour être le premier à avoir 14 tuiles en main.\r\nCette main se compose généralement de 4 combinaisons de 3 tuiles et d'1 paire.\r\n\r\nLa valeur des points de la main d'un joueur est déterminée par les tuiles collectées.\r\nPour une liste des mains de mahjong, veuillez vous reporter à la rubrique Mains.\r\n\r\nChacun leur tour, les joueurs piochent et défaussent des tuiles pour construire\r\nleur main jusqu'à remplir les conditions de victoire.\r\nEn plus de piocher, les joueurs peuvent voler certaines tuiles dans la défausse de leurs adversaires.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1248,7 +1248,7 @@
         },
         "57": {
           "": {
-            "6": "Une partie de mahjong est composée de 136 tuiles. Il existe exactement 4 copies de chaque tuile, ce qui\r\ndonne 34 tuiles uniques. \r\n<color=mg_relu_topic>Tuiles :</color> Numéros 1 à 9 de 3 couleurs différentes : Cercles, bambous et caractères\r\n      4 tuiles de vent (Est, Sud, Ouest, Nord)\r\n      3 tuiles dragon (blanc, vert, rouge)\r\n\r\n\r\n\r\n\r\nLes tuiles Vent et Dragon sont collectivement appelées tuiles d'honneur. \r\nLes tuiles 1 et 9 de chaque couleur sont appelées tuiles terminales.  \r\n",
+            "6": "Une partie de mahjong est composée de 136 tuiles. Il existe exactement 4 copies de chaque tuile, ce qui\r\ndonne 34 tuiles uniques. \r\n<color=mg_relu_topic>Tuiles :</color> Numéros 1 à 9 de 3 couleurs différentes : Cercles, bambous et caractères\r\n      4 tuiles de vent (Est, Sud, Ouest, Nord)\r\n      3 tuiles dragon (blanc, vert, rouge)\r\n\r\n\r\n\r\n\r\nLes tuiles Vent et Dragon sont collectivement appelées tuiles d'honneur. \r\nLes tuiles 1 et 9 de chaque couleur sont appelées tuiles terminales.",
             "7": 0,
             "9": 0,
             "11": 0,
