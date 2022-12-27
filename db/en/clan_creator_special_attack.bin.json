@@ -42,7 +42,7 @@
   "1": {
     "E_CLN_BTL_SUD_sp_tenryu": {
       "name": "Coup de poing en revers",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et paralyse les ennemis proches en face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et paralyse les ennemis proches en face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 1
     }
@@ -50,7 +50,7 @@
   "2": {
     "E_CLN_BTL_SUD_sp_chosyu": {
       "name": "Lasso Riki",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et fait exploser les ennemis qui se trouvent devant.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et fait exploser les ennemis qui se trouvent devant.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 2
     }
@@ -58,7 +58,7 @@
   "3": {
     "E_CLN_BTL_SUD_sp_muto": {
       "name": "Roulade Sobat",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et paralyse les ennemis proches en face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et paralyse les ennemis proches en face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
@@ -66,7 +66,7 @@
   "4": {
     "E_CLN_BTL_SUD_sp_chono": {
       "name": "Gros sabot",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et fait exploser les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et fait exploser les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
@@ -74,7 +74,7 @@
   "5": {
     "E_CLN_BTL_SUD_sp_fujinami": {
       "name": "Enzuigiri",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage les ennemis de face en les brûlant.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts aux ennemis de face en les brûlant.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
     }
@@ -82,7 +82,7 @@
   "6": {
     "E_CLN_BTL_SUD_sp_majima": {
       "name": "Roulade de taillades",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et étourdit les ennemis environnants.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et étourdit les ennemis environnants.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 6
     }
@@ -90,7 +90,7 @@
   "7": {
     "E_CLN_BTL_SUD_sp_range_rrt": {
       "name": "Lasso rotatif",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage les ennemis environnants en les projetant.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts aux ennemis environnants en les projetant.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
     }
@@ -98,7 +98,7 @@
   "8": {
     "E_CLN_BTL_SUD_sp_okada": {
       "name": "Écrasement brutal",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et étourdit les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et étourdit les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 8
     }
@@ -106,7 +106,7 @@
   "9": {
     "E_CLN_BTL_SUD_sp_saejima": {
       "name": "Super Uppercut",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et étourdit les ennemis environnants.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et étourdit les ennemis environnants.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
     }
@@ -114,7 +114,7 @@
   "10": {
     "E_CLN_BTL_SUD_sp_naitou": {
       "name": "Coup de feu",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage les ennemis proches en face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts aux ennemis proches en face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 10
     }
@@ -122,7 +122,7 @@
   "11": {
     "E_CLN_BTL_SUD_sp_stnkik": {
       "name": "Coup de pied paralysant",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et étourdit les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et étourdit les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
     }
@@ -170,7 +170,7 @@
   "17": {
     "E_CLN_BTL_SUD_sp_ryuji": {
       "name": "Marteau du Dragon d'Or",
-      "explanation": "Peut s'activer par chance pendant le combat.\r\nEndommage et fait exploser les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer par chance pendant le combat.\r\nInflige des dégâts et fait exploser les ennemis de face.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 17
     }
@@ -178,7 +178,7 @@
   "18": {
     "E_CLN_BTL_SUD_sp_ono": {
       "name": "Lasso Michi",
-      "explanation": "Peut s'activer pendant le combat par mi-chance.\r\nLes enn-michis frontales seront détruites.\r\nPlus d'esprit augmente le taux d'activation.",
+      "explanation": "Peut s'activer pendant le combat par mi-chance.\r\nLes enn-michis frontaux seront détruits.\r\nPlus d'esprit augmente le taux d'activation.",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 18
     }

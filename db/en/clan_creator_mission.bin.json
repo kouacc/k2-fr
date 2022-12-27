@@ -4000,7 +4000,7 @@
   "44": {
     "CLN_CL_03": {
       "name": "Majima Construction, épreuves et tribulations",
-      "explanation": "Les ouvriers se soulèvent contre Majima Construction !\r\nLes alliés d'hier sont les ennemis d'aujourd'hui... Maintenant,\r\ndéfendez-vous !",
+      "explanation": "Les ouvriers se révoltent contre Majima Construction !\r\nLes alliés d'hier sont les ennemis d'aujourd'hui... Maintenant,\r\ndéfendez-vous !",
       "category": 2,
       "next_scenario": 5531,
       "stage": 1,
@@ -5464,7 +5464,7 @@
   },
   "62": {
     "cln_04_btl_04": {
-      "name": "Affrontement avec le Dragon",
+      "name": "Affrontement avec le dragon",
       "explanation": "Battez l'un des trois mousquetaires, Fujinami le dragon !",
       "category": 1,
       "next_scenario": 5110,

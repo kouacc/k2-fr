@@ -1045,7 +1045,7 @@
     "bomb_numb": {
       "name": "Essence des bombes paralysantes",
       "category": 2,
-      "explanation": "Dispersez des bombes paralysantes dans les environs\r\net infligez des dégâts paralysants aux ennemis proches.\r\n(Coût : 1 100)",
+      "explanation": "Disperse des bombes paralysantes dans les environs\r\net inflige des dégâts paralysants aux ennemis proches.\r\n(Coût : 1 100)",
       "effect0": 12,
       "effect1": 0,
       "cost": 1100,
@@ -1057,7 +1057,7 @@
     "bomb_fire": {
       "name": "Essence du molotov",
       "category": 2,
-      "explanation": "Répands des cocktails Molotov dans les environs\r\net inflige des dégâts de brûlure aux ennemis proches.\r\n(Coût : 1 100)",
+      "explanation": "Répand des cocktails Molotov dans les environs\r\net inflige des dégâts de brûlure aux ennemis proches.\r\n(Coût : 1 100)",
       "effect0": 13,
       "effect1": 0,
       "cost": 1100,
@@ -1403,7 +1403,7 @@
     "boost_attack_s": {
       "name": "Essence de l'attaque",
       "category": 7,
-      "explanation": "1,5x l'attaque pour tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
+      "explanation": "Attaque 1,5x pour tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
       "effect0": 29,
       "effect1": 0,
       "cost": 2000,
@@ -1415,7 +1415,7 @@
     "boost_attack_m": {
       "name": "Vraie essence de l'attaque",
       "category": 7,
-      "explanation": "1,5x l'attaque pour tous les alliés pendant\r\n45 secondes.(Coût : 2 500)",
+      "explanation": "Attaque 1,5x pour tous les alliés pendant\r\n45 secondes.(Coût : 2 500)",
       "effect0": 30,
       "effect1": 0,
       "cost": 2500,
@@ -1499,7 +1499,7 @@
     "boost_defense_s": {
       "name": "Essence de la défense",
       "category": 8,
-      "explanation": "3x la défense de tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
+      "explanation": "Défense 3x de tous les alliés pendant\r\n30 secondes. (Coût : 2 000)",
       "effect0": 33,
       "effect1": 0,
       "cost": 2000,
@@ -1511,7 +1511,7 @@
     "boost_defense_m": {
       "name": "Vraie essence de la défense",
       "category": 8,
-      "explanation": "3x la défense de tous les alliés pendant\r\n45 secondes. (Coût : 2 500)",
+      "explanation": "Défense 3x de tous les alliés pendant\r\n45 secondes. (Coût : 2 500)",
       "effect0": 34,
       "effect1": 0,
       "cost": 2500,
@@ -1523,7 +1523,7 @@
     "boost_defense_short_s": {
       "name": "Essence de coeur de fer",
       "category": 8,
-      "explanation": "5x la défense de tous les alliés pendant\r\n15 secondes. (Coût : 2 000)",
+      "explanation": "Défense 5x de tous les alliés pendant\r\n15 secondes. (Coût : 2 000)",
       "effect0": 35,
       "effect1": 0,
       "cost": 2000,
@@ -1535,7 +1535,7 @@
     "boost_defense_short_m": {
       "name": "Vraie essence de coeur de fer",
       "category": 8,
-      "explanation": "5x la défense de tous les alliés pendant\r\n15 secondes. (Coût : 2 500)",
+      "explanation": "Défense 5x de tous les alliés pendant\r\n15 secondes. (Coût : 2 500)",
       "effect0": 36,
       "effect1": 0,
       "cost": 2500,
@@ -1547,7 +1547,7 @@
     "base_defense_s": {
       "name": "Essence de la fortification",
       "category": 8,
-      "explanation": "Les ennemis infligent 50 % de dégâts d'équipement\r\nen moins pendant 30 secondes.\r\n(Coût : 2 500)",
+      "explanation": "Les ennemis infligent 50% de dégâts d'équipement\r\nen moins pendant 30 secondes.\r\n(Coût : 2 500)",
       "effect0": 45,
       "effect1": 0,
       "cost": 2500,
@@ -1559,7 +1559,7 @@
     "base_defense_m": {
       "name": "Vraie essence de la fortification",
       "category": 8,
-      "explanation": "Les ennemis infligent 50 % de dégâts d'équipement\r\nen moins pendant 30 secondes.\r\n(Coût : 4 000)",
+      "explanation": "Les ennemis infligent 50% de dégâts d'équipement\r\nen moins pendant 30 secondes.\r\n(Coût : 4 000)",
       "effect0": 46,
       "effect1": 0,
       "cost": 4000,
@@ -1583,7 +1583,7 @@
     "stun_m": {
       "name": "Vraie essence de la paralysie",
       "category": 11,
-      "explanation": "Remplit la zone environnante de fumée\r\npendant 10 secondes. Les ennemis qui entrent en\r\ncontact avec la fumée s'évanouissent.\r\n (Coût : 3 500)",
+      "explanation": "Remplit la zone environnante de fumée\r\npendant 20 secondes. Les ennemis qui entrent en\r\ncontact avec la fumée s'évanouissent.\r\n (Coût : 3 500)",
       "effect0": 54,
       "effect1": 0,
       "cost": 3500,
@@ -1595,7 +1595,7 @@
     "boost_attack_defense_s": {
       "name": "Essence des muscles",
       "category": 7,
-      "explanation": "1,5x attaque et 3x défense pour tous les alliés\r\npendant 30 secondes.\r\n(Coût : 3 000)",
+      "explanation": "Attaque 1,5x et défense 3x pour tous les alliés\r\npendant 30 secondes.\r\n(Coût : 3 000)",
       "effect0": 29,
       "effect1": 33,
       "cost": 3000,
@@ -1607,7 +1607,7 @@
     "boost_attack_defense_m": {
       "name": "Boost de puissance",
       "category": 7,
-      "explanation": "1,5x attaque et 3x défense pour tous les alliés\r\npendant 45 secondes.\r\n(Coût : 4 000)",
+      "explanation": "Attaque 1,5x et défense 3x pour tous les alliés\r\npendant 45 secondes.\r\n(Coût : 4 000)",
       "effect0": 30,
       "effect1": 34,
       "cost": 4000,
@@ -1619,7 +1619,7 @@
     "inspiration_s": {
       "name": "Essence de l'inspiration",
       "category": 9,
-      "explanation": "1,5x l'attaque et l'invincibilité pour tous les\r\nalliés pendant 15 secondes.\r\n(Coût : 2 500)",
+      "explanation": "Attaque 1,5x et l'invincibilité pour tous les\r\nalliés pendant 15 secondes.\r\n(Coût : 2 500)",
       "effect0": 37,
       "effect1": 17,
       "cost": 2500,
@@ -1631,7 +1631,7 @@
     "Inspiration_m": {
       "name": "Charisme noir",
       "category": 9,
-      "explanation": "3x l'attaque et l'invincibilité pour toutes\r\nles personnes pendant 15 secondes.\r\n(Coût : 4 500)",
+      "explanation": "Attaque 3x et l'invincibilité pour toutes\r\nles personnes pendant 15 secondes.\r\n(Coût : 4 500)",
       "effect0": 38,
       "effect1": 17,
       "cost": 4500,
@@ -1643,7 +1643,7 @@
     "sacrifice": {
       "name": "Essence de la richesse",
       "category": 5,
-      "explanation": "3x l'argent gagné en ramassant de l'argent\r\npendant 30 secondes.  (Coût : 100)",
+      "explanation": "Argent gagné 3x en ramassant de l'argent\r\npendant 30 secondes. (Coût : 100)",
       "effect0": 49,
       "effect1": 0,
       "cost": 100,
@@ -1653,7 +1653,7 @@
   },
   "152": {
     "energy_saving": {
-      "name": "Essence de l'écolo : Compétence",
+      "name": "Essence de l'écolo : compétence",
       "category": 5,
       "explanation": "L'utilisation d'une compétence coûte 50% de\r\nmoins d'argent pendant 30 secondes.\r\n(Coût : 500)",
       "effect0": 50,
@@ -1665,9 +1665,9 @@
   },
   "153": {
     "energy-saving_konjo": {
-      "name": "Essence de l'écolo : Esprit",
+      "name": "Essence de l'écolo : esprit",
       "category": 5,
-      "explanation": "L'élévation de l'esprit coûte 50% de moins\r\nd'argent pendant 30 secondes.  (Coût : 1 000)",
+      "explanation": "L'élévation de l'esprit coûte 50% de moins\r\nd'argent pendant 30 secondes. (Coût : 1 000)",
       "effect0": 51,
       "effect1": 0,
       "cost": 1000,
@@ -1737,9 +1737,9 @@
   },
   "159": {
     "boost_attack_defense_sayama": {
-      "name": "Chasseuse de Yakuza",
+      "name": "Chasseuse de yakuzas",
       "category": 7,
-      "explanation": "1,5x attaque et 3x défense pour tous les alliés\r\npendant 45 secondes.\r\n(Coût : 3 500)",
+      "explanation": "Attaque 1,5x et défense 3x pour tous les alliés\r\npendant 45 secondes.\r\n(Coût : 3 500)",
       "effect0": 30,
       "effect1": 34,
       "cost": 3500,
@@ -1763,7 +1763,7 @@
     "Inspiration_daigo": {
       "name": "Charisme du futur",
       "category": 9,
-      "explanation": "3x l'attaque et l'invincibilité pour toutes\r\nles personnes pendant 15 secondes.\r\n(Coût : 4 000)",
+      "explanation": "Attaque 3x et invincibilité pour tous\r\nles alliés pendant 15 secondes.\r\n(Coût : 4 000)",
       "effect0": 38,
       "effect1": 17,
       "cost": 4000,
@@ -1775,7 +1775,7 @@
     "sacrifice_okada": {
       "name": "Essence du Rainmaker",
       "category": 5,
-      "explanation": "5x l'argent gagné en ramassant de l'argent\r\npendant 30 secondes.  (Coût : 500)",
+      "explanation": "Argent gagné 5x en ramassant de l'argent\r\npendant 30 secondes. (Coût : 500)",
       "effect0": 57,
       "effect1": 0,
       "cost": 500,
