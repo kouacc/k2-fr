@@ -3814,9 +3814,9 @@
   },
   "431": {
     "lexus2_shoukodate01_select_01": {
-      "option0": "I want to get back to Kamurocho.　",
-      "option1": "I want to live in Sotenbori.",
-      "option2": "I don't get attached to places.",
+      "option0": "Je veux retourner à Kamurocho.　",
+      "option1": "Je veux vivre à Sotenbori.",
+      "option2": "Je ne m'attache pas aux endroits.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 441
@@ -3824,9 +3824,9 @@
   },
   "432": {
     "lexus2_shoukodate01_select_02": {
-      "option0": "A bicycle.",
-      "option1": "A stuffed animal.",
-      "option2": "Ramen for your neighbors.",
+      "option0": "Un vélo.",
+      "option1": "Une peluche.",
+      "option2": "Des sobas pour tes voisins.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 442
@@ -3834,9 +3834,9 @@
   },
   "433": {
     "lexus2_shoukodate01_select_03": {
-      "option0": "You read manga?",
-      "option1": "You read romance?",
-      "option2": "You read books that come with model parts?",
+      "option0": "Tu lis des mangas ?",
+      "option1": "Tu lis de la romance ?",
+      "option2": "Tu lis les livres avec les pièces de maquettes ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 443
@@ -3844,9 +3844,9 @@
   },
   "434": {
     "lexus2_shoukodate01_select_04": {
-      "option0": "I like battle manga.",
-      "option1": "I like gag manga.",
-      "option2": "I like sexy manga.",
+      "option0": "J'aime les mangas de combat.",
+      "option1": "J'aime le gag manga.",
+      "option2": "J'aime les mangas sexy.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 444
@@ -3854,9 +3854,9 @@
   },
   "435": {
     "lexus2_shoukodate02_select_01": {
-      "option0": "Her strength.",
-      "option1": "Her tool of her trade.",
-      "option2": "Her gift.",
+      "option0": "Sa force.",
+      "option1": "Son outil de travail.",
+      "option2": "Son don.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 445
@@ -3864,9 +3864,9 @@
   },
   "436": {
     "lexus2_shoukodate02_select_02": {
-      "option0": "Even straying is experience.",
-      "option1": "You can't expect to be perfect.",
-      "option2": "You haven't strayed off course.",
+      "option0": "Même s'égarer est une expérience.",
+      "option1": "Tu ne peux pas t'attendre à être parfaite.",
+      "option2": "Tu n'as pas dévié de ta route.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 446
@@ -3874,9 +3874,9 @@
   },
   "437": {
     "lexus2_shoukodate02_select_03": {
-      "option0": "House renovation!",
-      "option1": "Telephone club!",
-      "option2": "Too much pressure...",
+      "option0": "Rénovation de maison !",
+      "option1": "Téléphone-club !",
+      "option2": "Trop de pression...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 447
@@ -3884,9 +3884,9 @@
   },
   "438": {
     "lexus2_shoukodate02_select_04": {
-      "option0": "As an expression model.",
-      "option1": "Partir the screentone to me.",
-      "option2": "As a nude model.",
+      "option0": "Je serai un modèle d'expression.",
+      "option1": "Laisse-moi le screentone.",
+      "option2": "Je serai un modèle nu.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 448
@@ -3894,9 +3894,9 @@
   },
   "439": {
     "lexus2_shoukodate03_select_01": {
-      "option0": "I was a postcard professional.",
-      "option1": "I hit the telephone clubs hard.",
-      "option2": "My friend and I messed around.",
+      "option0": "J'étais un pro des cartes postales.",
+      "option1": "J'étais à fond dans les téléphone-club.",
+      "option2": "Moi et mon ami faisions des bêtises.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 449
@@ -3904,9 +3904,9 @@
   },
   "440": {
     "lexus2_shoukodate03_select_02": {
-      "option0": "A private video booth.",
-      "option1": "A bar.",
-      "option2": "A mahjong parlor.",
+      "option0": "Une cabine vidéo.",
+      "option1": "Un bar.",
+      "option2": "Un salon de mahjong.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 450
@@ -3914,9 +3914,9 @@
   },
   "441": {
     "lexus2_shoukodate03_select_03": {
-      "option0": "Me?",
-      "option1": "Yuki?",
-      "option2": "Kanzaki?",
+      "option0": "Moi ?",
+      "option1": "Yuki ?",
+      "option2": "Kanzaki ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 451
@@ -3924,9 +3924,9 @@
   },
   "442": {
     "lexus2_shoukodate03_select_04": {
-      "option0": "Would you show it to me?",
-      "option1": "Why not enter a contest?",
-      "option2": "Would you show it at the club? ",
+      "option0": "Tu veux bien me le montrer ?",
+      "option1": "Pourquoi ne pas participer à un concours ?",
+      "option2": "Tu le montrerais au club ? ",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 452
@@ -4054,9 +4054,9 @@
   },
   "455": {
     "lexus2_koyukidate01_select_01": {
-      "option0": "You've got to own it.",
-      "option1": "Think of him as your mother.",
-      "option2": "Think of him as beneath you.",
+      "option0": "Fais-en une force.",
+      "option1": "Penses qu'il s'agit de ta mère.",
+      "option2": "Considère qu'il est inférieur.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 465
@@ -4064,9 +4064,9 @@
   },
   "456": {
     "lexus2_koyukidate01_select_02": {
-      "option0": "You must <font_kind=yakuza_italic>really</font_kind> like Yuki.",
-      "option1": "That's... creepy.",
-      "option2": "Pictures, you say?",
+      "option0": "Tu dois <font_kind=yakuza_italic>vraiment</font_kind> aimer Yuki.",
+      "option1": "C'est... effrayant.",
+      "option2": "Des photos, tu dis ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 466
@@ -4074,9 +4074,9 @@
   },
   "457": {
     "lexus2_koyukidate01_select_03": {
-      "option0": "That's up to you.",
-      "option1": "You can surpass her.",
-      "option2": "Ridiculous is right!",
+      "option0": "Tout dépend de toi.",
+      "option1": "Tu peux la surpasser.",
+      "option2": "Complètement ridicule !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 485
@@ -4084,9 +4084,9 @@
   },
   "458": {
     "lexus2_koyukidate01_select_04": {
-      "option0": "That's admirable.",
-      "option1": "Would you like a raise?",
-      "option2": "The meal's on me today.",
+      "option0": "C'est remarquable.",
+      "option1": "Tu veux une augmentation ?",
+      "option2": "TC'est moi qui régale aujourd'hui.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 486
@@ -4094,9 +4094,9 @@
   },
   "459": {
     "lexus2_koyukidate02_select_01": {
-      "option0": "Doesn't bother me.",
-      "option1": "There are no rules.",
-      "option2": "Long as we don't cross any lines.",
+      "option0": "Ça ne me dérange pas.",
+      "option1": "Il n'y a pas de règles.",
+      "option2": "Tant qu'on ne dépasse pas les bornes.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 547
@@ -4104,9 +4104,9 @@
   },
   "460": {
     "lexus2_koyukidate02_select_02": {
-      "option0": "Maybe it's you?",
-      "option1": "Guys have missed out.",
-      "option2": "I can fix that for you...",
+      "option0": "Peut-être que c'est toi ?",
+      "option1": "Ils manquent quelque chose.",
+      "option2": "Je peux arranger ça pour toi...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 503
@@ -4114,9 +4114,9 @@
   },
   "461": {
     "lexus2_koyukidate02_select_03": {
-      "option0": "What matters is what's inside.",
-      "option1": "I think you're plenty hot.",
-      "option2": "Men do prefer sexy women.",
+      "option0": "Ce qui compte, c'est ce qu'il y a à l'intérieur.",
+      "option1": "Je pense que tu es assez sexy.",
+      "option2": "Les hommes préfèrent les femmes sexy.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 504
@@ -4124,9 +4124,9 @@
   },
   "462": {
     "lexus2_koyukidate02_select_04": {
-      "option0": "Maybe I'm in love right now.",
-      "option1": "There was a woman once...",
-      "option2": "I have no time for love!",
+      "option0": "Je suis peut-être amoureux en ce moment.",
+      "option1": "Il y avait une femme autrefois...",
+      "option2": "Il n'y a pas de temps pour l'amour !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 505
@@ -4134,9 +4134,9 @@
   },
   "463": {
     "lexus2_koyukidate03_select_01": {
-      "option0": "I'll find the culprit.",
-      "option1": "I'll find your panties.",
-      "option2": "...It was me.",
+      "option0": "Je trouverai le coupable.",
+      "option1": "Je trouverai tes culottes.",
+      "option2": "...C'était moi.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 506
@@ -4144,9 +4144,9 @@
   },
   "464": {
     "lexus2_koyukidate03_select_02": {
-      "option0": "They're worth stealing!",
-      "option1": "The world has its creeps...",
-      "option2": "I'll protect you.",
+      "option0": "Elles valent le coup d'être volées.",
+      "option1": "Le monde a ses détraqués...",
+      "option2": "Je te protégerai.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 507
@@ -4154,9 +4154,9 @@
   },
   "465": {
     "lexus2_koyukidate03_select_03": {
-      "option0": "A brand name bag.",
-      "option1": "A collection of messages.",
-      "option2": "Anti-blemish cream.",
+      "option0": "Un sac de marque.",
+      "option1": "Une collection de messages.",
+      "option2": "Une crème anti-imperfections.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 508
@@ -4166,7 +4166,7 @@
     "lexus2_koyukidate03_select_04": {
       "option0": "Je ressens la même chose.",
       "option1": "Continuons à aller de l'avant.",
-      "option2": "Donc je peux avoir ta culotte ?",
+      "option2": "Donc je peux avoir tes culottes ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 509
