@@ -53,7 +53,7 @@
     "standard_type_a_0": {
       "key_preset": 1,
       "key_name": "<symbol=button_l2>",
-      "action_name": "Left Weapon",
+      "action_name": "Arme gauche",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 1
@@ -63,7 +63,7 @@
     "standard_type_a_1": {
       "key_preset": 1,
       "key_name": "<symbol=button_r2>",
-      "action_name": "Right Weapon",
+      "action_name": "Arme droite",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 2
@@ -73,7 +73,7 @@
     "standard_type_a_2": {
       "key_preset": 1,
       "key_name": "<symbol=button_l1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
@@ -83,7 +83,7 @@
     "standard_type_a_3": {
       "key_preset": 1,
       "key_name": "<symbol=button_r1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
@@ -93,7 +93,7 @@
     "standard_type_a_4": {
       "key_preset": 1,
       "key_name": "<symbol=button_l_stick>",
-      "action_name": "Move",
+      "action_name": "Se déplacer",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 5
@@ -103,7 +103,7 @@
     "standard_type_a_5": {
       "key_preset": 1,
       "key_name": "<symbol=button_r_stick>",
-      "action_name": "Turn (Left or Right)",
+      "action_name": "Tourner (gauche ou droite)",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 6
@@ -113,7 +113,7 @@
     "standard_type_a_6": {
       "key_preset": 1,
       "key_name": "<symbol=button_shikaku>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 7
@@ -123,7 +123,7 @@
     "standard_type_a_7": {
       "key_preset": 1,
       "key_name": "<symbol=button_maru>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 8
@@ -133,7 +133,7 @@
     "standard_type_a_8": {
       "key_preset": 1,
       "key_name": "<symbol=button_sankaku>",
-      "action_name": "Jump ",
+      "action_name": "Sauter ",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 9
@@ -143,7 +143,7 @@
     "standard_type_a_9": {
       "key_preset": 1,
       "key_name": "<symbol=button_batsu>",
-      "action_name": "Jump Cancel",
+      "action_name": "Annuler saut",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 10
@@ -153,7 +153,7 @@
     "standard_type_b_0": {
       "key_preset": 2,
       "key_name": "<symbol=button_l2>",
-      "action_name": "Left Weapon",
+      "action_name": "Arme gauche",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 11
@@ -163,7 +163,7 @@
     "standard_type_b_1": {
       "key_preset": 2,
       "key_name": "<symbol=button_r2>",
-      "action_name": "Right Weapon",
+      "action_name": "Arme droite",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 12
@@ -173,7 +173,7 @@
     "standard_type_b_2": {
       "key_preset": 2,
       "key_name": "<symbol=button_l1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 13
@@ -183,7 +183,7 @@
     "standard_type_b_3": {
       "key_preset": 2,
       "key_name": "<symbol=button_r1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 14
@@ -193,7 +193,7 @@
     "standard_type_b_4": {
       "key_preset": 2,
       "key_name": "<symbol=button_shikaku>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 15
@@ -203,7 +203,7 @@
     "standard_type_b_5": {
       "key_preset": 2,
       "key_name": "<symbol=button_maru>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 16
@@ -213,7 +213,7 @@
     "standard_type_b_6": {
       "key_preset": 2,
       "key_name": "<symbol=button_l_stick>",
-      "action_name": "Move",
+      "action_name": "Se déplacer",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 17
@@ -222,8 +222,8 @@
   "18": {
     "standard_type_b_7": {
       "key_preset": 2,
-      "key_name": "Push <symbol=button_r_stick> left or right",
-      "action_name": "Turn (Left or Right)",
+      "key_name": "Tournez <symbol=button_r_stick> à gauche ou à droite",
+      "action_name": "Tourner (gauche ou droite)",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 18
@@ -232,7 +232,7 @@
   "19": {
     "standard_type_b_8": {
       "key_preset": 2,
-      "key_name": "Push <symbol=button_r_stick> up",
+      "key_name": "Tournez <symbol=button_r_stick> vers le haut",
       "action_name": "Jump ",
       "disabled": "1",
       "reARMP_isValid": "1",
@@ -242,8 +242,8 @@
   "20": {
     "standard_type_b_9": {
       "key_preset": 2,
-      "key_name": "Push <symbol=button_r_stick> down",
-      "action_name": "Jump Cancel",
+      "key_name": "Tournezush <symbol=button_r_stick> vers le bas",
+      "action_name": "Annuler saut",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 20
@@ -253,7 +253,7 @@
     "twin_stick_type_a_0": {
       "key_preset": 3,
       "key_name": "<symbol=button_l2>",
-      "action_name": "Left Weapon",
+      "action_name": "Arme gauche",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 21
@@ -263,7 +263,7 @@
     "twin_stick_type_a_1": {
       "key_preset": 3,
       "key_name": "<symbol=button_r2>",
-      "action_name": "Right Weapon",
+      "action_name": "Arme droite",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 22
@@ -273,7 +273,7 @@
     "twin_stick_type_a_2": {
       "key_preset": 3,
       "key_name": "<symbol=button_l1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 23
@@ -283,7 +283,7 @@
     "twin_stick_type_a_3": {
       "key_preset": 3,
       "key_name": "<symbol=button_r1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 24
@@ -293,7 +293,7 @@
     "twin_stick_type_a_4": {
       "key_preset": 3,
       "key_name": "<symbol=button_l_stick>",
-      "action_name": "Left Lever",
+      "action_name": "Levier gauche",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 25
@@ -303,7 +303,7 @@
     "twin_stick_type_a_5": {
       "key_preset": 3,
       "key_name": "<symbol=button_r_stick>",
-      "action_name": "Right Lever",
+      "action_name": "Levier droit",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 26
@@ -313,7 +313,7 @@
     "twin_stick_type_b_0": {
       "key_preset": 4,
       "key_name": "<symbol=button_l2>",
-      "action_name": "Left Weapon",
+      "action_name": "Arme gauche",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 27
@@ -323,7 +323,7 @@
     "twin_stick_type_b_1": {
       "key_preset": 4,
       "key_name": "<symbol=button_r2>",
-      "action_name": "Right Weapon",
+      "action_name": "Arme droite",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 28
@@ -333,7 +333,7 @@
     "twin_stick_type_b_2": {
       "key_preset": 4,
       "key_name": "<symbol=button_l1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 29
@@ -343,7 +343,7 @@
     "twin_stick_type_b_3": {
       "key_preset": 4,
       "key_name": "<symbol=button_r1>",
-      "action_name": "Dash",
+      "action_name": "Courir",
       "disabled": "1",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 30
@@ -353,7 +353,7 @@
     "twin_stick_type_b_4": {
       "key_preset": 4,
       "key_name": "<symbol=button_l_stick>",
-      "action_name": "Left Lever",
+      "action_name": "Levier gauche",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 31
@@ -363,7 +363,7 @@
     "twin_stick_type_b_5": {
       "key_preset": 4,
       "key_name": "<symbol=button_r_stick>",
-      "action_name": "Right Lever",
+      "action_name": "Levier droit",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 32
@@ -373,7 +373,7 @@
     "twin_stick_type_b_6": {
       "key_preset": 4,
       "key_name": "<symbol=button_up> <symbol=button_down> <symbol=button_left> <symbol=button_right>",
-      "action_name": "Left Lever",
+      "action_name": "Levier gauche",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 33
@@ -383,7 +383,7 @@
     "twin_stick_type_b_7": {
       "key_preset": 4,
       "key_name": "<symbol=button_sankaku> <symbol=button_batsu> <symbol=button_shikaku> <symbol=button_maru>",
-      "action_name": "Right Lever",
+      "action_name": "Levier droit",
       "disabled": "0",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 34

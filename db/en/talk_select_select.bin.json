@@ -3454,9 +3454,9 @@
   },
   "395": {
     "lexus2_kanadate01_select_01": {
-      "option0": "I'm actually a small eater.",
-      "option1": "I don't lose at eating.",
-      "option2": "I'm on a diet, myself.",
+      "option0": "Je suis en fait un petit mangeur.",
+      "option1": "Je ne perds pas à manger.",
+      "option2": "Je suis moi-même au régime.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 405
@@ -3464,9 +3464,9 @@
   },
   "396": {
     "lexus2_kanadate01_select_02": {
-      "option0": "Your team was too weak.",
-      "option1": "You must have worked hard.",
-      "option2": "You had a lot of friends, huh?",
+      "option0": "Ton équipe était trop faible.",
+      "option1": "Tu as dû travailler dur.",
+      "option2": "Tu avais beaucoup d'amis, hein ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 406
@@ -3474,9 +3474,9 @@
   },
   "397": {
     "lexus2_kanadate01_select_03": {
-      "option0": "Keep those big spenders.",
-      "option1": "Keep working hard.",
-      "option2": "Get closer to the manager.",
+      "option0": "Garde ces gros dépensiers.",
+      "option1": "Continue à travailler dur.",
+      "option2": "Rapproche-toi du manager.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 407
@@ -3484,9 +3484,9 @@
   },
   "398": {
     "lexus2_kanadate01_select_04": {
-      "option0": "You'll never feel alone again.",
-      "option1": "Your previous club failed you.",
-      "option2": "Don't overwork yourself.",
+      "option0": "Tu ne te sentiras plus jamais seule.",
+      "option1": "Ton ancien club t'a laissé tomber.",
+      "option2": "Ne te surmène pas.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 408
@@ -3494,9 +3494,9 @@
   },
   "399": {
     "lexus2_kanadate02_select_01": {
-      "option0": "I love solo karaoke.",
-      "option1": "I go to practice.",
-      "option2": "Karaoke is better with friends.",
+      "option0": "J'adore le karaoké en solo.",
+      "option1": "Je vais m'entraîner.",
+      "option2": "Le karaoké est meilleur avec des amis.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 409
@@ -3504,9 +3504,9 @@
   },
   "400": {
     "lexus2_kanadate02_select_02": {
-      "option0": "A big eater, right?",
-      "option1": "It's me, right?",
-      "option2": "A man chasing his dreams?",
+      "option0": "Un gros mangeur, non ?",
+      "option1": "C'est moi, hein ?",
+      "option2": "Un homme qui poursuit ses rêves ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 410
@@ -3514,9 +3514,9 @@
   },
   "401": {
     "lexus2_kanadate02_select_03": {
-      "option0": "The idol route?",
-      "option1": "How about playing it straight?",
-      "option2": "Definitely mature and sexy.",
+      "option0": "La route d'idole ?",
+      "option1": "Pourquoi ne pas jouer franc jeu ?",
+      "option2": "Définitivement mature et sexy.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 411
@@ -3526,7 +3526,7 @@
     "lexus2_kanadate02_select_04": {
       "option0": "Shellac",
       "option1": "Komian",
-      "option2": "Four Shine, of course!",
+      "option2": "Four Shine, logique !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 412
@@ -3534,9 +3534,9 @@
   },
   "403": {
     "lexus2_kanadate03_select_01": {
-      "option0": "Why don't you help her?",
-      "option1": "Why don't you ask her?",
-      "option2": "Stay out of her business.",
+      "option0": "Pourquoi tu ne l'aides pas ?",
+      "option1": "Pourquoi tu ne lui demandes pas ?",
+      "option2": "Ne te mêle pas de ses affaires.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 413
@@ -3544,9 +3544,9 @@
   },
   "404": {
     "lexus2_kanadate03_select_02": {
-      "option0": "You've really matured.",
-      "option1": "This calls for a hug.",
-      "option2": "I still blame your senpai.",
+      "option0": "Tu as vraiment mûri.",
+      "option1": "Ça mérite un câlin.",
+      "option2": "Je blâme toujours ton senpai.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 414
@@ -3554,9 +3554,9 @@
   },
   "405": {
     "lexus2_kanadate03_select_03": {
-      "option0": "A top tier hostess.",
-      "option1": "My wife.",
-      "option2": "Manager of Four Shine.",
+      "option0": "Une hôtesse de première classe.",
+      "option1": "Ma femme.",
+      "option2": "Manager de Four Shine.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 415
@@ -3564,9 +3564,9 @@
   },
   "406": {
     "lexus2_kanadate03_select_04": {
-      "option0": "I'm sure you'll find one.",
-      "option1": "I feel the same way.",
-      "option2": "I want a girlfriend like you.",
+      "option0": "Je suis sûr que tu en trouveras un.",
+      "option1": "Je pense la même chose.",
+      "option2": "Je veux une petite amie comme toi.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 416
@@ -3574,9 +3574,9 @@
   },
   "407": {
     "lexus2_yuadate01_select_01": {
-      "option0": "I'd love to.",
-      "option1": "Sorry, I'm not interested.",
-      "option2": "I have enough DVDs already.",
+      "option0": "J'adorerais.",
+      "option1": "Désolé, je ne suis pas intéressé.",
+      "option2": "J'ai déjà assez de DVD.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 417
@@ -3584,9 +3584,9 @@
   },
   "408": {
     "lexus2_yuadate01_select_02": {
-      "option0": "Money was tight.",
-      "option1": "You weren't actually popular.",
-      "option2": "You're better suited to cabaret.",
+      "option0": "L'argent est rare.",
+      "option1": "Tu n'étais pas vraiment populaire.",
+      "option2": "Tu es plus adaptée au cabaret.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 418
@@ -3594,9 +3594,9 @@
   },
   "409": {
     "lexus2_yuadate01_select_03": {
-      "option0": "A bikini festival!",
-      "option1": "You could put on a concert.",
-      "option2": "Let's hold a handshake event.",
+      "option0": "Un festival du bikinis !",
+      "option1": "Tu pourrais faire un concert.",
+      "option2": "Organisons une poignée de main.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 419
@@ -3604,9 +3604,9 @@
   },
   "410": {
     "lexus2_yuadate01_select_04": {
-      "option0": "I didn't have time for that.",
-      "option1": "I was.",
-      "option2": "I prefer my women old.",
+      "option0": "Je n'avais pas le temps pour ça.",
+      "option1": "Oui.",
+      "option2": "Je préfère les femmes âgées.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 420
@@ -3614,9 +3614,9 @@
   },
   "411": {
     "lexus2_yuadate02_select_01": {
-      "option0": "The guy must really adore you.",
-      "option1": "Give it back to him.",
-      "option2": "Let's sell it!",
+      "option0": "Ce type doit vraiment t'adorer.",
+      "option1": "Rends-lui.",
+      "option2": "Vendons-la !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 421
@@ -3624,9 +3624,9 @@
   },
   "412": {
     "lexus2_yuadate02_select_02": {
-      "option0": "You'll find your prince someday.",
-      "option1": "Your standards <font_kind=yakuza_italic>are</font_kind> too high!",
-      "option2": "Your prince is right in front of you.",
+      "option0": "Tu trouveras ton prince un jour.",
+      "option1": "Tes standards <font_kind=yakuza_italic>sont</font_kind> trop hauts !",
+      "option2": "Ton prince est juste devant toi.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 422
@@ -3634,9 +3634,9 @@
   },
   "413": {
     "lexus2_yuadate02_select_03": {
-      "option0": "That's part of your appeal.",
-      "option1": "You're kinda dumb, huh?",
-      "option2": "You should really get that fixed.",
+      "option0": "Ça fait partie de ton charme.",
+      "option1": "Tu es un peu bête, hein ?",
+      "option2": "Tu devrais vraiment corriger ça.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 423
@@ -3644,9 +3644,9 @@
   },
   "414": {
     "lexus2_yuadate02_select_04": {
-      "option0": "Take a Shot in the Dark",
-      "option1": "Make an Educated Guess",
-      "option2": "Admit You Don't know",
+      "option0": "Prendre un risque",
+      "option1": "Faire une supposition éclairée",
+      "option2": "Admettre que vous ne savez pas",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 424
@@ -3654,9 +3654,9 @@
   },
   "415": {
     "lexus2_yuadate03_select_01": {
-      "option0": "Take care of yourself, Yua.",
-      "option1": "I'll protect you.",
-      "option2": "You should let them take pictures.",
+      "option0": "Prends soin de toi, Yua.",
+      "option1": "Je te protègerai.",
+      "option2": "Tu devrais les laisser prendre des photos.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 425
@@ -3664,9 +3664,9 @@
   },
   "416": {
     "lexus2_yuadate03_select_02": {
-      "option0": "That's so like you, Yua.",
-      "option1": "Let's squeeze them for cash!",
-      "option2": "Don't abandon those fans.",
+      "option0": "C'est tellement toi, Yua.",
+      "option1": "Dépouillons-les de leur argent !",
+      "option2": "N'abandonne pas ces fans.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 426
@@ -3674,9 +3674,9 @@
   },
   "417": {
     "lexus2_yuadate03_select_03": {
-      "option0": "Make me some good food.",
-      "option1": "What would I want...?",
-      "option2": "Nothing.",
+      "option0": "Fais-moi de la bonne nourriture.",
+      "option1": "Qu'est-ce que je voudrais... ?",
+      "option2": "Rien.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 427
@@ -3684,9 +3684,9 @@
   },
   "418": {
     "lexus2_yuadate03_select_04": {
-      "option0": "Our attitude toward customers.",
-      "option1": "Our lack of quotas.",
-      "option2": "Our friendly atmosphere.",
+      "option0": "Notre attitude envers les clients.",
+      "option1": "Notre absence de quotas.",
+      "option2": "Notre atmosphère conviviale.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 428
@@ -3694,9 +3694,9 @@
   },
   "419": {
     "lexus2_aikadate01_select_01": {
-      "option0": "Keep the drinks flowing!",
-      "option1": "I don't want you to blackout.",
-      "option2": "I'm already drunk.",
+      "option0": "Faites circuler les verres !",
+      "option1": "Je ne veux pas que tu t'évanouisses.",
+      "option2": "Je suis déjà bourré.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 429
@@ -3704,9 +3704,9 @@
   },
   "420": {
     "lexus2_aikadate01_select_02": {
-      "option0": "A lady needs to be careful out there.",
-      "option1": "In that case, keep drinking.",
-      "option2": "I want to be the electric pole!",
+      "option0": "Une femme doit être prudente dehors.",
+      "option1": "Dans ce cas, continue à boire.",
+      "option2": "Je veux être le poteau électrique !",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 430
@@ -3714,9 +3714,9 @@
   },
   "421": {
     "lexus2_aikadate01_select_03": {
-      "option0": "Yeah, I'm pretty great.",
-      "option1": "I hope you're with us a long time.",
-      "option2": "You should work where you're happy.",
+      "option0": "Ouais, je suis plutôt génial.",
+      "option1": "J'espère que tu resteras longtemps avec nous.",
+      "option2": "Tu devrais travailler là où tu es heureuse.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 431
@@ -3724,9 +3724,9 @@
   },
   "422": {
     "lexus2_aikadate01_select_04": {
-      "option0": "It's not weird.",
-      "option1": "It suits you well.",
-      "option2": "Admit it, the job pays well.",
+      "option0": "C'est pas bizarre.",
+      "option1": "Ça te va bien.",
+      "option2": "Admets-le, le travail paie bien.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 432
@@ -3734,9 +3734,9 @@
   },
   "423": {
     "lexus2_aikadate02_select_01": {
-      "option0": "This is so sudden...",
-      "option1": "If you fall for me, you'll only get burned.",
-      "option2": "I love you...",
+      "option0": "C'est si soudain...",
+      "option1": "Si tu te fais avoir, tu te brûleras.",
+      "option2": "Je t'aime...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 433
@@ -3744,9 +3744,9 @@
   },
   "424": {
     "lexus2_aikadate02_select_02": {
-      "option0": "Our club forbids relationships.",
-      "option1": "That's for you to decide.",
-      "option2": "You're at marrying age, though.",
+      "option0": "Notre club interdit les relations.",
+      "option1": "C'est à toi de décider.",
+      "option2": "Mais tu as l'âge de te marier.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 434
@@ -3754,9 +3754,9 @@
   },
   "425": {
     "lexus2_aikadate02_select_03": {
-      "option0": "You've got to be yourself.",
-      "option1": "I hate those types too.",
-      "option2": "Women shouldn't get mad.",
+      "option0": "Tu dois être toi-même.",
+      "option1": "Je déteste ces types aussi.",
+      "option2": "Les femmes ne devraient pas s'énerver.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 435
@@ -3764,9 +3764,9 @@
   },
   "426": {
     "lexus2_aikadate02_select_04": {
-      "option0": "I look deeper than fashion styles.",
-      "option1": "I love the tanned look of a kuro gyaru!",
-      "option2": "I prefer clean and simple.",
+      "option0": "Je regarde plus loin que les styles de mode.",
+      "option1": "J'aime l'aspect bronzé d'une kuro gyaru !",
+      "option2": "Je préfère le propre et le simple.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 436
@@ -3774,9 +3774,9 @@
   },
   "427": {
     "lexus2_aikadate03_select_01": {
-      "option0": "Apologize honestly.",
-      "option1": "Pretend nothing happened.",
-      "option2": "Just make a good pun.",
+      "option0": "Excuse-toi honnêtement.",
+      "option1": "Prétends que rien ne s'est passé.",
+      "option2": "Fais juste un bon jeu de mots.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 437
@@ -3784,9 +3784,9 @@
   },
   "428": {
     "lexus2_aikadate03_select_02": {
-      "option0": "I quit once before.",
-      "option1": "I want to quit now.",
-      "option2": "I never want to quit.",
+      "option0": "J'ai déjà démissionné une fois.",
+      "option1": "Je veux démissionner maintenant.",
+      "option2": "Je ne veux jamais démissionner.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 438
@@ -3794,8 +3794,8 @@
   },
   "429": {
     "lexus2_aikadate03_select_03": {
-      "option0": "You can relieve it for me...",
-      "option1": "Men relieve it in their own ways.",
+      "option0": "Tu peux me soulager...",
+      "option1": "Les hommes se soulagent à leur manière.",
       "option2": "I punch people to relieve it.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -3804,9 +3804,9 @@
   },
   "430": {
     "lexus2_aikadate03_select_04": {
-      "option0": "Hostess seems right for you.",
-      "option1": "You'll be a married housewife.",
-      "option2": "I'll be your subordinate by then.",
+      "option0": "Être une hôtesse semble te convenir.",
+      "option1": "Tu seras une femme au foyer mariée.",
+      "option2": "Je serai ton subordonné d'ici là.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 440
@@ -3934,9 +3934,9 @@
   },
   "443": {
     "lexus2_kiraradate01_select_01": {
-      "option0": "Order them to chill out.",
-      "option1": "Distance is a good thing.",
-      "option2": "Try approaching them.",
+      "option0": "Ordonne-leur de se détendre.",
+      "option1": "La distance est une bonne chose.",
+      "option2": "Essaie de les approcher.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 453
@@ -3944,9 +3944,9 @@
   },
   "444": {
     "lexus2_kiraradate01_select_02": {
-      "option0": "Wanna avoid dangerous cults?",
-      "option1": "Make a Kazuma Pun",
-      "option2": "Make a Kirara Pun",
+      "option0": "Tu veux éviter les sectes dangereux ?",
+      "option1": "Faire un jeu de mots avec Kazuma",
+      "option2": "Faire un jeu de mots avec Kirara",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 454
@@ -3954,9 +3954,9 @@
   },
   "445": {
     "lexus2_kiraradate01_select_03": {
-      "option0": "Horse racing?",
-      "option1": "Relationships?",
-      "option2": "An underground casino?",
+      "option0": "Les courses de chevaux ?",
+      "option1": "Les relations ?",
+      "option2": "Un casino souterrain ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 455
@@ -3964,9 +3964,9 @@
   },
   "446": {
     "lexus2_kiraradate01_select_04": {
-      "option0": "I always bet on the dark horse.",
-      "option1": "I'd enjoy the show, no bets.",
-      "option2": "I'd spread it over several picks.",
+      "option0": "Je parie toujours sur le cheval noir.",
+      "option1": "Je profite du spectacle, sans paris.",
+      "option2": "Je le répartirais sur plusieurs choix.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 456
@@ -3974,9 +3974,9 @@
   },
   "447": {
     "lexus2_kiraradate02_select_01": {
-      "option0": "I'd invest in Four Shine.",
-      "option1": "I'd put it in the bank.",
-      "option2": "I'd gamble it on another horse.",
+      "option0": "J'investirais dans Four Shine.",
+      "option1": "Je le mettrais à la banque.",
+      "option2": "Je le parierais sur un autre cheval.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 457
@@ -3984,9 +3984,9 @@
   },
   "448": {
     "lexus2_kiraradate02_select_02": {
-      "option0": "Nothing, really.",
-      "option1": "Be a field trip supervisor.",
-      "option2": "Drink with them.",
+      "option0": "Rien, vraiment.",
+      "option1": "Devenir responsable d'une sortie éducative.",
+      "option2": "Boire avec eux.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 458
@@ -3994,9 +3994,9 @@
   },
   "449": {
     "lexus2_kiraradate02_select_03": {
-      "option0": "Invite Her to Karaoke",
-      "option1": "Serenade Her　",
-      "option2": "Show Her the Goods",
+      "option0": "L'inviter au karaoké",
+      "option1": "Lui faire la cour　",
+      "option2": "Lui montrer la marchandise",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 459
@@ -4004,9 +4004,9 @@
   },
   "450": {
     "lexus2_kiraradate02_select_04": {
-      "option0": "Why not write a book?",
-      "option1": "Find an apprentice.",
-      "option2": "Open your own club.",
+      "option0": "Pourquoi ne pas écrire un livre ?",
+      "option1": "Trouve un apprenti.",
+      "option2": "Ouvre ton propre club.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 460
@@ -4014,9 +4014,9 @@
   },
   "451": {
     "lexus2_kiraradate03_select_01": {
-      "option0": "I know advanced Eastern medicine techniques.",
-      "option1": "I could have carried you.",
-      "option2": "I would have encouraged you.",
+      "option0": "Je connais des techniques avancées de médecine orientale.",
+      "option1": "J'aurais pu te porter.",
+      "option2": "Je t'aurais encouragé.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 461
@@ -4024,9 +4024,9 @@
   },
   "452": {
     "lexus2_kiraradate03_select_02": {
-      "option0": "I'd like you to meet... me.",
-      "option1": "I'd like you to meet... Majima-san.",
-      "option2": "On second thought...",
+      "option0": "J'aimerais que tu rencontres... moi.",
+      "option1": "J'aimerais que tu rencontres... Majima-san.",
+      "option2": "En y réfléchissant bien...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 462
@@ -4034,9 +4034,9 @@
   },
   "453": {
     "lexus2_kiraradate03_select_03": {
-      "option0": "I think they admire you too.",
-      "option1": "I admire you.",
-      "option2": "I'm jealous of things about you.",
+      "option0": "Je pense qu'elles t'admirent aussi.",
+      "option1": "Je t'admire.",
+      "option2": "Je suis jaloux de certaines choses chez toi.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 463
@@ -4044,9 +4044,9 @@
   },
   "454": {
     "lexus2_kiraradate03_select_04": {
-      "option0": "You really looked up to Yuki.",
-      "option1": "You really loved Yuki.",
-      "option2": "You really hated Yuki.",
+      "option0": "Tu admirais vraiment Yuki.",
+      "option1": "Tu aimais vraiment Yuki.",
+      "option2": "Tu détestais vraiment Yuki.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 464
