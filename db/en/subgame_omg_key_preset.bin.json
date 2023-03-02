@@ -51,14 +51,14 @@
   },
   "3": {
     "twin_stick_type_a": {
-      "name": "Twin Stick A",
+      "name": "Double sticks A",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3
     }
   },
   "4": {
     "twin_stick_type_b": {
-      "name": "Twin Stick B",
+      "name": "Double sticks B",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 4
     }
