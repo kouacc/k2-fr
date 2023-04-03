@@ -568,7 +568,7 @@
   "4": {
     "bouncer_btl01_01": {
       "name": "Supérette embêtée : Normal",
-      "explanation": "Client : Manager régional de Poppo\r\nJ'ai des problèmes avec un certain groupe\r\n de racailles qui traîne près des mes\r\nmagasins. Ils se battent avec les clients,\r\nvolent des objets et nuisent aux ventes.\r\nVous pensez pouvoir vous en occuper ?",
+      "explanation": "Client : Manager régional de Poppo\r\nJ'ai des problèmes avec un certain groupe\r\nde racailles qui traîne près des mes\r\nmagasins. Ils se battent avec les clients,\r\nvolent des objets et nuisent aux ventes.\r\nVous pensez pouvoir vous en occuper ?",
       "level": 2,
       "time_limit": 0,
       "area_num": 1,
@@ -634,7 +634,7 @@
   "5": {
     "bouncer_btl01_02": {
       "name": "Supérette embêtée : Difficile",
-      "explanation": "Client : Manager régional de Poppo\r\nJ'ai des problèmes avec un certain groupe\r\n de racailles qui traîne près des mes\r\nmagasins. Ils se battent avec les clients,\r\nvolent des objets et nuisent aux ventes.\r\nVous pensez pouvoir vous en occuper ?",
+      "explanation": "Client : Manager régional de Poppo\r\nJ'ai des problèmes avec un certain groupe\r\nde racailles qui traîne près des mes\r\nmagasins. Ils se battent avec les clients,\r\nvolent des objets et nuisent aux ventes.\r\nVous pensez pouvoir vous en occuper ?",
       "level": 4,
       "time_limit": 0,
       "area_num": 1,
@@ -700,7 +700,7 @@
   "6": {
     "bouncer_btl01_03": {
       "name": "Supérette embêtée : Légende",
-      "explanation": "Client : Manager régional de Poppo\r\nJ'ai des problèmes avec un certain groupe\r\n de racailles qui traîne près des mes\r\nmagasins. Ils se battent avec les clients,\r\nvolent des objets et nuisent aux ventes.\r\nVous pensez pouvoir vous en occuper ?",
+      "explanation": "Client : Manager régional de Poppo\r\nJ'ai des problèmes avec un certain groupe\r\nde racailles qui traîne près des mes\r\nmagasins. Ils se battent avec les clients,\r\nvolent des objets et nuisent aux ventes.\r\nVous pensez pouvoir vous en occuper ?",
       "level": 6,
       "time_limit": 0,
       "area_num": 1,
@@ -949,7 +949,7 @@
   "10": {
     "bouncer_btl03_01": {
       "name": "Le maniaque de Hotel District : Normal",
-      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nUn homme étrange appelé \"Redman\" se\r\ndéchaîne dans Hotel District, en attaquant\r\net kidnappant des passants au hasard.\r\nChasse-le d'ici !",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nUn homme étrange appelé \"Redman\" se\r\ndéchaîne dans Hotel District, en attaquant\r\net kidnappant des passants au hasard.\r\nChassez-le d'ici !",
       "level": 3,
       "time_limit": 0,
       "area_num": 1,
@@ -1015,7 +1015,7 @@
   "11": {
     "bouncer_btl03_02": {
       "name": "Le maniaque de Hotel District : Difficile",
-      "explanation": "Client : Propriétaire de l'hôtel Sommet de l'océan\r\nUn homme étrange appelé \"Redman\" se\r\ndéchaîne dans Hotel District, en attaquant\r\net kidnappant des passants au hasard.\r\nChasse-le d'ici !",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nUn homme étrange appelé \"Redman\" se\r\ndéchaîne dans Hotel District, en attaquant\r\net kidnappant des passants au hasard.\r\nChassez-le d'ici !",
       "level": 5,
       "time_limit": 0,
       "area_num": 1,
@@ -1081,7 +1081,7 @@
   "12": {
     "bouncer_btl03_03": {
       "name": "Le maniaque de Hotel District : Légende",
-      "explanation": "Client : Propriétaire de l'hôtel Sommet de l'océan\r\nUn homme étrange appelé \"Redman\" se\r\ndéchaîne dans Hotel District, en attaquant\r\net kidnappant des passants au hasard.\r\nChasse-le d'ici !",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nUn homme étrange appelé \"Redman\" se\r\ndéchaîne dans Hotel District, en attaquant\r\net kidnappant des passants au hasard.\r\nChassez-le d'ici !",
       "level": 7,
       "time_limit": 0,
       "area_num": 1,
@@ -1329,8 +1329,8 @@
   },
   "16": {
     "bouncer_btl05_01": {
-      "name": "Éclaire le marché noir : Normal",
-      "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans ton futur si tu arrive à les arrêter.",
+      "name": "Marché noir éclairé : Normal",
+      "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans votre futur si vous arrivez à les arrêter.",
       "level": 3,
       "time_limit": 0,
       "area_num": 1,
@@ -1395,8 +1395,8 @@
   },
   "17": {
     "bouncer_btl05_02": {
-      "name": "Éclaire le marché noir : Difficile",
-      "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans ton futur si tu arrive à les arrêter.",
+      "name": "Marché noir éclairé : Difficile",
+      "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans votre futur si vous arrivez à les arrêter.",
       "level": 5,
       "time_limit": 0,
       "area_num": 1,
@@ -1461,8 +1461,8 @@
   },
   "18": {
     "bouncer_btl05_03": {
-      "name": "Éclaire le marché noir : Légende",
-      "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans ton futur si tu arrive à les arrêter.",
+      "name": "Marché noir éclairé : Légende",
+      "explanation": "Client : Voyante soucieuse\r\nLes étoiles me disent que des ventes d'armes\r\nillégales organisées par des mafias\r\nétrangères ont lieu dans les ruelles derrière\r\nle Serena et le Café Alps. Je vois une belle\r\nrécompense dans votre futur si vous arrivez à les arrêter.",
       "level": 7,
       "time_limit": 0,
       "area_num": 1,
@@ -1528,7 +1528,7 @@
   "19": {
     "bouncer_btl06_01": {
       "name": "Les épéistes errants : Normal",
-      "explanation": "Client : Passionés secrets de Kamurocho\r\nUn groupe d'étrangers bourrés balancent des\r\népées et font fuir tout le monde.\r\nOn a vraiment besoin d'aide là...",
+      "explanation": "Client : Passionnés des souterrains de Kamurocho\r\nUn groupe d'étrangers bourrés balancent des\r\népées et font fuir tout le monde.\r\nOn a vraiment besoin d'aide là...",
       "level": 4,
       "time_limit": 0,
       "area_num": 1,
@@ -1594,7 +1594,7 @@
   "20": {
     "bouncer_btl06_02": {
       "name": "Les épéistes errants : Difficile",
-      "explanation": "Client : Passionés secrets de Kamurocho\r\nUn groupe d'étrangers bourrés balancent des\r\népées et font fuir tout le monde.\r\nOn a vraiment besoin d'aide là...",
+      "explanation": "Client : Passionnés des souterrains de Kamurocho\r\nUn groupe d'étrangers bourrés balancent des\r\népées et font fuir tout le monde.\r\nOn a vraiment besoin d'aide là...",
       "level": 6,
       "time_limit": 0,
       "area_num": 1,
@@ -1660,7 +1660,7 @@
   "21": {
     "bouncer_btl06_03": {
       "name": "Les épéistes errants : Légende",
-      "explanation": "Client : Passionés secrets de Kamurocho\r\nUn groupe d'étrangers bourrés balancent des\r\népées et font fuir tout le monde.\r\nOn a vraiment besoin d'aide là...",
+      "explanation": "Client : Passionnés des souterrains de Kamurocho\r\nUn groupe d'étrangers bourrés balancent des\r\népées et font fuir tout le monde.\r\nOn a vraiment besoin d'aide là...",
       "level": 8,
       "time_limit": 0,
       "area_num": 1,
@@ -1726,7 +1726,7 @@
   "22": {
     "bouncer_btl07_01": {
       "name": "Géants imposants : Normal",
-      "explanation": "Client : Propriétaire du parking de Shichifuku\r\nDes géants ont bloqué la rue vers le parking\r\nde Shichifuku et demandent aux passants de\r\npayer un péage coûteux pour passer !\r\nArrêtez-les s'il-vous-plaît !",
+      "explanation": "Client : Propriétaire du parking de Shichifuku\r\nDes géants ont bloqué la rue vers le parking\r\nde Shichifuku et demandent aux passants de\r\npayer un péage coûteux pour passer !\r\nArrêtez-les, s'il vous plaît !",
       "level": 1,
       "time_limit": 0,
       "area_num": 1,
@@ -1792,7 +1792,7 @@
   "23": {
     "bouncer_btl07_02": {
       "name": "Géants imposants : Difficile",
-      "explanation": "Client : Propriétaire du parking de Shichifuku\r\nDes géants ont bloqué la rue vers le parking\r\nde Shichifuku et demandent aux passants de\r\npayer un péage coûteux pour passer !\r\nArrêtez-les s'il-vous-plaît !",
+      "explanation": "Client : Propriétaire du parking de Shichifuku\r\nDes géants ont bloqué la rue vers le parking\r\nde Shichifuku et demandent aux passants de\r\npayer un péage coûteux pour passer !\r\nArrêtez-les, s'il vous plaît !",
       "level": 3,
       "time_limit": 0,
       "area_num": 1,
@@ -1858,7 +1858,7 @@
   "24": {
     "bouncer_btl07_03": {
       "name": "Géants imposants : Légende",
-      "explanation": "Client : Propriétaire du parking de Shichifuku\r\nDes géants ont bloqué la rue vers le parking\r\nde Shichifuku et demandent aux passants de\r\npayer un péage coûteux pour passer !\r\nArrêtez-les s'il-vous-plaît !",
+      "explanation": "Client : Propriétaire du parking de Shichifuku\r\nDes géants ont bloqué la rue vers le parking\r\nde Shichifuku et demandent aux passants de\r\npayer un péage coûteux pour passer !\r\nArrêtez-les, s'il vous plaît !",
       "level": 5,
       "time_limit": 0,
       "area_num": 1,
@@ -1924,7 +1924,7 @@
   "25": {
     "bouncer_btl08_01": {
       "name": "La menace tonfa : Normal",
-      "explanation": "Client : Dojo \"Chemin du Tonfa\"\r\nMon dojo a été attaqué par des voyous voleurs\r\nde tonfas qui les utilisent maintenant pour\r\ntabasser des civils près du site de construction.\r\nQuelqu'un peut-il me débarasser de\r\nces hontes salissant le nom de mon dojo ?",
+      "explanation": "Client : Dojo Chemin du Tonfa\r\nMon dojo a été attaqué par des voyous voleurs\r\nde tonfas qui les utilisent maintenant pour\r\ntabasser des civils près du site de construction.\r\nQuelqu'un peut-il me débarasser de\r\nces hontes salissant le nom de mon dojo ?",
       "level": 4,
       "time_limit": 0,
       "area_num": 1,
@@ -1990,7 +1990,7 @@
   "26": {
     "bouncer_btl08_02": {
       "name": "La menace tonfa : Difficile",
-      "explanation": "Client : Dojo \"Chemin du Tonfa\"\r\nMon dojo a été attaqué par des voyous voleurs\r\nde tonfas qui les utilisent maintenant pour\r\ntabasser des civils près du site de construction.\r\nQuelqu'un peut-il me débarasser de\r\nces hontes salissant le nom de mon dojo ?",
+      "explanation": "Client : Dojo Chemin du Tonfa\r\nMon dojo a été attaqué par des voyous voleurs\r\nde tonfas qui les utilisent maintenant pour\r\ntabasser des civils près du site de construction.\r\nQuelqu'un peut-il me débarasser de\r\nces hontes salissant le nom de mon dojo ?",
       "level": 6,
       "time_limit": 0,
       "area_num": 1,
@@ -2056,7 +2056,7 @@
   "27": {
     "bouncer_btl08_03": {
       "name": "La menace tonfa : Légende",
-      "explanation": "Client : Dojo \"Chemin du Tonfa\"\r\nMon dojo a été attaqué par des voyous voleurs\r\nde tonfas qui les utilisent maintenant pour\r\ntabasser des civils près du site de construction.\r\nQuelqu'un peut-il me débarasser de\r\nces hontes salissant le nom de mon dojo ?",
+      "explanation": "Client : Dojo Chemin du Tonfa\r\nMon dojo a été attaqué par des voyous voleurs\r\nde tonfas qui les utilisent maintenant pour\r\ntabasser des civils près du site de construction.\r\nQuelqu'un peut-il me débarasser de\r\nces hontes salissant le nom de mon dojo ?",
       "level": 8,
       "time_limit": 0,
       "area_num": 1,
@@ -2122,7 +2122,7 @@
   "28": {
     "bouncer_btl09_01": {
       "name": "Caisses suspectes : Normal",
-      "explanation": "Client : Manager du bar Honky Tonk\r\nDes caisses en bois suspectes ont apparu\r\ndans le Champion District aujourd'hui, et\r\ncela fait fuir tout le monde. En plus,\r\nil y a aussi des gens qui les gardes.\r\nUn peu d'aide serait très appréciée.",
+      "explanation": "Client : Manager du bar Honky Tonk\r\nDes caisses en bois suspectes ont apparu\r\ndans le Champion District aujourd'hui, et\r\ncela fait fuir tout le monde. En plus,\r\nil y a aussi des gens qui les gardes.\r\nUn peu d'aide serait très apprécié.",
       "level": 5,
       "time_limit": 300,
       "area_num": 1,
@@ -2188,7 +2188,7 @@
   "29": {
     "bouncer_btl09_02": {
       "name": "Caisses suspectes : Difficile",
-      "explanation": "Client : Manager du bar Honky Tonk\r\nDes caisses en bois suspectes ont apparu\r\ndans le Champion District aujourd'hui, et\r\ncela fait fuir tout le monde. En plus,\r\nil y a aussi des gens qui les gardes.\r\nUn peu d'aide serait très appréciée.",
+      "explanation": "Client : Manager du bar Honky Tonk\r\nDes caisses en bois suspectes ont apparu\r\ndans le Champion District aujourd'hui, et\r\ncela fait fuir tout le monde. En plus,\r\nil y a aussi des gens qui les gardes.\r\nUn peu d'aide serait très apprécié.",
       "level": 7,
       "time_limit": 300,
       "area_num": 1,
@@ -2254,7 +2254,7 @@
   "30": {
     "bouncer_btl09_03": {
       "name": "Caisses suspectes : Légende",
-      "explanation": "Client : Manager du bar Honky Tonk\r\nDes caisses en bois suspectes ont apparu\r\ndans le Champion District aujourd'hui, et\r\ncela fait fuir tout le monde. En plus,\r\nil y a aussi des gens qui les gardes.\r\nUn peu d'aide serait très appréciée.",
+      "explanation": "Client : Manager du bar Honky Tonk\r\nDes caisses en bois suspectes ont apparu\r\ndans le Champion District aujourd'hui, et\r\ncela fait fuir tout le monde. En plus,\r\nil y a aussi des gens qui les gardes.\r\nUn peu d'aide serait très apprécié.",
       "level": 9,
       "time_limit": 300,
       "area_num": 1,
@@ -2320,7 +2320,7 @@
   "31": {
     "bouncer_btl10_01": {
       "name": "Purification de Sotenbori : Normal",
-      "explanation": "Client : La population SDF de Sotenbori\r\nY'a des racailles près d'la rivière qui nous\r\nvisent et nous pètent là gueule. Y'a des\r\ngars qu'ont été balancés dans la rivière\r\net qu'ont failli mourir... Y'a Quelqu'un\r\nqu'va nous aider ?",
+      "explanation": "Client : Population SDF de Sotenbori\r\nY'a des racailles près d'la rivière qui nous\r\nvisent et nous pètent la gueule. Y'a des\r\ngars qu'ont été balancés dans la rivière\r\net qu'ont failli mourir... Y'a quelqu'un\r\nqu'va nous aider ?",
       "level": 3,
       "time_limit": 0,
       "area_num": 1,
@@ -2386,7 +2386,7 @@
   "32": {
     "bouncer_btl10_02": {
       "name": "Purification de Sotenbori : Difficile",
-      "explanation": "Client : La population SDF de Sotenbori\r\nY'a des racailles près d'la rivière qui nous\r\nvisent et nous pètent là gueule. Y'a des\r\ngars qu'ont été balancés dans la rivière\r\net qu'ont failli mourir... Y'a Quelqu'un\r\nqu'va nous aider ?",
+      "explanation": "Client : Population SDF de Sotenbori\r\nY'a des racailles près d'la rivière qui nous\r\nvisent et nous pètent la gueule. Y'a des\r\ngars qu'ont été balancés dans la rivière\r\net qu'ont failli mourir... Y'a quelqu'un\r\nqu'va nous aider ?",
       "level": 5,
       "time_limit": 0,
       "area_num": 1,
@@ -2452,7 +2452,7 @@
   "33": {
     "bouncer_btl10_03": {
       "name": "Purification de Sotenbori : Légende",
-      "explanation": "Client : La population SDF de Sotenbori\r\nY'a des racailles près d'la rivière qui nous\r\nvisent et nous pètent là gueule. Y'a des\r\ngars qu'ont été balancés dans la rivière\r\net qu'ont failli mourir... Y'a Quelqu'un\r\nqu'va nous aider ?",
+      "explanation": "Client : Population SDF de Sotenbori\r\nY'a des racailles près d'la rivière qui nous\r\nvisent et nous pètent la gueule. Y'a des\r\ngars qu'ont été balancés dans la rivière\r\net qu'ont failli mourir... Y'a quelqu'un\r\nqu'va nous aider ?",
       "level": 7,
       "time_limit": 0,
       "area_num": 1,
@@ -2914,7 +2914,7 @@
   "40": {
     "bouncer_btl13_01": {
       "name": "Sotenbori en feu : Normal",
-      "explanation": "Client : Population SDF de Sotenbori\r\nTu dois nous aider ! Les gars de l'aut' fois\r\n sont d'retour, y veulent s'venger !\r\nz'ont dit qu'y z'allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ't'en supplie, arrête-les !",
+      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\n sont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
       "level": 7,
       "time_limit": 0,
       "area_num": 1,
@@ -2980,7 +2980,7 @@
   "41": {
     "bouncer_btl13_02": {
       "name": "Sotenbori en feu : Difficile",
-      "explanation": "Client : Population SDF de Sotenbori\r\nTu dois nous aider ! Les gars de l'aut' fois\r\n sont d'retour, y veulent s'venger !\r\nz'ont dit qu'y z'allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ't'en supplie, arrête-les !",
+      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\n sont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
       "level": 9,
       "time_limit": 0,
       "area_num": 1,
@@ -3046,7 +3046,7 @@
   "42": {
     "bouncer_btl13_03": {
       "name": "Sotenbori en feu : Légende",
-      "explanation": "Client : Population SDF de Sotenbori\r\nTu dois nous aider ! Les gars de l'aut' fois\r\n sont d'retour, y veulent s'venger !\r\nz'ont dit qu'y z'allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ't'en supplie, arrête-les !",
+      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\n sont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
       "level": 11,
       "time_limit": 0,
       "area_num": 1,
@@ -3112,7 +3112,7 @@
   "43": {
     "bouncer_btl14_01": {
       "name": "Match de rue de Sotenbori : Normal",
-      "explanation": "Client : Producteur d'événements anonyme\r\nA l'aide ! Des participants d'un de nos\r\névénements veulent savoir qui et le plus\r\nfort et organisent leur propre événement\r\ndans les rues de Sotenbori !\r\nArrêtez-les avant que la police s'en mêle !",
+      "explanation": "Client : Producteur d'événements anonyme\r\nÀ l'aide ! Des participants d'un de nos\r\névénements veulent savoir qui et le plus\r\nfort et organisent leur propre événement\r\ndans les rues de Sotenbori !\r\nArrêtez-les avant que la police s'en mêle !",
       "level": 9,
       "time_limit": 0,
       "area_num": 1,
@@ -3178,7 +3178,7 @@
   "44": {
     "bouncer_btl14_02": {
       "name": "Match de rue de Sotenbori : Difficile",
-      "explanation": "Client : Producteur d'événements anonyme\r\nA l'aide ! Des participants d'un de nos\r\névénements veulent savoir qui et le plus\r\nfort et organisent leur propre événement\r\ndans les rues de Sotenbori !\r\nArrêtez-les avant que la police s'en mêle !",
+      "explanation": "Client : Producteur d'événements anonyme\r\nÀ l'aide ! Des participants d'un de nos\r\névénements veulent savoir qui et le plus\r\nfort et organisent leur propre événement\r\ndans les rues de Sotenbori !\r\nArrêtez-les avant que la police s'en mêle !",
       "level": 11,
       "time_limit": 0,
       "area_num": 1,
@@ -3244,7 +3244,7 @@
   "45": {
     "bouncer_btl14_03": {
       "name": "Match de rue de Sotenbori : Légende",
-      "explanation": "Client : Producteur d'événements anonyme\r\nA l'aide ! Des participants d'un de nos\r\névénements veulent savoir qui et le plus\r\nfort et organisent leur propre événement\r\ndans les rues de Sotenbori !\r\nArrêtez-les avant que la police s'en mêle !",
+      "explanation": "Client : Producteur d'événements anonyme\r\nÀ l'aide ! Des participants d'un de nos\r\névénements veulent savoir qui et le plus\r\nfort et organisent leur propre événement\r\ndans les rues de Sotenbori !\r\nArrêtez-les avant que la police s'en mêle !",
       "level": 13,
       "time_limit": 0,
       "area_num": 1,
@@ -3691,7 +3691,7 @@
   "52": {
     "bouncer_btl17_01": {
       "name": "Le samouraï obsédé : Normal",
-      "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous s'il-vous-plaît !",
+      "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous, s'il vous plaît !",
       "level": 9,
       "time_limit": 0,
       "area_num": 1,
@@ -3756,8 +3756,8 @@
   },
   "53": {
     "bouncer_btl17_02": {
-      "name": "LLe samouraï obsédé : Difficile",
-      "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous s'il-vous-plaît !",
+      "name": "Le samouraï obsédé : Difficile",
+      "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous, s'il vous plaît !",
       "level": 11,
       "time_limit": 0,
       "area_num": 1,
@@ -3823,7 +3823,7 @@
   "54": {
     "bouncer_btl17_03": {
       "name": "Le samouraï obsédé : Légende",
-      "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous s'il-vous-plaît !",
+      "explanation": "Client : Employé d'Uncontrollable Paradise\r\nY'a des gars qu'on a banni du club qui ont\r\ntenté de rentrer aujourd'hui, et je leur\r\nai botté le cul. Mais après, ils sont\r\nrevenus avec un samouraï fou qui dit que\r\nc'est la guerre. Aidez-nous, s'il vous plaît !",
       "level": 13,
       "time_limit": 0,
       "area_num": 1,
@@ -4087,13 +4087,13 @@
   "58": {
     "bouncer_btl19_01": {
       "name": "Caché du monde : Normal",
-      "explanation": "Client : Employé du centre de Baseball Yoshida\r\nUn groupe de tordus habillés en ninjas\r\nviennent faire joujou avec leurs épées\r\nchez nous pendant les heures calmes de\r\nla journée. Comment je suis censé travailler\r\navec ça ? Cette merde me rend fou.",
+      "explanation": "Client : Employé du Batting Center Yoshida\r\nUn groupe de tordus habillés en ninjas\r\nviennent faire joujou avec leurs épées\r\nchez nous pendant les heures calmes de\r\nla journée. Comment je suis censé travailler\r\navec ça ? Ça me rend fou.",
       "level": 7,
       "time_limit": 0,
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis !",
       "lose_condition_explanation": "La santé tombe à 0",
-      "place_text": "Kamurocho : Shichifuku Street - Centre de Baseball Yoshida",
+      "place_text": "Kamurocho : Shichifuku Street - Batting Center Yoshida",
       "place_picture": 5428,
       "zako0": 0,
       "zako1": 0,
@@ -4153,13 +4153,13 @@
   "59": {
     "bouncer_btl19_02": {
       "name": "Caché du monde : Difficile",
-      "explanation": "Client : Employé du centre de Baseball Yoshida\r\nUn groupe de tordus habillés en ninjas\r\nviennent faire joujou avec leurs épées\r\nchez nous pendant les heures calmes de\r\nla journée. Comment je suis censé travailler\r\navec ça ? Cette merde me rend fou.",
+      "explanation": "Client : Employé du Batting Center Yoshida\r\nUn groupe de tordus habillés en ninjas\r\nviennent faire joujou avec leurs épées\r\nchez nous pendant les heures calmes de\r\nla journée. Comment je suis censé travailler\r\navec ça ? Ça me rend fou.",
       "level": 9,
       "time_limit": 0,
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis !",
       "lose_condition_explanation": "La santé tombe à 0",
-      "place_text": "Kamurocho : Shichifuku Street - Centre de Baseball Yoshida",
+      "place_text": "Kamurocho : Shichifuku Street - Batting Center Yoshida",
       "place_picture": 5428,
       "zako0": 0,
       "zako1": 0,
@@ -4219,13 +4219,13 @@
   "60": {
     "bouncer_btl19_03": {
       "name": "Caché du monde : Légende",
-      "explanation": "Client : Employé du centre de Baseball Yoshida\r\nUn groupe de tordus habillés en ninjas\r\nviennent faire joujou avec leurs épées\r\nchez nous pendant les heures calmes de\r\nla journée. Comment je suis censé travailler\r\navec ça ? Cette merde me rend fou.",
+      "explanation": "Client : Employé du Batting Center Yoshida\r\nUn groupe de tordus habillés en ninjas\r\nviennent faire joujou avec leurs épées\r\nchez nous pendant les heures calmes de\r\nla journée. Comment je suis censé travailler\r\navec ça ? Ça me rend fou.",
       "level": 11,
       "time_limit": 0,
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis !",
       "lose_condition_explanation": "La santé tombe à 0",
-      "place_text": "Kamurocho : Shichifuku Street - Centre de Baseball Yoshida",
+      "place_text": "Kamurocho : Shichifuku Street - Batting Center Yoshida",
       "place_picture": 5428,
       "zako0": 0,
       "zako1": 0,
@@ -4291,7 +4291,7 @@
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis avant la fin du temps !",
       "lose_condition_explanation": "La santé tombe à 0\r\nTemps écoulé",
-      "place_text": "Kamurocho : immeuble Amano",
+      "place_text": "Kamurocho : Immeuble Amano",
       "place_picture": 5429,
       "zako0": 0,
       "zako1": 0,
@@ -4357,7 +4357,7 @@
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis avant la fin du temps !",
       "lose_condition_explanation": "La santé tombe à 0\r\nTemps écoulé",
-      "place_text": "Kamurocho : immeuble Amano",
+      "place_text": "Kamurocho : Immeuble Amano",
       "place_picture": 5429,
       "zako0": 0,
       "zako1": 0,
@@ -4423,7 +4423,7 @@
       "area_num": 1,
       "win_condition_explanation": "Battez tous les ennemis avant la fin du temps !",
       "lose_condition_explanation": "La santé tombe à 0\r\nTemps écoulé",
-      "place_text": "Kamurocho : immeuble Amano",
+      "place_text": "Kamurocho : Immeuble Amano",
       "place_picture": 5429,
       "zako0": 0,
       "zako1": 0,
@@ -4483,7 +4483,7 @@
   "64": {
     "bouncer_btl21_01": {
       "name": "Confrontation dans la Millenium Tower : Normal",
-      "explanation": "Client : Informateur Anonyme\r\nIl y a un problème... La Millenium Tower a été\r\nenvahie par un gang bizarre. Battez les\r\nintrus dans chaque étage et récupérez\r\nnotre tour !",
+      "explanation": "Client : Informateur anonyme\r\nIl y a un problème... La Millenium Tower a été\r\nenvahie par un gang bizarre. Battez les\r\nintrus dans chaque étage et récupérez\r\nnotre tour !",
       "level": 6,
       "time_limit": 0,
       "area_num": 1,
@@ -4549,7 +4549,7 @@
   "65": {
     "bouncer_btl21_02": {
       "name": "Confrontation dans la Millenium Tower : Difficile",
-      "explanation": "Client : Informateur Anonyme\r\nIl y a un problème... La Millenium Tower a été\r\nenvahie par un gang bizarre. Battez les\r\nintrus dans chaque étage et récupérez\r\nnotre tour !",
+      "explanation": "Client : Informateur anonyme\r\nIl y a un problème... La Millenium Tower a été\r\nenvahie par un gang bizarre. Battez les\r\nintrus dans chaque étage et récupérez\r\nnotre tour !",
       "level": 8,
       "time_limit": 0,
       "area_num": 1,
@@ -4615,7 +4615,7 @@
   "66": {
     "bouncer_btl21_03": {
       "name": "Confrontation dans la Millenium Tower : Légende",
-      "explanation": "Client : Informateur Anonyme\r\nIl y a un problème... La Millenium Tower a été\r\nenvahie par un gang bizarre. Battez les\r\nintrus dans chaque étage et récupérez\r\nnotre tour !",
+      "explanation": "Client : Informateur anonyme\r\nIl y a un problème... La Millenium Tower a été\r\nenvahie par un gang bizarre. Battez les\r\nintrus dans chaque étage et récupérez\r\nnotre tour !",
       "level": 10,
       "time_limit": 0,
       "area_num": 1,
@@ -4681,7 +4681,7 @@
   "67": {
     "bouncer_btl22_01": {
       "name": "Fusillade de minuit : Normal",
-      "explanation": "Client : Voyante inquiète\r\nLes étoiles m'ont parlé d'un échange d'armes\r\nillégal ayant lieu près de la Millenium\r\nTower. Pourchassez la mafia étrangère\r\nqui organisait cette affaire, et vous\r\nserez bien récompensé par les paradis.",
+      "explanation": "Client : Voyante inquiète\r\nLes étoiles m'ont parlé d'un échange d'armes\r\nillégal ayant lieu près de la Millenium\r\nTower. Pourchassez la mafia étrangère\r\nqui organisait cette affaire, et vous\r\nserez bien récompensé par les cieux.",
       "level": 4,
       "time_limit": 0,
       "area_num": 1,
@@ -4747,7 +4747,7 @@
   "68": {
     "bouncer_btl22_02": {
       "name": "Fusillade de minuit : Difficile",
-      "explanation": "Client : Voyante inquiète\r\nLes étoiles m'ont parlé d'un échange d'armes\r\nillégal ayant lieu près de la Millenium\r\nTower. Pourchassez la mafia étrangère\r\nqui organisait cette affaire, et vous\r\nserez bien récompensé par les paradis.",
+      "explanation": "Client : Voyante inquiète\r\nLes étoiles m'ont parlé d'un échange d'armes\r\nillégal ayant lieu près de la Millenium\r\nTower. Pourchassez la mafia étrangère\r\nqui organisait cette affaire, et vous\r\nserez bien récompensé par les cieux.",
       "level": 6,
       "time_limit": 0,
       "area_num": 1,
@@ -4813,7 +4813,7 @@
   "69": {
     "bouncer_btl22_03": {
       "name": "Fusillade de minuit : Légende",
-      "explanation": "Client : Voyante inquiète\r\nLes étoiles m'ont parlé d'un échange d'armes\r\nillégal ayant lieu près de la Millenium\r\nTower. Pourchassez la mafia étrangère\r\nqui organisait cette affaire, et vous\r\nserez bien récompensé par les paradis.",
+      "explanation": "Client : Voyante inquiète\r\nLes étoiles m'ont parlé d'un échange d'armes\r\nillégal ayant lieu près de la Millenium\r\nTower. Pourchassez la mafia étrangère\r\nqui organisait cette affaire, et vous\r\nserez bien récompensé par les cieux.",
       "level": 8,
       "time_limit": 0,
       "area_num": 1,
@@ -4879,7 +4879,7 @@
   "70": {
     "bouncer_btl23_01": {
       "name": "Une investigation suspecte, partie 2 : Normal",
-      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous même, non ?",
+      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
       "level": 10,
       "time_limit": 0,
       "area_num": 1,
@@ -4945,7 +4945,7 @@
   "71": {
     "bouncer_btl23_02": {
       "name": "Une investigation suspecte, partie 2 : Difficile",
-      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous même, non ?",
+      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
       "level": 12,
       "time_limit": 0,
       "area_num": 1,
@@ -5011,7 +5011,7 @@
   "72": {
     "bouncer_btl23_03": {
       "name": "Une investigation suspecte, partie 2 : Légende",
-      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous même, non ?",
+      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
       "level": 14,
       "time_limit": 0,
       "area_num": 1,
@@ -5458,7 +5458,7 @@
   "79": {
     "bouncer_btl26_01": {
       "name": "Armes éparpillées : Normal",
-      "explanation": "Client : Informateur anonyme\r\nUn gang armé a commencé une guerre de territoire\r\nprès de la Millenium Tower ! Apparemment,\r\nils ont caché des armes sur Nakamichi Street.\r\nUtilise leurs armes contre eux et arrête la guerre !",
+      "explanation": "Client : Informateur anonyme\r\nUn gang armé a commencé une guerre de territoire\r\nprès de la Millenium Tower ! Apparemment,\r\nils ont caché des armes sur Nakamichi Street.\r\nUtilisez leurs armes contre eux et arrêtez la guerre !",
       "level": 2,
       "time_limit": 0,
       "area_num": 1,
@@ -5524,7 +5524,7 @@
   "80": {
     "bouncer_btl26_02": {
       "name": "Armes éparpillées : Difficile",
-      "explanation": "Client : Informateur anonyme\r\nUn gang armé a commencé une guerre de territoire\r\nprès de la Millenium Tower ! Apparemment,\r\nils ont caché des armes sur Nakamichi Street.\r\nUtilise leurs armes contre eux et arrête la guerre !",
+      "explanation": "Client : Informateur anonyme\r\nUn gang armé a commencé une guerre de territoire\r\nprès de la Millenium Tower ! Apparemment,\r\nils ont caché des armes sur Nakamichi Street.\r\nUtilisez leurs armes contre eux et arrêtez la guerre !",
       "level": 4,
       "time_limit": 0,
       "area_num": 1,
@@ -5590,7 +5590,7 @@
   "81": {
     "bouncer_btl26_03": {
       "name": "Armes éparpillées : Légende",
-      "explanation": "Client : Informateur anonyme\r\nUn gang armé a commencé une guerre de territoire\r\nprès de la Millenium Tower ! Apparemment,\r\nils ont caché des armes sur Nakamichi Street.\r\nUtilise leurs armes contre eux et arrête la guerre !",
+      "explanation": "Client : Informateur anonyme\r\nUn gang armé a commencé une guerre de territoire\r\nprès de la Millenium Tower ! Apparemment,\r\nils ont caché des armes sur Nakamichi Street.\r\nUtilisez leurs armes contre eux et arrêtez la guerre !",
       "level": 6,
       "time_limit": 0,
       "area_num": 1,
@@ -5656,7 +5656,7 @@
   "82": {
     "bouncer_btl27_01": {
       "name": "Redman revient : Normal",
-      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans Bantam, alors\r\nvous devrez aller les chercher.\r\nBonne chance !",
       "level": 8,
       "time_limit": 0,
       "area_num": 1,
@@ -5722,7 +5722,7 @@
   "83": {
     "bouncer_btl27_02": {
       "name": "Redman revient : Difficile",
-      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans Bantam, alors\r\nvous devrez aller les chercher.\r\nBonne chance !",
       "level": 10,
       "time_limit": 0,
       "area_num": 1,
@@ -5788,7 +5788,7 @@
   "84": {
     "bouncer_btl27_03": {
       "name": "Redman revient : Légende",
-      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans le Bantam, alors\r\ntu devras aller les chercher.\r\nBonne chance !",
+      "explanation": "Client : Propriétaire de l'hôtel Top of Ocean\r\nC'est terrible ! Redman est de retour,\r\net il a des tordus avec lui. Il se\r\nsont installés dans Bantam, alors\r\nvous devrez aller les chercher.\r\nBonne chance !",
       "level": 12,
       "time_limit": 0,
       "area_num": 1,
