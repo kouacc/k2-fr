@@ -2914,7 +2914,7 @@
   "40": {
     "bouncer_btl13_01": {
       "name": "Sotenbori en feu : Normal",
-      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\n sont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
+      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\nsont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
       "level": 7,
       "time_limit": 0,
       "area_num": 1,
@@ -2980,7 +2980,7 @@
   "41": {
     "bouncer_btl13_02": {
       "name": "Sotenbori en feu : Difficile",
-      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\n sont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
+      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\nsont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
       "level": 9,
       "time_limit": 0,
       "area_num": 1,
@@ -3046,7 +3046,7 @@
   "42": {
     "bouncer_btl13_03": {
       "name": "Sotenbori en feu : Légende",
-      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\n sont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
+      "explanation": "Client : Population SDF de Sotenbori\r\nVous devez nous aider ! Les gars de l'aut' fois\r\nsont d'retour, ils veulent s'venger !\r\nIls ont dit qu'ils allaient tous nous brûler\r\net s'débarasser d'nous pour de bon.\r\nJ'vous en supplie, arrêtez-les !",
       "level": 11,
       "time_limit": 0,
       "area_num": 1,
@@ -4879,7 +4879,7 @@
   "70": {
     "bouncer_btl23_01": {
       "name": "Une investigation suspecte, partie 2 : Normal",
-      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
+      "explanation": "Client : Agence de détectives Darwin\r\nVotre prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
       "level": 10,
       "time_limit": 0,
       "area_num": 1,
@@ -4945,7 +4945,7 @@
   "71": {
     "bouncer_btl23_02": {
       "name": "Une investigation suspecte, partie 2 : Difficile",
-      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
+      "explanation": "Client : Agence de détectives Darwin\r\nVotre prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
       "level": 12,
       "time_limit": 0,
       "area_num": 1,
@@ -5011,7 +5011,7 @@
   "72": {
     "bouncer_btl23_03": {
       "name": "Une investigation suspecte, partie 2 : Légende",
-      "explanation": "Client : Agence de détectives Darwin\r\nTa prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
+      "explanation": "Client : Agence de détectives Darwin\r\nVotre prochaine tâche sera d'enquêter\r\ndans Shangri-La. Infiltrez le troisième\r\nétage et dites-nous ce que vous trouvez.\r\nVous pouvez vous occuper des gens que\r\nvous rencontrez par vous-même, non ?",
       "level": 14,
       "time_limit": 0,
       "area_num": 1,
