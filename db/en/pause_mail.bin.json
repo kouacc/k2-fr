@@ -285,7 +285,7 @@
         "2": {
           "": {
             "1": "Bienvenue !",
-            "2": "Bienvenue dans Yakuza Kiwami 2 !\r\nMon nom est Kiwami Bob du\r\nNewsletter de conseils.\r\n\r\nJe vous expliquerai tous les\r\ndétails de base du jeu au\r\nfur et à mesure de votre progression.\r\n\r\nN'oubliez pas de revenir ici s'il y a\r\nquelque chose que vous\r\nne comprenez pas !<symbol=keitai_heart>",
+            "2": "Bienvenue dans Yakuza Kiwami 2 !\r\nMon nom est Kiwami Bob du\r\nNewsletter de conseils.\r\n\r\nJe vous expliquerai tous les\r\ndétails de base du jeu au\r\nfur et à mesure de votre progression.\r\n\r\nN'oubliez pas de revenir ici s'il y a\r\nquelque chose que vous\r\nne comprenez pas ! <symbol=keitai_heart>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -419,7 +419,7 @@
         "13": {
           "": {
             "1": "Gardez un journal",
-            "2": "Ici Kiwami Bob.\r\nParlons de la sauvegarde du jeu.\r\n\r\nQuand vous voulez sauvegarder, mettez\r\nle jeu en pause et sélectionnez Sauvegarder\r\ndepuis le menu.\r\n\r\nVeuillez noter que vous ne pouvez pas\r\nsauvegarder pendant les combats ou\r\nles événements.\r\n\r\nSélectionnez Continuer depuis l'écran titre\r\npour retourner dans votre\r\ndernière partie sauvegardée.<symbol=keitai_cat_smile>",
+            "2": "Ici Kiwami Bob.\r\nParlons de la sauvegarde du jeu.\r\n\r\nQuand vous voulez sauvegarder, mettez\r\nle jeu en pause et sélectionnez Sauvegarder\r\ndepuis le menu.\r\n\r\nVeuillez noter que vous ne pouvez pas\r\nsauvegarder pendant les combats ou\r\nles événements.\r\n\r\nSélectionnez Continuer depuis l'écran titre\r\npour retourner dans votre\r\ndernière partie sauvegardée. <symbol=keitai_cat_smile>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -433,7 +433,7 @@
         "14": {
           "": {
             "1": "Ne vous perdez plus jamais",
-            "2": "Ici Kiwami Bob, une fois de plus.\r\nAujourd'hui, je vais tout vous dire à propos\r\nde la carte.\r\n\r\nLa minimap affiché dans le\r\ncoin en bas à gauche de l'écran de jeu\r\nvous montrera les points\r\nd'intérêts, les ennemis, et les rues\r\noù vous pouvez aller.\r\n\r\nVous pouvez aussi voir la carte entière\r\nde la ville en appuyant sur <symbol=button_touchpad,Default>.\r\n\r\nUtilisez les deux cartes en conjonction\r\npour savoir où vous allez et comment\r\nvous y rendre !<symbol=keitai_cat_smile>",
+            "2": "Ici Kiwami Bob, une fois de plus.\r\nAujourd'hui, je vais tout vous dire à propos\r\nde la carte.\r\n\r\nLa minimap affiché dans le\r\ncoin en bas à gauche de l'écran de jeu\r\nvous montrera les points\r\nd'intérêts, les ennemis, et les rues\r\noù vous pouvez aller.\r\n\r\nVous pouvez aussi voir la carte entière\r\nde la ville en appuyant sur <symbol=button_touchpad,Default>.\r\n\r\nUtilisez les deux cartes en conjonction\r\npour savoir où vous allez et comment\r\nvous y rendre ! <symbol=keitai_cat_smile>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -447,7 +447,7 @@
         "15": {
           "": {
             "1": "Courrez des marathons en un rien de temps !",
-            "2": "Ici Kiwami Bob, encore et toujours.\r\nVous connaissez le sprint ?\r\n\r\nSi vous voulez vous déplacer un peu plus\r\nvite, maintenez <action=Action_Run,Default> pour courir.\r\n<symbol=keitai_tension_up> Cependant, vous pouvez pas courir\r\npour toujours, alors assurez-vous de relâcher <action=Action_Run,Default>\r\nde temps en temps et de reprendre votre\r\nsouffle. <symbol=keitai_tension_down>\r\n\r\nVous pouvez améliorer votre endurance\r\ndans le Menu Pause.<symbol=keitai_cat_smile>",
+            "2": "Ici Kiwami Bob, encore et toujours.\r\nVous connaissez le sprint ?\r\n\r\nSi vous voulez vous déplacer un peu plus\r\nvite, maintenez <action=Action_Run,Default> pour courir.\r\n<symbol=keitai_tension_up> Cependant, vous pouvez pas courir\r\npour toujours, alors assurez-vous de relâcher <action=Action_Run,Default>\r\nde temps en temps et de reprendre votre\r\nsouffle. <symbol=keitai_tension_down>\r\n\r\nVous pouvez améliorer votre endurance\r\ndans le Menu Pause. <symbol=keitai_cat_smile>",
             "3": 0,
             "4": 0,
             "5": 0,
@@ -3919,7 +3919,7 @@
         "1": {
           "": {
             "1": "Sans objet",
-            "2": "Mrc infiniment pour ça!! ^_^\r\nEt tkt tu peux m'appeler Masa,\r\nau fait (^o^)/\r\n\r\nPour le boulot, j'ai caché la clé\r\nsous le banc du Public Park 3. (-_-)\r\n\r\nChope le vite fait et bouge tes\r\nfesses jusqu'aux casiers. Ah et,\r\nles trucs qu'il y a à l'intérieur\r\nc'est mon petit secret~ (^_-)/",
+            "2": "Mrc infiniment pour ça!! ^_^\r\nEt tkt tu peux m'appeler Masa,\r\nau fait (^o^)/\r\n\r\nPour le boulot, j'ai caché la clé\r\nsous le banc du Public Park 3. (-_-)\r\n\r\nChope le vite fait et bouge tes\r\nfesses jusqu'aux casiers. Ah et,\r\nles trucs qu'il y a à l'intérieur\r\nc'est mon petit secret- (^_-)/",
             "3": 0,
             "4": 2,
             "5": 116,
@@ -3933,7 +3933,7 @@
         "2": {
           "": {
             "1": "Sans objet",
-            "2": "Yo ! 2 ce que je vois t'as\r\nréussi à choper la boîte~ (*^^*)\r\n\r\nMaintenant ramène le o type\r\nen costume derrière Shine ! ￣ー￣  ",
+            "2": "Yo ! 2 ce que je vois t'as\r\nréussi à choper la boîte- (*^^*)\r\n\r\nMaintenant ramène le o type\r\nen costume derrière Shine ! ￣ー￣  ",
             "3": 0,
             "4": 2,
             "5": 116,
@@ -3947,7 +3947,7 @@
         "3": {
           "": {
             "1": "Sans objet",
-            "2": "Yo ! Pour ta dernière mission,\r\nramène ta fraise au Kamuro Theater.\r\n\r\nTrouve le gars avec les cheveux,\r\net demande lui combien de cloches\r\nil veut. (^3^)",
+            "2": "Yo ! Pour ta dernière mission,\r\nramène ta fraise au Kamuro Theater.\r\n\r\nTrouve le gars avec les cheveux,\r\net demande-lui combien de cloches\r\nil veut. (^3^)",
             "3": 0,
             "4": 2,
             "5": 116,

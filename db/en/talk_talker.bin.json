@@ -1232,7 +1232,7 @@
   },
   "85": {
     "キレたヤクザ": {
-      "talk_talker": "Snapping Yakuza",
+      "talk_talker": "Yakuza agressif",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,
@@ -3023,7 +3023,7 @@
   },
   "213": {
     "殴ってみろ屋": {
-      "talk_talker": "Mr. Essaye de me frapper",
+      "talk_talker": "M. Essaye de me frapper",
       "color_r": 255,
       "color_g": 255,
       "color_b": 255,

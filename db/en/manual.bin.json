@@ -1248,7 +1248,7 @@
         },
         "57": {
           "": {
-            "6": "Une partie de mahjong est composée de 136 tuiles. Il existe exactement 4 copies de chaque tuile, ce qui\r\ndonne 34 tuiles uniques. \r\n<color=mg_relu_topic>Tuiles :</color> Numéros 1 à 9 de 3 couleurs différentes : Cercles, bambous et caractères\r\n      4 tuiles de vent (Est, Sud, Ouest, Nord)\r\n      3 tuiles dragon (blanc, vert, rouge)\r\n\r\n\r\n\r\n\r\nLes tuiles Vent et Dragon sont collectivement appelées tuiles d'honneur. \r\nLes tuiles 1 et 9 de chaque couleur sont appelées tuiles terminales.",
+            "6": "Une partie de mahjong est composée de 136 tuiles. Il existe exactement 4 copies de chaque tuile, ce qui\r\ndonne 34 tuiles uniques. \r\n<color=mg_relu_topic>Tuiles :</color> Numéros 1 à 9 de 3 couleurs différentes : Cercles, bambous et caractères\r\n         4 tuiles de vent (Est, Sud, Ouest, Nord)\r\n         3 tuiles dragon (blanc, vert, rouge)\r\n\r\n\r\n\r\n\r\nLes tuiles Vent et Dragon sont collectivement appelées tuiles d'honneur. \r\nLes tuiles 1 et 9 de chaque couleur sont appelées tuiles terminales.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1323,7 +1323,7 @@
         },
         "63": {
           "": {
-            "6": "Les ensembles que vous devez collecter sont divisés en chi, pon et kan :\r\n\r\n<color=mg_relu_topic>Chi:</color>\r\nTrois tuiles numérotées consécutives de la même couleur.",
+            "6": "Les ensembles que vous devez collecter sont divisés en chi, pon et kan :\r\n\r\n<color=mg_relu_topic>Chi :</color>\r\nTrois tuiles numérotées consécutives de la même couleur.",
             "7": 6050,
             "8": "<color=mg_relu_topic>Pon :</color>\r\nTrois exemplaires de la même tuile.",
             "9": 6042,
@@ -1410,7 +1410,7 @@
         },
         "70": {
           "": {
-            "6": "Si vous parvenez à tirer les 4 mêmes tuiles, vous pouvez déclarer un kan\r\ncaché. Cela diffère du cas normal en ce sens que votre main est toujours techniquement\r\ncachée et que vous bénéficiez des avantages d'un kan.\r\n\r\n<color=mg_relu_topic>Riichi :</color>\r\nSi vous avez une main cachée qui n'a besoin que d'une seule tuile\r\nsupplémentaire pour gagner, vous pouvez déclarer \"Riichi\" en payant 1 000 points. Cependant, vous ne\r\npourrez pas changer les tuiles de votre main et vous serez obligé de défausser tous les\r\ntirages qui ne sont pas votre tuile gagnante.\r\nL'avantage de déclarer Riichi est la possibilité d'augmenter la valeur de votre main.",
+            "6": "Si vous parvenez à tirer les 4 mêmes tuiles, vous pouvez déclarer un kan\r\ncaché. Cela diffère du cas normal en ce sens que votre main est toujours techniquement\r\ncachée et que vous bénéficiez des avantages d'un kan.\r\n\r\n<color=mg_relu_topic>Riichi :</color>\r\nSi vous avez une main cachée qui n'a besoin que d'une seule tuile supplémentaire\r\npour gagner, vous pouvez déclarer \"Riichi\" en payant 1 000 points.\r\nCependant, vous ne pourrez pas changer les tuiles de votre main et vous serez\r\nobligé de défausser tous les tirages qui ne sont pas votre tuile gagnante.\r\nL'avantage de déclarer Riichi est la possibilité d'augmenter la valeur de votre main.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1422,7 +1422,7 @@
         },
         "71": {
           "": {
-            "6": "Chaque tour de mahjong comporte une tuile représentant la dora. En ayant votre main\r\ncomposée de tuiles correspondant aux dora révélées, vous pouvez augmenter la\r\nvaleur de votre main ; cela peut potentiellement transformer une main médiocre en une main de grande \r\nvaleur !\r\n\r\nLa dora est la tuile qui succède à l'indicateur :\r\n\r\nL'ordre du Dora est : \r\n1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1\r\nEst > Sud > Ouest > Nord > Est\r\nBlanc > Vert > Rouge > Blanc",
+            "6": "Chaque tour de mahjong comporte une tuile représentant la dora. En ayant votre main\r\ncomposée de tuiles correspondant aux dora révélées, vous pouvez augmenter la\r\nvaleur de votre main ; cela peut potentiellement transformer une main médiocre\r\nen une main de grande valeur !\r\n\r\nLa dora est la tuile qui succède à l'indicateur :\r\n\r\nL'ordre du Dora est : \r\n1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1\r\nEst > Sud > Ouest > Nord > Est\r\nBlanc > Vert > Rouge > Blanc",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1446,7 +1446,7 @@
         },
         "73": {
           "": {
-            "6": "Il y a deux façons de compléter une main : ron et tsumo.\r\n\r\n<color=mg_relu_topic>Ron</color> (compléter une main en volant) : \r\nÀ chaque fois que vous avez besoin d'une tuile supplémentaire pour gagner, vous pouvez\r\nréclamer la défausse en cours si elle complète votre main en sélectionnant \"Ron\".\r\n\r\n<color=mg_relu_topic>Tsumo</color> (compléter une main avec une tuile tirée par soi-même) : \r\nÀ chaque fois que vous avez besoin d'une tuile supplémentaire pour gagner et que vous tirez une tuile\r\nqui complète votre main, vous pouvez sélectionner \"Tsumo\".\r\n\r\nQuand vous gagnez par ron, l'adversaire qui a défaussé la tuile gagnante vous paye \r\nles points résultants. Quand vous gagnez par tsumo, vos trois adversaires \r\npaient les points résultants.",
+            "6": "Il y a deux façons de compléter une main : ron et tsumo.\r\n\r\n<color=mg_relu_topic>Ron</color> (compléter une main en volant) : \r\nÀ chaque fois que vous avez besoin d'une tuile supplémentaire pour gagner, vous pouvez\r\nréclamer la défausse en cours si elle complète votre main en sélectionnant \"Ron\".\r\n\r\n<color=mg_relu_topic>Tsumo</color> (compléter une main avec une tuile tirée par soi-même) : \r\nÀ chaque fois que vous avez besoin d'une tuile supplémentaire pour gagner et que vous\r\ntirez une tuile qui complète votre main, vous pouvez sélectionner \"Tsumo\".\r\n\r\nQuand vous gagnez par ron, l'adversaire qui a défaussé la tuile gagnante vous paye \r\nles points résultants. Quand vous gagnez par tsumo, vos trois adversaires \r\npaient les points résultants.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -2592,7 +2592,7 @@
         },
         "47": {
           "": {
-            "6": "Après avoir additionné vos han, vous pouvez calculer la valeur de leurs points selon que vous êtes\r\nle donneur (pts plus élevés) ou non.\r\n\r\n1-4 Han : Divers points, dépendant des tuiles individuelles utilisées\r\n4-5 Han : Mangan (12 000 / 8 000 pts)\r\n6-7 Han : Haneman (18 000 / 12 000 pts)\r\n8-10 Han : Baiman (24 000 / 16 000 pts)\r\n11-12 Han : Sanbaiman (36 000 / 24 000 pts)\r\n13+ Han ou limite : Yakuman (48 000 / 32 000 pts)",
+            "6": "Après avoir additionné vos han, vous pouvez calculer la valeur de leurs points selon que vous êtes\r\nle donneur (pts plus élevés) ou non.\r\n\r\n1-4 han : Divers points, dépendant des tuiles individuelles utilisées\r\n4-5 han : Mangan (12 000 / 8 000 pts)\r\n6-7 han : Haneman (18 000 / 12 000 pts)\r\n8-10 han : Baiman (24 000 / 16 000 pts)\r\n11-12 han : Sanbaiman (36 000 / 24 000 pts)\r\n13+ han ou limite : Yakuman (48 000 / 32 000 pts)",
             "7": 0,
             "9": 0,
             "11": 0,
