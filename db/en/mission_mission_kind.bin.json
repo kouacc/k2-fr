@@ -23076,7 +23076,7 @@
   },
   "542": {
     "lexus2_s_ADVsubsB09_010": {
-      "title": "La femme qui ne savait pas jouer",
+      "title": "La femme qui ne savait pas écrire",
       "mission": "Sauver la femme",
       "mission_info": "Ces voyous ne laisseront pas cette fille\r\ntranquille. Je vais leur faire passer\r\nune nuit qu'ils n'oublieront pas.",
       "priority": 0,
@@ -23120,7 +23120,7 @@
   },
   "543": {
     "lexus2_s_BTLsubsB09_010": {
-      "title": "La femme qui ne savait pas jouer",
+      "title": "La femme qui ne savait pas écrire",
       "mission": "Vaincre les rabatteurs",
       "mission_info": "Essayer d'imposer leur présence à une fille\r\nqui voulait juste savoir où aller ? Ces types\r\nsont méprisables.",
       "priority": 100,
@@ -23164,7 +23164,7 @@
   },
   "544": {
     "lexus2_s_ADVsubsB09_040": {
-      "title": "La femme qui ne savait pas jouer",
+      "title": "La femme qui ne savait pas écrire",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
