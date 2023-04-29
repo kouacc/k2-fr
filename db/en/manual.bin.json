@@ -4725,7 +4725,7 @@
         },
         "8": {
           "": {
-            "6": "<color=mg_relu_topic>Préparez-vous à ouvrir</color>\r\n- Avant d'ouvrir, allez ici pour choisir quelles filles travailleront ou pour changer leurs vêtements.\r\n<color=mg_relu_topic>Match de classement</color>\r\n- Participez à la compétition avec vos rivaux ! Obtenez de bons résultats pour monter en rang.\r\nUne fois que vous êtes en première place, défiez le champion.\r\n<color=mg_relu_topic>Championnat</color>\r\n-Défiez le champion de la ligue régnante pour gagner la ligue !\r\n<color=mg_relu_topic>Recruter des hôtesses</color>\r\n- Recrutez de nouvelles filles dans votre équipe.\r\n<color=mg_relu_topic>Aide</color>\r\n-Revoyez les règles que vous lisez maintenant.",
+            "6": "<color=mg_relu_topic>Gestion du club</color>\r\n- Avant d'ouvrir, allez ici pour choisir quelles filles travailleront ou pour changer leurs vêtements.\r\n<color=mg_relu_topic>Match de classement</color>\r\n- Participez à la compétition avec vos rivaux ! Obtenez de bons résultats pour monter en rang.\r\nUne fois que vous êtes en première place, défiez le champion.\r\n<color=mg_relu_topic>Championnat</color>\r\n- Défiez le champion de la ligue régnante pour gagner la ligue !\r\n<color=mg_relu_topic>Recruter des hôtesses</color>\r\n- Recrutez de nouvelles filles dans votre équipe.\r\n<color=mg_relu_topic>Aide</color>\r\n- Revoyez les règles que vous lisez maintenant.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -4751,7 +4751,7 @@
         },
         "10": {
           "": {
-            "6": "Certaines filles ont des capacités innées appelées \"potentiels.\" Ce sont des\r\ncapacités passives qui prennent automatiquement effet quand elles sont sur\r\nle terrain. De nouveaux potentiels peuvent être appris en montant de niveau,\r\net les potentiels négatifs peuvent même disparaître.\r\n\r\n<color=mg_relu_topic>Escortée</color> : Sera déjà assise avec un client lorsque vous ouvrez.\r\n<color=mg_relu_topic>Relaxée</color> : Récupère des HP plus rapidement lorsqu'elles ne sont pas affectées à une table.\r\n<color=mg_relu_topic>Gâtée</color> : A une plus grande chance de succès sur les événements de soutien et de problèmes.\r\n<color=mg_relu_topic>Serène</color> : Immunisée contre les problèmes.\r\n<color=mg_relu_topic>Aggresive</color> : Plus de chances d'avoir un problème.\r\n<color=mg_relu_topic>Stressée</color> : Ne récupère pas autant de HP lorsqu'elle n'est pas affectée à une table.",
+            "6": "Certaines filles ont des capacités innées appelées \"potentiels\". Ce sont des\r\ncapacités passives qui prennent automatiquement effet quand elles sont sur\r\nle terrain. De nouveaux potentiels peuvent être appris en montant de niveau,\r\net les potentiels négatifs peuvent même disparaître.\r\n\r\n<color=mg_relu_topic>Escortée</color> : Sera déjà assise avec un client lorsque vous ouvrez.\r\n<color=mg_relu_topic>Relaxée</color> : Récupère des HP plus rapidement lorsqu'elles ne sont pas affectées à une table.\r\n<color=mg_relu_topic>Gâtée</color> : A une plus grande chance de succès sur les événements de soutien et de problèmes.\r\n<color=mg_relu_topic>Serène</color> : Immunisée contre les problèmes.\r\n<color=mg_relu_topic>Aggresive</color> : Plus de chances d'avoir un problème.\r\n<color=mg_relu_topic>Stressée</color> : Ne récupère pas autant de HP lorsqu'elle n'est pas affectée à une table.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -4764,7 +4764,7 @@
         },
         "11": {
           "": {
-            "6": "La publicité de vos ouvertures peut (ou ne peut pas) apporter de nouvelles filles dans votre équipe.\r\nCependant, les frais de repérage augmentent progressivement, alors soyez\r\nstratégique dans vos annonces.\r\n\r\nVous pouvez également recruter de nouvelles filles tout en progressant dans les\r\ndifférentes ligues, et vous ne savez jamais comment une quête annexe va se terminer...",
+            "6": "La publicité de vos ouvertures peut (ou pas) apporter de nouvelles filles dans votre équipe.\r\nCependant, les frais de repérage augmentent progressivement, alors soyez\r\nstratégique dans vos annonces.\r\n\r\nVous pouvez également recruter de nouvelles filles tout en progressant dans les\r\ndifférentes ligues, et vous ne savez jamais comment une quête secondaire va se terminer...",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -4777,7 +4777,7 @@
         },
         "12": {
           "": {
-            "6": "Après avoir fait monter de niveau vos hôtesses platine, vous pourrez déclencher\r\nun événement spécial qui vous permettra d'approfondir vos relations\r\navec elles.\r\n\r\nCes événements les récompensent avec un énorme bonus de points d'expérience,\r\nalors assurez-vous de donner du travail à vos meilleures filles !",
+            "6": "Après avoir fait monter de niveau vos hôtesses platine,\r\nvous pourrez déclencher un événement spécial qui vous\r\npermettra d'approfondir vos relations avec elles.\r\n\r\nCes événements les récompensent avec un énorme bonus de\r\npoints d'expérience, alors assurez-vous de donner du\r\ntravail à vos meilleures filles !",
             "7": 5738,
             "9": 0,
             "11": 0,
@@ -4790,7 +4790,7 @@
         },
         "13": {
           "": {
-            "6": "Vous pouvez personnaliser les caractéristiques de vos hôtesses platine,\r\nnotamment leurs cheveux, leur maquillage et leurs vêtements. L'achat de nouvelles tenues ou de nouveaux styles coûte de l'argent,\r\nmais vous pouvez les garder.\r\n\r\nVous devriez également observer comment les tenues ou les\r\ncoiffures affectent l'apparence de la fille. Ces personnalisations vous permettront d'augmenter\r\nles catégories d'une fille au-delà de ses niveaux naturels ou simplement de concevoir la tenue\r\nde vos rêves.\r\nVous savez que vous l'aimez.",
+            "6": "Vous pouvez personnaliser les caractéristiques de vos hôtesses platine,\r\nnotamment leurs cheveux, leur maquillage et leurs vêtements. L'achat de\r\nnouvelles tenues ou de nouveaux styles coûte de l'argent, mais vous pouvez les garder.\r\n\r\nVous devriez également observer comment les tenues ou les coiffures\r\naffectent l'apparence de la fille. Ces personnalisations vous\r\npermettront d'augmenter les catégories d'une fille au-delà de ses\r\nniveaux naturels ou simplement de concevoir la tenue de vos rêves.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -4803,7 +4803,7 @@
         },
         "14": {
           "": {
-            "6": "Il est important de ne pas surmener votre équipe. Plus une fille travaille,\r\nplus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se sent\r\npas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
+            "6": "Il est important de ne pas surmener votre équipe. Plus une fille\r\ntravaille, plus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se sent\r\npas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
             "7": 5739,
             "9": 0,
             "11": 0,
