@@ -4520,7 +4520,7 @@
         },
         "13": {
           "": {
-            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le convaincre\r\nde prolonger sa session sur l'écran de paiement. Un client qui a prolongé sa\r\nsession dépensera plus d'argent, alors essayez de faire en sorte que vos\r\ninvités fortunés en redemandent et accumulent de l'argent !\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors travaillez dur pour leur trouver la fille qu'ils veulent !",
+            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le convaincre\r\nde prolonger sa session sur l'écran de paiement. Un client qui a prolongé sa\r\nsession dépensera plus d'argent, alors essayez de faire en sorte que vos\r\ninvités fortunés en redemandent et accumulent de l'argent !\r\n\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors travaillez dur pour leur trouver la fille qu'ils veulent !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7866,7 +7866,7 @@
         },
         "7": {
           "": {
-            "6": "Il est important de ne pas surmener votre équipe. Plus une fille\r\ntravaille, plus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se sent\r\npas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
+            "6": "Il est important de ne pas surmener votre équipe. Plus une fille\r\ntravaille, plus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se\r\nsent pas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
             "7": 5739,
             "9": 0,
             "11": 0,
