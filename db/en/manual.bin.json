@@ -4456,7 +4456,7 @@
         },
         "8": {
           "": {
-            "6": "L'objectif de chaque service est de faire le plus d'argent possible.\r\n\r\nLorsqu'un client s'assied à une table, la première étape est de leur assigner\r\nune hôtesse. Les clients auront des préférences d'hôtesse basées sur\r\nl'apparence et le style souhaités, et leur humeur changera selon que vous répondiez ou non\r\nà leurs exigences. Les clients dépenseront plus d'argent quand ils seront\r\nde meilleure humeur, alors assurez-vous de garder tout le monde heureux !\r\n\r\nAu cours d'une session avec un client, les hôtesses perdront lentement ses \r\nHP (points d'hôtesse). Elles ne seront pas en mesure de satisfaire correctement les clients\r\naprès avoir manqué de HP, alors assurez-vous de laisser les hôtesses fatiguées la veille\r\njusqu'à ce qu'elles regagnent leur énergie.",
+            "6": "L'objectif de chaque service est de faire le plus d'argent possible.\r\n\r\nLorsqu'un client s'assied à une table, la première étape est de leur assigner\r\nune hôtesse. Les clients auront des préférences d'hôtesse basées sur l'apparence\r\net le style souhaités, et leur humeur changera selon que vous répondiez ou non\r\nà leurs exigences. Les clients dépenseront plus d'argent quand ils seront\r\nde meilleure humeur, alors assurez-vous de garder tout le monde heureux !\r\n\r\nAu cours d'une session avec un client, les hôtesses perdront lentement leurs\r\nHP (points d'hôtesse). Elles ne seront pas en mesure de satisfaire correctement les clients\r\naprès avoir manqué de HP, alors assurez-vous de laisser les hôtesses fatiguées la veille\r\njusqu'à ce qu'elles regagnent leur énergie.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -4507,7 +4507,7 @@
         },
         "12": {
           "": {
-            "6": "Parfois, une hôtesse vous appellera à sa table pour obtenir de l'aide. Dans ces situations,\r\ndéplacez le curseur sur la table souhaitée et appuyez sur <symbol=button_sankaku> pour accéder au menu Service de table.\r\nSi vous faites le bon choix, vous pouvez améliorer l'humeur du client, restaurer\r\nles HP de l'hôtesse, et plus encore.Une chance de Service de table est perdue à jamais si le chronomètre s'épuise,\r\nalors assurez-vous d'en profiter dès qu'elle se présente !",
+            "6": "Parfois, une hôtesse vous appellera à sa table pour obtenir de l'aide. Dans ces situations,\r\ndéplacez le curseur sur la table souhaitée et appuyez sur <symbol=button_sankaku> pour accéder au menu Service de table.\r\nSi vous faites le bon choix, vous pouvez améliorer l'humeur du client, restaurer les HP de\r\nl'hôtesse, et plus encore. Une chance de Service de table est perdue à jamais si le chronomètre\r\ns'épuise, alors assurez-vous d'en profiter dès qu'elle se présente !",
             "7": 5743,
             "9": 0,
             "11": 0,
@@ -4520,7 +4520,7 @@
         },
         "13": {
           "": {
-            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le\r\nconvaincre de prolonger sa session sur l'écran de paiement. Un client qui a prolongé\r\nsa session dépensera plus d'argent, alors essayez de faire\r\nen sorte que vos invités fortunés en redemandent et\r\naccumulent de l'argent !\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors travaillez dur pour leur trouver la fille qu'ils veulent !",
+            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le convaincre\r\nde prolonger sa session sur l'écran de paiement. Un client qui a prolongé sa\r\nsession dépensera plus d'argent, alors essayez de faire en sorte que vos\r\ninvités fortunés en redemandent et accumulent de l'argent !\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors travaillez dur pour leur trouver la fille qu'ils veulent !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7788,7 +7788,7 @@
         },
         "1": {
           "": {
-            "6": "<color=mg_relu_topic>Préparez-vous à ouvrir</color>\r\n- Avant d'ouvrir, allez ici pour choisir quelles filles travailleront ou pour changer leurs vêtements.\r\n<color=mg_relu_topic>Match de classement</color>\r\n- Participez à la compétition avec vos rivaux ! Obtenez de bons résultats pour monter en rang.\r\nUne fois que vous êtes en première place, défiez le champion.\r\n<color=mg_relu_topic>Championnat</color>\r\n-Défiez le champion de la ligue régnante pour gagner la ligue !\r\n<color=mg_relu_topic>Recruter des hôtesses</color>\r\n- Recrutez de nouvelles filles dans votre équipe.\r\n<color=mg_relu_topic>Aide</color>\r\n-Revoyez les règles que vous lisez maintenant.",
+            "6": "<color=mg_relu_topic>Gestion du club</color>\r\n- Avant d'ouvrir, allez ici pour choisir quelles filles travailleront ou pour changer leurs vêtements.\r\n<color=mg_relu_topic>Match de classement</color>\r\n- Participez à la compétition avec vos rivaux ! Obtenez de bons résultats pour monter en rang.\r\nUne fois que vous êtes en première place, défiez le champion.\r\n<color=mg_relu_topic>Championnat</color>\r\n- Défiez le champion de la ligue régnante pour gagner la ligue !\r\n<color=mg_relu_topic>Recruter des hôtesses</color>\r\n- Recrutez de nouvelles filles dans votre équipe.\r\n<color=mg_relu_topic>Aide</color>\r\n- Revoyez les règles que vous lisez maintenant.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7814,7 +7814,7 @@
         },
         "3": {
           "": {
-            "6": "Certaines filles ont des capacités innées appelées \"potentiels.\" Ce sont des\r\ncapacités passives qui prennent automatiquement effet quand elles sont sur\r\nle terrain. De nouveaux potentiels peuvent être appris en montant de niveau,\r\net les potentiels négatifs peuvent même disparaître.\r\n\r\n<color=mg_relu_topic>Escortée</color> : Sera déjà assise avec un client lorsque vous ouvrez.\r\n<color=mg_relu_topic>Relaxée</color> : Récupère des HP plus rapidement lorsqu'elles ne sont pas affectées à une table.\r\n<color=mg_relu_topic>Gâtée</color> : A une plus grande chance de succès sur les événements de soutien et de problèmes.\r\n<color=mg_relu_topic>Serène</color> : Immunisée contre les problèmes.\r\n<color=mg_relu_topic>Aggresive</color> : Plus de chances d'avoir un problème.\r\n<color=mg_relu_topic>Stressée</color> : Ne récupère pas autant de HP lorsqu'elle n'est pas affectée à une table.",
+            "6": "Certaines filles ont des capacités innées appelées \"potentiels\". Ce sont des\r\ncapacités passives qui prennent automatiquement effet quand elles sont sur\r\nle terrain. De nouveaux potentiels peuvent être appris en montant de niveau,\r\net les potentiels négatifs peuvent même disparaître.\r\n\r\n<color=mg_relu_topic>Escortée</color> : Sera déjà assise avec un client lorsque vous ouvrez.\r\n<color=mg_relu_topic>Relaxée</color> : Récupère des HP plus rapidement lorsqu'elles ne sont pas affectées à une table.\r\n<color=mg_relu_topic>Gâtée</color> : A une plus grande chance de succès sur les événements de soutien et de problèmes.\r\n<color=mg_relu_topic>Serène</color> : Immunisée contre les problèmes.\r\n<color=mg_relu_topic>Aggresive</color> : Plus de chances d'avoir un problème.\r\n<color=mg_relu_topic>Stressée</color> : Ne récupère pas autant de HP lorsqu'elle n'est pas affectée à une table.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7827,7 +7827,7 @@
         },
         "4": {
           "": {
-            "6": "La publicité de vos ouvertures peut (ou ne peut pas) apporter de nouvelles filles dans votre équipe.\r\nCependant, les frais de repérage augmentent progressivement, alors soyez\r\nstratégique dans vos annonces.\r\n\r\nVous pouvez également recruter de nouvelles filles tout en progressant dans les\r\ndifférentes ligues, et vous ne savez jamais comment une quête annexe va se terminer...",
+            "6": "La publicité de vos ouvertures peut (ou pas) apporter de nouvelles filles dans votre équipe.\r\nCependant, les frais de repérage augmentent progressivement, alors soyez\r\nstratégique dans vos annonces.\r\n\r\nVous pouvez également recruter de nouvelles filles tout en progressant dans les\r\ndifférentes ligues, et vous ne savez jamais comment une quête secondaire va se terminer...",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7840,7 +7840,7 @@
         },
         "5": {
           "": {
-            "6": "Après avoir fait monter de niveau vos hôtesses platine, vous pourrez déclencher\r\nun événement spécial qui vous permettra d'approfondir vos relations\r\navec elles.\r\n\r\nCes événements les récompensent avec un énorme bonus de points d'expérience,\r\nalors assurez-vous de donner du travail à vos meilleures filles !",
+            "6": "Après avoir fait monter de niveau vos hôtesses platine,\r\nvous pourrez déclencher un événement spécial qui vous\r\npermettra d'approfondir vos relations avec elles.\r\n\r\nCes événements les récompensent avec un énorme bonus de\r\npoints d'expérience, alors assurez-vous de donner du\r\ntravail à vos meilleures filles !",
             "7": 5738,
             "9": 0,
             "11": 0,
@@ -7853,7 +7853,7 @@
         },
         "6": {
           "": {
-            "6": "Vous pouvez personnaliser les caractéristiques de vos hôtesses platine,\r\nnotamment leurs cheveux, leur maquillage et leurs vêtements. L'achat de nouvelles tenues ou de nouveaux styles coûte de l'argent,\r\nmais vous pouvez les garder.\r\n\r\nVous devriez également observer comment les tenues ou les\r\ncoiffures affectent l'apparence de la fille. Ces personnalisations vous permettront d'augmenter\r\nles catégories d'une fille au-delà de ses niveaux naturels ou simplement de concevoir la tenue\r\nde vos rêves.\r\nVous savez que vous l'aimez.",
+            "6": "Vous pouvez personnaliser les caractéristiques de vos hôtesses platine,\r\nnotamment leurs cheveux, leur maquillage et leurs vêtements. L'achat de\r\nnouvelles tenues ou de nouveaux styles coûte de l'argent, mais vous pouvez les garder.\r\n\r\nVous devriez également observer comment les tenues ou les coiffures\r\naffectent l'apparence de la fille. Ces personnalisations vous\r\npermettront d'augmenter les catégories d'une fille au-delà de ses\r\nniveaux naturels ou simplement de concevoir la tenue de vos rêves.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7866,7 +7866,7 @@
         },
         "7": {
           "": {
-            "6": "Il est important de ne pas surmener votre équipe. Plus une fille travaille,\r\nplus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se sent\r\npas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
+            "6": "Il est important de ne pas surmener votre équipe. Plus une fille\r\ntravaille, plus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se sent\r\npas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
             "7": 5739,
             "9": 0,
             "11": 0,
@@ -7892,13 +7892,13 @@
         },
         "9": {
           "": {
-            "6": "Your goal here is to make as much money as possible!\r\n\r\nWhen a customer sits down at a table, assign him a hostess.\r\nBut watch the smiley! The happier it is, the more he likes that hostess.\r\nAnd a happy customer spends more money, right?\r\n\r\nHostesses will gradually lose HP (Hostess Points) while at a table, so make sure\r\nto let them recover in standby.",
+            "6": "Votre objectif est de gagner le plus d'argent possible !\r\n\r\nLorsqu'un client s'assoit à une table, attribuez-lui une hôtesse.\r\nMais attention au smiley ! Plus il est heureux, plus il aime cette hôtesse.\r\nEt un client heureux dépense plus d'argent, n'est-ce pas ?\r\n\r\nLes hôtesses perdent progressivement des PV (points d'hôtesse) lorsqu'elles\r\nsont à une table, alors assurez-vous de les laisser récupérer en attente.",
             "7": 0,
             "9": 0,
             "11": 0,
             "12": 7,
             "13": "Cabaret Club Grand Prix (Gestion du club)",
-            "14": "Opening for Business",
+            "14": "Ouvrir ses portes",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 9
           }
@@ -7910,7 +7910,7 @@
             "11": 0,
             "12": 8,
             "13": "Cabaret Club Grand Prix (Gestion du club)",
-            "14": "Opening for Business",
+            "14": "Ouvrir ses portes",
             "reARMP_isValid": "1",
             "reARMP_rowIndex": 10
           }
@@ -7943,7 +7943,7 @@
         },
         "13": {
           "": {
-            "6": "Parfois, une hôtesse vous appellera à sa table pour obtenir de l'aide. Dans ces situations,\r\ndéplacez le curseur sur la table souhaitée et appuyez sur <symbol=button_sankaku> pour accéder au menu Service de table.\r\nSi vous faites le bon choix, vous pouvez améliorer l'humeur du client, restaurer\r\nles HP de l'hôtesse, et plus encore.Une chance de Service de table est perdue à jamais si le chronomètre s'épuise,\r\nalors assurez-vous d'en profiter dès qu'elle se présente !",
+            "6": "Parfois, une hôtesse vous appellera à sa table pour obtenir de l'aide. Dans ces situations,\r\ndéplacez le curseur sur la table souhaitée et appuyez sur <symbol=button_sankaku> pour accéder au menu Service de table.\r\nSi vous faites le bon choix, vous pouvez améliorer l'humeur du client, restaurer les HP de\r\nl'hôtesse, et plus encore. Une chance de Service de table est perdue à jamais si le chronomètre\r\ns'épuise, alors assurez-vous d'en profiter dès qu'elle se présente !",
             "7": 5743,
             "9": 0,
             "11": 0,
@@ -7956,7 +7956,7 @@
         },
         "14": {
           "": {
-            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le\r\nconvaincre de prolonger sa session sur l'écran de paiement. essayez de faire\r\nen sorte que vos invités fortunés en redemandent et\r\naccumulent de l'argent !\r\n\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre, alors ne les laissez pas en plan !",
+            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le\r\nconvaincre de prolonger sa session sur l'écran de paiement. Essayez de faire\r\nen sorte que vos invités fortunés en redemandent et accumulent de l'argent !\r\n\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors ne les laissez pas en plan !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7969,7 +7969,7 @@
         },
         "15": {
           "": {
-            "6": "Si vous y parvenez lors d'un service, votre club peut être honoré par un client spécial, un baron du pétrole.\r\nSi vous pouvez faire plaisir à cet homme obscènement riche, vous serez récompensé généreusement.\r\nLe baron du pétrole jugera l'ensemble de votre personnel sur son style général, alors habillez-les pour impressionner !",
+            "6": "Si vous y parvenez lors d'un service, votre club peut être honoré par un client spécial, un baron du pétrole.\r\nSi vous pouvez faire plaisir à cet homme obscènement riche, vous serez récompensé généreusement.\r\nLe baron du pétrole jugera l'ensemble de votre personnel sur son style général, alors habillez-les\r\npour impressionner !",
             "7": 5744,
             "9": 0,
             "11": 0,
