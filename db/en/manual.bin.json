@@ -1763,7 +1763,7 @@
         },
         "22": {
           "": {
-            "6": "<color=mg_relu_topic>Protégez Kamurocho Hills !</color>\r\n  Les combats de Clan sont des combats de défense de base de grande envergure\r\n  qui opposent Kiryu et les autres membres de Majima Construction aux agents immobiliers véreux\r\n  qui complotent pour prendre le contrôle de Kamurocho Hills !\r\n\r\n<color=mg_relu_topic>Commandez votre équipe et protégez le QG !</color>\r\n  C'est à vous de donner des ordres aux nombreux membres uniques de\r\n  Majima Construction et de les mener à la victoire !\r\n\r\n<color=mg_relu_topic>Rassemblez et entraînez les employés !</color>\r\n  La ville est pleine de gens prêts à rejoindre votre cause.\r\n  Recruter, renforcer et protéger Kamurocho Hills  !",
+            "6": "<color=mg_relu_topic>Protégez Kamurocho Hills !</color>\r\n  Les combats de Clan sont des combats de défense de base de grande envergure\r\n  qui opposent Kiryu et les autres membres de Majima Construction aux spéculateurs véreux\r\n  qui complotent pour prendre le contrôle de Kamurocho Hills !\r\n\r\n<color=mg_relu_topic>Commandez votre équipe et protégez le QG !</color>\r\n  C'est à vous de donner des ordres aux nombreux membres uniques de\r\n  Majima Construction et de les mener à la victoire !\r\n\r\n<color=mg_relu_topic>Rassemblez et entraînez les employés !</color>\r\n  La ville est pleine de gens prêts à rejoindre votre cause.\r\n  Recruter, renforcer et protéger Kamurocho Hills !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1776,7 +1776,7 @@
         },
         "23": {
           "": {
-            "6": "<color=mg_relu_topic>Vainquez tous les ennemis avant que votre équipement ne soit détruit !</color>\r\n  Éliminez tous les ennemis et remplissez les conditions de victoire pour obtenir la victoire.\r\n  Il y aura au moins un équipement (voir ci-dessous) sur\r\n  chaque carte. Vous échouerez à la mission si tout vos équipements sont\r\n  détruits, donc déployez des unités stratégiquement et défendez votre QG !",
+            "6": "<color=mg_relu_topic>Vainquez tous les ennemis avant que votre équipement ne soit détruit !</color>\r\n  Éliminez tous les ennemis et remplissez les conditions de victoire pour obtenir la victoire.\r\n  Il y aura au moins un équipement (voir ci-dessous) sur chaque carte.\r\n  Vous échouerez à la mission si tout vos équipements sont détruits,\r\n  donc déployez des unités stratégiquement et défendez votre QG !",
             "7": 5745,
             "9": 0,
             "11": 0,
@@ -1828,7 +1828,7 @@
         },
         "27": {
           "": {
-            "6": "Vous pouvez utiliser l'un des <symbol=button_up,Minigame_ClanCreator><symbol=button_down,Minigame_ClanCreator><symbol=button_left,Minigame_ClanCreator><symbol=button_right,Minigame_ClanCreator> en combat pour activer une compétence.\r\nLes compétences que vous avez à votre disposition dépendent des quatre membres les\r\nplus à gauche de votre équipe de défense.\r\nUtiliser des compétences dépense de l'argent, alors n'oubliez pas de planifier à l'avance et d'utiliser des compétences\r\nque aux moments les plus opportuns.",
+            "6": "Vous pouvez utiliser <symbol=button_up,Minigame_ClanCreator><symbol=button_down,Minigame_ClanCreator><symbol=button_left,Minigame_ClanCreator><symbol=button_right,Minigame_ClanCreator> en combat pour activer une compétence.\r\nLes compétences que vous avez à votre disposition dépendent des quatre membres les\r\nplus à gauche de votre équipe de défense.\r\nUtiliser des compétences dépense de l'argent, alors n'oubliez pas de planifier à l'avance\r\net d'utiliser des compétences que aux moments les plus opportuns.",
             "7": 5749,
             "9": 0,
             "11": 0,
@@ -1841,7 +1841,7 @@
         },
         "28": {
           "": {
-            "6": "Il y a 4 types d'unités, chacun avec ses propres caractéristiques uniques.\r\nChaque type a sa propre icône.\r\n\r\n<color=mg_relu_topic>1 : Équilibré</color>\r\nPeut être utilisé à la fois en attaque et en défense.\r\n<color=mg_relu_topic>2 : Attaque</color>\r\nExcelle dans un combat agressif.\r\n<color=mg_relu_topic>3 : Défense</color>\r\nProtégez le point auquel ils sont assignés.\r\n<color=mg_relu_topic>4 : Support</color>\r\nPropose un feu de soutien depuis de longues distances. Très mobile.",
+            "6": "Il y a 4 types d'unités, chacun avec ses propres caractéristiques uniques.\r\nChaque type a sa propre icône.\r\n\r\n<color=mg_relu_topic>1 : Équilibré</color>\r\nPeut être utilisé à la fois en attaque et en défense.\r\n<color=mg_relu_topic>2 : Attaque</color>\r\nExcelle dans un combat agressif.\r\n<color=mg_relu_topic>3 : Défense</color>\r\nProtége le point auquel ils sont assignés.\r\n<color=mg_relu_topic>4 : Support</color>\r\nPropose un feu de soutien depuis de longues distances.\r\nTrès mobile.",
             "7": 5750,
             "9": 5751,
             "11": 0,
@@ -1854,7 +1854,7 @@
         },
         "29": {
           "": {
-            "6": "Différents types d'ennemis ont des caractéristiques différentes.\r\n\r\n<color=mg_relu_topic>1 : Bagarreur</color>\r\nFaible santé mais décent autour des statistiques.\r\n<color=mg_relu_topic>2 : Tireur</color>\r\nUtilise des pistolets pour attaquer à longue portée.\r\n<color=mg_relu_topic>3 : Grenadier</color>\r\nLance de grenades à longue portée.\r\n<color=mg_relu_topic>4 : Lourd</color>\r\nSe déplace lentement, mais il a du punch.\r\n<color=mg_relu_topic>5 : Batteur</color>\r\nIgnore vos unités et cible les équipements.\r\n<color=mg_relu_topic>6 : Lance-roquettes</color>\r\nIgnore vos unités et cible vos équipements à longue portée.",
+            "6": "Différents types d'ennemis ont des caractéristiques différentes.\r\n\r\n<color=mg_relu_topic>1 : Bagarreur</color>\r\nFaible santé mais décent en terme de statistiques.\r\n<color=mg_relu_topic>2 : Tireur</color>\r\nUtilise des pistolets pour attaquer à longue portée.\r\n<color=mg_relu_topic>3 : Grenadier</color>\r\nLance de grenades à longue portée.\r\n<color=mg_relu_topic>4 : Lourd</color>\r\nSe déplace lentement, mais a du punch.\r\n<color=mg_relu_topic>5 : Batteur</color>\r\nIgnore vos unités et cible les équipements.\r\n<color=mg_relu_topic>6 : Lance-roquettes</color>\r\nIgnore vos unités et cible vos équipements à longue portée.",
             "7": 5752,
             "9": 5753,
             "11": 0,
@@ -1867,7 +1867,7 @@
         },
         "30": {
           "": {
-            "6": "Des boss peuvent apparaître au cours d'un combat.\r\nComme ces ennemis sont particulièrement puissants, vous devez\r\nenvoyer plusieurs unités pour les abattre.\r\n\r\n<color=mg_relu_topic>Attaques spéciales</color>\r\nCertains ennemis forts ont la possibilité d'utiliser des attaques spéciales.\r\nCes attaques peuvent causer des dégâts, soyez donc prudent.\r\nLorsque vous voyez l'aura rouge autour d'un boss,\r\néloignez vos unités ou évitez l'attaque\r\navec des dégâts de brûlure ou de paralysie.",
+            "6": "Des boss peuvent apparaître au cours d'un combat.\r\nComme ces ennemis sont particulièrement puissants,\r\nvous devez envoyer plusieurs unités pour les abattre.\r\n\r\n<color=mg_relu_topic>Attaques spéciales</color>\r\nCertains ennemis forts ont la possibilité d'utiliser des\r\nattaques spéciales. Ces attaques peuvent causer des\r\ndégâts, soyez donc prudent. Lorsque vous voyez l'aura\r\nrouge autour d'un boss, éloignez vos unités ou évitez\r\nl'attaque avec des dégâts de brûlure ou de paralysie.",
             "7": 5754,
             "9": 0,
             "11": 0,
@@ -1880,7 +1880,7 @@
         },
         "31": {
           "": {
-            "6": "Parfois, des objets apparaîtront. Déplacez une unité sur un élément pour le ramasser.\r\n\r\n<color=mg_relu_topic>Types d'objets</color>\r\n <color=mg_relu_topic>1 : Boisson Kiwami</color> - Restaure la santé de l'unité de 25%\r\n <color=mg_relu_topic>2 : Boîte Staminan</color> - Restaure la santé de l'unité de 50%\r\n <color=mg_relu_topic>3 : Argent</color> - Obtenez 2 000 yens\r\n\r\nLes objets disparaîtront à la fin d'une vague, alors assurez-vous de les récupérer\r\nau fur et à mesure qu'ils apparaîtront.",
+            "6": "Parfois, des objets apparaîtront. Déplacez une unité\r\nsur un élément pour le ramasser.\r\n\r\n<color=mg_relu_topic>Types d'objets</color>\r\n <color=mg_relu_topic>1 : Boisson Kiwami</color> - Restaure la santé de l'unité de 25%\r\n <color=mg_relu_topic>2 : Boîte Staminan</color> - Restaure la santé de l'unité de 50%\r\n <color=mg_relu_topic>3 : Argent</color> - Obtenez 2 000 yens\r\n\r\nLes objets disparaîtront à la fin d'une vague, alors assurez-vous de les récupérer\r\nau fur et à mesure qu'ils apparaîtront.",
             "7": 5755,
             "9": 0,
             "11": 0,
@@ -1893,7 +1893,7 @@
         },
         "32": {
           "": {
-            "6": "Réussir à vaincre l'ennemi vous fera gagner un bonus de défense. La somme\r\nd'argent que vous gagnerez dépendra du type de bonus de défense que vous obtenez. Les bonus\r\nde défense sont répartis selon les types suivants.\r\n\r\n<color=mg_relu_topic>Équipements restants</color>\r\nBasé selon le nombre de pièces d'équipement que vous avez laissées.\r\n<color=mg_relu_topic>Durabilité des équipements</color>\r\nBasé selon la durabilité de vos équipements.\r\n<color=mg_relu_topic>Temps passé</color>\r\nBasé selon le temps nécessaire pour vaincre tous les ennemis.\r\n<color=mg_relu_topic>Conservation d'argent</color>\r\nBasé selon le montant d'argent restant à la fin du combat.\r\n<color=mg_relu_topic>Essence de la Bonne Chance</color>\r\nBasé sur votre utilisation de la compétence Essence de la Bonne Chance.",
+            "6": "Réussir à vaincre l'ennemi vous fera gagner un bonus de défense. La somme\r\nd'argent que vous gagnerez dépendra du type de bonus de défense que vous obtenez.\r\nLes bonus de défense sont répartis selon les types suivants.\r\n\r\n<color=mg_relu_topic>Équipements restants</color>\r\nBasé selon le nombre de pièces d'équipement que vous avez laissées.\r\n<color=mg_relu_topic>Durabilité des équipements</color>\r\nBasé selon la durabilité de vos équipements.\r\n<color=mg_relu_topic>Temps passé</color>\r\nBasé selon le temps nécessaire pour vaincre tous les ennemis.\r\n<color=mg_relu_topic>Conservation d'argent</color>\r\nBasé selon le montant d'argent restant à la fin du combat.\r\n<color=mg_relu_topic>Essence de la Bonne Chance</color>\r\nBasé sur votre utilisation de la compétence Essence de la Bonne Chance.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1906,7 +1906,7 @@
         },
         "33": {
           "": {
-            "6": "Vous obtiendrez un score en fonction de vos performances au cours de la mission. Faites\r\nde votre mieux pour obtenir un score élevé !\r\n\r\n<color=mg_relu_topic>Bonus de réussite</color>\r\nObtenu pour avoir réussi une mission.\r\n<color=mg_relu_topic>Rangs S gagnés</color>\r\nBasé sur le nombre de fois où vous avez obtenu un bonus de défense de rang S.\r\n<color=mg_relu_topic>Argent total obtenu</color>\r\nBasé sur la quantité d'argent que vous avez gagné.\r\n<color=mg_relu_topic>Rang</color>\r\nVotre rang, basé sur le score obtenu.",
+            "6": "Vous obtiendrez un score en fonction de vos performances au cours de la mission.\r\nFaites de votre mieux pour obtenir un score élevé !\r\n\r\n<color=mg_relu_topic>Bonus de réussite</color>\r\nObtenu pour avoir réussi une mission.\r\n<color=mg_relu_topic>Rangs S gagnés</color>\r\nBasé sur le nombre de fois où vous avez obtenu un bonus de défense de rang S.\r\n<color=mg_relu_topic>Argent total obtenu</color>\r\nBasé sur la quantité d'argent que vous avez gagné.\r\n<color=mg_relu_topic>Rang</color>\r\nVotre rang, basé sur le score obtenu.",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -1932,7 +1932,7 @@
         },
         "35": {
           "": {
-            "6": "<color=mg_relu_topic>Gardez les unités en vie !</color>\r\nLes unités qui manquent de santé ne peuvent pas retourner au combat. Vous serez très\r\ndésavantagé sans toutes vos unités, alors assurez-vous d' <color=mg_relu_strong>éveiller leurs</color>\r\n<color=mg_relu_strong>esprits, d'obtenir des objets et d'utiliser des compétences</color> pour garder tout le monde en bonne santé.\r\n\r\n<color=mg_relu_topic>Gagnez de l'argent !</color>\r\nL'argent est utilisé pour éveiller les esprits et activer les compétences, alors assurez-vous d'en \r\ncollecter le plus possible et de prendre l'avantage au combat.\r\n\r\n<color=mg_relu_strong>Comment gagner de l'argent</color>\r\n  -Battez les ennemis\r\n  -Gagnez des bonus de défense en protégeant votre équipement.\r\n  -Utiliser des compétences qui augmentent le flux de d'argent",
+            "6": "<color=mg_relu_topic>Gardez les unités en vie !</color>\r\nLes unités qui manquent de santé ne peuvent pas retourner au combat. Vous serez très\r\ndésavantagé sans toutes vos unités, alors assurez-vous d'<color=mg_relu_strong>éveiller leurs esprits,</color>\r\n<color=mg_relu_strong>d'obtenir des objets et d'utiliser des compétences</color> pour garder tout le monde en bonne santé.\r\n\r\n<color=mg_relu_topic>Gagnez de l'argent !</color>\r\nL'argent est utilisé pour éveiller les esprits et activer les compétences, alors assurez-vous d'en \r\ncollecter le plus possible et de prendre l'avantage au combat.\r\n\r\n<color=mg_relu_strong>Comment gagner de l'argent :</color>\r\n  - Battez les ennemis\r\n  - Gagnez des bonus de défense en protégeant votre équipement.\r\n  - Utiliser des compétences qui augmentent le flux de d'argent",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -3718,7 +3718,7 @@
         },
         "17": {
           "": {
-            "6": "<color=mg_relu_topic>Choisissez qui déployer !</color>\r\n    Vous pouvez déployer jusqu'à neuf unités en combat, mais vous\r\n    ne pouvez déployer que les unités que vous avez sélectionnées pour votre équipe. Prenez\r\n    en compte les statistiques et les compétences lors de la sélection des unités !\r\n\r\n<color=mg_relu_topic>La composition de l'équipe modifie les compétences disponibles !</color>\r\n    Chaque unité a sa propre compétence. Les quatre unités les plus à gauche\r\n    dans votre composition d'équipe pourront utiliser des compétences en\r\n    combat en appuyant sur les boutons indiqués sous\r\n    leur portrait. Les unités ne figurant pas dans les quatre\r\n    emplacements de gauche ne pourront pas utiliser de compétences en combat, alors faites\r\n    attention !",
+            "6": "<color=mg_relu_topic>Choisissez qui déployer !</color>\r\n    Vous pouvez déployer jusqu'à neuf unités en combat,\r\n    mais vous ne pouvez déployer que les unités que vous\r\n    avez sélectionnées pour votre équipe. Prenez en compte\r\n    les stats et les compétences lors de la sélection des\r\n    unités !\r\n\r\n<color=mg_relu_topic>La composition de l'équipe modifie les compétences disponibles !</color>\r\n    Chaque unité a sa propre compétence. Les quatre unités\r\n    les plus à gauche dans votre composition d'équipe\r\n    pourront utiliser des compétences en combat en appuyant\r\n    sur les boutons indiqués sous leur portrait. Les unités\r\n    ne figurant pas dans les quatre emplacements de gauche\r\n    ne pourront pas utiliser de compétences en combat.",
             "7": 2493,
             "9": 2494,
             "11": 0,
@@ -3744,7 +3744,7 @@
         },
         "19": {
           "": {
-            "6": "<color=mg_relu_topic>Obtenir de nouvelles unités</color>\r\n    Vous pouvez gagner de nouvelles unités en progressant dans\r\n    l'histoire du Clan Creator. Vous pouvez également les repérer\r\n    dans la rue, les trouver en compétition dans le Colisée, ou\r\n    gagner leur confiance en complétant des quêtes secondaires.\r\n\r\n<color=mg_relu_topic>Publier une annonce</color>\r\n    L'autre moyen de recruter des employés est de publier une\r\n    offre d'emploi. Vous aurez besoin d'argent pour le faire, et le montant\r\n    que vous paierez augmentera à chaque recrutement réussi.\r\n    Attention, pas toutes les annonces n'obtiendront de réponse.",
+            "6": "<color=mg_relu_topic>Obtenir de nouvelles unités</color>\r\n    Vous pouvez gagner de nouvelles unités en progressant\r\n    dans l'histoire du Clan Creator. Vous pouvez également\r\n    les repérer dans la rue, les trouver en compétition\r\n    dans le Colisée, ou gagner leur confiance en complétant\r\n    des quêtes secondaires.\r\n\r\n<color=mg_relu_topic>Publier une annonce</color>\r\n    L'autre moyen de recruter des employés est de publier\r\n    une offre d'emploi. Vous aurez besoin d'argent pour le\r\n    faire, et le montant que vous paierez augmentera à\r\n    chaque recrutement réussi. Attention, pas toutes les\r\n    annonces n'obtiendront de réponse.",
             "7": 2496,
             "9": 2497,
             "11": 0,
