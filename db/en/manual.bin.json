@@ -4520,7 +4520,7 @@
         },
         "13": {
           "": {
-            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le convaincre\r\nde prolonger sa session sur l'écran de paiement. Un client qui a prolongé sa\r\nsession dépensera plus d'argent, alors essayez de faire en sorte que vos\r\ninvités fortunés en redemandent et accumulent de l'argent !\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors travaillez dur pour leur trouver la fille qu'ils veulent !",
+            "6": "<color=mg_relu_topic>Extensions</color>\r\nSi un client est particulièrement de bonne humeur, vous pouvez le convaincre\r\nde prolonger sa session sur l'écran de paiement. Un client qui a prolongé sa\r\nsession dépensera plus d'argent, alors essayez de faire en sorte que vos\r\ninvités fortunés en redemandent et accumulent de l'argent !\r\n\r\n<color=mg_relu_topic>Requêtes d'hôtesses</color>\r\nAu fur et à mesure que votre club gagne en notoriété, vos hôtesses\r\nle seront aussi. Parfois, les clients peuvent demander une hôtesse platine\r\nspécifique. Ils ne seront pas vraiment heureux avec quelqu'un d'autre,\r\nalors travaillez dur pour leur trouver la fille qu'ils veulent !",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6424,7 +6424,7 @@
         },
         "2": {
           "": {
-            "6": "Lors du premier tour, chaque joueur reçoit deux cartes. Trois\r\ncartes communes sont distribuées au second tour. Les quatrième et cinquième\r\ncartes communes sont distribuées respectivement lors des quatrième et cinquième tours.\r\n\r\n<color=mg_relu_topic>Passer au tour suivant</color>\r\n<symbol=bullet_point>Tous les joueurs ont misé le même montant.\r\n<symbol=bullet_point>Au moment du tournant, tout le monde fait parole.\r\n\r\nÀ la fin du quatrième tour, tous les joueurs révèlent leur main au moment de\r\nl'abattage. Le joueur avec la main la plus forte gagne. ",
+            "6": "Lors du premier tour, chaque joueur reçoit deux cartes. Trois cartes\r\ncommunes sont distribuées au second tour. Les quatrième et cinquième\r\ncartes communes sont distribuées respectivement lors des quatrième et cinquième tours.\r\n\r\n<color=mg_relu_topic>Passer au tour suivant</color>\r\n<symbol=bullet_point>Tous les joueurs ont misé le même montant.\r\n<symbol=bullet_point>Au moment du tournant, tout le monde fait parole.\r\n\r\nÀ la fin du quatrième tour, tous les joueurs révèlent leur main au moment\r\nde l'abattage. Le joueur avec la main la plus forte gagne. ",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6437,7 +6437,7 @@
         },
         "3": {
           "": {
-            "6": "<color=mg_relu_topic>Actions possibles à chaque tour</color>\r\n　<symbol=bullet_point>Miser : misez une quantité de jetons fixe.\r\n　<symbol=bullet_point>Suivre : misez la même quantité de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Relancer : misez plus de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Parole : vous ne pariez pas et c'est au tour du joueur suivant.\r\n　<symbol=bullet_point>Se coucher : vous ne misez pas et vous ne jouez plus durant cette partie.\r\n\r\n*Vous pouvez miser si aucun des autres joueurs n'a encore misé.\r\n*Vous pouvez faire parole si aucun des autres joueurs n'a encore parié, ou si tous\r\nles autres joueurs ont suivi la grosse blinde. ",
+            "6": "<color=mg_relu_topic>Actions possibles à chaque tour</color>\r\n　<symbol=bullet_point>Miser : misez une quantité de jetons fixe.\r\n　<symbol=bullet_point>Suivre : misez la même quantité de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Relancer : misez plus de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Parole : vous ne pariez pas et c'est au tour du joueur suivant.\r\n　<symbol=bullet_point>Se coucher : vous ne misez pas et vous ne jouez plus durant cette partie.\r\n\r\n*Vous pouvez miser si aucun des autres joueurs n'a encore misé.\r\n*Vous pouvez faire parole si aucun des autres joueurs n'a encore parié,\r\nou si tous les autres joueurs ont suivi la grosse blinde. ",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -6707,7 +6707,7 @@
         },
         "3": {
           "": {
-            "6": "<color=mg_relu_topic>Actions possibles à chaque tour</color>\r\n　<symbol=bullet_point>Miser : misez une quantité de jetons fixe.\r\n　<symbol=bullet_point>Suivre : misez la même quantité de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Relancer : misez plus de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Parole : vous ne pariez pas et c'est au tour du joueur suivant.\r\n　<symbol=bullet_point>Se coucher : vous ne misez pas et vous ne jouez plus durant cette partie.\r\n\r\n*Vous pouvez miser si aucun des autres joueurs n'a encore misé.\r\n*Vous pouvez faire parole si aucun des autres joueurs n'a encore parié, ou si tous\r\nles autres joueurs ont suivi la grosse blinde. ",
+            "6": "<color=mg_relu_topic>Actions possibles à chaque tour</color>\r\n　<symbol=bullet_point>Miser : misez une quantité de jetons fixe.\r\n　<symbol=bullet_point>Suivre : misez la même quantité de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Relancer : misez plus de jetons que le joueur précédent.\r\n　<symbol=bullet_point>Parole : vous ne pariez pas et c'est au tour du joueur suivant.\r\n　<symbol=bullet_point>Se coucher : vous ne misez pas et vous ne jouez plus durant cette partie.\r\n\r\n*Vous pouvez miser si aucun des autres joueurs n'a encore misé.\r\n*Vous pouvez faire parole si aucun des autres joueurs n'a encore parié,\r\nou si tous les autres joueurs ont suivi la grosse blinde. ",
             "7": 0,
             "9": 0,
             "11": 0,
@@ -7866,7 +7866,7 @@
         },
         "7": {
           "": {
-            "6": "Il est important de ne pas surmener votre équipe. Plus une fille\r\ntravaille, plus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se sent\r\npas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
+            "6": "Il est important de ne pas surmener votre équipe. Plus une fille\r\ntravaille, plus son état s'aggrave, ce qui réduit ses capacités.\r\n\r\nLe smiley en néon indique l'état actuel d'une fille. Si elle ne se\r\nsent pas bien, donnez-lui une nuit de repos, et son état\r\nse rétablira.\r\n\r\nPlus l'hôtesse est expérimentée, plus le salaire qu'elle demande est élevé,\r\nce qui peut réduire les bénéfices globaux. Mais n'ayez pas peur de les mettre sur\r\nla touche. Ce sont généralement vos meilleurs employées !",
             "7": 5739,
             "9": 0,
             "11": 0,
