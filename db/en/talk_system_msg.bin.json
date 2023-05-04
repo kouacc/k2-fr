@@ -107,7 +107,7 @@
   "8": {
     "lexus2_cab03_010_system_06": {
       "is_wnd_size_large": "1",
-      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nLe Cabaret Club Grand Prix est composé de quatre ligues,\r\net en battant le club en première place de chaque ligue,\r\nvous pouvez débloquer la ligue suivantes.\r\n\r\nVu que Four Shine vient d'entrer en compétition, ils devront\r\ncommencer par la ligue Fresh. Votre première tâche sera\r\n d'effectuer des services normaux et monter le rang\r\nde profits du club.",
+      "msg_system": "Cabaret Club Grand Prix\r\n\r\n\r\nLe Cabaret Club Grand Prix est composé de quatre ligues,\r\net en battant le club en première place de chaque ligue,\r\nvous pouvez débloquer la ligue suivante.\r\n\r\nVu que Four Shine vient d'entrer en compétition, ils devront\r\ncommencer par la ligue Fresh. Votre première tâche sera\r\n d'effectuer des services normaux et monter le rang\r\nde profits du club.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 110
