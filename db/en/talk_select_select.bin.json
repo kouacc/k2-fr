@@ -2579,7 +2579,7 @@
   "302": {
     "lexus2_advsubsb11_020_select_01": {
       "option0": "On peut dire ça.",
-      "option1": "...De quoi vous parlez ?",
+      "option1": "... De quoi vous parlez ?",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 808
@@ -2823,7 +2823,7 @@
   "329": {
     "lexus2_advsubsb15_020_select_01": {
       "option0": "Désolé, la réponse est toujours non.",
-      "option1": "...Ok, je vais le faire.",
+      "option1": "... Ok, je vais le faire.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 835
@@ -3302,7 +3302,7 @@
   },
   "380": {
     "lexus2_s_encboss09": {
-      "option0": "...Je ne m'impliquerai pas.",
+      "option0": "... Je ne m'impliquerai pas.",
       "option1": "Qu'est-ce que c'est que ce type...",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
@@ -4136,7 +4136,7 @@
     "lexus2_koyukidate03_select_01": {
       "option0": "Je trouverai le coupable.",
       "option1": "Je trouverai tes culottes.",
-      "option2": "...C'était moi.",
+      "option2": "... C'était moi.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 506
@@ -5009,7 +5009,7 @@
   "553": {
     "lexus2_toylets_op1": {
       "option0": "Désolé, je ne suis pas intéressé.",
-      "option1": "Je...suppose que j'ai quelques minutes.",
+      "option1": "Je... Suppose que j'ai quelques minutes.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 716
@@ -5018,7 +5018,7 @@
   "554": {
     "lexus2_toylets_op2": {
       "option0": "Désolé, je ne suis pas intéressé.",
-      "option1": "Je...suppose que j'ai quelques minutes.",
+      "option1": "Je... Suppose que j'ai quelques minutes.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 717
