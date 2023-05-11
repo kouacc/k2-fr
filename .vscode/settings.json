@@ -1,0 +1,5 @@
+//auto break line for \r\n
+
+{
+    "files.eol": "\r\n",
+}
