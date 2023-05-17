@@ -119,7 +119,7 @@
   },
   "14": {
     "general_evaluation_01": {
-      "message": "Four Shine est entré\r\ndans le top 3 !",
+      "message": "Four Shine est entré dans le top 3 !",
       "message_majima": "Four Shine est dans le top 3 !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 14
@@ -127,24 +127,24 @@
   },
   "15": {
     "general_evaluation_02": {
-      "message": "Four Shine se rapproche rapidement\r\ndu sommet de cette ligue !",
-      "message_majima": "Four Shine va atterrir dans à la première\r\nplace d'un moment à l'autre !",
+      "message": "Four Shine se rapproche rapidement du sommet\r\nde cette ligue !",
+      "message_majima": "Four Shine va atterrir dans à la première place\r\nd'un moment à l'autre !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 15
     }
   },
   "16": {
     "general_evaluation_03": {
-      "message": "Four Shine a vaincu ${name}!\r\nFélicitations !",
-      "message_majima": "Four Shine vient de battre ${name}!\r\nFélicitations !",
+      "message": "Four Shine a vaincu ${name} !\r\nFélicitations !",
+      "message_majima": "Four Shine vient de battre ${name} !\r\nFélicitations !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 16
     }
   },
   "17": {
     "general_evaluation_04": {
-      "message": "Four Shine a battu ${name} ! Quelle victoire !",
-      "message_majima": "Four Shine a battu ${name} ! Quelle victoire !",
+      "message": "Four Shine a battu ${name} !\r\nQuelle victoire !",
+      "message_majima": "Four Shine a battu ${name} !\r\nQuelle victoire !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 17
     }
@@ -152,14 +152,14 @@
   "18": {
     "general_evaluation_05": {
       "message": "Plus de filles et plus de partenaires\r\naugmenteront votre clientèle !",
-      "message_majima": "Ce dont cet endroit a besoin, c'est de plus de filles\r\net de plus de partenaires !",
+      "message_majima": "Ce dont cet endroit a besoin, c'est de plus de\r\nfilles et de plus de partenaires !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 18
     }
   },
   "19": {
     "general_evaluation_06": {
-      "message": "Puis-je suggérer d'aligner des filles qui aiment\r\nfaire la fête dans cette ligue ?",
+      "message": "Puis-je suggérer de mettre des filles qui\r\naiment faire la fête dans cette ligue ?",
       "message_majima": "Tu dois amener tes filles à une fête\r\ncomme celle-ci, Kiryu-chan !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 19
@@ -168,7 +168,7 @@
   "20": {
     "general_evaluation_07": {
       "message": "Cette ligue attend un service de qualité !\r\nComplétez votre équipe correctement !",
-      "message_majima": "Tu vas avoir besoin de filles qui peuvent travailler\r\nsur le terrain pour rivaliser ici !",
+      "message_majima": "Tu vas avoir besoin de filles qui peuvent\r\ntravailler sur le terrain pour rivaliser !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 20
     }
@@ -191,7 +191,7 @@
   },
   "23": {
     "general_evaluation_10": {
-      "message": "Utilisez l'option de recrutement pour recruter du personnel !\r\nEt allez dans la rue aussi !",
+      "message": "Utilisez l'option de recrutement pour recruter\r\ndu personnel ! Et allez dans la rue aussi !",
       "message_majima": "T'as un département des ressources humaines ?\r\nMets-les au travail et recrutes des filles !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 23
@@ -199,15 +199,15 @@
   },
   "24": {
     "general_evaluation_11": {
-      "message": "Votre personnel ne peut pas travailler au mieux\r\ns'il est fatigué. Que diriez-vous d'une nuit de repos ?",
-      "message_majima": "Tu essaies d'écraser ces filles !? \r\nNe sois pas ce gars-là !",
+      "message": "Votre équipe ne peut pas être efficace si elle\r\nest épuisée. Que diriez-vous d'un peu de repos ?",
+      "message_majima": "Tu essaies d'écraser ces filles !?\r\nNe sois pas ce gars-là !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 24
     }
   },
   "25": {
     "general_evaluation_12": {
-      "message": "Avez-vous établi un partenariat avec des magasins\r\nde la zone ? Cela augmentera le nombre de vos fans !",
+      "message": "Avez-vous fait équipe avec des magasins locaux ?\r\nCela augmentera le nombre de vos fans !",
       "message_majima": "C'est le business, Kiryu-chan. Tu dois\r\nt'associer avec les magasins là-dehors !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 25
@@ -215,8 +215,8 @@
   },
   "26": {
     "general_evaluation_13": {
-      "message": "Une session prolongée est un moyen rapide\r\nde gagner des yens ! Ça ne fait jamais de mal de demander !",
-      "message_majima": "Tu dois obtenir ces extensions ! N'aie pas\r\npeur du rejet !",
+      "message": "Une session prolongée est un moyen rapide de\r\ngagner des yens ! N'hésitez pas à demander !",
+      "message_majima": "Tu dois obtenir ces extensions !\r\nN'aie pas peur du rejet !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 26
     }
@@ -240,15 +240,15 @@
   "29": {
     "general_evaluation_18": {
       "message": "Four Shine est enfin à la première place !\r\nC'est l'heure du championnat de la Ligue !",
-      "message_majima": "Four Shine a atteint le sommet ! C'est\r\nl'heure du championnat, Kiryu-chan !",
+      "message_majima": "Four Shine a atteint le sommet !\r\nC'est l'heure du championnat, Kiryu-chan !",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 29
     }
   },
   "30": {
     "general_evaluation_19": {
-      "message": "Four Shine est à la première place ! Il est temps\r\nde défier le champion de la Ligue !",
-      "message_majima": "Four Shine est en pleine forme ici ! Pourquoi ne pas\r\n défier le champion maintenant !?",
+      "message": "Four Shine est à la première place ! Il est\r\ntemps de défier le champion de la Ligue !",
+      "message_majima": "Four Shine est en pleine forme ici ! Pourquoi\r\nne pas défier le champion maintenant !?",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 30
     }
