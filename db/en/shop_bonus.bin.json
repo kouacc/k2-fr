@@ -1312,7 +1312,7 @@
   },
   "46": {
     "lexus2_k_hanrai0": {
-      "name": "Essentiels du Yakiniku",
+      "name": "Essentiels du yakiniku",
       "condition_item_a0": 1600,
       "condition_item_a1": 1589,
       "condition_item_a2": 1594,
@@ -1944,7 +1944,7 @@
   },
   "70": {
     "lexus2_s_kinryu": {
-      "name": "Pour l'amour du Ramen",
+      "name": "Pour l'amour du ramen",
       "condition_item_a0": 1778,
       "condition_item_a1": 1779,
       "condition_item_a2": 0,
@@ -1971,7 +1971,7 @@
   },
   "71": {
     "lexus2_s_duboraya": {
-      "name": "Fanatique du Fugu",
+      "name": "Fanatique du fugu",
       "condition_item_a0": 1783,
       "condition_item_a1": 1784,
       "condition_item_a2": 1782,
@@ -1998,7 +1998,7 @@
   },
   "72": {
     "lexus2_s_ganko": {
-      "name": "Des noix pour les Nigiri",
+      "name": "Des noix pour les nigiri",
       "condition_item_a0": 1796,
       "condition_item_a1": 2233,
       "condition_item_a2": 0,
@@ -2319,7 +2319,7 @@
   },
   "84": {
     "lexus2_k_sushigin1": {
-      "name": "Festival de Chirashi",
+      "name": "Festival de chirashi",
       "condition_item_a0": 1710,
       "condition_item_a1": 1713,
       "condition_item_a2": 0,
@@ -2400,7 +2400,7 @@
   },
   "87": {
     "lexus2_k_fujisoba2": {
-      "name": "Kitsune & Tanuki",
+      "name": "Kitsune & tanuki",
       "condition_item_a0": 1563,
       "condition_item_a1": 1564,
       "condition_item_a2": 0,
@@ -2508,7 +2508,7 @@
   },
   "91": {
     "lexus2_k_ichibanboshi0": {
-      "name": "La Sainte Trinité",
+      "name": "La sainte trinité",
       "condition_item_a0": 1606,
       "condition_item_a1": 1608,
       "condition_item_a2": 1607,
@@ -2535,7 +2535,7 @@
   },
   "92": {
     "lexus2_k_ichibanboshi1": {
-      "name": "Connaisseur de Chashu ",
+      "name": "Connaisseur de chashu ",
       "condition_item_a0": 1607,
       "condition_item_a1": 1604,
       "condition_item_a2": 0,
@@ -2616,7 +2616,7 @@
   },
   "95": {
     "lexus2_k_sushizanmai0": {
-      "name": "Maniaque du Maguro",
+      "name": "Maniaque du maguro",
       "condition_item_a0": 1720,
       "condition_item_a1": 1721,
       "condition_item_a2": 0,
@@ -2643,7 +2643,7 @@
   },
   "96": {
     "lexus2_k_sushizanmai1": {
-      "name": "Double Spécial",
+      "name": "Double spécial",
       "condition_item_a0": 1720,
       "condition_item_a1": 1722,
       "condition_item_a2": 0,
@@ -2832,7 +2832,7 @@
   },
   "103": {
     "lexus2_s_osakaosho1": {
-      "name": "Le trio Teppan",
+      "name": "Le trio teppan",
       "condition_item_a0": 1656,
       "condition_item_a1": 1652,
       "condition_item_a2": 1655,
@@ -2859,7 +2859,7 @@
   },
   "104": {
     "lexus2_s_osakaosho2": {
-      "name": "Essence du Sautée",
+      "name": "Essence du sautée",
       "condition_item_a0": 1655,
       "condition_item_a1": 1659,
       "condition_item_a2": 1663,
