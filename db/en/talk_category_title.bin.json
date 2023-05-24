@@ -407,7 +407,7 @@
   },
   "26": {
     "SUB_A23": {
-      "msg_title": "Granny en péril",
+      "msg_title": "Mamie en péril",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,
@@ -914,7 +914,7 @@
   },
   "65": {
     "SUB_B20": {
-      "msg_title": "Demande de Granny, partie 1",
+      "msg_title": "Demande de Mamie, partie 1",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,
@@ -927,7 +927,7 @@
   },
   "66": {
     "SUB_B21": {
-      "msg_title": "Demande de Granny, partie 2",
+      "msg_title": "Demande de Mamie, partie 2",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,
@@ -940,7 +940,7 @@
   },
   "67": {
     "SUB_B22": {
-      "msg_title": "Demande de Granny, partie 3",
+      "msg_title": "Demande de Mamie, partie 3",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,

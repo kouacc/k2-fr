@@ -8636,7 +8636,7 @@
   "224": {
     "lexus2_sub_a_adv23": {
       "category": 3,
-      "name": "Granny en péril",
+      "name": "Mamie en péril",
       "explanation": "Je n'aurais jamais pensé que cette vieille dame\r\ndeviendrait le maître de Lau Ka Long. Je suppose\r\nqu'il y a plus de choses qu'il n'y\r\nparaît chez certaines personnes.",
       "need_player_point": 0,
       "need_player_point_value": 0,
@@ -10042,8 +10042,8 @@
   "261": {
     "lexus2_sub_b_adv20": {
       "category": 3,
-      "name": "Demande de Granny, partie 1",
-      "explanation": "Granny White a adoré le souvenir que je lui ai ramené\r\nde Kamurocho. Je devrais rester en contact avec elle.",
+      "name": "Demande de Mamie, partie 1",
+      "explanation": "Vieille branche a adoré le souvenir que je lui ai ramené\r\nde Kamurocho. Je devrais rester en contact avec elle.",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
@@ -10080,7 +10080,7 @@
   "262": {
     "lexus2_sub_b_adv21": {
       "category": 3,
-      "name": "Demande de Granny, partie 2",
+      "name": "Demande de Mamie, partie 2",
       "explanation": "Grand-mère White aime vraiment Yuya. Ça valait\r\nla peine de faire ce portrait pour elle.",
       "need_player_point": 0,
       "need_player_point_value": 0,
@@ -10118,8 +10118,8 @@
   "263": {
     "lexus2_sub_b_adv22": {
       "category": 3,
-      "name": "Demande de Granny, partie 3",
-      "explanation": "Granny White semble aller mieux maintenant qu'elle\r\na passé du temps avec Haruka. Peut-être\r\nque je devrais continuer à la\r\nsurveiller de temps en temps.",
+      "name": "Demande de Mamie, partie 3",
+      "explanation": "Vieille branche semble aller mieux maintenant qu'elle\r\na passé du temps avec Haruka. Peut-être\r\nque je devrais continuer à la\r\nsurveiller de temps en temps.",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",

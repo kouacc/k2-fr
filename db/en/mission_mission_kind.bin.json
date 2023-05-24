@@ -23380,9 +23380,9 @@
   },
   "549": {
     "lexus2_s_ADVsubsB20_030": {
-      "title": "Demande de Granny, partie 1",
-      "mission": "Obtenir les cookies pour Granny White",
-      "mission_info": "Granny White m'a demandé de lui acheter\r\ndes biscuits faits main à Kamurocho.\r\nJe suppose que je peux l'aider.",
+      "title": "Demande de Mamie, partie 1",
+      "mission": "Obtenir les cookies pour Vieille branche",
+      "mission_info": "Vieille branche m'a demandé de lui acheter\r\ndes biscuits faits main à Kamurocho.\r\nJe suppose que je peux l'aider.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -23424,9 +23424,9 @@
   },
   "550": {
     "lexus2_s_ADVsubsB21_010": {
-      "title": "Demande de Granny, partie 2",
-      "mission": "Obtenir une photo de Yuya pour Granny White",
-      "mission_info": "Granny White semble avoir soif d'une photo\r\nde Yuya. Je vais voir ce que je peux faire...",
+      "title": "Demande de Mamie, partie 2",
+      "mission": "Obtenir une photo de Yuya pour Vieille branche",
+      "mission_info": "Vieille branche semble avoir soif d'une photo\r\nde Yuya. Je vais voir ce que je peux faire...",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -23468,9 +23468,9 @@
   },
   "551": {
     "lexus2_s_ADVsubsB22_010": {
-      "title": "Demande de Granny, partie 3",
-      "mission": "Amener Haruka auprès de Granny White",
-      "mission_info": "Granny White se sent vraiment mal... Peut-être\r\nque passer du temps avec Haruka lui remonterait\r\nle moral.",
+      "title": "Demande de Mamie, partie 3",
+      "mission": "Amener Haruka auprès de Vieille branche",
+      "mission_info": "Vieille branche se sent vraiment mal... Peut-être\r\nque passer du temps avec Haruka lui remonterait\r\nle moral.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -27516,9 +27516,9 @@
   },
   "643": {
     "lexus2_s_ADVsubsA23_010": {
-      "title": "Granny en péril",
-      "mission": "Attendre l'e-mail de Granny White",
-      "mission_info": "Je suppose que je vais juste me promener\r\nen ville. Qui sait si Granny White ne va pas\r\nessayer de me contacter.",
+      "title": "Mamie en péril",
+      "mission": "Attendre l'e-mail de Vieille branche",
+      "mission_info": "Je suppose que je vais juste me promener\r\nen ville. Qui sait si Vieille branche ne va pas\r\nessayer de me contacter.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -27560,9 +27560,9 @@
   },
   "644": {
     "lexus2_s_BTLsubsA23_010": {
-      "title": "Granny en péril",
-      "mission": "Aider Granny White",
-      "mission_info": "Des types louches essaient de kidnapper\r\nGranny White. Je ne peux pas les laisser\r\ns'en tirer comme ça.",
+      "title": "Mamie en péril",
+      "mission": "Aider Vieille branche",
+      "mission_info": "Des types louches essaient de kidnapper\r\nVieille branche. Je ne peux pas les laisser\r\ns'en tirer comme ça.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27604,9 +27604,9 @@
   },
   "645": {
     "lexus2_s_BTLsubsA23_020": {
-      "title": "Granny en péril",
-      "mission": "Aider Granny White",
-      "mission_info": "Ils en ont encore après Granny White.\r\nJe n'ai pas d'autre choix que de l'aider.",
+      "title": "Mamie en péril",
+      "mission": "Aider Vieille branche",
+      "mission_info": "Ils en ont encore après Vieille branche.\r\nJe n'ai pas d'autre choix que de l'aider.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "1",
@@ -27648,8 +27648,8 @@
   },
   "646": {
     "lexus2_s_BTLsubsA23_030": {
-      "title": "Granny en péril",
-      "mission": "Aider Granny White",
+      "title": "Mamie en péril",
+      "mission": "Aider Vieille branche",
       "mission_info": "La Triade de la Fleur de Serpent vise Granny\r\nWhite. Je ne les laisserai pas faire.",
       "priority": 0,
       "bgm_type": 0,
@@ -41637,9 +41637,9 @@
   },
   "975": {
     "lexus2_s_ADVsubsA23_020": {
-      "title": "Granny en péril",
-      "mission": "Rencontrer Granny White",
-      "mission_info": "On dirait que Granny White s'est perdue.\r\nJe parie qu'elle est quelque part près\r\ndu Parking Shichifuku.",
+      "title": "Mamie en péril",
+      "mission": "Rencontrer Vieille branche",
+      "mission_info": "On dirait que Vieille branche s'est perdue.\r\nJe parie qu'elle est quelque part près\r\ndu Parking Shichifuku.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -41681,8 +41681,8 @@
   },
   "976": {
     "lexus2_s_ADVsubsA23_030": {
-      "title": "Granny en péril",
-      "mission": "Attendre l'e-mail de Granny White",
+      "title": "Mamie en péril",
+      "mission": "Attendre l'e-mail de Vieille branche",
       "mission_info": "Quelle vieille dame étrange. Je suppose\r\nque je vais continuer à me promener jusqu'à\r\nce qu'elle m'envoie un nouveau mail.",
       "priority": 0,
       "bgm_type": 0,
@@ -41725,9 +41725,9 @@
   },
   "977": {
     "lexus2_s_ADVsubsA23_040": {
-      "title": "Granny en péril",
-      "mission": "Rencontrer Granny White",
-      "mission_info": "On dirait que Granny White s'est encore perdue,\r\ncette fois devant Theater Square. Je devrais\r\nm'y rendre et la retrouver.",
+      "title": "Mamie en péril",
+      "mission": "Rencontrer Vieille branche",
+      "mission_info": "On dirait que Vieille branche s'est encore perdue,\r\ncette fois devant Theater Square. Je devrais\r\nm'y rendre et la retrouver.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -45113,9 +45113,9 @@
   },
   "1054": {
     "lexus2_s_ADVsubsB21_020": {
-      "title": "Demande de Granny, partie 2",
-      "mission": "Donner la photo de Yuya à Granny White.",
-      "mission_info": "Yuya m'a donné sa photo. Tout ce que j'ai\r\nà faire maintenant, c'est de la rapporter\r\nà Granny White.",
+      "title": "Demande de Mamie, partie 2",
+      "mission": "Donner la photo de Yuya à Vieille branche.",
+      "mission_info": "Yuya m'a donné sa photo. Tout ce que j'ai\r\nà faire maintenant, c'est de la rapporter\r\nà Vieille branche.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -46579,9 +46579,9 @@
   },
   "1089": {
     "lexus2_s_ADVsubsB20_010": {
-      "title": "Demande de Granny, partie 1",
-      "mission": "Rencontrer Granny White",
-      "mission_info": "On dirait que Granny White m'attend près du\r\nPont Bishamon. Je devrais aller voir\r\nce qu'elle veut de moi.",
+      "title": "Demande de Mamie, partie 1",
+      "mission": "Rencontrer Vieille branche",
+      "mission_info": "On dirait que Vieille branche m'attend près du\r\nPont Bishamon. Je devrais aller voir\r\nce qu'elle veut de moi.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -49556,7 +49556,7 @@
   },
   "1160": {
     "lexus2_s_ADVsubsA23_050": {
-      "title": "Granny en péril",
+      "title": "Mamie en péril",
       "mission": "Quête secondaire complétée",
       "mission_info": "Quête secondaire complétée",
       "priority": 0,
