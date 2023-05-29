@@ -7952,8 +7952,8 @@
   "206": {
     "lexus2_sub_a_adv05": {
       "category": 3,
-      "name": "Soutenir Sunflower",
-      "explanation": "Pochitaro a ramené un peu de lumière à Sunflower.\r\nSois un bon gars là-bas, Pochi.",
+      "name": "Soutenir Tournesol",
+      "explanation": "Pochitaro a ramené un peu de lumière à Tournesol.\r\nSois un bon gars là-bas, Pochi.",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
@@ -7990,8 +7990,8 @@
   "207": {
     "lexus2_sub_a_adv06": {
       "category": 3,
-      "name": "Rénover Sunflower",
-      "explanation": "J'ai forcé l'ouvrier à réparer Sunflower pour\r\nun prix raisonnable. J'espère que ça aidera à soulager\r\nun peu les inquiétudes de Suenaga-san.",
+      "name": "Rénover Tournesol",
+      "explanation": "J'ai forcé l'ouvrier à réparer Tournesol pour\r\nun prix raisonnable. J'espère que ça aidera à soulager\r\nun peu les inquiétudes de Suenaga-san.",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
@@ -8028,8 +8028,8 @@
   "208": {
     "lexus2_sub_a_adv07": {
       "category": 3,
-      "name": "Sunflower en floraison",
-      "explanation": "Suenaga-san a fait construire son terrain de jeu.\r\nJe ne pense pas que les enfants de Sunflower\r\nl'oublieront de sitôt.",
+      "name": "Tournesol en floraison",
+      "explanation": "Suenaga-san a fait construire son terrain de jeu.\r\nJe ne pense pas que les enfants de Tournesol\r\nl'oublieront de sitôt.",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
