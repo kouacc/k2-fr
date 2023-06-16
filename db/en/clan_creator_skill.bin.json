@@ -1033,7 +1033,7 @@
     "bomb_normal": {
       "name": "Essence des explosifs",
       "category": 2,
-      "explanation": "Disperse des bombes dans les environs\r\net fait exploser les ennemis dans une explosion massive.\r\n(Coût : 1 000)",
+      "explanation": "Disperse des bombes dans les environs et fait\r\nexploser les ennemis dans une explosion massive.\r\n(Coût : 1 000)",
       "effect0": 11,
       "effect1": 0,
       "cost": 1000,
@@ -1045,7 +1045,7 @@
     "bomb_numb": {
       "name": "Essence des bombes paralysantes",
       "category": 2,
-      "explanation": "Disperse des bombes paralysantes dans les environs\r\net inflige des dégâts paralysants aux ennemis proches.\r\n(Coût : 1 100)",
+      "explanation": "Disperse des bombes paralysantes dans les environs et\r\ninflige des dégâts paralysants aux ennemis proches.\r\n(Coût : 1 100)",
       "effect0": 12,
       "effect1": 0,
       "cost": 1100,
@@ -1057,7 +1057,7 @@
     "bomb_fire": {
       "name": "Essence du molotov",
       "category": 2,
-      "explanation": "Répand des cocktails Molotov dans les environs\r\net inflige des dégâts de brûlure aux ennemis proches.\r\n(Coût : 1 100)",
+      "explanation": "Répand des cocktails Molotov dans les environs et\r\ninflige des dégâts de brûlure aux ennemis proches.\r\n(Coût : 1 100)",
       "effect0": 13,
       "effect1": 0,
       "cost": 1100,
