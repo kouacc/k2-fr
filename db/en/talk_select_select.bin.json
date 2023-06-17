@@ -2331,8 +2331,8 @@
   },
   "275": {
     "lexus2_advsubsb19_010_select_01": {
-      "option0": "Not in the mood.",
-      "option1": "Fight Them",
+      "option0": "Pas d'humeur.",
+      "option1": "Les battre",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 839
@@ -2340,8 +2340,8 @@
   },
   "276": {
     "lexus2_advsubsb19_020_select_01": {
-      "option0": "Not in the mood.",
-      "option1": "Fight Them",
+      "option0": "Pas d'humeur.",
+      "option1": "Les battre",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 840

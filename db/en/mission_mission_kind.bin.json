@@ -4280,7 +4280,7 @@
   },
   "99": {
     "lexus2_m_ADV04_0090": {
-      "title": "Rencontrer le dealer d'informations au salon de Mahjong",
+      "title": "Rencontrer le dealer d'informations au salon de mahjong",
       "mission": "Sayama dit qu'elle connaît un gars là-bas.",
       "mission_info": "Je cherche des informations auprès d'un homme avec une\r\ndoudoune dans le salon de mahjong à Shofukucho.",
       "priority": 0,
@@ -4326,7 +4326,7 @@
     "lexus2_m_ADV04_0100": {
       "title": "Trouver Jongka",
       "mission": "Apparemment, c'est un accro des UFO catchers",
-      "mission_info": "Alors ce Jongka est accro aux UFO\r\ncatchers ? Je devrais regarder dans les salles d'arcade.",
+      "mission_info": "Alors ce Jongka est accro aux UFO catchers ?\r\nJe devrais regarder dans les salles d'arcade.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
