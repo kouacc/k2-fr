@@ -1,5 +1,5 @@
 # Traduction française Yakuza Kiwami 2
-Vous pourrez retrouver ici les fichiers non compilés utilisés sur la
+Vous pourrez retrouver ici les fichiers non compilés utilisés sur la traduction.
 
 ### Description
 - le dossier auth contient une partie des présentations de personnages lors des cinématiques, en plus des crédits.
