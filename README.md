@@ -14,4 +14,4 @@ Merci à [Ret-HZ](https://github.com/Ret-HZ) pour [reARMP](https://github.com/Re
 
 Merci à [SutandoTsukai181](https://github.com/SutandoTsukai181) pour [Ryu Mod Manager](https://github.com/SutandoTsukai181/RyuModManager/tree/main)
 
-Merci à [Kaplas](https://github.com/Kaplas80) pour [ParManager](https://github.com/Kaplas80/ParManager), utilisé pour compiler la version Xbox Game Pass
+Merci à [Kaplas](https://github.com/Kaplas80) pour [ParManager](https://github.com/Kaplas80/ParManager)
