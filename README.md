@@ -11,5 +11,7 @@ Vous pourrez retrouver ici les fichiers non compilés utilisés sur la
 
 ### Crédits
 Merci à [Ret-HZ](https://github.com/Ret-HZ) pour [reARMP](https://github.com/Ret-HZ/reARMP), utilisé pour convertir les fichier db
-Merci à [SutandoTsukai181](https://github.com/SutandoTsukai181) pour [Ryu Mod Manager)(https://github.com/SutandoTsukai181/RyuModManager/tree/main)
+
+Merci à [SutandoTsukai181](https://github.com/SutandoTsukai181) pour [Ryu Mod Manager](https://github.com/SutandoTsukai181/RyuModManager/tree/main)
+
 Merci à [Kaplas](https://github.com/Kaplas80) pour [ParManager](https://github.com/Kaplas80/ParManager), utilisé pour compiler la version Xbox Game Pass
