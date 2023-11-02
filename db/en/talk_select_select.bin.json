@@ -3796,7 +3796,7 @@
     "lexus2_aikadate03_select_03": {
       "option0": "Tu peux me soulager...",
       "option1": "Les hommes se soulagent à leur manière.",
-      "option2": "I punch people to relieve it.",
+      "option2": "Je frappe les gens pour évacuer le stress.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 439
@@ -4086,7 +4086,7 @@
     "lexus2_koyukidate01_select_04": {
       "option0": "C'est remarquable.",
       "option1": "Tu veux une augmentation ?",
-      "option2": "TC'est moi qui régale aujourd'hui.",
+      "option2": "C'est moi qui régale aujourd'hui.",
       "reARMP_validityBool": "00000010",
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 486
