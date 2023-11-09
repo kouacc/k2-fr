@@ -20413,9 +20413,9 @@
   },
   "481": {
     "lexus2_s_ADVsubsA05_010": {
-      "title": "Soutenir Tournesol",
-      "mission": "Faire un don à Tournesol",
-      "mission_info": "Je pense que je vais donner de l'argent à\r\nTournesol pour les aider. Suenaga-san a\r\ndit que 50 000 devraient suffire.",
+      "title": "Soutenir Sunflower",
+      "mission": "Faire un don à Sunflower",
+      "mission_info": "Je pense que je vais donner de l'argent à\r\nSunflower pour les aider. Suenaga-san a\r\ndit que 50 000 devraient suffire.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -20457,7 +20457,7 @@
   },
   "482": {
     "lexus2_s_ADVsubsA05_020": {
-      "title": "Soutenir Tournesol",
+      "title": "Soutenir Sunflower",
       "mission": "Rencontrer Mogusa",
       "mission_info": "Je dois aller retrouver Mogusa et Pochitaro.",
       "priority": 0,
@@ -20501,7 +20501,7 @@
   },
   "483": {
     "lexus2_s_ADVsubsA05_030": {
-      "title": "Soutenir Tournesol",
+      "title": "Soutenir Sunflower",
       "mission": "Retourner vers Suenaga",
       "mission_info": "Mogusa m'a laissé prendre Pochitaro.\r\nJe devrais ramener le chien à Suenaga-san.",
       "priority": 0,
@@ -20545,9 +20545,9 @@
   },
   "484": {
     "lexus2_s_ADVsubsA05_040": {
-      "title": "Soutenir Tournesol",
+      "title": "Soutenir Sunflower",
       "mission": "Pochitaro a une nouvelle maison.",
-      "mission_info": "Je pense que Pochitaro va être heureux à\r\nTournesol. J'espère que cela aidera à rapprocher\r\nun peu plus les enfants.",
+      "mission_info": "Je pense que Pochitaro va être heureux à\r\nSunflower. J'espère que cela aidera à rapprocher\r\nun peu plus les enfants.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -20589,9 +20589,9 @@
   },
   "485": {
     "lexus2_s_ADVsubsA06_010": {
-      "title": "Rénover Tournesol",
-      "mission": "Faire un don à Tournesol",
-      "mission_info": "Je devrais continuer à donner à Tournesol\r\npour qu'ils puissent rénover l'orphelinat.\r\nJe crois que leur objectif était de 250 000.",
+      "title": "Rénover Sunflower",
+      "mission": "Faire un don à Sunflower",
+      "mission_info": "Je devrais continuer à donner à Sunflower\r\npour qu'ils puissent rénover l'orphelinat.\r\nJe crois que leur objectif était de 250 000.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -20633,7 +20633,7 @@
   },
   "486": {
     "lexus2_s_ADVsubsA06_020": {
-      "title": "Rénover Tournesol",
+      "title": "Rénover Sunflower",
       "mission": "Rencontrer l'ouvrier",
       "mission_info": "Il est temps de rencontrer cet ouvrier.\r\nJe devrais être prêt à tout.",
       "priority": 0,
@@ -20677,7 +20677,7 @@
   },
   "487": {
     "lexus2_s_BTLsubsA06_010": {
-      "title": "Rénover Tournesol",
+      "title": "Rénover Sunflower",
       "mission": "Vaincre les yakuzas",
       "mission_info": "Il s'avère que l'ouvrier travaillait avec le\r\nyakuza. Ce n'est pas une surprise. Je suppose\r\nque je dois leur donner une leçon.",
       "priority": 100,
@@ -20721,7 +20721,7 @@
   },
   "488": {
     "lexus2_s_ADVsubsA06_030": {
-      "title": "Rénover Tournesol",
+      "title": "Rénover Sunflower",
       "mission": "Faire un rapport à Suenaga",
       "mission_info": "La question de l'argent est réglée. Je devrais\r\naller voir Suenaga-san.",
       "priority": 0,
@@ -31650,7 +31650,7 @@
   },
   "738": {
     "lexus2_s_ADVsubsA07_010": {
-      "title": "Tournesol en floraison",
+      "title": "Sunflower en floraison",
       "mission": "Rencontrer l'ouvrier",
       "mission_info": "L'ouvrier de Everyday Renovations pourrait\r\nm'aider avec cette aire de jeux. Il est dans\r\nle Champion District.",
       "priority": 0,
@@ -31694,7 +31694,7 @@
   },
   "739": {
     "lexus2_s_BTLsubsA07_010": {
-      "title": "Tournesol en floraison",
+      "title": "Sunflower en floraison",
       "mission": "Vaincre l'homme à l'allure de yakuza",
       "mission_info": "Je ne suis pas totalement sûr de ce qui se passe,\r\nmais je ne vais pas laisser passer ça.",
       "priority": 100,
@@ -31738,9 +31738,9 @@
   },
   "740": {
     "lexus2_s_ADVsubsA07_020": {
-      "title": "Tournesol en floraison",
+      "title": "Sunflower en floraison",
       "mission": "Faire un rapport à Suenaga",
-      "mission_info": "On dirait que Tournesol a son aire de jeu.\r\nJe devrais le dire à Suenaga-san.",
+      "mission_info": "On dirait que Sunflower a son aire de jeu.\r\nJe devrais le dire à Suenaga-san.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -50277,9 +50277,9 @@
   },
   "1177": {
     "lexus2_s_ADVsubsA05_015": {
-      "title": "Soutenir Tournesol",
+      "title": "Soutenir Sunflower",
       "mission": "Retourner vers Suenaga",
-      "mission_info": "J'ai fait un don à Tournesol. Il est\r\ntemps de prendre des nouvelles de Suenaga-san.",
+      "mission_info": "J'ai fait un don à Sunflower. Il est\r\ntemps de prendre des nouvelles de Suenaga-san.",
       "priority": 0,
       "bgm_type": 0,
       "is_battle": "0",
@@ -50321,8 +50321,8 @@
   },
   "1178": {
     "lexus2_s_ADVsubsA06_015": {
-      "title": "Rénover Tournesol",
-      "mission": "Faire un don à Tournesol",
+      "title": "Rénover Sunflower",
+      "mission": "Faire un don à Sunflower",
       "mission_info": "J'ai donné tout ce dont j'avais besoin.\r\nIls devraient être en mesure de rénover l'orphelinat maintenant.",
       "priority": 0,
       "bgm_type": 0,
@@ -50365,7 +50365,7 @@
   },
   "1179": {
     "lexus2_s_ADVsubsA06_016": {
-      "title": "Rénover Tournesol",
+      "title": "Rénover Sunflower",
       "mission": "Vérifier avec Suenaga",
       "mission_info": "J'espère que la rénovation s'est bien passée.\r\nJe devrais vérifier avec Suenaga-san.",
       "priority": 0,
@@ -50409,7 +50409,7 @@
   },
   "1180": {
     "lexus2_s_ADVsubsA06_017": {
-      "title": "Rénover Tournesol",
+      "title": "Rénover Sunflower",
       "mission": "Attendre l'appel",
       "mission_info": "On dirait que l'ouvrier qu'ils ont engagé\r\nleur a facturé beaucoup trop cher.\r\nVoyons voir sa version des faits.",
       "priority": 0,

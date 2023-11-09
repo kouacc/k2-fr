@@ -173,7 +173,7 @@
   },
   "8": {
     "SUB_A05": {
-      "msg_title": "Soutenir Tournesol",
+      "msg_title": "Soutenir Sunflower",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,
@@ -186,7 +186,7 @@
   },
   "9": {
     "SUB_A06": {
-      "msg_title": "Rénover Tournesol",
+      "msg_title": "Rénover Sunflower",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,
@@ -199,7 +199,7 @@
   },
   "10": {
     "SUB_A07": {
-      "msg_title": "Tournesol en floraison",
+      "msg_title": "Sunflower en floraison",
       "title_type": 0,
       "st_se_cuesheet": 36,
       "st_se_cue": 57,
