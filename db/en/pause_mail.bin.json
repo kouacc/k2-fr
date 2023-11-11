@@ -2402,7 +2402,7 @@
         "24": {
           "": {
             "1": "Utiliser l'environnement",
-            "2": "Dragon de Dojima.\r\n\r\nDes fois, l'environnement\r\nautour de vous se prouvera\r\nutile dans votre quête. Utilisez tout\r\net n'importe quoi en recherche du\r\nsecret de la réussite.\r\nN'oubliez pas, les attaques changent\r\nen fonction de quel objet vous\r\ntenez dans les mains.\r\n\r\nAttraper un objet :\r\n<symbol=button_maru,Combat>\r\n\r\nAttaquer :\r\n(Apprès avoir attrapé un objet) <symbol=button_shikaku,Combat>\r\n(Apprès avoir attrapé un objet) <symbol=button_sankaku,Combat>\r\n\r\nLancer un objet :\r\n(Apprès avoir attrapé un objet) <symbol=button_maru,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
+            "2": "Dragon de Dojima.\r\n\r\nDes fois, l'environnement\r\nautour de vous se prouvera\r\nutile dans votre quête. Utilisez tout\r\net n'importe quoi en recherche du\r\nsecret de la réussite.\r\nN'oubliez pas, les attaques changent\r\nen fonction de quel objet vous\r\ntenez dans les mains.\r\n\r\nAttraper un objet :\r\n<symbol=button_maru,Combat>\r\n\r\nAttaquer :\r\n(Après avoir attrapé un objet) <symbol=button_shikaku,Combat>\r\n(Après avoir attrapé un objet) <symbol=button_sankaku,Combat>\r\n\r\nLancer un objet :\r\n(Après avoir attrapé un objet) <symbol=button_maru,Combat>\r\n\r\nC'est tout.\r\n\r\n-Homme en noir",
             "3": 0,
             "4": 0,
             "5": 0,
