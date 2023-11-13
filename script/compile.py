@@ -5,7 +5,7 @@ import subprocess
 os.chdir("db/en")
 trads=glob.glob('*.json')
 for json in trads:
-    os.chdir("script")
+    os.chdir("../script")
     subprocess.run(['./reARMP', json])
     os.remove(json)
 binaires=glob.glob('*.bin')
