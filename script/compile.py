@@ -1,12 +1,11 @@
 import os
-import tarfile
 import glob
 import subprocess
 
 os.chdir("db/en")
 trads=glob.glob('*.json')
 for json in trads:
-    subprocess.run(['./reARMP', json])
+    subprocess.run(['reARMP', json])
     os.remove(json)
 binaires=glob.glob('*.bin')
 for bins in binaires:
