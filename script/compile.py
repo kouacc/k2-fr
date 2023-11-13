@@ -3,7 +3,7 @@ import tarfile
 import glob
 import subprocess
 
-os.chdir("YK2")
+os.chdir("db/en")
 trads=glob.glob('*.json')
 for json in trads:
     subprocess.run(['../reARMP', json])
