@@ -9967,7 +9967,7 @@
     "lexus2_sub_b_adv18": {
       "category": 3,
       "name": "Aider le racoleur",
-      "explanation": "Cet racoleur s'est fait agresser par un voyou,\r\nmais je pense qu'il sera en sécurité à partir\r\nde maintenant.",
+      "explanation": "Ce racoleur s'est fait agresser par un voyou,\r\nmais je pense qu'il sera en sécurité à partir\r\nde maintenant.",
       "need_player_point": 0,
       "need_player_point_value": 0,
       "need_player_point_is_total_add": "0",
